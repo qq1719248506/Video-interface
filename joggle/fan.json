@@ -1,5 +1,5 @@
 {
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
+    "spider": "img+https://files.zohopublic.com.cn/public/workdrive-public/download/6n8b97e141f59bb5b4c17bd1998733023e102;md5;af94cc4d3c30f6cee8b8b20e7b70a0bc",
     "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
     "sites": [
         {
@@ -96,6 +96,16 @@
             "ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
         },
         {
+            "key":"csp_MeiJu69",
+            "name":"🗽69美剧┃直连",
+            "type":3,
+            "api":"csp_MeiJu69",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://www.69mj.com/"
+        },
+        {
             "key": "csp_BuLei",
             "name": "💢布雷┃直连",
             "type": 3,
@@ -104,7 +114,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.bulei.cc"
+            "ext": "https://v.bulei.cc/"
         },
         {
             "key": "csp_77",
@@ -338,7 +348,7 @@
         },
         {
             "key": "csp_SP360",
-            "name": "📺三三┃解析",
+            "name": "📺360┃解析",
             "type": 3,
             "api": "csp_SP360",
             "m3u8ads": "hd.youyhn.com",
@@ -351,7 +361,7 @@
             "key": "teng",
             "name": "🐧腾腾┃解析",
             "type": 3,
-            "api": "csp_QQ",
+            "api": "csp_Qtv",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -361,7 +371,7 @@
             "key": "ai",
             "name": "🥝爱爱┃解析",
             "type": 3,
-            "api": "csp_IQIYI",
+            "api": "csp_Itv",
             "quickSearch": 1,
             "searchable": 1,
             "filterable": 1,
@@ -371,7 +381,7 @@
             "key": "MGT",
             "name": "🍋芒芒┃解析",
             "type": 3,
-            "api": "csp_Mgtv",
+            "api": "csp_Mtv",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -566,14 +576,14 @@
             "ext": "http://饭太硬.ga/x/XYQ/皮皮鸭.json"
         },
         {
-            "key": "csp_XYQH野马",
-            "name": "️🌸野马┃嗅探",
+            "key": "csp_XBPQ_4K",
+            "name": "️🌸4K影院┃嗅探",
             "type": 3,
-            "api": "csp_XYQHiker",
+            "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://饭太硬.ga/x/XYQ/野马.json"
+            "ext": "http://饭太硬.ga/x/xbpq/4K影院.json"
         },
         {
             "key": "csp_XBPQ_爱看",
