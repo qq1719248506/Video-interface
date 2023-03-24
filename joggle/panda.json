@@ -3,7 +3,7 @@
   "spider": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/jar/panda.jar;md5;6c22c52d5a00aa832bb95efbf8490298",
   "sites": [
     {
-      "key": "js豆瓣",
+      "key": "js_豆瓣",
       "name": "🅱豆瓣",
       "type": 3,
       "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js",
@@ -13,12 +13,19 @@
       "ext": "http://agit.ai/fantaiying/fty/raw/branch/master/JS/js/drpy.js"
     },
     {
-      "key": "js直播",
+      "key": "js_直播",
       "name": "直播",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/CatVodSpider/main/lib/直播转点播.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/libs/直播转点播.js",
       "ext": "肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范精选$https://ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/index.php"
     },
+    {
+      "key":"js_小宝影视",
+      "name":"小宝",
+      "type":3,
+      "api":"https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/libs/drpy.min.js",
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/js/小宝影视.js"
+    },    
     {
       "key": "csp_kuaikan",
       "name": "快看",
