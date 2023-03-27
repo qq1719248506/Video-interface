@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/jar/panda.jar;md5;a02adb9e07c948bf74e8bb6f4737f865",
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/jar/out.jar;md5;b3b932fc0d33a239b16b86867ac5f12e",
   "sites": [
     {
       "key": "js_豆瓣",
@@ -208,16 +208,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_zxzj",
-      "name": "在线",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.zxzj.org"
-    },
-    {
       "key": "csp_zxzjH3",
       "name": "在线H3",
       "type": 3,
@@ -314,10 +304,10 @@
       "ext": "http://饭太硬.ga/x/json/黑料.json"
     },
     {
-      "key": "csp_SP33",
+      "key": "csp_SP360",
       "name": "360",
       "type": 3,
-      "api": "csp_SP33",
+      "api": "csp_SP360",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
