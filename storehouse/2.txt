@@ -1,6 +1,10 @@
 {
   "urls": [
     {
+      "url": "https://agit.ai/gggwzj/gggdeng/raw/branch/master/kbb.bmp",
+      "name": "kbb"
+    },  
+    {
       "url": "http://152.136.125.181:81/MM/dianbos/Quick/Quick.json",
       "name": "🔞快播"
     },
