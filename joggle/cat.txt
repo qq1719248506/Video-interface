@@ -295,10 +295,10 @@
       "ext": "http://饭太硬.ga/x/json/黑料.json"
     },
     {
-      "key": "csp_SP360",
+      "key": "csp_360",
       "name": "360",
       "type": 3,
-      "api": "csp_SP360",
+      "api": "csp_SP33",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
