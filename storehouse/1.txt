@@ -2,12 +2,8 @@
     "urls": [
         {
             "url": "https://yydsys.top/duo",
-            "name": "🔔多多线路"
-        },  
-        {
-            "url": "https://yydsys.top/duo/x.json",
-            "name": "🚀阿里专线"
-        },         
+            "name": "🚀多多线路"
+        },           
         {
             "url": "http://饭太硬.ga/tv",
             "name": "🚀饭太硬线路"
@@ -29,10 +25,6 @@
             "name": "🚀道长线路"
         },                
         {
-            "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
-            "name": "🚀小苹果线路"
-        },
-        {
             "url": "https://yydsys.top/lm.json",
             "name": "🚀龙门影视"
         },                      
@@ -43,7 +35,7 @@
         {
             "url": "https://framagit.org/lzk23559/TVRule/-/raw/main/XYQTVBox.json",
             "name": "🚀香雅情线路"
-        },           
+        },
         {
             "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
             "name": "🚀巧技线路"
@@ -53,10 +45,13 @@
             "name": "🚀小雅线路"
         },
         {
+            "url": "https://agit.ai/kvymin/TV/raw/branch/master/Box.json",
+            "name": "💎kvymin线路"
+        },       
+        {
             "url": "http://home.jundie.top:81/top98.json",
             "name": "🚀俊佬线路"
-        }, 
-       
+        },        
         {
             "url": "https://app.easybox.vip/dy",
             "name": "🚀easybox线路"
