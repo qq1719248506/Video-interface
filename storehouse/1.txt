@@ -25,8 +25,8 @@
             "name": "🚀道长线路"
         },                
         {
-            "url": "https://yydsys.top/lm.json",
-            "name": "🚀龙门影视"
+            "url": "https://agit.ai/peeeee/TVboxo/src/branch/main/Text/ptest.json",
+            "name": "🚀js线路"
         },                      
         {
             "url": "https://tvbox.cainisi.cf",
