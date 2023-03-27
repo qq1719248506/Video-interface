@@ -542,7 +542,8 @@
       "playUrl": "https://ffzyplayer.com/?url=",
       "searchable":1,
       "quickSearch":1,
-      "filterable":1
+      "filterable":1,
+      "categories": ["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片"
     },    
     {
       "key":"csp_XYQHiker_有声小说吧",
