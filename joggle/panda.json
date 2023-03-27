@@ -512,6 +512,16 @@
       ]
     },
     {
+      "key":"非凡",
+      "name":"非凡",
+      "type":1,
+      "api":"http://www.ffzy.tv/api.php/provide/vod/",
+      "playUrl": "https://ffzyplayer.com/?url=",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },    
+    {
       "key":"csp_XYQHiker_有声小说吧",
       "name":"🎧有声┃小说",
       "type":3,
