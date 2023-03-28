@@ -50,7 +50,7 @@
       "name": "直播",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/libs/直播转点播.js",
-      "ext": "肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#港澳直播$https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/json/港澳直播.txt"
+      "ext": "港澳直播$https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/json/港澳直播.txt#影视范精选$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/"
     },
     {
       "key":"js_小宝影视",
