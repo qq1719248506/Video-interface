@@ -58,13 +58,6 @@
       "type":3,
       "api":"https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/libs/drpy.min.js",
       "ext":"https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/js/小宝影视.js"
-    },
-    {
-      "key":"js_蚂蚁影视",
-      "name":"蚂蚁",
-      "type":3,
-      "api":"https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/libs/drpy.min.js",
-      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/js/蚂蚁影视.js"
     },    
     {
       "key": "csp_kuaikan",
