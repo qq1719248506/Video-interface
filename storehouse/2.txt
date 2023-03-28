@@ -3,7 +3,11 @@
     {
       "url": "https://agit.ai/gggwzj/gggdeng/raw/branch/master/kbb.bmp",
       "name": "kbb"
-    },  
+    },
+    {
+      "url": "https://agit.ai/guot54/ygbh/raw/branch/master/pro",
+      "name": "🐹pro"
+    },    
     {
       "url": "http://152.136.125.181:81/MM/dianbos/Quick/Quick.json",
       "name": "🔞快播"
