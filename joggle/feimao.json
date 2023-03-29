@@ -11,50 +11,51 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://api-tx.11ty.top",
-            "m3u8ads": "hd.youyhn.com"
+      "m3u8ads": "hd.youyhn.com"
     },
     {
-      "key": "DNSP_spider",
-      "name": "酷客影视",
+      "key": "csp_BuLei",
+      "name": "布雷",
       "type": 3,
-      "api": "csp_Dnsp",
+      "api": "csp_BuLei",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://121.62.19.116:1996"
+      "ext": "https://v.bulei.cc"
     },
     {
-      "key": "mayiys_spider",
-      "name": "蚂蚁影视",
+      "key": "csp_AppMr",
+      "name": "明日",
       "type": 3,
-      "api": "csp_Mayiys",
+      "api": "csp_AppMr",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "Tutu_spider",
-      "name": "图图影视",
+      "key": "csp_AppTT",
+      "name": "图图",
       "type": 3,
-      "api": "csp_TutuYs",
+      "api": "csp_AppTT",
+      "m3u8ads": "hd.youyhn.com",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "SRK#e%4UYtU#KiEo*vsPqpr0cC4bxAQWqiaojio6sYmm*x5hn#rcCt"
+      "ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
     },
     {
-      "key": "百影视频",
-      "name": "百影视频",
+      "key": "csp_Ddrk",
+      "name": "低端",
       "type": 3,
-      "api": "csp_MianHua",
+      "api": "csp_Ddrk",
+      "click": "ddys.tv;#vjsp>button",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://47.104.99.175"
+      "filterable": 0
     },
     {
-      "key": "NoSearch_Bdys_spider",
-      "name": "哔滴影视",
+      "key": "csp_Bdys",
+      "name": "哔滴",
       "type": 3,
       "api": "csp_Bdys01",
       "searchable": 1,
@@ -62,45 +63,46 @@
       "filterable": 1
     },
     {
-      "key": "NoSearch_csp_DiDuan",
-      "name": "低端影视",
+      "key": "csp_Czsapp",
+      "name": "厂长",
       "type": 3,
-      "api": "csp_Ddrk",
+      "api": "csp_Czsapp",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "Lezhu_spider",
-      "name": "乐猪影视",
+      "key": "csp_FanYY",
+      "name": "剥饭",
       "type": 3,
-      "api": "csp_Lezhu",
+      "api": "csp_FanYY",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "http://ali.饭太硬.ml/alitoken"
     },
     {
-      "key": "棉花影视",
-      "name": "棉花影视",
+      "key": "csp_MeiJu69",
+      "name": "六九",
       "type": 3,
-      "api": "csp_MianHua",
+      "api": "csp_MeiJu69",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://118.190.144.126"
+      "ext": "https://www.69mj.com/"
     },
     {
-      "key": "sliu_spider",
-      "name": "石榴电影",
+      "key": "csp__voflix",
+      "name": "voflix",
       "type": 3,
-      "api": "csp_ShiLiuDY",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "快看影视",
-      "name": "快看影视",
+      "key": "快看",
+      "name": "快看",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -108,18 +110,18 @@
       "filterable": 1
     },
     {
-      "key": "3EDY",
-      "name": "3EDY",
+      "key": "Hlsp",
+      "name": "黑料",
       "type": 3,
-      "api": "csp_EEEDY",
+      "api": "csp_Hlsp",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 2
+      "ext": "http://我不是.肥猫.love:63/json/黑料.json"
     },
     {
       "key": "csp_77",
-      "name": "酷云七七",
+      "name": "酷云",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -127,13 +129,14 @@
       "filterable": 1
     },
     {
-      "key": "360_spider",
-      "name": "360影视",
+      "key": "csp_XBPQ",
+      "name": "360",
       "type": 3,
-      "api": "csp_SP360",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "http://我不是.肥猫.love:63/json/360影视.json"
     },
     {
       "key": "小苹果",
@@ -145,8 +148,8 @@
       "filterable": 1
     },
     {
-      "key": "神马电影",
-      "name": "神马电影",
+      "key": "神马",
+      "name": "神马",
       "type": 3,
       "api": "csp_Smdyy",
       "searchable": 1,
@@ -308,6 +311,16 @@
       "url": "Sequence"
     },
     {
+      "name":"虾米",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },   
+    {
+      "name":"懒懒",
+      "type": 1,
+      "url": "http://lanlan.ckflv.cn/?url="
+    },   
+    {
       "name": "icu",
       "type": 1,
       "url": "https://api.json.icu/api/?key=9a820717fcc751d583a6bb36a15a5b6a&url=",
@@ -363,7 +376,34 @@
       }
     },
     {
-      "name": "稀饭影视",
+      "name": "天空",
+      "type": 1,
+      "url": "http://www.pandown.pro/app/tkys/tkysjx.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "rx",
+          "ltnb",
+          "bilibili",
+          "1905",
+          "xigua"
+        ]
+      }
+    },    
+    {
+      "name": "稀饭",
       "type": 1,
       "url": "http://110.42.2.115:880/analysis/json/?uid=2351&my=abefklvwxABDINTY79&url=",
       "ext": {
