@@ -30,7 +30,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://api-tx.11ty.top"
+      "ext": "https://api-tx.11ty.top",
+      "m3u8ads": "hd.youyhn.com"
     },
     {
       "key": "csp_Xinsj",
@@ -164,6 +165,7 @@
       "name": "低端",
       "type": 3,
       "api": "csp_Ddrk",
+      "click": "ddys.tv;#vjsp>button",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
