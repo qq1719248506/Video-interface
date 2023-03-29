@@ -3,16 +3,6 @@
   "spider": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/jar/fan.jar;md5;2427acdd749c3d413e3c9d16d4bebce3",
   "sites": [
     {
-      "key": "js_豆瓣",
-      "name": "🅱豆瓣",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/libs/drpy.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/js/豆瓣.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
       "key":"音乐",
       "name":"音乐",
       "type":3,
