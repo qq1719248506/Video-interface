@@ -1,6 +1,6 @@
 {
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "spider": "./java/Box.jar;md5;58dbcf7265f01cc353e5b27855600236",
+  "spider": "https://raw.githubusercontent.com/qq1719248506/Video-interface/main/jar/feimao.jar;md5;e58aae92a5d085b6dbea452695faef5a",
   "sites": [
     {
       "key": "YQK_spider",
@@ -10,7 +10,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://api-tx.11ty.top"
+      "ext": "https://api-tx.11ty.top",
+            "m3u8ads": "hd.youyhn.com"
     },
     {
       "key": "DNSP_spider",
