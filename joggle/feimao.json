@@ -248,16 +248,6 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/冷曦影视.json"
     },
     {
-      "key": "浮生",
-      "name": "浮生",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/浮生半日.json"
-    },
-    {
       "key": "量子",
       "name": "量子",
       "type": 3,
