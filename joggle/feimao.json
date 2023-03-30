@@ -122,6 +122,16 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/Voflix.json"
     },
     {
+      "key": "秋霞",
+      "name": "秋霞",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/秋霞影视.json"
+    },    
+    {
       "key": "快看",
       "name": "快看",
       "type": 3,
