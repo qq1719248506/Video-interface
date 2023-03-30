@@ -4,7 +4,7 @@
   "sites": [
     {
       "key":"音乐",
-      "name":"音乐",
+      "name":"音乐┃欣赏",
       "type":3,
       "api":"csp_Music",
       "filterable":0,
@@ -12,7 +12,17 @@
       "searchable":1,
       "jar":"https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/jar/fix.jar;md5;58dbcf7265f01cc353e5b27855600236",
       "ext":""
-    },    
+    },
+    {
+      "key":"csp_AList",
+      "name":"Alist┃网盘",
+      "type":3,
+      "api":"csp_AList",
+      "searchable":1,
+      "quickSearch":0,
+      "filterable":0,
+      "ext":"http://饭太硬.ga/x/json/alist.json"
+    },
     {
       "key": "csp_kuaikan",
       "name": "快看",
