@@ -4,13 +4,21 @@
   "sites": [
     {
       "key": "Music_spider",
-      "name": "音乐欣赏",
+      "name": "🎤音乐┃欣赏",
       "type": 3,
       "api": "csp_Music",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/jar/fix.jar;md5;58dbcf7265f01cc353e5b27855600236"
+    },
+    {
+      "key":"直播",
+      "name":"📡电视┃直播",
+      "type":3,
+      "playerType":1,
+      "api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/直播转点播.js",
+      "ext":"太阳直播$http://9xi4o.tk/sub/mytv.txt#影视范精选$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/"
     },
     {
       "key": "小纸条",
@@ -563,7 +571,32 @@
     {
       "name":"懒懒",
       "type": 1,
-      "url": "http://lanlan.ckflv.cn/?url="
+      "url": "http://lanlan.ckflv.cn/?url=",
+      "ext":{
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "rx",
+          "ltnb",
+          "bilibili",
+          "1905",
+          "xigua"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0 "
+        }
+      }
     },   
     {
       "name": "巧技",
