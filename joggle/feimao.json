@@ -1,6 +1,6 @@
 {
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "spider": "https://raw.githubusercontent.com/qq1719248506/Video-interface/main/jar/feimao.jar;md5;e58aae92a5d085b6dbea452695faef5a",
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/jar/feimao.jar;md5;e58aae92a5d085b6dbea452695faef5a",
   "sites": [
     {
       "key": "Music_spider",
