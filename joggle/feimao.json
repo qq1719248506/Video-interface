@@ -256,7 +256,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/量子影视.json"
-    },      
+    },
+    {
+      "key": "鸡婆",
+      "name": "鸡婆",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/鸡婆影视.json"
+    },    
     {
       "key": "小苹果",
       "name": "小苹果",
