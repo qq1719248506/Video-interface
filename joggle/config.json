@@ -4,7 +4,7 @@
   "sites": [
     {
       "key":"音乐",
-      "name":"音乐┃欣赏",
+      "name":"🎤音乐┃欣赏",
       "type":3,
       "api":"csp_Music",
       "filterable":0,
@@ -408,15 +408,25 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/冷曦影视.json"
     },
     {
-      "key": "浮生",
-      "name": "浮生",
+      "key": "天空",
+      "name": "天空",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/浮生半日.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/天空影视.json"
     },
+    {
+      "key": "稀饭",
+      "name": "稀饭",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/稀饭影院.json"
+    },    
     {
       "key": "量子",
       "name": "量子",
@@ -450,29 +460,12 @@
       "ext":"http://121.62.19.116:1996"
     },
     {
-      "key": "js_直播",
-      "name": "直播",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/libs/直播转点播.js",
-      "ext": "影视范精选$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/"
-    },
-    {
       "key":"js_小宝影视",
       "name":"小宝",
       "type":3,
       "api":"https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/libs/drpy.min.js",
       "ext":"https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/js/小宝影视.js"
-    },
-    {
-      "key":"csp_XYQHiker_有声小说吧",
-      "name":"有声小说",
-      "type":3,
-      "api":"csp_XYQHiker",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"http://饭太硬.ga/x/XYQ/有声小说吧.json"
-    },    
+    },  
     {
       "key":"无尽",
       "name":"无尽",
@@ -632,9 +625,23 @@
   ],
   "lives": [
     {
-      "name":"FongMi•综合",
-      "type":1,
-      "url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
+      "name":"YanG•综合",
+      "type":0,
+      "url":"https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+      "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo":"https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name":"宝盒•综合",
+      "type":0,
+      "url":"http://telegram-feiyangdigital.v1.mk",
+      "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo":"https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name":"肥猫•综合",
+      "type":0,
+      "url":"http://我不是.肥猫.love:63/TV/zb.txt",
       "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo":"https://epg.112114.xyz/logo/{name}.png"
     },
@@ -962,24 +969,6 @@
       "url":"https://h5.freejson.xyz/player/?url="
     },
     {
-      "name":"365",
-      "type": 0,
-      "url": "https://chaxun.truechat365.com/?url="
-    },
-    {
-      "name":"菜妮丝",
-      "type":0,
-      "url":"https://jx.cainisi.cf/?v="
-    },
-    {
-      "name":"星辰",
-      "type":1,
-      "url":"https://json.xn--9kq078cdn3a.cc/api/?key=e7096101128070c1ce09bbf3887e5279&url=",
-      "header":{
-        "User-Agent":"Mozilla/5.0"
-      }
-    },
-    {
       "name":"懒懒",
       "type": 1,
       "url": "http://lanlan.ckflv.cn/?url="
@@ -1064,6 +1053,14 @@
       }
     },
     {
+      "name":"星辰",
+      "type":1,
+      "url":"https://json.xn--9kq078cdn3a.cc/api/?key=e7096101128070c1ce09bbf3887e5279&url=",
+      "header":{
+        "User-Agent":"Mozilla/5.0"
+      }
+    },    
+    {
       "name": "左岸",
       "type": 1,
       "url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=",
@@ -1090,7 +1087,17 @@
           "xigua"
         ]
       }
-    }
+    },
+    {
+      "name":"365",
+      "type": 0,
+      "url": "https://chaxun.truechat365.com/?url="
+    },
+    {
+      "name":"菜妮丝",
+      "type":0,
+      "url":"https://jx.cainisi.cf/?v="
+    },    
   ],
   "flags": [
     "youku",
