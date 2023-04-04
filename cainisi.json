@@ -1,33 +1,172 @@
 {
   "sites": [
-     
     {
-      "key": "2022世界杯",
-      "name": "2022世界杯",
-      "type": 4,
-      "api": "http://120.53.102.254/t4/sjb",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1
+      "key":"360影视",
+      "name":"360┃官源",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./xBPQ/360影视.json"
     },
     {
-      "key": "抖音小姐姐",
-      "name": "抖音小姐姐",
-      "type": 4,
-      "api": "http://120.53.102.254/xjj",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1
+      "key":"布蕾影城",
+      "name":"布蕾┃影视",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./xBPQ/布蕾影视.json"
+    }, 
+    {
+      "key":"YQK_spider",
+      "name":"一起看┃影视",
+      "api":"csp_YQKAPP",
+      "type":3,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://api-tx.11ty.top"
     },
     {
-      "key": "T4直播转点播",
-      "name": "T4直播转点播",
-      "type": 4,
-      "api": "http://120.53.102.254/live?url=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA==",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "key":"csp_AppMr",
+      "name":"明明┃影视",
+      "type":3,
+      "api":"csp_AppMr",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
     },
+    {
+      "key":"csp_Ddrk",
+      "name":"低端┃影视",
+      "type":3,
+      "api":"csp_Ddrk",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
+      "key":"Czsapp",
+      "name":"厂长┃影视",
+      "type":3,
+      "api":"csp_Czsapp",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
+      "key":"VOFLIX",
+      "name":"VOFLIX┃影视",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./xBPQ/VOFLIX.json"
+    },
+    {
+      "key":"69美剧",
+      "name":"69美剧┃影视",
+      "type":3,
+      "api":"csp_MeiJu69",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://www.69mj.com/"
+    },
+    {
+      "key":"csp_Paper",
+      "name":"小纸条┃云盘",
+      "type":3,
+      "api":"csp_Paper",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://cainisi.cf/alitoken/"
+    },
+    {
+      "key":"黑料电影",
+      "name":"黑料┃影视",
+      "type":3,
+      "api":"csp_Hlsp",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://tvbox.cainisi.cf/json/黑料电影.json"
+    },
+    {
+      "key":"野荷塘",
+      "name":"野荷塘┃影视",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./xBPQ/野荷塘.json"
+    },
+    {
+      "key":"新视觉",
+      "name":"视觉┃影院",
+      "type":3,
+      "api":"csp_Xinsj",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://www.6080dy3.com"
+    },
+    {
+      "key":"csp_77",
+      "name":"酷云┃七七",
+      "type":3,
+      "api":"csp_Kunyu77",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
+      "key":"csp_AppTT",
+      "name":"图图┃影视",
+      "type":3,
+      "api":"csp_AppTT",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==",
+      "m3u8ads":"hd.youyhn.com"
+    },
+    {
+      "key":"快看影视",
+      "name":"快看┃影视1",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./xBPQ/快看影视.json"
+    },
+    {
+      "key":"Kuaikan",
+      "name":"快看┃影视2",
+      "type":3,
+      "api":"csp_Kuaikan",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
+      "key":"LIBVIO",
+      "name":"LIBVIO┃影视",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./xBPQ/LIBVIO.json"
+    },
+    
     {
       "key": "MV大全",
       "name": "MV大全",
@@ -36,7 +175,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    }],
+    }
+  ],
   "lives": [
     {
       "group": "redirect",
