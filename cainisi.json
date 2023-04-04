@@ -695,7 +695,53 @@
       "type": 2,
       "url": "Sequence"
     },
- 
+    {
+      "name":"懒懒",
+      "type": 1,
+      "url": "http://lanlan.ckflv.cn/?url="
+    },
+    {
+      "name": "天空",
+      "type": 1,
+      "url": "http://www.pandown.pro/app/tkys/tkysjx.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "rx",
+          "ltnb",
+          "bilibili",
+          "1905",
+          "xigua"
+        ]
+      }
+    },    
+    {
+      "name":"万年魂环",
+      "type":1,
+      "url":"https://jiexi.parses.repl.co/api.php?url="
+    },      
+    {
+      "name":"菜妮丝",
+      "type":0,
+      "url":"https://jx.cainisi.cf/?v="
+    },
+    {
+      "name":"虾米",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },    
     {
       "name": "okjx",
       "type": 0,
