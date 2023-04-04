@@ -676,15 +676,12 @@
   ],
   "lives": [
     {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "redirect",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="
-          ]
-        }
-      ]
+      "name": "live",
+      "type": 0,
+      "url": "http://我不是.肥猫.love:63/TV/tvzb.txt",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
     }
   ],
   "parses": [
@@ -945,5 +942,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "http://120.53.102.254/tupian/ceshi.php",
-  "spider": ""
+  "spider": "/jar/panda.jar;md5;af94cc4d3c30f6cee8b8b20e7b70a0bc"
 }
