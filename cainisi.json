@@ -11,6 +11,16 @@
       "ext":"./xBPQ/360影视.json"
     },
     {
+      "key": "搜狗",
+      "name": "搜狗┃官源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/搜狗影院.json"
+    },   
+    {
       "key":"布蕾影城",
       "name":"布蕾┃影视",
       "type":3,
@@ -225,6 +235,36 @@
       "filterable":1,
       "ext":"./xBPQ/饭团影院.json"
     },
+    {
+      "key": "天空影视",
+      "name": "天空┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/天空影视.json"
+    },
+    {
+      "key": "稀饭",
+      "name": "稀饭┃影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/稀饭影院.json"
+    },    
+    {
+      "key": "量子",
+      "name": "量子┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/量子影视.json"
+    },    
     {
       "key":"零零七影视",
       "name":"零零七┃影视",
