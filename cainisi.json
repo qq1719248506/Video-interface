@@ -8,7 +8,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./xBPQ/360影视.json"
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/360影视.json"
     },
     {
       "key": "搜狗",
@@ -28,7 +28,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./xBPQ/布蕾影视.json"
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/布蕾影视.json"
     }, 
     {
       "key":"YQK_spider",
@@ -115,17 +115,17 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./xBPQ/野荷塘.json"
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/野荷塘.json"
     },
     {
       "key":"新视觉",
       "name":"视觉┃影院",
       "type":3,
-      "api":"csp_Xinsj",
+      "api":"csp_XBPQ",
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://www.6080dy3.com"
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/视觉影院.json"
     },
     {
       "key":"csp_77",
@@ -155,7 +155,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./xBPQ/快看影视.json"
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/快看影视.json"
     },
     {
       "key":"Kuaikan",
@@ -174,7 +174,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./xBPQ/LIBVIO.json"
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/LIBVIO.json"
     },
     {
       "key":"乐猪TV",
@@ -184,7 +184,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./xBPQ/乐猪TV.json"
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/乐猪TV.json"
     },
     {
       "key":"秋霞影视",
@@ -194,7 +194,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./xBPQ/秋霞影视.json"
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/秋霞影视.json"
     },
     {
       "key":"csp_apple",
@@ -213,7 +213,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./xBPQ/神马影院.json"
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/神马影院.json"
     },
     {
       "key":"饭团影视",
@@ -223,7 +223,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./xBPQ/饭团影视.json"
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/饭团影视.json"
     },
     {
       "key":"饭团影院",
@@ -233,7 +233,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./xBPQ/饭团影院.json"
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/饭团影院.json"
     },
     {
       "key": "天空影视",
@@ -267,13 +267,13 @@
     },    
     {
       "key":"零零七影视",
-      "name":"零零七┃影视",
+      "name":"007┃影视",
       "type":3,
       "api":"csp_XBPQ",
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./xBPQ/零零七影视.json"
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/零零七影视.json"
     },
     {
       "key":"双十电影",
@@ -283,7 +283,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./xBPQ/双十电影.json"
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/双十电影.json"
     },
     {
       "key":"映迷",
@@ -293,7 +293,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./xBPQ/映迷.json"
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/映迷影视.json"
     },
     {
       "key":"555电影",
@@ -303,7 +303,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./xBPQ/555电影.json"
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/555电影.json"
     },
     {
       "key":"大米星球",
@@ -313,7 +313,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./xBPQ/大米星球.json"
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/大米星球.json"
     },
     {
       "key":"二次萌影视",
@@ -323,7 +323,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./xBPQ/二次萌影视.json"
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/二次萌影视.json"
     },
     {
       "key":"喵影视",
@@ -333,7 +333,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./xBPQ/喵影视.json"
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/喵影视.json"
     },
     {
       "key":"口袋影院",
@@ -343,7 +343,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./xBPQ/口袋影院.json"
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/口袋影院.json"
     },
     {
       "key":"csp_Cokemv",
@@ -511,7 +511,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./xBPQ/奇优影院.json"
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/奇优影院.json"
     },
     {
       "key":"98影院",
@@ -551,7 +551,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./xBPQ/冷曦影视.json"
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/冷曦影视.json"
     },
     {
       "key":"NikeTV",
@@ -1028,5 +1028,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "http://120.53.102.254/tupian/ceshi.php",
-  "spider": "/jar/panda.jar;md5;af94cc4d3c30f6cee8b8b20e7b70a0bc"
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/jar/fan.jar;md5;2427acdd749c3d413e3c9d16d4bebce3"
 }
