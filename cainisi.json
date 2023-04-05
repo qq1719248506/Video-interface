@@ -77,7 +77,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./xBPQ/VOFLIX.json"
+      "ext":"https://tvbox.cainisi.cf/json/XBPQ/VOFLIX.json"
     },
     {
       "key":"69美剧",
