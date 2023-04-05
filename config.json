@@ -44,14 +44,14 @@
       "m3u8ads": "hd.youyhn.com"
     },
     {
-      "key": "csp_Xinsj",
-      "name": "新视觉",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.6080dy3.com"
+      "key":"新视觉",
+      "name":"视觉┃影院",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/视觉影院.json"
     },    
     {
       "key": "csp_AppTT",
