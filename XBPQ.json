@@ -148,18 +148,8 @@
             "m3u8ads":"hd.youyhn.com"
         },
         {
-            "key":"快看影视",
-            "name":"快看┃影视1",
-            "type":3,
-            "api":"csp_XBPQ",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://tvbox.cainisi.cf/json/XBPQ/快看影视.json"
-        },
-        {
             "key":"Kuaikan",
-            "name":"快看┃影视2",
+            "name":"快看┃影视",
             "type":3,
             "api":"csp_Kuaikan",
             "searchable":1,
