@@ -6,11 +6,11 @@
       "key": "js豆瓣",
       "name": "🅱豆瓣",
       "type": 3,
-      "api": "./drpy_js/lib/drpy2.min.js",
+      "api": "https://agit.ai/wzs1973/test/raw/branch/master/libs/drpy.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./drpy_js/js/drpy.js"
+      "ext": "https://agit.ai/wzs1973/test/raw/branch/master/JS/drpy.js"
     },
     {
       "key":"csp_AList",
@@ -20,7 +20,7 @@
       "searchable":1,
       "quickSearch":0,
       "filterable":0,
-      "ext":"http://饭太硬.ga/x/json/alist.json"
+      "ext":"https://agit.ai/wzs1973/test/raw/branch/master/json/Alist.json"
     },
     {
       "key": "csp_kuaikan",
@@ -300,7 +300,7 @@
     },
     {
       "key": "csp_SP33",
-      "name": "三三",
+      "name": "360",
       "type": 3,
       "api": "csp_SP33",
       "searchable": 1,
@@ -410,6 +410,27 @@
       "filterable": 1,
       "ext": "http://ali.饭太硬.ml/alitoken"
     },
+    {
+      "key": "量子",
+      "name": "量子",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 1,
+      "switchable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "剧情片",
+        "国产剧",
+        "香港剧",
+        "台湾剧",        
+        "动漫",
+        "动漫",
+        "伦理片"
+      ]
+    },    
     {
       "key": "红牛",
       "name": "红牛",
@@ -566,6 +587,66 @@
       "name": "野",
       "type": 1,
       "url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="
+    }
+  ],
+  "rules": [
+    {
+      "host":"*",
+      "rule":[
+        "default.365yg.com"
+      ]
+    },
+    {
+      "host":"dyxs20.com",
+      "rule":[
+        ".m3u8"
+      ]
+    },
+    {
+      "host":"www.agemys.cc",
+      "rule":[
+        "cdn-tos",
+        "obj/tos-cn"
+      ]
+    },
+    {
+      "host":"www.sharenice.net",
+      "rule":[
+        "http.*?/play.{0,3}\\?[^url]{2,8}=.*"
+      ]
+    },
+    {
+      "host":"www.sharenice.net",
+      "rule":[
+        "qianpailive.com",
+        "vid="
+      ]
+    },
+    {
+      "host":"*",
+      "rule":[
+        "douyin.com/aweme",
+        "video_id="
+      ]
+    },
+    {
+      "host":"*",
+      "rule":[
+        "huoshan.com",
+        "/item/video/"
+      ]
+    },
+    {
+      "host":"*",
+      "rule":[
+        "http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"
+      ]
+    },
+    {
+      "host":"*",
+      "rule":[
+        "http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"
+      ]
     }
   ],
   "flags": [
