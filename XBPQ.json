@@ -4,7 +4,7 @@
             "key":"360影视",
             "name":"360┃官源",
             "type":3,
-            "api":"csp_SP33",
+            "api":"csp_SP360",
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
@@ -827,7 +827,7 @@
             "key":"无尽",
             "name":"无尽",
             "type":1,
-            "api":"https://wujinzy.com/api.php/provide/vod/",
+            "api":"http://wujinzy.net/api.php/provide/vod/",
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
@@ -1215,16 +1215,6 @@
             }
         },
         {
-            "name":"猫影视",
-            "type":1,
-            "url":"https://api.maoyingshi.cc/home/api?type=ys&uid=3063926&key=bdilrtvxAGIJRTX167&url="
-        },        
-        {
-            "name":"肥猫",
-            "type":1,
-            "url":"https://b.umkan.cc/API.php?url="
-        },
-        {
             "name":"懒懒",
             "type":1,
             "url":"http://lanlan.ckflv.cn/?url="
@@ -1234,6 +1224,11 @@
             "type":1,
             "url":"http://www.pandown.pro/app/tkys/tkysjx.php?url="
         },
+        {
+            "name":"肥猫",
+            "type":1,
+            "url":"https://b.umkan.cc/API.php?url="
+        },        
         {
             "name":"万年魂环",
             "type":1,
@@ -1507,5 +1502,5 @@
         "cms.qdwght.com"
     ],
     "wallpaper": "https://picsum.photos/1280/720/?blur=5",
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/jar/fan.jar;md5;2427acdd749c3d413e3c9d16d4bebce3"
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/jar/vod.jar;md5;17429ba894b04d8ad3ddb90e6a3ff472"
 }
