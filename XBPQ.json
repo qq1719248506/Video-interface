@@ -761,7 +761,7 @@
             "quickSearch":1,
             "filterable":1,
             "switchable": 1,
-            "categories": []
+            "categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","战争片","纪录片","邵氏电影","伦理片"]
         },
         {
             "key":"红牛",
@@ -772,7 +772,7 @@
             "quickSearch":1,
             "filterable":1,
             "switchable": 1,
-            "categories": []
+            "categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","战争片","纪录片","动漫片","综艺片","伦理片"]
         },
         {
             "key": "AList",
