@@ -141,13 +141,14 @@
         },
         {
             "key":"csp_Paper",
-            "name":"纸条┃云盘",
+            "name":"紙條┃云盘",
             "type":3,
             "api":"csp_Paper",
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://cainisi.cf/alitoken/"
+            "ext":"https://cainisi.cf/alitoken/",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key":"黑料电影",
@@ -717,7 +718,7 @@
         },
         {
             "key":"Dm84",
-            "name":"动漫┃巴士",
+            "name":"巴士┃动漫",
             "type":3,
             "api":"csp_Dm84",
             "searchable":1,
@@ -726,7 +727,7 @@
         },
         {
             "key":"csp_Ying",
-            "name":"樱花┃动漫",
+            "name":"櫻花┃动漫",
             "type":3,
             "api":"csp_Ying",
             "searchable":1,
@@ -735,7 +736,7 @@
         },
         {
             "key":"csp_Ysj",
-            "name":"异界┃动漫",
+            "name":"異界┃动漫",
             "type":3,
             "api":"csp_Ysj",
             "searchable":1,
@@ -752,14 +753,49 @@
             "filterable":1
         },
         {
+            "key":"无尽",
+            "name":"无尽",
+            "type":1,
+            "api":"https://api.wujinapi.com/api.php/provide/vod/",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "switchable": 1,
+            "categories": []
+        },
+        {
+            "key":"红牛",
+            "name":"红牛",
+            "type":1,
+            "api":"https://www.hongniuzy2.com/api.php/provide/vod/",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "switchable": 1,
+            "categories": []
+        },
+        {
+            "key": "AList",
+            "name": "AList┃搜索",
+            "type": "3",
+            "api": "csp_AList",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "changeable": 0,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/json/Alist.json",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/CatVodSpider/main/jar/custom_spider.jar;md5;9dad9b968f26436fc4e681d0dc372d55"
+        },        
+        {
             "key": "Zhaozy",
-            "name": "资源┃搜索",
+            "name": "找資源┃搜索",
             "type": "3",
             "api": "csp_Zhaozy",
             "searchable": "1",
             "quickSearch": "1",
             "filterable": "1",
-            "ext": "https://cainisi.cf/alitoken/$$$yingshi$$$abcd1234"
+            "ext": "https://cainisi.cf/alitoken/$$$yingshi$$$abcd1234",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "YiSo",
@@ -769,37 +805,41 @@
             "searchable": "1",
             "quickSearch": "1",
             "filterable": "1",
-            "ext": "https://cainisi.cf/alitoken/"
+            "ext": "https://cainisi.cf/alitoken/",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "AliPS",
-            "name": "盘搜┃搜索",
+            "name": "盤搜┃搜索",
             "type": "3",
             "api": "csp_PanSou",
             "searchable": "1",
             "quickSearch": "1",
             "filterable": "1",
-            "ext": "https://cainisi.cf/alitoken/"
+            "ext": "https://cainisi.cf/alitoken/",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key":"csp_UpYun",
-            "name":"云搜┃搜索",
+            "name":"雲搜┃搜索",
             "type":3,
             "api":"csp_UpYun",
             "searchable":1,
             "quickSearch" :1,
             "filterable":1,
-            "ext":"https://cainisi.cf/alitoken/"
+            "ext":"https://cainisi.cf/alitoken/",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "push_agent",
-            "name": "PushAgent",
+            "name": "推送",
             "type": "3",
             "api": "csp_Push",
             "searchable": "1",
             "quickSearch": "1",
             "filterable": "1",
-            "ext": "https://cainisi.cf/alitoken/"
+            "ext": "https://cainisi.cf/alitoken/",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/CatVodSpider/main/jar/custom_spider.jar"
         }
     ],
     "rules": [
