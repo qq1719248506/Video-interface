@@ -113,6 +113,8 @@
             "name":"厂长┃影视",
             "type":3,
             "api":"csp_Czsapp",
+            "m3u8ads": "hd.youyhn.com",
+            "playerType":2,
             "searchable":1,
             "quickSearch":1,
             "filterable":1
@@ -304,16 +306,6 @@
             "quickSearch":1,
             "filterable":1,
             "ext":"https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/稀饭影院.json"
-        },
-        {
-            "key":"鸡婆影视",
-            "name":"鸡婆┃影视",
-            "type":3,
-            "api":"csp_XBPQ",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/鸡婆影视.json"
         },        
         {
             "key":"零零七影视",
@@ -712,16 +704,6 @@
             "quickSearch":0,
             "filterable":1,
             "ext":"https://tvbox.cainisi.cf/json/哔哩哔哩音乐.json"
-        },
-        {
-            "key":"戏曲",
-            "name":"哔哩┃戏曲",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":1,
-            "ext":"https://tvbox.cainisi.cf/json/哔哩哔哩戏曲.json"
         },
         {
             "key":"二三三动漫",
