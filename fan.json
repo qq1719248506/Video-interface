@@ -248,7 +248,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/nmys.json"
+      "ext": "http://饭太硬.ga/x/json/nmys.json"
     },
     {
       "key": "csp_Ysgc",
@@ -296,7 +296,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/黑料.json"
+      "ext": "http://饭太硬.ga/x/json/黑料.json"
     },
     {
       "key": "csp_SP33",
