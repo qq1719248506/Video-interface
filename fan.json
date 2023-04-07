@@ -479,7 +479,6 @@
       "name": "量子┃云",
       "type": 1,
       "api": "http://cj.lziapi.com/api.php/provide/vod/",
-      "m3u8ads": "hd.youyhn.com",
       "searchable": 1,
       "filterable": 1,
       "switchable": 1,
@@ -495,13 +494,12 @@
         "动漫",
         "伦理片"
       ]
-    },    
+    },
     {
       "key": "红牛",
       "name": "红牛┃云",
       "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-      "m3u8ads": "hd.youyhn.com",
       "searchable": 1,
       "filterable": 1,
       "switchable": 1,
@@ -520,6 +518,30 @@
         "动漫",
         "综艺",
         "体育赛事"
+      ]
+    },   
+    {
+      "key": "无尽",
+      "name": "无尽┃云",
+      "type": 1,
+      "api": "https://api.wujinapi.me/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "filterable": 1,
+      "switchable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "纪录片",
+        "国产剧",
+        "海外剧",        
+        "动漫",
+        "综艺",
+        "邵氏电影"
       ]
     },
     {
