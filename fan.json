@@ -281,7 +281,7 @@
     },
     {
       "key": "csp_Nkdy",
-      "name": "耐克┃影视",
+      "name": "南柯┃影视",
       "type": 3,
       "api": "csp_Nkdy",
       "searchable": 1,
@@ -594,15 +594,20 @@
   ],
   "parses": [
     {
-      "name": "聚合1",
-      "type": 3,
-      "url": "Demo"
+      "name": "Json轮询",
+      "type": 2,
+      "url": "Sequence"
     },
     {
-      "name": "聚合0",
-      "type": 3,
-      "url": "Web"
+      "name": "Json并发",
+      "type": 2,
+      "url": "Parallel"
     },
+    {
+      "name": "解析聚合",
+      "type": 3,
+      "url": "Demo"
+    },    
     {
       "name": "全部",
       "type": 1,
