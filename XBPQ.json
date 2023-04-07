@@ -847,7 +847,7 @@
         },        
         {
             "key": "Zhaozy",
-            "name": "找資源┃搜索",
+            "name": "資源┃搜索",
             "type": "3",
             "api": "csp_Zhaozy",
             "searchable": "1",
