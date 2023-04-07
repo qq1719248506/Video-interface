@@ -474,7 +474,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
+    },    
     {
       "key": "鸡婆",
       "name": "鸡婆┃资源",
@@ -492,7 +492,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },   
+    },
+    {
+      "key": "卧龙",
+      "name": "卧龙┃云",
+      "type": 1,
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },    
     {
       "key": "量子",
       "name": "量子┃云",
