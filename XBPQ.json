@@ -839,7 +839,7 @@
             "key":"无尽",
             "name":"无尽",
             "type":1,
-            "api":"http://wujinzy.net/api.php/provide/vod/",
+            "api":"https://api.wujinapi.me/api.php/provide/vod/?ac=list",
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
