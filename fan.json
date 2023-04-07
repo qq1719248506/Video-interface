@@ -436,16 +436,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://www.lenxitv.cc/t/{cateId}-{catePg}.html"
-    },
-    {
-      "key": "茶杯狐",
-      "name": "茶杯狐┃影视",
-      "type": 3,
-      "api": "csp_XBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://www.cupfox.cc/index.php/vodshow/{cateId}-{page}-{arer}-{by}-{class}-{catePg}---{yera}.py.html"
     },    
     {
       "key": "独播库",
@@ -459,7 +449,7 @@
     {
       "key": "淘片",
       "name": "淘片┃影视",
-      "type": 0,
+      "type": 1,
       "api": "https://taopianapi.com/home/cjapi/as/mc/vod/xml",
       "m3u8ads": "hd.youyhn.com",
       "searchable": 1,
@@ -469,9 +459,8 @@
     {
       "key": "鸡婆",
       "name": "鸡婆┃影视",
-      "type": 0,
+      "type": 1,
       "api": "https://www.jipo.tv/api.php/provide/vod",
-      "m3u8ads": "hd.youyhn.com",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -479,9 +468,8 @@
     {
       "key": "处女",
       "name": "处女┃影视",
-      "type": 0,
+      "type": 1,
       "api": "https://www.ah121.com/api.php/provide/vod/from/ffm3u8/?at/xml/",
-      "m3u8ads": "hd.youyhn.com",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
