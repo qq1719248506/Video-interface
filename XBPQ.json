@@ -1186,22 +1186,17 @@
     ],    
     "parses":[
         {
-            "name": "解析聚合",
-            "type": 3,
-            "url": "Demo"
-        },
-        {
-            "name": "Json并发",
+            "name": "Json轮询",
             "type": 2,
             "url": "Parallel"
         },
         {
-            "name": "Json轮询",
+            "name": "Json并发",
             "type": 2,
             "url": "Sequence"
         },
         {
-            "name": "Web解析聚合",
+            "name": "解析聚合",
             "type": 3,
             "url": "Web"
         },
@@ -1244,6 +1239,40 @@
             }                   
         },
         {
+            "name":"瞄影",
+            "type":0,
+            "url":"http://www.miaoys.cc/vip/?url="
+        },
+        {
+            "name": "player",
+            "type": 0,
+            "url": "https://jx.bozrc.com:4433/player/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                }
+            }
+        },        
+        {
             "name":"菜妮丝",
             "type":0,
             "url":"https://jx.cainisi.cf/?v="
@@ -1268,52 +1297,50 @@
     "flags": [
         "youku",
         "qq",
+        "QQ",
         "iqiyi",
         "qiyi",
         "letv",
         "sohu",
         "tudou",
         "pptv",
+        "PPTV",
         "mgtv",
+        "ltnb",
+        "rx",
+        "SLYS4k",
+        "BYGA",
+        "BYGB",
+        "luanzi",
+        "dxzy",
+        "QEYSS",
+        "aliyun",
+        "AliS",
+        "122",
+        "chuangying",
+        "CL4K",
+        "xfyun",
+        "wuduzy",
         "wasu",
         "bilibili",
-        "duoduozy",
-        "1905",
-        "1920l",
-        "mim3u8",
-        "laodim3u8",
-        "leduo",
-        "ltnb",
         "renrenmi",
-        "xueren",
-        "naifeimi",
-        "miaoparty",
-        "miaoparty2",
-        "miaoparty3",
-        "x1play",
-        "fuckapp",
-        "ftqp2",
-        "ftqp3",
-        "ftqp5",
-        "xfyun",
-        "shuaju8",
-        "ruifeng",
-        "wuduyun",
+        "xmm",
         "xigua",
-        "CL4K",
-        "mx771",
-        "mengxin886",
-        "leduo",
-        "dplayer",
-        "HY4K1",
-        "RongXingVR",
-        "xfy",
-        "duoduozy",
-        "renrenmi",
-        "rx",
-        "4kya",
-        "dym3",
-        "ftqp4"
+        "m1905",
+        "funshion",
+        "优酷",
+        "芒果",
+        "腾讯",
+        "爱奇艺",
+        "奇艺",
+        "哔哩哔哩",
+        "哔哩",
+        "西瓜视频",
+        "腾讯视频",
+        "奇艺视频",
+        "优酷视频",
+        "芒果视频",
+        "乐视视频"        
     ],
     "ijk": [
         {
