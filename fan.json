@@ -468,16 +468,16 @@
     },    
     {
       "key": "淘片",
-      "name": "淘片┃影视",
+      "name": "淘片┃资源",
       "type": 1,
-      "api": "https://taopianapi.com/home/cjapi/as/mc/vod/xml",
+      "api": "https://www.taopianzy.com/home/index.html",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
       "key": "鸡婆",
-      "name": "鸡婆┃影视",
+      "name": "鸡婆┃资源",
       "type": 1,
       "api": "https://www.jipo.tv/api.php/provide/vod",
       "searchable": 1,
@@ -486,7 +486,7 @@
     },
     {
       "key": "处女",
-      "name": "处女┃影视",
+      "name": "处女┃资源",
       "type": 1,
       "api": "https://www.ah121.com/api.php/provide/vod/from/ffm3u8/?at/xml/",
       "searchable": 1,
