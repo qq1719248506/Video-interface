@@ -438,20 +438,10 @@
       "ext": "https://www.lenxitv.cc/t/{cateId}-{catePg}.html"
     },    
     {
-      "key": "独播库",
-      "name": "独播┃影库",
-      "type": 4,
-      "api": "https://tang.run.goorm.app/duboku",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "淘片",
       "name": "淘片┃影视",
       "type": 1,
       "api": "https://taopianapi.com/home/cjapi/as/mc/vod/xml",
-      "m3u8ads": "hd.youyhn.com",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -539,8 +529,6 @@
         "纪录片",
         "国产剧",
         "海外剧",        
-        "动漫",
-        "综艺",
         "邵氏电影"
       ]
     },
