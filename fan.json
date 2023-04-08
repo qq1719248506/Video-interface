@@ -224,18 +224,8 @@
       "filterable": 1
     },
     {
-      "key": "csp_zxzj",
-      "name": "在线┃之家",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.zxzj.org"
-    },
-    {
       "key": "csp_zxzjH3",
-      "name": "在线┃之家H3",
+      "name": "在线┃之家",
       "type": 3,
       "api": "csp_ZxzjH3",
       "searchable": 1,
@@ -258,15 +248,6 @@
       "name": "神马┃影院",
       "type": 3,
       "api": "csp_Smdyy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Bd",
-      "name": "哔嘀┃影视",
-      "type": 3,
-      "api": "csp_Bdys01",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -335,7 +316,7 @@
     },
     {
       "key": "Qtv",
-      "name": "腾讯┃视频",
+      "name": "企鹅┃视频",
       "type": 3,
       "api": "csp_Qtv",
       "searchable": 1,
@@ -345,7 +326,7 @@
     },
     {
       "key": "Itv",
-      "name": "爱奇艺",
+      "name": "奇艺┃视频",
       "type": 3,
       "api": "csp_Itv",
       "searchable": 1,
@@ -401,7 +382,7 @@
     },
     {
       "key": "csp_Yj1211",
-      "name": "短视频",
+      "name": "短视频┃合辑",
       "type": 3,
       "api": "csp_Yj1211",
       "searchable": 1,
@@ -440,41 +421,35 @@
       "ext": "http://ali.饭太硬.ml/alitoken"
     },
     {
+      "key": "搜狗",
+      "name": "搜狗┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/搜狗影院.json"
+    },    
+    {
       "key": "乐鱼",
       "name": "乐鱼┃影视",
       "type": 3,
-      "api": "https://agit.ai/wzs1973/test/raw/branch/master/libs/drpy.min.js",
-      "ext": "https://agit.ai/wzs1973/test/raw/branch/master/JS/乐鱼影视.js"
-    },    
-    {
-      "key": "骚火",
-      "name": "骚火┃电影",
-      "type": 3,
-      "api": "csp_XBiu",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://shdy2.com/list/{cateId}-{catePg}.html"
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/乐鱼影视.json"
     },    
     {
       "key": "冷曦",
       "name": "冷曦┃影视",
       "type": 3,
-      "api": "csp_XBiu",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://www.lenxitv.cc/t/{cateId}-{catePg}.html"
-    },    
-    {
-      "key": "淘片",
-      "name": "淘片┃资源",
-      "type": 1,
-      "api": "https://www.taopianzy.com/home/index.html",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },    
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/XBPQ/冷曦影视.json"
+    },        
     {
       "key": "鸡婆",
       "name": "鸡婆┃资源",
@@ -485,13 +460,14 @@
       "filterable": 1
     },
     {
-      "key": "处女",
-      "name": "处女┃资源",
+      "key": "米杏",
+      "name": "米杏┃资源",
       "type": 1,
-      "api": "https://www.ah121.com/api.php/provide/vod/from/ffm3u8/?at/xml/",
+      "api": "https://www.mixing.tv/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories":["国产剧","港台剧","动画片","大陆综艺","国产动漫","武侠片","电影","剧集","综艺","动漫","纪录片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片",日韩剧","欧美剧","奇幻片","犯罪片","日韩综艺","其他综艺","悬疑片","冒险片","演员库","惊悚片","灾难片","海外剧","其他剧",其他片","歌舞片","传记片","历史片","日韩动漫","欧美动漫","资讯分类","影视资讯","国创","B站","番剧","港台综艺","欧美综艺","港台动漫","海外动漫","体育","电影解说","足球","网球","篮球","斯诺克","泰剧","预告片"]
     },
     {
       "key": "卧龙",
@@ -500,7 +476,21 @@
       "api": "https://collect.wolongzyw.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "剧情片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "纪录片",        
+        "国产剧",
+        "香港剧",
+        "台湾剧",        
+        "伦理片"
+      ]      
     },    
     {
       "key": "量子",
@@ -514,7 +504,9 @@
         "动作片",
         "喜剧片",
         "爱情片",
-        "剧情片",
+        "剧情片",       
+        "战争片",
+        "纪录片",       
         "国产剧",
         "香港剧",
         "台湾剧",        
