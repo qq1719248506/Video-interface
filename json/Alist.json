@@ -17,7 +17,15 @@
             "server": "https://pan.bashroot.top"
         },
         {
-            "name": "☁️云星",
+            "name":"姹莱坞",
+            "server": "https://a.aa01.ml","passwd":"agree"
+        },
+        {
+            "name":"AR盘",
+            "server": "https://xn--ar-4g8e.tk"
+        },
+        {
+            "name": "云星",
             "server": "http://alist.itvbox.cc/云星Open（不限速）"
         }
     ]
