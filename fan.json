@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-  "spider": "https://agit.ai/wzs1973/test/raw/branch/master/jar/fan.txt;md5;4e76031a18cb23b27867a2c0829492b7",
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/jar/fan.txt;md5;613066b0150c902b3d51bde7a433be83",
   "sites": [
     {
       "key": "豆瓣",
@@ -63,7 +63,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
+      "ext": "dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
     },
     {
        "key":"csp_FanYY",
@@ -94,8 +94,7 @@
       "m3u8ads": "hd.youyhn.com",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
+      "filterable": 1
     },
     {
       "key": "csp_apple",
