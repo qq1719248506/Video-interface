@@ -318,6 +318,20 @@
       "ext":"./js/爱看影院.js"
     },
     {
+      "key": "drpy_js_骚火",
+      "name": "骚火┃电影",
+      "type": 3,
+      "api": "./libs/drpy2.min.js",
+      "ext": "./js/骚火.js"
+    },
+    {
+      "key": "drpy_js_小宝影视",
+      "name": "小宝┃影视",
+      "type": 3,
+      "api": "./libs/drpy2.min.js",
+      "ext": "./js/小宝影视.js"
+    },    
+    {
       "key":"drpy_js_COKEMV",
       "name":"COKEMV┃影视",
       "type":3,
@@ -331,6 +345,20 @@
       "api":"./libs/drpy2.min.js",
       "ext":"./js/Auete.js"
     },
+    {
+      "key": "drpy_js_LIBVIO",
+      "name": "LIBVIO┃影视",
+      "type": 3,
+      "api": "./libs/drpy2.min.js",
+      "ext": "./js/LIBVIO.js"
+    },    
+    {
+      "key": "drpy_js_HDmoli",
+      "name": "HDmoli┃影视",
+      "type": 3,
+      "api": "./libs/drpy2.min.js",
+      "ext": "./js/HDmoli.js"
+    },    
     {
       "key":"drpy_js_voflix",
       "name":"Voflix┃影视",
@@ -346,12 +374,26 @@
       "ext":"./js/MV263.js"
     },
     {
+      "key": "drpy_js_A8音乐",
+      "name": "A8┃音乐",
+      "type": 3,
+      "api": "./libs/drpy2.min.js",
+      "ext": "./js/A8音乐.js"
+    },    
+    {
       "key":"drpy_js_i275听书",
       "name":"i275┃听书",
       "type":3,
       "api":"./libs/drpy2.min.js",
       "ext":"./js/i275听书.js"
     },
+    {
+      "key": "drpy_js_74听书",
+      "name": "74┃听书",
+      "type": 3,
+      "api": "./libs/drpy2.min.js",
+      "ext": "./js/74听书.js"
+    },   
     {
       "key": "鸡婆",
       "name": "鸡婆┃影视",
