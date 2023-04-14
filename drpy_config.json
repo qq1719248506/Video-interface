@@ -92,7 +92,7 @@
     },
     {
       "key": "push_agent",
-      "name": "推送",
+      "name": "阿里┃推送",
       "type": 3,
       "api": "csp_Push",
       "searchable": 1,
@@ -141,13 +141,6 @@
       "type":3,
       "api":"./libs/drpy2.min.js",
       "ext":"./js/555影视[V2].js"
-    },
-    {
-      "key":"drpy_js_69美剧",
-      "name":"六九┃美剧",
-      "type":3,
-      "api":"./libs/drpy2.min.js",
-      "ext":"./js/69美剧.js"
     },
     {
       "key":"drpy_js_69美剧",
