@@ -10,6 +10,13 @@
       "ext": "./js/drpy.js"
     },
     {
+      "key":"drpy_js_Alist",
+      "name":"Alist┃搜索",
+      "type":3,
+      "api":"./libs/alist.min.js",
+      "ext":"./js/alist.conf"
+    },   
+    {
       "key":"csp_AList",
       "name":"Alist┃网盘",
       "type":3,
@@ -17,7 +24,7 @@
       "searchable":1,
       "quickSearch":0,
       "filterable":0,
-      "ext":"./AList/alist.json"
+      "ext":"./js/alist.json"
     },
     {
       "key": "csp_Bili",
@@ -38,7 +45,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "./ali/token.txt"
+      "ext": "clan://drpy_js/alitoken.txt"
     },    
     {
       "key": "紙條",
@@ -48,7 +55,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,      
-      "ext": "./ali/token.txt"
+      "ext": "clan://drpy_js/alitoken.txt"
     },
     {
       "key": "易搜",
@@ -58,7 +65,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,      
-      "ext": "./ali/token.txt"
+      "ext": "clan://drpy_js/alitoken.txt"
     },
     {
       "key": "盤搜",
@@ -68,7 +75,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,      
-      "ext": "./ali/token.txt"
+      "ext": "clan://drpy_js/alitoken.txt"
     },
     {
       "key": "雲搜",
@@ -78,7 +85,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "./ali/token.txt"
+      "ext": "clan://drpy_js/alitoken.txt"
     },
     {
       "key": "找資源",
@@ -88,7 +95,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "./ali/token.txt$$$yingshi$$$abcd1234"
+      "ext": "clan://drpy_js/alitoken.txt$$$yingshi$$$abcd1234"
     },
     {
       "key": "push_agent",
@@ -98,7 +105,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "./ali/token.txt"
+      "ext": "clan://drpy_js/alitoken.txt"
     },
     {
       "key":"drpy_js_360影视",
@@ -234,11 +241,11 @@
       "ext":"./js/咕噜咕噜.js"
     },
     {
-      "key":"drpy_js_瓜皮TV",
-      "name":"瓜皮┃TV",
+      "key":"drpy_js_哔嘀影视",
+      "name":"哔嘀┃影视",
       "type":3,
       "api":"./libs/drpy2.min.js",
-      "ext":"./js/瓜皮TV.js"
+      "ext":"./js/哔嘀影视.js"
     },
     {
       "key":"drpy_js_兰花影院",
@@ -267,137 +274,84 @@
       "type":3,
       "api":"./libs/drpy2.min.js",
       "ext":"./js/金曼影视.js"
+    },
+    {
+      "key":"drpy_js_鸭奈飞",
+      "name":"奈飞┃影视",
+      "type":3,
+      "api":"./libs/drpy2.min.js",
+      "ext":"./js/鸭奈飞.js"
+    },
+    {
+      "key":"drpy_js_天空影视",
+      "name":"天空┃影视",
+      "type":3,
+      "api":"./libs/drpy2.min.js",
+      "ext":"./js/天空影视.js"
+    },
+    {
+      "key":"drpy_js_歪片星球",
+      "name":"歪片┃星球",
+      "type":3,
+      "api":"./libs/drpy2.min.js",
+      "ext":"./js/歪片星球.js"
+    },
+    {
+      "key":"drpy_js_人人影视",
+      "name":"人人┃影视",
+      "type":3,
+      "api":"./libs/drpy2.min.js",
+      "ext":"./js/人人影视.js"
+    },
+    {
+      "key":"drpy_js_爱迪影视",
+      "name":"爱迪┃影视",
+      "type":3,
+      "api":"./libs/drpy2.min.js",
+      "ext":"./js/爱迪影视.js"
     },    
     {
-      "key": "py_czspp",
-      "name": "厂长",
-      "type": 3,
-      "api": "py_czspp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./plugin/py_czspp.py"
+      "key":"drpy_js_爱看影院",
+      "name":"爱看┃影院",
+      "type":3,
+      "api":"./libs/drpy2.min.js",
+      "ext":"./js/爱看影院.js"
     },
     {
-      "key": "py_voflix",
-      "name": "voflix",
-      "type": 3,
-      "api": "py_voflix",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./plugin/py_voflix.py"
+      "key":"drpy_js_COKEMV",
+      "name":"COKEMV┃影视",
+      "type":3,
+      "api":"./libs/drpy2.min.js",
+      "ext":"./js/cokemv.js"
     },
     {
-      "key": "py_cyys",
-      "name": "创艺",
-      "type": 3,
-      "api": "py_cyys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./plugin/py_cyys.py"
+      "key":"drpy_js_Auete",
+      "name":"Auete┃影视",
+      "type":3,
+      "api":"./libs/drpy2.min.js",
+      "ext":"./js/Auete.js"
     },
     {
-      "key": "py_libvio",
-      "name": "libvio",
-      "type": 3,
-      "api": "py_libvio",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./plugin/py_libvio.py"
+      "key":"drpy_js_voflix",
+      "name":"Voflix┃影视",
+      "type":3,
+      "api":"./libs/drpy2.min.js",
+      "ext":"./js/voflix.js"
+    },    
+    {
+      "key":"drpy_js_MV263",
+      "name":"二六三┃MV",
+      "type":3,
+      "api":"./libs/drpy2.min.js",
+      "ext":"./js/MV263.js"
     },
     {
-      "key": "py_ikan",
-      "name": "爱看",
-      "type": 3,
-      "api": "py_ikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./plugin/py_ikan.py"
-    },
-    {
-      "key": "py_gimys",
-      "name": "剧迷",
-      "type": 3,
-      "api": "py_gimys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./plugin/py_gimys.py"
-    },
-    {
-      "key": "py_douyu",
-      "name": "斗鱼",
-      "type": 3,
-      "api": "py_douyu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./plugin/py_douyu.py"
-    },
-    {
-      "key": "py_huya",
-      "name": "虎牙",
-      "type": 3,
-      "api": "py_huya",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./plugin/py_huya.py"
-    },
-    {
-      "key": "py_yixi",
-      "name": "一席",
-      "type": 3,
-      "api": "py_yixi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./plugin/py_yixi.py"
-    },
-    {
-      "key": "py_bilivd",
-      "name": "B站视频",
-      "type": 3,
-      "api": "py_bilivd",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./plugin/py_bilivd.py"
-    },
-    {
-      "key": "py_bilimd",
-      "name": "B站影视",
-      "type": 3,
-      "api": "py_bilimd",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./plugin/py_bilimd.py"
-    },
-    {
-      "key": "py_freezb",
-      "name": "体育直播",
-      "type": 3,
-      "api": "py_freezb",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./plugin/py_freezb.py"
-    },
-    {
-      "key": "py_cctv",
-      "name": "CCTV",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./plugin/py_cctv.py"
-    }
+      "key":"drpy_js_i275听书",
+      "name":"i275┃听书",
+      "type":3,
+      "api":"./libs/drpy2.min.js",
+      "ext":"./js/i275听书.js"
+    }    
   ],
   "rules":[
     {
