@@ -140,6 +140,13 @@
       "ext":"./js/555影视[V2].js"
     },
     {
+      "key":"drpy_js_真不卡",
+      "name":"不卡┃影院",
+      "type":3,
+      "api":"./libs/drpy2.min.js",
+      "ext":"./js/真不卡.js"
+    },   
+    {
       "key":"drpy_js_69美剧",
       "name":"六九┃美剧",
       "type":3,
@@ -217,12 +224,19 @@
       "ext":"./js/大米星球.js"
     },
     {
+      "key":"drpy_js_农民影视",
+      "name":"农民┃影视",
+      "type":3,
+      "api":"./libs/drpy2.min.js",
+      "ext":"./js/农民影视.js"
+    },
+    {
       "key":"drpy_js_干饭影视",
       "name":"干饭┃影视",
       "type":3,
       "api":"./libs/drpy2.min.js",
       "ext":"./js/干饭影视.js"
-    },
+    },    
     {
       "key":"drpy_js_咕噜咕噜",
       "name":"咕噜┃影视",
