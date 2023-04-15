@@ -572,17 +572,7 @@
     },
     {
       "key": "Zhaozy",
-      "name": "找資源",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./ali/token.txt"
-    },
-    {
-      "key": "Zhaozy",
-      "name": "找資源",
+      "name": "阿里┃資源",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -593,7 +583,7 @@
     },
     {
       "key": "YiSo",
-      "name": "易搜",
+      "name": "阿里┃易搜",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -604,7 +594,7 @@
     },
     {
       "key": "PanSou",
-      "name": "盤搜",
+      "name": "阿里┃盤搜",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -615,7 +605,7 @@
     },
     {
       "key": "UpYun",
-      "name": "雲搜",
+      "name": "阿里┃雲搜",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -626,7 +616,7 @@
     },
     {
       "key": "push_agent",
-      "name": "推送",
+      "name": "阿里┃推送",
       "type": 3,
       "api": "csp_Push",
       "searchable": 1,
