@@ -10,6 +10,16 @@
       "ext": "./js/drpy.js"
     },
     {
+      "key":"csp_Music",
+      "name":"音乐┃欣赏",
+      "api":"csp_Music",
+      "type":3,
+      "filterable":0,
+      "quickSearch":1,
+      "searchable":1,
+      "jar":"./qiaoji.jar;md5;58dbcf7265f01cc353e5b27855600236"
+    },
+    {
       "key":"csp_AList",
       "name":"Alist┃网盘",
       "type":3,
@@ -428,6 +438,16 @@
       "ext": "./XBPQ/量子影视.json"
     },
     {
+      "key": "肥猫",
+      "name": "肥猫┃影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XYQHiker/肥猫影视.json"
+    },    
+    {
       "key": "野荷塘",
       "name": "荷塘┃影院",
       "type": 3,
@@ -437,6 +457,16 @@
       "filterable": 1,
       "ext": "./XYQHiker/野荷塘影院.json"
     },
+    {
+      "key": "电影盒子",
+      "name": "盒子┃影院",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XYQHiker/电影盒子.json"
+    },    
     {
       "key": "有声小说吧",
       "name": "有声┃小说",
