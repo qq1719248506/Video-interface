@@ -466,6 +466,53 @@
       "filterable": 1
     },
     {
+      "key": "非凡",
+      "name": "非凡┃云播",
+      "type": 1,
+      "api": "https://www.ah121.com/api.php/provide/vod/from/ffm3u8/?at/xml/",
+      "playUrl": "https://api.maoyingshi.cc/home/api?type=app&uid=2893307&key=bfilpuwBCDHIORSZ56&url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "剧情片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "纪录片",        
+        "国产剧",
+        "港澳剧",
+        "台湾剧"
+      ]      
+    },    
+    {
+      "key": "量子",
+      "name": "量子┃云播",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
+      "playUrl": "json:https://www.itvbox.cc/fflz.php?url=",
+      "searchable": 1,
+      "filterable": 1,
+      "switchable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "剧情片",       
+        "战争片",
+        "纪录片",       
+        "国产剧",
+        "香港剧",
+        "台湾剧",        
+        "动漫",
+        "动漫",
+        "伦理片"
+      ]
+    },
+    {
       "key": "卧龙",
       "name": "卧龙┃云",
       "type": 1,
@@ -488,29 +535,6 @@
         "伦理片"
       ]      
     },    
-    {
-      "key": "量子",
-      "name": "量子┃云",
-      "type": 1,
-      "api": "http://cj.lziapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 1,
-      "switchable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "剧情片",       
-        "战争片",
-        "纪录片",       
-        "国产剧",
-        "香港剧",
-        "台湾剧",        
-        "动漫",
-        "动漫",
-        "伦理片"
-      ]
-    },
     {
       "key": "红牛",
       "name": "红牛┃云",
