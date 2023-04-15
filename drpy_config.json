@@ -45,7 +45,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "clan://drpy_js/alitoken.txt"
+      "ext": "./ali/token.txt"
     },    
     {
       "key": "紙條",
@@ -55,7 +55,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,      
-      "ext": "clan://drpy_js/alitoken.txt"
+      "ext": "./ali/token.txt"
     },
     {
       "key": "易搜",
@@ -65,7 +65,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,      
-      "ext": "clan://drpy_js/alitoken.txt"
+      "ext": "./ali/token.txt"
     },
     {
       "key": "盤搜",
@@ -75,7 +75,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,      
-      "ext": "clan://drpy_js/alitoken.txt"
+      "ext": "./ali/token.txt"
     },
     {
       "key": "雲搜",
@@ -95,7 +95,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "clan://drpy_js/alitoken.txt$$$yingshi$$$abcd1234"
+      "ext": "./ali/token.txt$$$yingshi$$$abcd1234"
     },
     {
       "key":"drpy_js_360影视",
