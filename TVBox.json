@@ -496,30 +496,6 @@
       "filterable": 1
     },    
     {
-      "key": "量子",
-      "name": "量子┃采集",
-      "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/?ac=list",
-      "playUrl": "https://lziplayer.com/?url=",
-      "searchable": 1,
-      "filterable": 1,
-      "switchable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "剧情片",       
-        "战争片",
-        "纪录片",       
-        "国产剧",
-        "香港剧",
-        "台湾剧",        
-        "动漫",
-        "动漫",
-        "伦理片"
-      ]
-    },
-    {
       "key": "卧龙",
       "name": "卧龙┃采集",
       "type": 1,
@@ -699,24 +675,6 @@
       "name": "解析聚合",
       "type": 3,
       "url": "Demo"
-    },
-    {
-      "name": "懒懒",
-      "type": 1,
-      "url": "http://lanlan.ckflv.cn/?url",
-      "ext":{
-        "flag":[
-          "qiyi",
-          "qq",
-          "letv",
-          "sohu",
-          "youku",
-          "mgtv",
-          "bilibili",
-          "wasu",
-          "xigua","1905"
-        ]
-      }
     },    
     {
       "name": "星辰",
@@ -735,6 +693,67 @@
       "name": "天空",
       "type": 1,
       "url": "http://www.pandown.pro/app/tkys/tkysjx.php?url="
+    },
+    {
+      "name": "懒懒",
+      "type": 1,
+      "url": "http://lanlan.ckflv.cn/?url",
+      "ext":{
+        "flag":[
+          "qiyi",
+          "qq",
+          "letv",
+          "sohu",
+          "youku",
+          "mgtv",
+          "bilibili",
+          "wasu",
+          "xigua","1905"
+        ]
+      }
+    },
+    {
+      "name":"GGplay",
+      "type":1,
+      "url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url=",
+      "ext":{
+        "flag":[
+          "qq",
+          "腾讯",
+          "企鹅",
+          "IQiYi",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "YouKu",
+          "优酷",
+          "sohu",
+          "SoHu",
+          "搜狐",
+          "letv",
+          "LeShi",
+          "乐视",
+          "imgo",
+          "mgtv",
+          "MangGuo",
+          "芒果",
+          "SLYS4k",
+          "BYGA",
+          "luanzi",
+          "AliS",
+          "dxzy",
+          "bilibili",
+          "QEYSS",
+          "xigua",
+          "西瓜视频",
+          "腾讯视频",
+          "奇艺视频",
+          "优酷视频",
+          "芒果视频",
+          "乐视视频"
+        ]
+      }
     },
     {
       "name":"酷享",
