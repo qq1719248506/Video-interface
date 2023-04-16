@@ -595,7 +595,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "./json/webdav.json",
-      "jar":"./ali.jar;md5;962a1af0469ede7b575046c69c1f52d3"
+      "jar":"./ali.jar;md5;be7bb5c4900ed56f8cc189aeabf0a989"
     },    
     {
       "key": "七夜",
@@ -606,7 +606,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "./ali/token.txt",
-      "jar":"./ali.jar;md5;962a1af0469ede7b575046c69c1f52d3"
+      "jar":"./ali.jar;md5;be7bb5c4900ed56f8cc189aeabf0a989"
     },    
     {
       "key": "Zhaozy",
@@ -617,7 +617,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "./ali/token.txt$$$yingshi$$$abcd1234",
-      "jar":"./ali.jar;md5;962a1af0469ede7b575046c69c1f52d3"
+      "jar":"./ali.jar;md5;be7bb5c4900ed56f8cc189aeabf0a989"
     },
     {
       "key": "YiSo",
@@ -628,7 +628,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "./ali/token.txt",
-      "jar":"./ali.jar;md5;962a1af0469ede7b575046c69c1f52d3"
+      "jar":"./ali.jar;md5;be7bb5c4900ed56f8cc189aeabf0a989"
     },
     {
       "key": "PanSou",
@@ -639,7 +639,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "./ali/token.txt",
-      "jar":"./ali.jar;md5;962a1af0469ede7b575046c69c1f52d3"
+      "jar":"./ali.jar;md5;be7bb5c4900ed56f8cc189aeabf0a989"
     },
     {
       "key": "UpYun",
@@ -650,7 +650,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "./ali/token.txt",
-      "jar":"./ali.jar;md5;962a1af0469ede7b575046c69c1f52d3"
+      "jar":"./ali.jar;md5;be7bb5c4900ed56f8cc189aeabf0a989"
     },
     {
       "key": "push_agent",
@@ -661,7 +661,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "./ali/token.txt",
-      "jar":"./ali.jar;md5;962a1af0469ede7b575046c69c1f52d3"
+      "jar":"./ali.jar;md5;be7bb5c4900ed56f8cc189aeabf0a989"
     }
   ],
   "lives":[
