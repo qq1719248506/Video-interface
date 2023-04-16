@@ -574,7 +574,18 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "./ali/token.txt",
-      "jar":"./ali.jar;md5;fec1811bad085e87682f64be8bc9885a"
+      "jar":"./ali.jar;md5;962a1af0469ede7b575046c69c1f52d3"
+    },
+    {
+      "key": "WebDAV",
+      "name": "WebDAV",
+      "type": 3,
+      "api": "csp_WebDAV",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "./json/webdav.json",
+      "jar":"./ali.jar;md5;962a1af0469ede7b575046c69c1f52d3"
     },    
     {
       "key": "七夜",
@@ -585,7 +596,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "./ali/token.txt",
-      "jar":"./ali.jar;md5;fec1811bad085e87682f64be8bc9885a"
+      "jar":"./ali.jar;md5;962a1af0469ede7b575046c69c1f52d3"
     },    
     {
       "key": "Zhaozy",
@@ -596,7 +607,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "./ali/token.txt$$$yingshi$$$abcd1234",
-      "jar":"./ali.jar;md5;fec1811bad085e87682f64be8bc9885a"
+      "jar":"./ali.jar;md5;962a1af0469ede7b575046c69c1f52d3"
     },
     {
       "key": "YiSo",
@@ -607,7 +618,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "./ali/token.txt",
-      "jar":"./ali.jar;md5;fec1811bad085e87682f64be8bc9885a"
+      "jar":"./ali.jar;md5;962a1af0469ede7b575046c69c1f52d3"
     },
     {
       "key": "PanSou",
@@ -618,7 +629,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "./ali/token.txt",
-      "jar":"./ali.jar;md5;fec1811bad085e87682f64be8bc9885a"
+      "jar":"./ali.jar;md5;962a1af0469ede7b575046c69c1f52d3"
     },
     {
       "key": "UpYun",
@@ -629,7 +640,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "./ali/token.txt",
-      "jar":"./ali.jar;md5;fec1811bad085e87682f64be8bc9885a"
+      "jar":"./ali.jar;md5;962a1af0469ede7b575046c69c1f52d3"
     },
     {
       "key": "push_agent",
@@ -640,7 +651,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "./ali/token.txt",
-      "jar":"./ali.jar;md5;fec1811bad085e87682f64be8bc9885a"
+      "jar":"./ali.jar;md5;962a1af0469ede7b575046c69c1f52d3"
     }
   ],
   "lives":[
