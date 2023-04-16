@@ -683,17 +683,12 @@
   ],
   "parses": [
     {
-      "name": "Json轮询",
-      "type": 2,
-      "url": "Sequence"
+      "name": "Web聚合",
+      "type": 3,
+      "url": "Web"
     },
     {
-      "name": "Json并发",
-      "type": 2,
-      "url": "Parallel"
-    },
-    {
-      "name": "解析聚合",
+      "name": "Json聚合",
       "type": 3,
       "url": "Demo"
     },    
@@ -729,7 +724,8 @@
           "mgtv",
           "bilibili",
           "wasu",
-          "xigua","1905"
+          "xigua",
+          "1905"
         ]
       }
     },
