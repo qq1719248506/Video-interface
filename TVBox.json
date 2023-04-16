@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-  "spider": "./TVBox.jar;md5;613066b0150c902b3d51bde7a433be83",
+  "spider": "./panda230414.jar;md5;dda0a355efe6ca703140e947f4493c3c",
   "sites": [
     {
       "key": "豆瓣",
