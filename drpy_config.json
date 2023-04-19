@@ -45,8 +45,8 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "./json/webdav.json"
-    },    
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json"
+    },   
     {
       "key": "七夜",
       "name": "阿里┃七夜",
@@ -300,18 +300,7 @@
       "filterable": 1,
       "ext": "./XBPQ/视觉影院.json",
       "jar":"./jar/spider.jar;md5;F3821BF69ACD87C46327F0F2A606303E"
-    },
-    {
-      "key": "磁力熊",
-      "name":"磁力┃搜索",
-      "type":3,
-      "api":"csp_XYQBiu",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"./XYQBiu/磁力熊.json",
-      "jar":"./jar/spider.jar;md5;F3821BF69ACD87C46327F0F2A606303E"
-    },    
+    },   
     {
       "key":"drpy_js_金曼影视",
       "name":"金曼┃影视",
