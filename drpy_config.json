@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-  "spider": "./custom_spider.jar;md5;be7bb5c4900ed56f8cc189aeabf0a989", 
+  "spider": "./jar/custom_spider.jar;md5;0bc15f10795f089154b14a04db37b9f4", 
   "sites": [
     {
       "key": "豆瓣",
@@ -95,7 +95,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "clan://drpy_js/alitoken.txt"
+      "ext": "./ali/token.txt"
     },
     {
       "key": "找資源",
@@ -107,6 +107,28 @@
       "changeable": 0,
       "ext": "./ali/token.txt$$$yingshi$$$abcd1234"
     },
+    {
+      "key":"csp_WoGG",
+      "name":"玩偶┃原画",
+      "type":3,
+      "api":"csp_WoGG",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./ali/token.txt",
+      "jar":"./jar/spider.jar;md5;F3821BF69ACD87C46327F0F2A606303E"
+    },
+    {
+      "key":"csp_FanYY",
+      "name":"剥饭┃原画",
+      "type":3,
+      "api":"csp_FanYY",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./ali/token.txt",
+      "jar":"./jar/spider.jar;md5;F3821BF69ACD87C46327F0F2A606303E"
+    },    
     {
       "key":"drpy_js_360影视",
       "name":"360┃官源",
@@ -277,8 +299,19 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./XBPQ/视觉影院.json",
-      "jar": "./fan.txt;md5;613066b0150c902b3d51bde7a433be83"
+      "jar":"./jar/spider.jar;md5;F3821BF69ACD87C46327F0F2A606303E"
     },
+    {
+      "key": "磁力熊",
+      "name":"磁力┃搜索",
+      "type":3,
+      "api":"csp_XYQBiu",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./XYQBiu/磁力熊.json",
+      "jar":"./jar/spider.jar;md5;F3821BF69ACD87C46327F0F2A606303E"
+    },    
     {
       "key":"drpy_js_金曼影视",
       "name":"金曼┃影视",
@@ -524,7 +557,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "clan://drpy_js/alitoken.txt"
+      "ext": "./ali/token.txt"
     }    
   ],
   "rules":[
