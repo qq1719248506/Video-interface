@@ -663,7 +663,12 @@
       "header": {
         "User-Agent": "Mozilla/5.0"
       }
-    },    
+    },
+    {
+      "name":"道长",
+      "type":1,
+      "url":"https://80k.tv/jxplayer.php?v="
+    },
     {
       "name":"懒懒",
       "type":1,
