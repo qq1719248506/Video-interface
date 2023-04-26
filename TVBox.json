@@ -721,6 +721,16 @@
       }
     },
     {
+      "name":"VIP酷云官方解析",
+      "type":1,
+      "url":"https://api.json.icu/api/?key=7c6d496074bf08ce46d0ca8870e11924&url="
+    },
+    {
+      "name":"辛店",
+      "type":1,
+      "url":"http://jx.xdv.icu/api/?key=FNagG1YD8BX0REkz7y&url="
+    },
+    {
       "name": "酷云",
       "type": 1,
       "url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=abhstwDGRSUVYZ0127&app&url=",
