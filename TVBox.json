@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-  "spider": "./jar/spider.jar;md5;f1ac34a2b0c660f755e7144a7008fa99",
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/jar/spider.jar;md5;f1ac34a2b0c660f755e7144a7008fa99",
   "sites": [
     {
       "key": "csp_Live2Vod",
