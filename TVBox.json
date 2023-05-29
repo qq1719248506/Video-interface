@@ -72,15 +72,6 @@
       "changeable":0
     },
     {
-      "key":"酷云77",
-      "name":"酷云┃七七",
-      "type":3,
-      "api":"csp_Kunyu77",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1
-    },
-    {
       "key":"小苹果",
       "name":"苹果┃影视",
       "type":3,
@@ -229,7 +220,7 @@
     },
     {
       "key":"大米星球",
-      "name":"大米星球",
+      "name":"大米┃星球",
       "type":3,
       "api":"csp_XBPQ",
       "searchable":1,
@@ -239,7 +230,7 @@
     },	
     {
       "key":"Smdyy",
-      "name":"神马影院",
+      "name":"神马┃影院",
       "type":3,
       "api":"csp_XBPQ",
       "searchable":1,
@@ -286,16 +277,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./XBPQ/悠幕影视.json"
-    },
-    {
-      "key": "蚂蚁",
-      "name": "蚂蚁┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XBPQ/蚂蚁影视.json"
     },    
     {
       "key": "端木蓝光",
@@ -456,15 +437,6 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"http://vod.dmdh.top:5680//api.php/app/"
-    },
-    {
-      "key": "熊熊",
-      "name": "熊熊┃影视",
-      "type": 1,
-      "api": "https://v.3412.net.cn/macapi.php/provide/vod",
-      "playUrl": "https://player.3412.net.cn/?url=",
-      "searchable": 1,
-      "changeable": 1
     },
     {
       "key": "鸡婆",
@@ -642,7 +614,7 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"./XYQHiker/土拨鼠.json"
-    }
+    },
     {
       "key":"我的小站",
       "name":"小站┃搜索",
