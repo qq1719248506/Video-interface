@@ -49,7 +49,7 @@
     },   
     {
       "key": "七夜",
-      "name": "阿里┃七夜",
+      "name": "七夜┃阿里",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
@@ -59,7 +59,7 @@
     },    
     {
       "key": "紙條",
-      "name": "阿里┃紙條",
+      "name": "紙條┃阿里",
       "type": 3,
       "api": "csp_Paper",
       "searchable": 1,
@@ -69,7 +69,7 @@
     },
     {
       "key": "易搜",
-      "name": "阿里┃易搜",
+      "name": "易搜┃阿里",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -79,7 +79,7 @@
     },
     {
       "key": "盤搜",
-      "name": "阿里┃盤搜",
+      "name": "盤搜┃阿里",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -89,7 +89,7 @@
     },
     {
       "key": "雲搜",
-      "name": "阿里┃雲搜",
+      "name": "雲搜┃阿里",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -99,7 +99,7 @@
     },
     {
       "key": "找資源",
-      "name": "阿里┃資源",
+      "name": "找片┃阿里",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -115,19 +115,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./ali/token.txt",
-      "jar":"./jar/spider.jar;md5;F3821BF69ACD87C46327F0F2A606303E"
-    },
-    {
-      "key":"csp_FanYY",
-      "name":"剥饭┃原画",
-      "type":3,
-      "api":"csp_FanYY",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"./ali/token.txt",
-      "jar":"./jar/spider.jar;md5;F3821BF69ACD87C46327F0F2A606303E"
+      "ext":"./ali/token.txt"
     },
     {
       "key":"py_cctv",
@@ -319,7 +307,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./XBPQ/视觉影院.json",
-      "jar":"./jar/spider.jar;md5;F3821BF69ACD87C46327F0F2A606303E"
+      "jar":"./jar/XBPQ.jar;md5;F3821BF69ACD87C46327F0F2A606303E"
     },   
     {
       "key":"drpy_js_金曼影视",
