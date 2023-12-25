@@ -1,32 +1,49 @@
 {
-    "drives": [
+  "vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
+  "drives": [
+    {
+      "name": "托盘",
+      "server": "https://pan.mediy.cn/"
+    },  
+    {
+      "name": "小雅",
+      "server": "http://alist.xiaoya.pro"
+    },
+    {
+      "name": "觸光",
+      "server": "https://pan.ichuguang.com"
+    },
+    {
+      "name": "一只魚",
+      "server": "https://vtok.pp.ua/"
+    },
+    {
+      "name": "七米藍",
+      "server": "https://al.chirmyram.com"
+    },
+    {
+      "name": "神族九帝",
+      "server": "https://alist.shenzjd.com"
+    },
+    {
+      "name": "梓澪",
+      "server": "https://zi0.cc"
+    },
+    {
+      "name": "範本",
+      "server": "https://one.fongmi.com",
+      "search": true,
+      "hidden": false,
+      "login": {
+        "username": "fongmi",
+        "password": "fongmi"
+      },
+      "params": [
         {
-            "name": "Lan同学👨‍🎓",
-            "server": "https://l.lantongxue.repl.co"
-        },
-        {
-            "name": "小雅",
-            "server": "http://alist.xiaoya.pro/测试（不限速）"
-        },
-        {
-            "name": "触光",
-            "server": "https://pan.ichuguang.com"
-        },
-        {
-            "name": "星梦",
-            "server": "https://pan.bashroot.top"
-        },
-        {
-            "name":"姹莱坞",
-            "server": "https://a.aa01.ml","passwd":"agree"
-        },
-        {
-            "name":"AR盘",
-            "server": "https://xn--ar-4g8e.tk"
-        },
-        {
-            "name": "云星",
-            "server": "http://alist.itvbox.cc/云星Open（不限速）"
+          "path": "/安齋拉拉",
+          "pass": "18181818"
         }
-    ]
+      ]
+    }
+  ]
 }
