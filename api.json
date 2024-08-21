@@ -437,19 +437,6 @@
       "ext": "./XBPQ/评书.json"
     },    
     {
-      "key":"csp_皮皮",
-      "name":"皮皮",
-      "type":3,
-      "api":"csp_XBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":{
-        "分类url":"http://pptv06.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
-        "分类":"电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"
-      }
-    },
-    {
       "key": "csp_毒蛇",
       "name": "毒蛇",
       "type": 3,
@@ -468,26 +455,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./XBPQ/麻衣.json"
-    },   
-    {
-      "key": "csp_星辰",
-      "name": "星辰",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XBPQ/星辰.json"
-    },               
-    {
-      "key": "攻阁",
-      "name": "攻阁",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "playerType": "1",
-      "ext": "./XBPQ/攻阁.json"
-    },                
+    },                                  
     {
       "key": "胖虎",
       "name": "胖虎",
@@ -497,14 +465,6 @@
       "quickSearch": 1,
       "ext": "./XBPQ/胖虎.json"
     },    
-    {
-      "key": "索尼",
-      "name": "索尼",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "ext": "./XBPQ/索尼.json"
-    },
     {
       "key": "rarbt",
       "name": "rarbt",
@@ -533,35 +493,7 @@
         "分类url":"https://shoubozhan.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
         "分类":"电视剧$2#电影$1#动漫$4#综艺$3#短剧$32#伦理片$12"
       }
-    },    
-    {
-      "key": "鱼乐",
-      "name": "鱼乐",
-      "type": 1,
-      "api": "https://api.ylzy.me/api.php/provide/vod/",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 10,
-      "categories": [
-        "纪录片",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "战争片",
-        "剧情片",
-        "邵氏电影",
-        "韩国综艺",
-        "国产综艺",
-        "日本综艺",
-        "欧美综艺",
-        "伦理片",
-        "港台三级",
-        "西方伦理",
-        "日本伦理"
-      ]
-    },    
+    },        
     {
       "key": "push_agent",
       "name": "推送",
