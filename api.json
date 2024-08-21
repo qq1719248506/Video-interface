@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/fan.jar;md5;3C72FD348804EB888D933A4078340E0A",
+  "spider": "./jar/spider.jar;md5;938F4E3B74229FFD4D9D99F17C23489D",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -74,18 +74,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://czzy.top/"
-    },
-    {
-      "key": "视觉",
-      "name": "视觉",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.80yy3.com/"
+      "ext": "https://www.czys.pro/"
     },
     {
       "key": "南瓜",
@@ -119,24 +108,23 @@
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json"
     },
     {
-      "key": "蛋蛋",
-      "name": "蛋蛋",
+      "key": "煤球",
+      "name": "煤球",
       "type": 3,
-      "api": "csp_Cddys",
-      "playerType": 2,
+      "api": "csp_Appmq",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },    
+    },      
     {
       "key": "小点",
       "name": "兄弟",
       "type": 3,
-      "api": "csp_Xdys",
+      "api": "csp_Appxd",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
+      "changeable": 0,
+      "ext": "FbjEd1ddiJ6bwA0Z8ijG89k6OstPBosSHy5L8uXWgRZGSNrCqC7DmxucvvflR3fsMy/Wnih3xSpmA3pwCNspfAcIH4fYhmOEdGxX3jEdjqUpC+m0fSxkNAbkIy0diJWirn+WOtBkBcYhsgA8u1igBBUadbO0s0MCPsYcbHFRNw=="
     },
     {
       "key": "热播",
@@ -189,27 +177,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },    
-    {
-      "key": "Zx4k",
-      "name": "专线",
-      "type": 3,
-      "api": "csp_Zx4k",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },    
-    {
-      "key": "比特",
-      "name": "比特",
-      "type": 3,
-      "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+    },        
     {
       "key": "可可",
       "name": "可可",
@@ -226,11 +194,13 @@
       "name": "利播",
       "type": 3,
       "api": "csp_Libvio",
-      "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.libvio.pw/"
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
     },
     {
       "key": "Auete",
@@ -245,7 +215,7 @@
     },
     {
       "key": "新6V",
-      "name": "新6V",
+      "name": "磁力",
       "type": 3,
       "api": "csp_SixV",
       "searchable": 1,
@@ -254,12 +224,23 @@
       "ext": "http://www.xb6v.com/"
     },    
     {
-      "key": "360kan",
+      "key": "360影视",
       "name": "360",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "ext": "./js/360影视.js"      
+    },
+    {
+      "key": "hipy_js_菜狗[官]",
+      "name": "搜狗",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/菜狗[官].js"
     },    
     {
       "key": "武享吧",
@@ -268,6 +249,15 @@
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "ext": "./js/武享吧.js"      
+    },
+    {
+      "key": "采集之王",
+      "name": "采集",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "./js/采集之王.js?type=url&params=../json/采集静态.json$1$1"
     },    
     {
       "key": "Dm84",
@@ -306,58 +296,6 @@
       "changeable": 1
     },
     {
-      "key": "88js",
-      "name": "看球",
-      "type": 3,
-      "api": "csp_Kanqiu",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "Jrsjs",
-      "name": "球迷",
-      "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "企鹅体育xp",
-      "name": "企鹅",
-      "type": 3,
-      "api": "csp_XPath",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/企鹅直播.json"
-    },
-    {
-      "key": "酷奇",
-      "name": "酷奇",
-      "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/酷奇MV.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
       "key": "MTV",
       "name": "明星",
       "type": 3,
@@ -369,71 +307,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json"
-    },
-    {
-      "key": "csp_Yj1211",
-      "name": "网红",
-      "type": 3,
-      "api": "csp_Yj1211",
-      "playerType": "1",
-      "searchable": 0,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "key": "虎牙直播js",
-      "name": "虎牙",
-      "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/huya2.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.755
-      },
-      "playerType": "1",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "斗鱼js",
-      "name": "斗鱼",
-      "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/斗鱼直播.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.755
-      },
-      "playerType": "1",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "聚短视频js",
-      "name": "聚短",
-      "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/短视频.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "有声小说js",
-      "name": "小说",
-      "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/有声小说吧.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
+      "ext": "./json/MTV.json"
     },
     {
       "key": "Aid",
@@ -457,11 +331,23 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "pan": "quark",
-        "quarkCookie": "tvfan/cookie.txt",
-        "from": "4k|auto|fhd"
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
       }
-    },    
+    },
+    {
+      "key": "抠搜",
+      "name": "抠搜",
+      "type": 3,
+      "api": "csp_KkSs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },        
     {
       "key": "夸搜",
       "name": "夸搜",
@@ -472,8 +358,8 @@
       "changeable": 0,
       "ext": {
         "pan": "quark",
-        "quarkCookie": "tvfan/cookie.txt",
-        "from": "4k|auto|fhd"
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
       }
     },
     {
@@ -485,8 +371,8 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "tvfan/token.txt",
-        "from": "4k|auto|fhd"
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
       }
     },
     {
@@ -498,23 +384,43 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "tvfan/token.txt",
-        "from": "4k|auto|fhd"
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
       }
     },
     {
-      "key": "UpYun",
-      "name": "雲搜",
+      "key": "hipy_js_狗狗盘[搜]",
+      "name": "狗盘",
       "type": 3,
-      "api": "csp_UpYun",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "aliToken": "tvfan/token.txt",
-        "from": "4k|auto|fhd"
-      }
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/狗狗盘[搜].js"
     },
+    {
+      "key": "hipy_js_小站盘[搜]",
+      "name": "小站",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/小站盘[搜].js"
+    },    
+    {
+      "key": "hipy_js_影搜[搜]",
+      "name": "影搜",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/影搜[搜].js"
+    },    
     {
       "key": "PanSearch",
       "name": "盘寻",
@@ -524,8 +430,8 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "tvfan/token.txt",
-        "from": "4k|auto|fhd"
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
       }
     },
     {
@@ -583,17 +489,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./XBPQ/星辰.json"
-    },       
-    {
-      "key": "csp_黑狐",
-      "name": "黑狐",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XBPQ/黑狐.json"
-    },        
+    },               
     {
       "key": "攻阁",
       "name": "攻阁",
@@ -621,12 +517,12 @@
       "ext": "./XBPQ/索尼.json"
     },
     {
-      "key": "量子",
-      "name": "量子",
+      "key": "rarbt",
+      "name": "rarbt",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
-      "ext": "./XBPQ/量子.json"
+      "ext": "./XBPQ/rarbt.json"
     },
     {
       "key": "即看",
@@ -637,17 +533,7 @@
       "ext": "./XBPQ/即看.json"
     },    
     {
-      "key":"csp_茶杯",
-      "name":"茶杯",
-      "type":3,
-      "api":"csp_XBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"./XBPQ/茶杯.json"
-    },
-    {
-      "key":"csp_首播",
+      "key":"首播",
       "name":"首播",
       "type":3,
       "api":"csp_XBPQ",
@@ -658,17 +544,7 @@
         "分类url":"https://shoubozhan.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
         "分类":"电视剧$2#电影$1#动漫$4#综艺$3#短剧$32#伦理片$12"
       }
-    },
-    {
-      "key": "PTT",
-      "name": "PTT",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable":1,
-      "ext":"./XBPQ/PTT.json"
-    },
+    },    
     {
       "key": "鱼乐",
       "name": "鱼乐",
@@ -705,9 +581,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "ext": {
-        "aliToken": "tvfan/token.txt",
-        "quarkCookie": "tvfan/cookie.txt",
-        "from": "4k|auto|fhd"
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
       }
     },
     {
@@ -722,7 +597,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/bilibili.json"
+      "ext": "./json/bilibili.json"
     },
     {
       "key": "Biliych",
@@ -736,21 +611,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json"
-    },
-    {
-      "key": "dr_兔小贝",
-      "name": "兔小贝",
-      "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
+      "ext": "./json/biliych.json"
     },
     {
       "key": "少儿教育",
