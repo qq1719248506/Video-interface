@@ -43,7 +43,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
+    },  
     {
       "key": "酷看",
       "name": "酷看",
@@ -75,7 +75,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.czys.pro/"
-    },
+    },    
     {
       "key": "南瓜",
       "name": "南瓜",
