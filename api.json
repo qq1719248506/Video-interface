@@ -437,6 +437,26 @@
       "ext": "./XBPQ/评书.json"
     },
     {
+      "key": "奇侠",
+      "name": "奇侠",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/奇侠.json"
+    },
+    {
+      "key": "XBPQ_石榴",
+      "name": "石榴",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/石榴.json"
+    },    
+    {
       "key": "皮皮",
       "name": "皮皮",
       "type": 3,
