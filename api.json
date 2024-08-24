@@ -400,7 +400,7 @@
       "ext": "./js/小站盘[搜].js"
     },    
     {
-      "key": "js_白夜影视",
+      "key": "js_白夜影院",
       "name": "白夜",
       "type": 3,
       "api": "./lib/drpy2.min.js",
@@ -408,7 +408,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "./js/白夜影视.js"
+      "ext": "./js/白夜影院.js"
     },
     {
       "key": "js_飞飞影视",
@@ -456,16 +456,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./XBPQ/奇侠.json"
-    },
-    {
-      "key": "XBPQ_石榴",
-      "name": "石榴",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XBPQ/石榴.json"
     },    
     {
       "key": "皮皮",
