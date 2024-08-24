@@ -409,6 +409,17 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "./js/红狐影视.js"
+    },
+    {
+      "key": "js_飞飞影视",
+      "name": "飞飞",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/飞飞影视.js"
     },    
     {
       "key": "PanSearch",
