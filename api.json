@@ -514,14 +514,6 @@
       "ext": "./XBPQ/胖虎.json"
     },    
     {
-      "key": "rarbt",
-      "name": "rarbt",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "ext": "./XBPQ/rarbt.json"
-    },
-    {
       "key": "即看",
       "name": "即看",
       "type": 3,
@@ -577,7 +569,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
       "ext": "./json/biliych.json"
@@ -651,35 +643,92 @@
       "url": "Web"
     },
     {
-      "name": "觅知",
+      "name": "解析_1",
       "type": 1,
-      "url": "http://103.233.255.142:1133/?url="
+      "url": "https://cdn.suxun.site/api/?key=7QeqS18ZCrJgj0BSOn&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
     },
     {
-      "name": "官解",
+      "name": "解析_2",
       "type": 1,
-      "url": "http://119.91.123.253:1234/Api/cs.php?url="
-    },    
-    {
-      "name": "土豆",
-      "type": 1,
-      "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url="
+      "url": "http://117.50.183.202:8036/?ip=111.55.12.236&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
     },
     {
-      "name": "厂长",
+      "name": "腾4K",
       "type": 1,
-      "url": "http://119.91.31.224:9004/changzhang.php?url="
-    },
-    {
-      "name": "内部",
-      "type": 1,
-      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
-    },  
-    {
-      "name": "夜猫",
-      "type": 1,
-      "url": "http://119.91.123.253:2345/Api/yun.php?url="
-    }
+      "url": "http://www.mpanso.com/woaini.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    }    
   ],
   "doh": [
     {
