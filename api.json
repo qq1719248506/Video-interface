@@ -400,15 +400,15 @@
       "ext": "./js/小站盘[搜].js"
     },    
     {
-      "key": "hipy_js_影搜[搜]",
-      "name": "影搜",
+      "key": "js_红狐影视",
+      "name": "红狐",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "./js/影搜[搜].js"
+      "ext": "./js/红狐影视.js"
     },    
     {
       "key": "PanSearch",
