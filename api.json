@@ -400,15 +400,15 @@
       "ext": "./js/小站盘[搜].js"
     },    
     {
-      "key": "js_红狐影视",
-      "name": "红狐",
+      "key": "js_白夜影视",
+      "name": "白夜",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "./js/红狐影视.js"
+      "ext": "./js/白夜影视.js"
     },
     {
       "key": "js_飞飞影视",
