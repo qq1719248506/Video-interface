@@ -547,6 +547,24 @@
       }
     },
     {
+      "key": "追风资源",
+      "name": "追风",
+      "type": 1,
+      "api": "http://www.zfsp.cc/api.php/provide/vod/"
+    },
+    {
+      "key": "优质资源",
+      "name": "优质",
+      "type": 0,
+      "api": "https://api.1080zyku.com/inc/ldg_api.php"
+    },
+    {
+      "key": "猫咪资源",
+      "name": "猫咪",
+      "type": 1,
+      "api": "http://zy.xiaomaomi.cc/api.php/provide/vod"
+    },    
+    {
       "key": "Bili",
       "name": "哔哩",
       "type": 3,
