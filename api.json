@@ -556,7 +556,22 @@
       "key": "优质资源",
       "name": "优质",
       "type": 0,
-      "api": "https://api.1080zyku.com/inc/ldg_api.php"
+      "api": "https://api.1080zyku.com/inc/ldg_api.php",
+      "searchable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "剧情片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "纪录片",        
+        "国产剧",
+        "香港剧",
+        "台湾剧",        
+        "伦理片"
+      ]
     },
     {
       "key": "猫咪资源",
