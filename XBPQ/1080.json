@@ -14,4 +14,5 @@
 
     "分类url":"https://www.1080.ee/vodtype/{cateId}/index{catePg}.html[https://www.1080.ee/vodtype/{cateId}.html];;k",
     
-    "分类":"电影$1#电视剧$2#综艺$3#动漫$20}
+    "分类":"电影$1#电视剧$2#综艺$3#动漫$20"
+    }
