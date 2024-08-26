@@ -553,6 +553,12 @@
       "api": "http://www.zfsp.cc/api.php/provide/vod/"
     },
     {
+      "key": "无忧资源",
+      "name": "无忧",
+      "type": 1,
+      "api": "https://www.wyvod.com/api.php/provide/vod/"
+    },    
+    {
       "key": "优质资源",
       "name": "优质",
       "type": 0,
