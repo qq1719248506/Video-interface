@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/spider.jar;md5;571DBCADC4ADB2FE45B7FB27D441EE5A",
+  "spider": "./jar/spider.jar;md5;F47AD3D97D5117BD927260BDE48FB33C",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -92,15 +92,6 @@
       "name": "苹果",
       "type": 3,
       "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "煤球",
-      "name": "煤球",
-      "type": 3,
-      "api": "csp_Appmq",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
