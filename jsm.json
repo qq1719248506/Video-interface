@@ -300,7 +300,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./PG/lib/tokenm.json$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./PG/lib/tokenm.json$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$./PG/lib/wogg.json$$$WOGG"
     },
     {
       "key": "Wobg",
@@ -311,7 +311,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./PG/lib/tokenm.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$./lib/wogg.json$$$WOBG"
+      "ext": "./PG/lib/tokenm.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$./PG/lib/wogg.json$$$WOBG"
     },
     {
       "key": "yydsys",
@@ -322,7 +322,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./PG/lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json$$$WNLG"
+      "ext": "./PG/lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./PG/lib/wogg.json$$$WNLG"
     },
     {
       "key": "蜡笔网盘",
@@ -333,7 +333,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./PG/lib/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json$$$LABI"
+      "ext": "./PG/lib/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./PG/lib/wogg.json$$$LABI"
     },
     {
       "key": "Mogg",
@@ -344,7 +344,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./PG/lib/tokenm.json$$$http://mogg.top/$$$noproxy$$$1$$$./lib/wogg.json$$$MOGG"
+      "ext": "./PG/lib/tokenm.json$$$http://mogg.top/$$$noproxy$$$1$$$./PG/lib/wogg.json$$$MOGG"
     },
     {
       "key": "土豆",
@@ -355,7 +355,7 @@
       "filterable": 0,
       "changeable": 1,
       "timeout": 60,
-      "ext": "./PG/lib/tokenm.json$$$https://tudou.lvdoui.top/$$$proxy$$$1$$$./lib/wogg.json$$$TUDOU"
+      "ext": "./PG/lib/tokenm.json$$$https://tudou.lvdoui.top/$$$proxy$$$1$$$./PG/lib/wogg.json$$$TUDOU"
     },
     {
       "key": "小米网盘",
@@ -366,7 +366,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./PG/lib/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
+      "ext": "./PG/lib/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$./PG/lib/wogg.json$$$XIAOMI"
     },
     {
       "key": "Gaoqing",
@@ -410,7 +410,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./PG/lib/tokenm.json$$$https://6080z.com/$$$noproxy$$$1$$$./lib/wogg.json"
+      "ext": "./PG/lib/tokenm.json$$$https://6080z.com/$$$noproxy$$$1$$$./PG/lib/wogg.json"
     },
     {
       "key": "团长资源",
@@ -443,7 +443,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./PG/lib/tokenm.json$$$https://www.hdmoli.pro/$$$proxy$$$1$$$./lib/moli.json"
+      "ext": "./PG/lib/tokenm.json$$$https://www.hdmoli.pro/$$$proxy$$$1$$$./PG/lib/moli.json"
     },
     {
       "key": "Hdhive",
@@ -562,7 +562,7 @@
       "type": 3,
       "api": "csp_YiSo",
       "timeout": 60,
-      "ext": "./PG/lib/tokenm.json$$$./lib/yiso.txt",
+      "ext": "./PG/lib/tokenm.json$$$./PG/lib/yiso.txt",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -660,7 +660,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./PG/lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$./lib/qianfan.txt$$$1"
+      "ext": "./PG/lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$./PG/lib/qianfan.txt$$$1"
     },
     {
       "key": "YunSo",
@@ -829,7 +829,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./PG/lib/tokenm.json$$$./lib/4khdr.txt$$$1",
+      "ext": "./PG/lib/tokenm.json$$$./PG/lib/4khdr.txt$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
