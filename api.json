@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/spider.jar;md5;B8CC9470AB83041C0A9C776A111C2E6C",
+  "spider": "./jar/fan.jar;md5;19cc57947bcb675cf51e2014acf01384",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -107,6 +107,15 @@
       "ext": "FbjEd1ddiJ6bwA0Z8ijG89k6OstPBosSHy5L8uXWgRZGSNrCqC7DmxucvvflR3fsMy/Wnih3xSpmA3pwCNspfAcIH4fYhmOEdGxX3jEdjqUpC+m0fSxkNAbkIy0diJWirn+WOtBkBcYhsgA8u1igBBUadbO0s0MCPsYcbHFRNw=="
     },
     {
+      "key":"煤球",
+      "name":"煤球",
+      "type":3,
+      "api":"csp_Appmq",
+      "searchable":1,
+      "quickSearch":1,
+      "changeable":1
+    },
+    {
       "key": "热播",
       "name": "热播",
       "type": 3,
@@ -118,6 +127,14 @@
       "changeable": 1,
       "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
     },
+    {
+      "key": "追剧",
+      "name": "追剧",
+      "type": 3,
+      "api": "csp_AppTT",
+      "playerType": 2,
+      "ext": "AO7TcBkd8IPB+BwH4Qma+opv"
+    },    
     {
       "key": "萌米",
       "name": "萌米",
