@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/fan.jar;md5;69de3090b59abe1e072e93a39fa2cb0a",
+  "spider": "./jar/fan.jar;md5;28d0587b6211a7d85713f46f12a89522",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -35,6 +35,16 @@
       "quickSearch": 0,
       "changeable": 0
     },
+    {
+      "key": "alllive",
+      "name": "直播",
+      "type": 3,
+      "api": "csp_Alllive",
+      "playerType": 2,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },    
     {
       "key": "短剧",
       "name": "短剧",
@@ -75,6 +85,16 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.czys.pro/"
+    },
+    {
+      "key": "糯米",
+      "name": "农民",
+      "type": 3,
+      "api": "csp_Nmyswv",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },    
     {
       "key": "南瓜",
@@ -95,26 +115,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },      
-    {
-      "key": "小点",
-      "name": "小点",
-      "type": 3,
-      "api": "csp_Appxd",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "FbjEd1ddiJ6bwA0Z8ijG89k6OstPBosSHy5L8uXWgRZGSNrCqC7DmxucvvflR3fsMy/Wnih3xSpmA3pwCNspfAcIH4fYhmOEdGxX3jEdjqUpC+m0fSxkNAbkIy0diJWirn+WOtBkBcYhsgA8u1igBBUadbO0s0MCPsYcbHFRNw=="
-    },  
-    {
-      "key":"煤球",
-      "name":"煤球",
-      "type":3,
-      "api":"csp_Appmq",
-      "searchable":1,
-      "quickSearch":1,
-      "changeable":1
-    },
+    },        
     {
       "key": "热播",
       "name": "热播",
@@ -144,6 +145,16 @@
       "playerType": 1,
       "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
     },
+    {
+      "key": "樱花",
+      "name": "樱花",
+      "type": 3,
+      "api": "csp_Yh007",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },   
     {
       "key": "zxzj",
       "name": "在线",
@@ -210,6 +221,15 @@
       "changeable": 1,
       "ext": "https://auete.pro/"
     },
+    {
+      "key": "比特",
+      "name": "比特",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },   
     {
       "key": "新6V",
       "name": "磁力",
@@ -408,15 +428,15 @@
       "ext": "./js/小站盘[搜].js"
     },    
     {
-      "key": "js_飞飞影视",
-      "name": "飞飞",
+      "key": "hipy_js_阿里土豆[盘]",
+      "name": "土豆",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "./js/飞飞影视.js"
+      "ext": "./js/阿里土豆[盘].js"
     },    
     {
       "key": "PanSearch",
@@ -851,6 +871,35 @@
         }
       }
     },
+    {
+      "name": "1080解析",
+      "type": 1,
+      "url": "https://jf.lemiaoyun.cn/api/?key=86950663b3198d25885fdf61501a3366&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },    
     {
       "name": "反弹",
       "type": 1,
