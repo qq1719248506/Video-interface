@@ -383,6 +383,17 @@
       }
     },
     {
+      "key": "hipy_js_阿里土豆[盘]",
+      "name": "土豆",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/阿里土豆[盘].js"
+    },    
+    {
       "key": "配置",
       "name": "网盘",
       "type": 3,
