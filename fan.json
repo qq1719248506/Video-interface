@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/fan.jar;md5;28d0587b6211a7d85713f46f12a89522",
+  "spider": "./jar/fan.jar;md5;ae2d84fc733ad99fd2346144f1a592af",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -144,16 +144,6 @@
       "timeout": 15,
       "playerType": 1,
       "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
-    },
-    {
-      "key": "樱花",
-      "name": "樱花",
-      "type": 3,
-      "api": "csp_Yh007",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },   
     {
       "key": "zxzj",
@@ -328,7 +318,20 @@
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto"
       }
-    },        
+    },
+    {
+      "key": "Sso",
+      "name": "盘他",
+      "type": 3,
+      "api": "csp_PanSso",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },    
     {
       "key": "夸搜",
       "name": "夸搜",
@@ -348,19 +351,6 @@
       "name": "易搜",
       "type": 3,
       "api": "csp_YiSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "PanSou",
-      "name": "盘搜",
-      "type": 3,
-      "api": "csp_PanSou",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
