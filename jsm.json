@@ -1,5 +1,5 @@
 {
-  "spider": "./PG/pg.jar;md5;BF3BAAE72EC785D580F88E97F60404CA",
+  "spider": "./jar/pg.jar;md5;e38eae28a7e71dab9a634f9b650c3460",
   "sites": [
     {
       "key": "豆瓣",
@@ -604,7 +604,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./PG/lib/tokenm.json",
+      "ext": "./lib/tokenm.json",
       "style": {
         "type": "list",
         "ratio": 1.1
