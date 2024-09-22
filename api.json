@@ -539,8 +539,8 @@
       "name": "哔哩",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/bilibili.json"
     }
