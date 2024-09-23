@@ -229,6 +229,18 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://www.xb6v.com/"
+    },
+    {
+      "key": "摘星",
+      "name": "✨摘星┃解析",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "./js/摘星.js"
     },    
     {
       "key": "360影视",
