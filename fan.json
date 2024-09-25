@@ -235,7 +235,7 @@
     },
     {
       "key": "摘星",
-      "name": "✨摘星┃解析",
+      "name": "摘星",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
@@ -264,14 +264,6 @@
       "order_num": 0,
       "ext": "./js/菜狗[官].js"
     },    
-    {
-      "key": "武享吧",
-      "name": "UFC",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "ext": "./js/武享吧.js"      
-    },
     {
       "key": "采集之王",
       "name": "采集",
@@ -375,15 +367,15 @@
       }
     },
     {
-      "key": "hipy_js_狗狗盘[搜]",
-      "name": "狗盘",
+      "key": "hipy_js_趣盘搜",
+      "name": "趣盘",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "./js/狗狗盘[搜].js"
+      "ext": "./js/趣盘搜.js"
     },
     {
       "key": "hipy_js_小站盘[搜]",
