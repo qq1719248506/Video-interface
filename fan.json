@@ -402,44 +402,6 @@
       }
     },
     {
-      "key":"csp_XBPQ_搜搜",
-      "name":"搜搜",
-      "type":3,
-      "api":"csp_XBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":{
-        "请求头":"User-Agent$okhttp/4.1.0",
-        "主页url":"http://124.222.116.5/mb/sxys/api.php/provide/vod/?ac=list&ac=detail",
-        "分类url":"http://124.222.116.5/mb/sxys/api.php/provide/vod/?ac=detail&t={cateId}&pg={catePg};;v",
-        "搜索模式":"1",
-        "搜索url":"http://124.222.116.5/mb/sxys/api.php/provide/vod/?ac=videolist&wd={wd}",
-        "数组二次截取":"",
-        "数组":"{\"v&&}",
-        "图片":"vod_pic\":\"&&\"",
-        "标题":"vod_name\":\"&&\"",
-        "副标题":"vod_remarks\":\"&&\"",
-        "链接":"http://124.222.116.5/mb/sxys/api.php/provide/vod/?ac=detail&ids=+od_id\":&&,",
-        "影片类型":"vod_class\"*\"&&\"",
-        "影片年代":"vod_year\"*\"&&\"",
-        "影片地区":"vod_area\"*\"&&\"",
-        "导演":"vod_director\"*\"&&\"",
-        "主演":"vod_actor\"*\"&&\"",
-        "简介":"vod_remarks\"*\"&&\"+vod_content\"*\"&&\"",
-        "线路二次截取":"",
-        "线路数组":"\"vod_play_from\":&&,",
-        "线路标题":"\"&&\"",
-        "播放二次截取":"",
-        "播放数组":"vod_play_url\"&&\"vod_[替换:\\#>>\",:\"]",
-        "播放列表":":&&,",
-        "播放标题":"\"&&$",
-        "跳转解析":"默认#http://pan.qiaoji8.com/tvbox/neibu.php?url=#mytv$http://pan.qiaoji8.com/tvbox/neibu.php?url=#BTOL$http://pan.qiaoji8.com/tvbox/gouzi.php?url=#BBA$http://pan.qiaoji8.com/tvbox/gouzi.php?url=#nmys2$http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
-        "播放链接":"解析+$&&\"",
-        "跳转播放链接":"url\"*\"&&\""
-      }
-    },
-    {
       "key":"csp_XBPQ_兄弟",
       "name":"兄弟",
       "type":3,
@@ -447,21 +409,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":{
-        "主页url":"https://www.brovod.com/",
-        "副标题":"pic-text text-right\">&&</b>",
-        "图片":"data-original=\"&&\"",
-        "嗅探词":".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-        "搜索url":"https://www.brovod.com/ss/-------------/?wd={wd}",
-        "影片类型":"<div class=\"module-info-tag\">&&立即播放",
-        "线路数组":"data-dropdown-value=&&</div>",
-        "播放列表":"<a&&/a>","播放标题":"<span>&&</span>",
-        "跳转播放链接":"var now=\"&&\"",
-        "导演":"导演：&&</div>",
-        "主演":"主演：&&</div>",
-        "分类":"电影$1#电视剧$2#动漫$4n#综艺$3#短剧$6",
-        "分类url":"https://www.brovod.com/show/{cateId}-----------{year}/"
-      }
+      "ext": "./XBPQ/兄弟.json"
     },
     {
       "key":"csp_XBPQ_一起",
@@ -471,19 +419,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":{
-        "线路数组":"#playlist*\">&&</a>",
-        "线路标题":">&&<[替换:*集>>线路]",
-        "播放数组":"class=\"playlistlink&&</ul>",
-        "播放列表":"<li&&</li>",
-        "播放标题":"title=\"&&\"",
-        "播放链接":"href=\"&&\"",
-        "跳转播放链接":"varurlDecode(var player*url\":\"&&\")",
-        "分类url":"http://www.lxsgsy.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan=&state=&money=&ver=&jq=[]",
-        "分类":"电影&电视剧&综艺&动漫&短剧",
-        "分类值":"1&2&3&4&30"
-      }
-    },
+      "ext": "./XBPQ/一起.json"
     {
       "key": "奇侠",
       "name": "奇侠",
@@ -514,25 +450,6 @@
       "ext": "./XBPQ/胖虎.json"
     },    
     {
-      "key":"蛙蛙",
-      "name":"蛙蛙",
-      "type":3,
-      "api":"csp_XBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":{
-        "主页url":"https://www.wvod.tv/",
-        "数组":"hl-col-lg-2\"&&</a>",
-        "图片":"data-original=\"&&\"",
-        "标题":"title=\"&&\"",
-        "链接":"href=\"&&\"",
-        "简介":"简介：&&</li>",
-        "分类url":"https://www.wvod.tv/vodshow/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类":"电影$20#电视剧$21#综艺$22#动漫$23#体育$25#纪录片$24"
-      }
-    },
-    {
       "key":"首播",
       "name":"首播",
       "type":3,
@@ -540,10 +457,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":{
-        "分类url":"https://shoubozhan.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
-        "分类":"电视剧$2#电影$1#动漫$4#综艺$3#短剧$32#伦理片$12"
-      }
+      "ext": "./XBPQ/首播.json"
     },        
     {
       "key": "push_agent",
