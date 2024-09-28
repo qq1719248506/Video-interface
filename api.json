@@ -136,7 +136,7 @@
     },
     {
       "key": "csp_SuBaiBai",
-      "name": "素白白",
+      "name": "白白",
       "type": 3,
       "api": "csp_SuBaiBai",
       "searchable": 1,
@@ -378,12 +378,13 @@
       "filterable": 0,
       "switchable": 0,
       "ext": {
+        "cookie": "satoken=0eedba28-be8a-4f01-81af-2d8d44808ecf",
         "commonConfig": "./json/peizhi.json"
       }
     },
     {
       "key": "csp_PanSearch",
-      "name": "盘搜索",
+      "name": "盘寻",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -394,7 +395,7 @@
     },
     {
       "key": "纸条搜",
-      "name": "小纸条",
+      "name": "纸条",
       "type": 3,
       "api": "csp_XiaoZhiTiao",
       "searchable": 1,
@@ -405,7 +406,7 @@
     },
     {
       "key": "网盘集合",
-      "name": "网盘集合",
+      "name": "网盘",
       "type": 3,
       "api": "csp_网盘集合",
       "searchable": 1,
@@ -494,6 +495,15 @@
       "ext": "./XBPQ/麻衣.json"
     },                                  
     {
+      "key": "蜂鸟",
+      "name": "蜂鸟",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "./XBPQ/蜂鸟.json"
+    },
+    {
       "key": "胖虎",
       "name": "胖虎",
       "type": 3,
@@ -501,26 +511,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "ext": "./XBPQ/胖虎.json"
-    },
+    },    
     {
-      "key":"蛙蛙",
-      "name":"蛙蛙",
-      "type":3,
-      "api":"csp_XBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":{
-        "主页url":"https://www.wvod.tv/",
-        "数组":"hl-col-lg-2\"&&</a>",
-        "图片":"data-original=\"&&\"",
-        "标题":"title=\"&&\"",
-        "链接":"href=\"&&\"",
-        "简介":"简介：&&</li>",
-        "分类url":"https://www.wvod.tv/vodshow/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类":"电影$20#电视剧$21#综艺$22#动漫$23#体育$25#纪录片$24#伦理片$103"
-      }
-    },
+      "key": "蛙蛙",
+      "name": "蛙蛙",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "./XBPQ/蛙蛙.json"
+    },  
     {
       "key":"首播",
       "name":"首播",
