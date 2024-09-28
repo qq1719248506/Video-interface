@@ -442,6 +442,25 @@
       "ext": "./XBPQ/毒蛇.json"
     },                                  
     {
+      "key": "麻花",
+      "name": "麻花",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/麻花.json"
+    },                                  
+    {
+      "key": "蜂鸟",
+      "name": "蜂鸟",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "./XBPQ/蜂鸟.json"
+    },
+    {
       "key": "胖虎",
       "name": "胖虎",
       "type": 3,
@@ -449,6 +468,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "ext": "./XBPQ/胖虎.json"
+    },    
+    {
+      "key": "蛙蛙",
+      "name": "蛙蛙",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "./XBPQ/蛙蛙.json"
     },    
     {
       "key":"首播",
