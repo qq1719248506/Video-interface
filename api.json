@@ -22,7 +22,7 @@
     },
     {
       "key": "ConfigCenter",
-      "name": "网盘配置",
+      "name": "配置",
       "type": 3,
       "api": "csp_ConfigCenter",
       "searchable": 0,
@@ -485,14 +485,14 @@
       "ext": "./XBPQ/毒蛇.json"
     },
     {
-      "key": "麻衣呀呼",
-      "name": "麻衣",
+      "key": "麻花",
+      "name": "麻花",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XBPQ/麻衣.json"
+      "ext": "./XBPQ/麻花.json"
     },                                  
     {
       "key": "蜂鸟",
