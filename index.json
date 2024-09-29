@@ -1,11 +1,10 @@
 {
-  "spider": "./custom_spider.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
+  "spider": "./jar/custom_spider.jar;md5;f1859a79a60b4fd5bb16a0f826568c31",
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1723776411507/logo.gif",
-  "warningText": "软件接口完全免费，请勿贩卖和购买",
   "sites": [
     {
       "key": "js豆瓣",
-      "name": "🍥┃豆瓣┃网盘线路、不限速、不限制客户端🍥",
+      "name": "豆瓣",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 0,
@@ -15,18 +14,18 @@
     },
     {
       "key": "ConfigCenter",
-      "name": "配置中心",
+      "name": "配置",
       "type": 3,
       "api": "csp_ConfigCenter",
       "searchable": 0,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./lib/peizhi.json"
+        "commonConfig": "./json/peizhi.json"
       }
     },
     {
       "key": "哔哩FM",
-      "name": "哔哩哔哩",
+      "name": "哔哩",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -36,31 +35,31 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "./lib/bilibili.json",
+        "json": "./json/bilibili.json",
         "cookie": ""
       }
     },
     {
       "key": "hipy_js_金牌影院",
-      "name": "金牌影院",
+      "name": "金牌",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "./lib/金牌影院.js"
+      "ext": "./js/金牌影院.js"
     },
     {
       "key": "hipy_js_瓜子视频",
-      "name": "瓜子视频",
+      "name": "瓜子",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "./lib/瓜子视频.js"
+      "ext": "./js/瓜子视频.js"
     },
     {
       "key": "hipy_js_宝片视频",
@@ -96,13 +95,13 @@
     },
     {
       "key": "js_nangua",
-      "name": "南瓜秒播",
+      "name": "南瓜",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/南瓜影视[优].js"
+      "ext": "./js/南瓜影视[优].js"
     },
     {
       "key": "多多玩偶",
@@ -112,9 +111,9 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./lib/peizhi.json",
+        "commonConfig": "./json/peizhi.json",
         "siteUrl": "https://tv.yydsys.cc/",
-        "filter": "./lib/wogg.json"
+        "filter": "./json/wogg.json"
       }
     },
     {
@@ -130,28 +129,28 @@
     },
     {
       "key": "玩偶gg",
-      "name": "饭硬玩偶",
+      "name": "玩偶",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./lib/peizhi.json",
+        "commonConfig": "./json/peizhi.json",
         "siteUrl": "https://www.wogg.bf/",
-        "filter": "./lib/wogg.json"
+        "filter": "./json/wogg.json"
       }
     },
     {
       "key": "蜡笔玩偶",
-      "name": "蜡笔玩偶",
+      "name": "蜡笔",
       "type": 3,
       "api": "csp_kongbai",
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./lib/peizhi.json",
+        "commonConfig": "./json/peizhi.json",
         "siteUrl": "https://duopan.fun/",
-        "filter": "./lib/wogg.json"
+        "filter": "./json/wogg.json"
       }
     },
     {
@@ -165,7 +164,7 @@
       "ext": {
         "siteUrl": "http://144.126.217.226:8000",
         "channelUsername": "yunpanshare",
-        "commonConfig": "./lib/peizhi.json"
+        "commonConfig": "./json/peizhi.json"
       }
     },
     {
@@ -179,12 +178,12 @@
       "ext": {
         "siteUrl": "http://144.126.217.226:8000",
         "channelUsername": "guaguale115",
-        "commonConfig": "./lib/peizhi.json"
+        "commonConfig": "./json/peizhi.json"
       }
     },
     {
       "key": "网盘集合",
-      "name": "网盘集合",
+      "name": "网盘",
       "type": 3,
       "api": "csp_网盘集合",
       "searchable": 1,
@@ -197,7 +196,7 @@
     },
     {
       "key": "易搜",
-      "name": "易搜网盘",
+      "name": "易搜",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -209,7 +208,7 @@
     },
     {
       "key": "盤搜索",
-      "name": "网盘搜索",
+      "name": "盘寻",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -355,8 +354,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/奇侠.json",
-      "jar": "./lib/fine.jar;md5;70235CDCA3C95116FFC00BEA3A99C2C6"
+      "ext": "./XBPQ/奇侠.json"
     },
     {
       "key": "csp_XBPQ_茶杯狐",
@@ -410,16 +408,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/低端.js"
-    },
-    {
-      "key": "js_烧火电影",
-      "name": "烧火影视",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/烧火影视[优].js"
     },
     {
       "key": "csp_非凡资源",
