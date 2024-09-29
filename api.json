@@ -383,6 +383,17 @@
       }
     },
     {
+      "key": "hipy_js_趣盘搜",
+      "name": "趣盘",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/趣盘搜.js"
+    },    
+    {
       "key": "csp_PanSearch",
       "name": "盘寻",
       "type": 3,
