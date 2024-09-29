@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/pg.jar",
+  "spider": "./jar/pg.jar;md5;25c146d4d60c2320bb3499a1bc4d9744",
   "sites": [
     {
       "key": "豆瓣",
@@ -36,7 +36,7 @@
     },
     {
       "key": "网盘配置",
-      "name": "网盘及彈幕配置",
+      "name": "网盘配置",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -55,7 +55,7 @@
     },
     {
       "key": "PushShare",
-      "name": "我的资源分享",
+      "name": "资源分享",
       "type": 3,
       "api": "csp_PushShare",
       "searchable": 1,
@@ -71,7 +71,7 @@
     },
     {
       "key": "AliShare",
-      "name": "阿里云盘影视分享",
+      "name": "阿里云盘",
       "type": 3,
       "api": "csp_AliShare",
       "searchable": 1,
@@ -87,7 +87,7 @@
     },
     {
       "key": "AliShareEBook",
-      "name": "阿里云盘书籍分享",
+      "name": "书籍分享",
       "type": 3,
       "api": "csp_AliShare",
       "searchable": 0,
@@ -103,7 +103,7 @@
     },
     {
       "key": "QuarkShare",
-      "name": "夸克云盘分享",
+      "name": "夸克云盘",
       "type": 3,
       "api": "csp_QuarkShare",
       "searchable": 1,
@@ -119,7 +119,7 @@
     },
     {
       "key": "115Share",
-      "name": "115云盘分享",
+      "name": "115云盘",
       "type": 3,
       "api": "csp_P115Share",
       "searchable": 1,
@@ -135,7 +135,7 @@
     },
     {
       "key": "UCShare",
-      "name": "UC云盘分享",
+      "name": "UC云盘",
       "type": 3,
       "api": "csp_UCShare",
       "searchable": 1,
@@ -151,7 +151,7 @@
     },
     {
       "key": "ThunderShare",
-      "name": "迅雷云盘分享",
+      "name": "迅雷云盘",
       "type": 3,
       "api": "csp_ThunderShare",
       "searchable": 1,
@@ -195,7 +195,7 @@
     },
     {
       "key": "直播转点播",
-      "name": "🐼️┃电视┃直播",
+      "name": "电视┃直播",
       "type": 3,
       "searchable": 0,
       "api": "./lib/live2vod.js",
@@ -203,7 +203,7 @@
     },
     {
       "key": "FirstAid",
-      "name": "🚑 急救知识 ",
+      "name": "急救知识 ",
       "type": 3,
       "api": "csp_FirstAid",
       "searchable": 0,
@@ -228,7 +228,7 @@
     },
     {
       "key": "bili",
-      "name": "B站 | Bili[jar]",
+      "name": "哔哩哔哩",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -241,7 +241,7 @@
     },
     {
       "key": "美剧迷",
-      "name": "美剧迷|网盘",
+      "name": "美剧迷",
       "type": 3,
       "api": "csp_Meijumi",
       "quickSearch": 1,
@@ -252,7 +252,7 @@
     },
     {
       "key": "Libvio",
-      "name": "LIBVIO|网盘",
+      "name": "LIBVIO",
       "type": 3,
       "api": "csp_Libvio",
       "quickSearch": 1,
@@ -263,7 +263,7 @@
     },
     {
       "key": "Bt0",
-      "name": "不太灵|磁力",
+      "name": "不太灵",
       "type": 3,
       "api": "csp_Bt0",
       "quickSearch": 1,
@@ -278,7 +278,7 @@
     },
     {
       "key": "Xpanpan",
-      "name": "小盘盘|网盘",
+      "name": "小盘盘",
       "type": 3,
       "api": "csp_Xpanpan",
       "quickSearch": 1,
@@ -293,7 +293,7 @@
     },
     {
       "key": "Wogg",
-      "name": "玩偶哥哥|网盘",
+      "name": "玩偶哥哥",
       "type": 3,
       "api": "csp_Wogg",
       "quickSearch": 1,
@@ -304,7 +304,7 @@
     },
     {
       "key": "Wobg",
-      "name": "玩偶表哥|网盘",
+      "name": "玩偶表哥",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -315,7 +315,7 @@
     },
     {
       "key": "yydsys",
-      "name": "玩你老哥|网盘",
+      "name": "玩你老哥",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -326,7 +326,7 @@
     },
     {
       "key": "蜡笔网盘",
-      "name": "蜡笔|网盘",
+      "name": "蜡笔网盘",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -337,7 +337,7 @@
     },
     {
       "key": "Mogg",
-      "name": "木偶哥哥|网盘",
+      "name": "木偶哥哥",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -348,7 +348,7 @@
     },
     {
       "key": "土豆",
-      "name": "土豆|网盘",
+      "name": "土豆网盘",
       "type": 3,
       "api": "csp_Wobg",
       "searchable": 1,
@@ -359,7 +359,7 @@
     },
     {
       "key": "小米网盘",
-      "name": "小米|网盘",
+      "name": "小米网盘",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -370,7 +370,7 @@
     },
     {
       "key": "Gaoqing",
-      "name": "中国高清网|网盘",
+      "name": "中国高清",
       "type": 3,
       "api": "csp_Gaoqing",
       "quickSearch": 1,
@@ -381,7 +381,7 @@
     },
     {
       "key": "Yinfans",
-      "name": "音范丝|磁力",
+      "name": "音范丝",
       "type": 3,
       "api": "csp_Gaoqing",
       "quickSearch": 1,
@@ -392,7 +392,7 @@
     },
     {
       "key": "ddys",
-      "name": "低端影视|网盘",
+      "name": "低端影视",
       "type": 3,
       "api": "csp_Ddys",
       "quickSearch": 1,
@@ -403,7 +403,7 @@
     },
     {
       "key": "Xinshijue",
-      "name": "新视觉|网盘",
+      "name": "新视觉",
       "type": 3,
       "api": "csp_Xinshijue",
       "quickSearch": 1,
@@ -414,7 +414,7 @@
     },
     {
       "key": "团长资源",
-      "name": "团长资源|网盘",
+      "name": "团长资源",
       "type": 3,
       "api": "csp_TZFile",
       "quickSearch": 1,
@@ -425,7 +425,7 @@
     },
     {
       "key": "欧乐影院",
-      "name": "欧乐影院|海外",
+      "name": "欧乐影院",
       "type": 3,
       "api": "csp_Olevod",
       "quickSearch": 1,
@@ -436,7 +436,7 @@
     },
     {
       "key": "Moli",
-      "name": "HDmoli|网盘",
+      "name": "HDmoli",
       "type": 3,
       "api": "csp_Moli",
       "quickSearch": 1,
@@ -447,7 +447,7 @@
     },
     {
       "key": "Hdhive",
-      "name": "影巢|网盘",
+      "name": "影巢网盘",
       "type": 3,
       "api": "csp_Hdhive",
       "quickSearch": 1,
@@ -458,7 +458,7 @@
     },
     {
       "key": "Ppxzy",
-      "name": "皮皮虾|网盘",
+      "name": "皮皮虾",
       "type": 3,
       "api": "csp_Ppxzy",
       "quickSearch": 1,
@@ -469,7 +469,7 @@
     },
     {
       "key": "校长影视",
-      "name": "校长影视|网盘",
+      "name": "校长影视",
       "type": 3,
       "api": "csp_XiaoZhang",
       "quickSearch": 1,
@@ -480,7 +480,7 @@
     },
     {
       "key": "Bdys_spider",
-      "name": "哔滴┃磁力",
+      "name": "哔滴影视",
       "api": "csp_Bdys01",
       "type": 3,
       "filterable": 1,
@@ -491,7 +491,7 @@
     },
     {
       "key": "TGYunPanLocal",
-      "name": "TG搜索Local|网盘搜索",
+      "name": "TG搜索Local",
       "type": 3,
       "api": "csp_TGYunPanLocal",
       "timeout": 60,
@@ -499,7 +499,7 @@
     },
     {
       "key": "TGYunPan",
-      "name": "TG搜索|网盘搜索",
+      "name": "TG搜索",
       "type": 3,
       "api": "csp_TGYunPan",
       "timeout": 60,
@@ -507,7 +507,7 @@
     },
     {
       "key": "YunPan",
-      "name": "云盘资源|网盘",
+      "name": "云盘资源",
       "type": 3,
       "api": "csp_YunPan",
       "timeout": 60,
@@ -515,7 +515,7 @@
     },
     {
       "key": "YingSo",
-      "name": "影搜|网盘搜索",
+      "name": "影搜网盘",
       "type": 3,
       "api": "csp_YingSo",
       "timeout": 60,
@@ -523,7 +523,7 @@
     },
     {
       "key": "混合盘",
-      "name": "混合盘|网盘搜索",
+      "name": "混合盘",
       "type": 3,
       "api": "csp_HunHePan",
       "timeout": 60,
@@ -535,7 +535,7 @@
     },
     {
       "key": "88Pan",
-      "name": "88网盘|网盘搜索",
+      "name": "88网盘",
       "type": 3,
       "api": "csp_EightEight",
       "timeout": 60,
@@ -547,7 +547,7 @@
     },
     {
       "key": "PanSearch",
-      "name": "PanSearch|网盘搜索",
+      "name": "PanSearch",
       "type": 3,
       "api": "csp_PanSearch",
       "quickSearch": 1,
@@ -558,7 +558,7 @@
     },
     {
       "key": "盘友圈",
-      "name": "盘友圈|网盘搜索",
+      "name": "盘友圈",
       "type": 3,
       "api": "csp_Panyq",
       "timeout": 60,
@@ -566,7 +566,7 @@
     },
     {
       "key": "易搜",
-      "name": "易搜|网盘搜索",
+      "name": "易搜网盘",
       "type": 3,
       "api": "csp_YiSo",
       "timeout": 60,
@@ -578,7 +578,7 @@
     },
     {
       "key": "秒搜",
-      "name": "秒搜|网盘搜索",
+      "name": "秒搜网盘",
       "type": 3,
       "api": "csp_MiaoSou",
       "timeout": 60,
@@ -590,7 +590,7 @@
     },
     {
       "key": "Funletu",
-      "name": "趣盘搜|夸克搜索",
+      "name": "趣盘搜",
       "type": 3,
       "api": "csp_Funletu",
       "quickSearch": 1,
@@ -605,7 +605,7 @@
     },
     {
       "key": "QuarkPanso",
-      "name": "夸克盘搜|夸克搜索",
+      "name": "夸克盘",
       "type": 3,
       "api": "csp_QuarkPanso",
       "quickSearch": 1,
@@ -620,7 +620,7 @@
     },
     {
       "key": "Panta",
-      "name": "盘Ta|网盘",
+      "name": "盘Ta",
       "type": 3,
       "api": "csp_Panta",
       "quickSearch": 1,
@@ -635,7 +635,7 @@
     },
     {
       "key": "DaPanSo",
-      "name": "大盘搜|网盘搜索",
+      "name": "大盘搜",
       "type": 3,
       "api": "csp_DaPanSo",
       "quickSearch": 1,
@@ -646,7 +646,7 @@
     },
     {
       "key": "PikaSo",
-      "name": "皮卡搜|网盘搜索",
+      "name": "皮卡搜",
       "type": 3,
       "api": "csp_PikaSo",
       "quickSearch": 1,
@@ -661,7 +661,7 @@
     },
     {
       "key": "Qianfan",
-      "name": "千帆|网盘搜索",
+      "name": "千帆网盘",
       "type": 3,
       "api": "csp_Qianfan",
       "quickSearch": 1,
@@ -672,7 +672,7 @@
     },
     {
       "key": "YunSo",
-      "name": "小云搜索|网盘搜索",
+      "name": "小云搜索",
       "type": 3,
       "api": "csp_YunSo",
       "quickSearch": 1,
@@ -687,7 +687,7 @@
     },
     {
       "key": "YunPanOne",
-      "name": "云盘One|网盘搜索",
+      "name": "云盘One",
       "type": 3,
       "api": "csp_YunPanOne",
       "quickSearch": 1,
@@ -698,7 +698,7 @@
     },
     {
       "key": "新6V",
-      "name": "新6V|网盘",
+      "name": "新6V",
       "type": 3,
       "api": "csp_Xb6v",
       "searchable": 1,
@@ -875,7 +875,7 @@
     },
     {
       "key": "BLSGod",
-      "name": "BLSGod|磁",
+      "name": "BLSGod",
       "type": 3,
       "api": "csp_BLSGod",
       "changeable": 1,
@@ -883,7 +883,7 @@
     },
     {
       "key": "Xunlei8",
-      "name": "Xunlei8|磁",
+      "name": "Xunlei8",
       "type": 3,
       "api": "csp_Xunlei8",
       "changeable": 1,
@@ -891,7 +891,7 @@
     },
     {
       "key": "SeedHub",
-      "name": "SeedHub|磁",
+      "name": "SeedHub",
       "type": 3,
       "api": "csp_SeedHub",
       "changeable": 1,
@@ -905,7 +905,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./js/alistjar.json"
+      "ext": "./json/alistjar.json"
     },
     {
       "key": "快看",
@@ -934,24 +934,6 @@
       "type": 3,
       "api": "csp_YingShi",
       "ext": "proxy"
-    },
-    {
-      "key": "星星",
-      "name": "星星 | 海外",
-      "type": 3,
-      "api": "csp_Star",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "proxy"
-    },
-    {
-      "key": "獨播",
-      "name": "獨播 | 海外",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "./lib/duboku.json$$$proxy"
     },
     {
       "key": "haiwaikan",
@@ -1135,11 +1117,11 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./js/alist.json"
+      "ext": "./json/alist.json"
     },
     {
       "key": "MV_vod",
-      "name": "电视┃MTV",
+      "name": "MTV",
       "type": 1,
       "api": "https://mv.wogg.link/mv/vod",
       "searchable": 1,
