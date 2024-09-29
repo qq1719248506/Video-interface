@@ -506,15 +506,6 @@
       "ext": "./XBPQ/麻花.json"
     },                                  
     {
-      "key": "蜂鸟",
-      "name": "蜂鸟",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "./XBPQ/蜂鸟.json"
-    },
-    {
       "key": "胖虎",
       "name": "胖虎",
       "type": 3,
