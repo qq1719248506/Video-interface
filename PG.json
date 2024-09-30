@@ -814,7 +814,7 @@
       "name": "爱盘搜[js]|夸",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./js/爱盘搜.js",
+      "ext": "./js/aipanso.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 60,
@@ -824,19 +824,47 @@
       }
     },
     {
-      "key": "drpy_js_人人影视",
-      "name": "人人影视[js]|搜",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/yyets.js",
-      "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "style": {
-        "type": "list",
-        "ratio": 1.1
-      }
+      "key":"csp_XBPQ_兄弟",
+      "name":"兄弟",
+      "type":3,
+      "api":"csp_XBPQ",
+      "jar": "./jar/XBPQ.jar",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext": "./XBPQ/兄弟.json"
     },
+    {
+      "key": "胖虎",
+      "name": "胖虎",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "./XBPQ/胖虎.json"
+    },    
+    {
+      "key": "蛙蛙",
+      "name": "蛙蛙",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "./XBPQ/蛙蛙.json"
+    },    
+    {
+      "key":"首播",
+      "name":"首播",
+      "type":3,
+      "api":"csp_XBPQ",
+      "jar": "./jar/XBPQ.jar",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext": "./XBPQ/首播.json"
+    },    
     {
       "key": "4KHDR",
       "name": "4KHDR|网盘",
