@@ -4,14 +4,14 @@
   "sites": [
     {
       "key": "drpy_js_豆瓣",
-      "name": "🐼┃备用公众号┃我不是肥猫",
+      "name": "豆瓣",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
     },
     {
       "key": "豆瓣",
-      "name": "🐼┃豆瓣┃预告",
+      "name": "预告",
       "type": 3,
       "api": "csp_YGP",
       "playerType": 2,
@@ -19,7 +19,7 @@
     },
     {
       "key": "config",
-      "name": "🐼┃配置┃中心",
+      "name": "配置",
       "type": 3,
       "api": "csp_Config",
       "playerType": 2
@@ -43,16 +43,16 @@
       "key": "肥猫4K",
       "name": "🖍┃肥猫┃4K",
       "type": 3,
-      "api": "./api/drpy.min.js",
+      "api": "./lib/drpy.min.js",
       "ext": "./js/肥猫4K.js",
       "searchable": 0
     },
     {
       "key": "nangua",
-      "name": "🎃┃南瓜┃影视",
+      "name": "南瓜",
       "type": 3,
-      "playerType": "2",
-      "api": "./api/ng_open.js"
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/南瓜影视[优].js"
     },
     {
       "key": "csp_J",
