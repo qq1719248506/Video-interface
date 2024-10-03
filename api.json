@@ -176,7 +176,7 @@
     },
     {
       "key": "FreeOK",
-      "name": "️️FreeOK",
+      "name": "️️富克",
       "type": 3,
       "api": "csp_FreeOK",
       "searchable": 1,
@@ -244,16 +244,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "ext": "./XBPQ/胖虎.json"
-    },    
-    {
-      "key": "蛙蛙",
-      "name": "蛙蛙",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "./XBPQ/蛙蛙.json"
-    },  
+    },      
     {
       "key":"首播",
       "name":"首播",
@@ -271,7 +262,9 @@
       "key": "csp_SP360",
       "name": "360",
       "type": 3,
-      "api": "csp_SP360"
+      "api": "csp_SP360",
+      "searchable": 1,
+      "quickSearch": 1
     },
     {
       "key": "csp_BookTing",
@@ -376,6 +369,20 @@
       "ext": "./js/摘星.js"
     },
     {
+      "key":"drjs_易搜[搜]",
+      "name":"易搜",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./js/易搜[搜].js"
+    },
+    {
+      "key":"drjs_云盘资源网[盘]",
+      "name":"云搜",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./js/云盘资源网[盘].js"
+    },    
+    {
       "key": "趣盘搜",
       "name": "趣盘",
       "type": 3,
@@ -388,21 +395,7 @@
         "type": "list",
         "ratio": 1.1
       }
-    },    
-    {
-      "key": "drpy_js_愛盤搜",
-      "name": "爱盘",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/aipanso.js",
-      "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "style": {
-        "type": "list",
-        "ratio": 1.1
-      }
-    },    
+    },   
     {
       "key": "Sso",
       "name": "盘他",
