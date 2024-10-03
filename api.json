@@ -364,11 +364,61 @@
       }
     },
     {
+      "key": "摘星",
+      "name": "摘星",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "./js/摘星.js"
+    },
+    {
+      "key": "趣盘搜",
+      "name": "趣盘",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/趣盘搜.js",
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "style": {
+        "type": "list",
+        "ratio": 1.1
+      }
+    },    
+    {
+      "key": "drpy_js_愛盤搜",
+      "name": "爱盘",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/aipanso.js",
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "style": {
+        "type": "list",
+        "ratio": 1.1
+      }
+    },    
+    {
+      "key": "Sso",
+      "name": "盘他",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/盘他.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },    
+    {
       "key": "米搜",
-      "name": "🌖┃米搜┃网盘",
+      "name": "米搜",
       "type": 3,
       "api": "csp_MiSou",
-      "ext": ""
+      "ext": "http://127.0.0.1:9978/file/XYQTVBox/token.txt"
     },
     {
       "key": "csp_Pansou",
