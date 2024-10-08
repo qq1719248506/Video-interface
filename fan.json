@@ -452,13 +452,13 @@
       "ext": "./XBPQ/麻花.json"
     },                                  
     {
-      "key": "蜂鸟",
-      "name": "蜂鸟",
+      "key": "独播",
+      "name": "独播",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
-      "ext": "./XBPQ/蜂鸟.json"
+      "ext": "./XBPQ/独播.json"
     },
     {
       "key": "胖虎",
@@ -468,17 +468,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "ext": "./XBPQ/胖虎.json"
-    },    
-    {
-      "key": "可达",
-      "name": "可达",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playUrl":"https://kedays.org/play/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "./XBPQ/可达.json"
-    },    
+    },        
     {
       "key":"首播",
       "name":"首播",
@@ -499,9 +489,29 @@
       "filterable":1,
       "ext":{
         "分类url":"https://66686.xyz/vod/show/id/{cateId}/{area}/{year}/{lang}/{letter}/{catePg}.html",
-        "分类":"电影$6#电视剧$13#综艺$3#动漫$4#伦理$37"
+        "分类":"电影$1#电视剧$2#短剧$5#综艺$3#动漫$4#伦理$29#三级片$30"
       }
     },
+    {
+      "key": "555影院",
+      "name": "555",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://e3wuwu4.com/api.php/app/"
+    },
+    {
+      "key": "无名",
+      "name": "无名",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://43.154.162.194//api.php/v1.vod"
+    },    
     {
       "key": "push_agent",
       "name": "推送",
@@ -520,6 +530,18 @@
       "type": 0,
       "api": "https://api.1080zyku.com/inc/ldg_api.php"
     },
+    {
+      "key": "鸭鸭资源",
+      "name": "鸭鸭",
+      "type": 1,
+      "api": "https://cj.yayazy.net/api.php/provide/vod"
+    },
+    {
+      "key": "七七",
+      "name": "七七",
+      "type": 1,
+      "api": "https://www.5277kp.com//api.php/"
+    },    
     {
       "key": "爱坤",
       "name": "爱坤",
