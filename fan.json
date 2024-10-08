@@ -470,13 +470,14 @@
       "ext": "./XBPQ/胖虎.json"
     },    
     {
-      "key": "蛙蛙",
-      "name": "蛙蛙",
+      "key": "可达",
+      "name": "可达",
       "type": 3,
       "api": "csp_XBPQ",
+      "playUrl":"https://kedays.org/play/?url=",
       "searchable": 1,
       "quickSearch": 1,
-      "ext": "./XBPQ/蛙蛙.json"
+      "ext": "./XBPQ/可达.json"
     },    
     {
       "key":"首播",
@@ -487,7 +488,20 @@
       "quickSearch":1,
       "filterable":1,
       "ext": "./XBPQ/首播.json"
-    },        
+    },
+    {
+      "key":"爱乐",
+      "name":"爱乐",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":{
+        "分类url":"https://66686.xyz/vod/show/id/{cateId}/{area}/{year}/{lang}/{letter}/{catePg}.html",
+        "分类":"电影$6#电视剧$13#综艺$3#动漫$4#伦理$37"
+      }
+    },
     {
       "key": "push_agent",
       "name": "推送",
