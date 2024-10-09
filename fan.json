@@ -529,18 +529,6 @@
       "name": "优质",
       "type": 0,
       "api": "https://api.1080zyku.com/inc/ldg_api.php"
-    },
-    {
-      "key": "鸭鸭资源",
-      "name": "鸭鸭",
-      "type": 1,
-      "api": "https://cj.yayazy.net/api.php/provide/vod"
-    },
-    {
-      "key": "七七",
-      "name": "七七",
-      "type": 1,
-      "api": "https://www.5277kp.com//api.php/"
     },    
     {
       "key": "爱坤",
