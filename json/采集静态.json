@@ -37,13 +37,13 @@
      "class_url": "1&2&3&4&6&7&8&9&10&11&12&13&14&15&16&20&21&22&23&24&25&26&27&28&29&30&31&32&33&34&35&36&37&38&39&40&41&42&43&44&45&46"
    },
    {
-        "name": "金鹰资源",
-        "url": "https://jinyingzy.com",
-        "cate_exclude": "^电影$|^电视剧$",
-        "class_name": "H4sIAAAAAAAAADWOXQ6CQAyEb7Pn9Cciq4liRNRAwpOuRlTUkACynmbbrreQLfjUb6aTdigsrPJAKkFhAfohMFP0WTjje9xjeWdKz27g9sDqnOErd2SaIwUeyamA2cnoxBH5DxxP2IuSNsSeWkH1doTDAAcRb6Xqc+jvTC0d2VsOetPfw+YiwJtAwq9ag0I+YcorxLoPtJUwyf6iq94JejdW1gKWOVYfLqvXdvS0RWzquaD02no/UcDcbf0AAAA=",
-        "class_url": "1&2&3&4&5&6&7&8&9&10&11&12&13&14&15&16&17&20&23&24&25&26&27&28&29&30"
-    },
-    {
+     "name": "金鹰资源",
+     "url": "https://jinyingzy.com",
+     "cate_exclude": "^电影$|^电视剧$",
+     "class_name": "H4sIAAAAAAAAADWOXQ6CQAyEb7Pn9Cciq4liRNRAwpOuRlTUkACynmbbrreQLfjUb6aTdigsrPJAKkFhAfohMFP0WTjje9xjeWdKz27g9sDqnOErd2SaIwUeyamA2cnoxBH5DxxP2IuSNsSeWkH1doTDAAcRb6Xqc+jvTC0d2VsOetPfw+YiwJtAwq9ag0I+YcorxLoPtJUwyf6iq94JejdW1gKWOVYfLqvXdvS0RWzquaD02no/UcDcbf0AAAA=",
+     "class_url": "1&2&3&4&5&6&7&8&9&10&11&12&13&14&15&16&17&20&23&24&25&26&27&28&29&30"
+   },
+   {
         "name": "豪华资源",
         "url": "https://hhzyapi.com",
         "cate_exclude": "^电影$|^电视剧$",
@@ -58,33 +58,12 @@
         "class_url": "1&2&3&4&5&6&7&8&9&10&11&12&13&14&15&16&17&20&23&24&25&26&27&28&29&30"
     },
     {
-        "name": "影图资源",
-        "url": "https://cj.vodimg.top",
-        "class_name": "H4sIAAAAAAAAAC3MTQrCQAwF4NvMOZUiNl2ohdIWLLoqUVS0C8HOj15mktRb1Amu8vHeI1I9KQxm+hzE3QjQiPMTWEPFif0lnRg6gbWhuvvVSZIPnK1UWNLokni540WtO8B/y3kbLWi2D9Fi+s6vO20fqqb/Hs+qK8p7o/IVle0M2798t5MAAAA=",
-        "class_url": "1&2&3&4&6&7&8&9&10&11&12&13&14&15&16&21"
-    },
-    {
-        "name": "u酷资源",
-        "url": "https://api.ukuapi.com",
-        "cate_exclude": "^电影$|^电视剧$",
-        "class_name": "H4sIAAAAAAAAADWP3Q6CMAyF32bPqVHRcYGSIJBoQmKC8xcwhESB8TRbO95COufV+dqenLYYNVq+GEaNEZ7mgmHXG94y7V+gv5MoeUS+Zjo+TmMi3LxgsbIkQv3piGC+g1lsfVy4KWxS1XLbO0jVCkqHdwlDbSnJrTwEDgHRbyP+7tHbCj4Dtcfsan11RWKKSss9Zar+jDuPyDRLU5QM4mpMOleMp6UOfVdMgdNzf1saQJq5ArOnXZ2v3R/olyhvE30Bu+ncCxgBAAA=",
-        "class_url": "1&2&3&4&6&7&8&9&10&11&12&13&14&15&16&20&21&22&23&24&25&26&27&28&30&31&32&33&34"
-    },
-    {
         "name": "小猫咪资源",
         "url": "http://zy.xiaomaomi.cc",
         "cate_exclude": "^短剧$|^资讯$|^明星资讯$|^影视资讯$|^明星$|^内地明星$|^港台明星$|^欧美明星$|^日韩明星$",
         "parse_url": "http://xiaomaomi.cc/player/?url=",
         "class_name": "H4sIAAAAAAAAAFXO3QqCQBCG4bsZ9D5N3Q6MIMiDaI9sk340QRI1vZrZme4icd2VDp9vGHjpUOPnBTyeqXugUEBdz6IF3F51fwOS88h1wM8CdJroVC6Y3liFfxfAcIOncoFuCtw53BUNicUx+8rc/rwvWDUexhGJyAeagzyz+muYW0ygowldWe4xGC1/eWZfGd4AAAA=",
         "class_url": "20&21&22&23&24&25&26&27&28&29&30&31&32&33&34&35&36&37&38"
-    },
-    {
-        "name": "新浪资源",
-        "url": "https://api.xinlangapi.com",
-        "api": "/xinlangapi.php/provide/vod/",
-        "cate_exclude": "^电影$|^电视剧$",
-        "class_name": "H4sIAAAAAAAAAEWOXQ6CMBCEb9Nz+hOR+qAYETUh4UWtikaQkEihPU27W24hXU18msk3m53BuLaqZBjXTgSWC2YXF+hyhm3nuGQob1Ztkc89Nyr1DsMSpjNyYm2b1jsI90ZyuuPil8I4glFCLEkHTO4o+gP1wPsJuqLGVQGNJnYXqJf/Ffgd12dXSncnkqrwYrozRoH/adTGTV4Ms8fAP2ziC/TQAAAA",
-        "class_url": "1&2&3&4&5&6&7&8&9&10&11&12&13&14&15&16&17&18&20&21&22&23&24"
     },
     {
         "name": "掏片资源",
