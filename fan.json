@@ -452,13 +452,13 @@
       "ext": "./XBPQ/麻花.json"
     },                                  
     {
-      "key": "独播",
-      "name": "独播",
+      "key": "酷茶",
+      "name": "酷茶",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
-      "ext": "./XBPQ/独播.json"
+      "ext": "./XBPQ/酷茶.json"
     },
     {
       "key": "胖虎",
