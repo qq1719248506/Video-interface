@@ -480,19 +480,6 @@
       "ext": "./XBPQ/首播.json"
     },
     {
-      "key":"爱乐",
-      "name":"爱乐",
-      "type":3,
-      "api":"csp_XBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":{
-        "分类url":"https://66686.xyz/vod/show/id/{cateId}/{area}/{year}/{lang}/{letter}/{catePg}.html",
-        "分类":"电影$1#电视剧$2#短剧$5#综艺$3#动漫$4#伦理$29#三级片$30"
-      }
-    },
-    {
       "key": "PUA外剧",
       "name": "PUA外剧",
       "type": 3,
