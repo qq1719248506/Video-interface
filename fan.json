@@ -100,12 +100,9 @@
       "key": "南瓜",
       "name": "南瓜",
       "type": 3,
-      "api": "csp_NanGua",
-      "timeout": 15,
-      "playerType": 2,
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "ext": "./js/南瓜影视.js"      
     },
     {
       "key": "苹果",
@@ -330,14 +327,10 @@
       "key": "Sso",
       "name": "盘他",
       "type": 3,
-      "api": "csp_PanSso",
+      "api": "./api/drpy2.min.js",
+      "ext": "./js/盘他.js",
       "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
+      "quickSearch": 1
     },    
     {
       "key": "夸搜",
@@ -452,15 +445,6 @@
       "ext": "./XBPQ/麻花.json"
     },                                  
     {
-      "key": "酷茶",
-      "name": "酷茶",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "./XBPQ/酷茶.json"
-    },
-    {
       "key": "胖虎",
       "name": "胖虎",
       "type": 3,
@@ -481,7 +465,7 @@
     },
     {
       "key": "PUA外剧",
-      "name": "PUA外剧",
+      "name": "外剧",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 0,
