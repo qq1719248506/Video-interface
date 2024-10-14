@@ -268,7 +268,7 @@
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
-      "ext": "./js/采集之王[合].js?type=url&params=../json/采集静态.json"
+      "ext": "./js/采集之王[合].js?type=url&params=../json/采集静态.json$1"
     },    
     {
       "key": "MTV",
