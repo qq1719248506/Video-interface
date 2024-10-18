@@ -452,7 +452,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./XBPQ/麻花.json"
-    },                                  
+    },
+    {
+      "key": "蛙蛙",
+      "name": "蛙蛙",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/蛙蛙.json"
+    },   
     {
       "key": "胖虎",
       "name": "胖虎",
@@ -471,19 +481,6 @@
       "quickSearch":1,
       "filterable":1,
       "ext": "./XBPQ/首播.json"
-    },
-    {
-      "key": "PUA外剧",
-      "name": "外剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://www.p-ua.com/vodshow/26-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类": "欧美剧$22#海外剧$23#日韩剧$24#卡通剧$25#福利剧$49"
-      }
     },    
     {
       "key": "555影院",
