@@ -260,10 +260,15 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
       "ext": "./js/菜狗[官].js"
+    },
+    {
+      "key": "hipy_js_爱看HD",
+      "name": "爱看",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "ext": "./js/爱看HD.js"
     },    
     {
       "key": "采集之王",
