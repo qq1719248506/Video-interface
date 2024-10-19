@@ -454,14 +454,14 @@
       "ext": "./XBPQ/麻花.json"
     },
     {
-      "key": "蛙蛙",
-      "name": "蛙蛙",
+      "key": "爱看",
+      "name": "爱看",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XBPQ/蛙蛙.json"
+      "ext": "./XBPQ/爱看.json"
     },   
     {
       "key": "胖虎",
