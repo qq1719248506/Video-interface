@@ -237,14 +237,6 @@
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "ext": "./js/摘星.js"
-    },
-    {
-      "key": "黑猪影视",
-      "name": "黑猪",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "ext": "./js/黑猪影视.js"      
     },    
     {
       "key": "360影视",
