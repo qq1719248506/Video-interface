@@ -791,15 +791,17 @@
       "playerType": 1
     },
     {
-      "name": "XIUTAN",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
+      "name": "LIVE",
       "type": 0,
-      "url": "./lib/xiutan.m3u"
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"      
     },
     {
       "name": "IPV6",
       "type": 0,
-      "url": "./json/tv.txt",
+      "url": "./json/黑8888.txt",
       "playerType": 1
     }
   ]
