@@ -471,8 +471,10 @@
       "api":"csp_XBPQ",
       "searchable":1,
       "quickSearch":1,
-      "filterable":1,
-      "ext": "./XBPQ/首播.json"
+      "ext":{
+        "分类url":"https://shoubozhan.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
+        "分类":"电视剧$2#电影$1#动漫$4#综艺$3#短剧$32#伦理片$12"
+      }            
     },    
     {
       "key": "555影院",
