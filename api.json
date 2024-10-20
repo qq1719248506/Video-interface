@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/spider.jar",
+  "spider": "./jar/fm.jar",
   "wallpaper": "http://like.xn--z7x900a.com/ppic/feimao.php",
   "sites": [
     {
@@ -373,14 +373,7 @@
       "name":"易搜",
       "type":3,
       "api":"./lib/drpy2.min.js",
-      "ext":"./js/易搜[搜].js"
-    },
-    {
-      "key":"drjs_云盘资源网[盘]",
-      "name":"云搜",
-      "type":3,
-      "api":"./lib/drpy2.min.js",
-      "ext":"./js/云盘资源网[盘].js"
+      "ext":"./js/易搜.js"
     },    
     {
       "key": "趣盘搜",
@@ -411,21 +404,7 @@
       "name": "米搜",
       "type": 3,
       "api": "csp_MiSou",
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/token.txt"
-    },
-    {
-      "key": "csp_Pansou",
-      "name": "盘搜",
-      "type": 3,
-      "api": "csp_Pansou",
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/token.txt"
-    },
-    {
-      "key": "csp_PanSearch",
-      "name": "盘寻",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/token.txt"
+      "changeable": 0
     },
     {
       "key": "drpy_哔哩",
