@@ -218,14 +218,6 @@
       }
     },
     {
-      "key": "csp_SP360",
-      "name": "360",
-      "type": 3,
-      "api": "csp_SP360",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
       "key": "csp_BookTing",
       "name": "听书",
       "type": 3,
@@ -291,12 +283,41 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
       "ext": "./js/摘星.js"
-    },   
+    },    
+    {
+      "key": "360影视",
+      "name": "360",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "ext": "./js/360影视[官].js"      
+    },
+    {
+      "key": "hipy_js_菜狗[官]",
+      "name": "搜狗",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "ext": "./js/菜狗[官].js"
+    },
+    {
+      "key": "hipy_js_PTT视频",
+      "name": "PTT",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "ext": "./js/PTT[优].js"
+    },    
+    {
+      "key": "采集之王",
+      "name": "采集",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "./js/采集之王[合].js?type=url&params=../json/采集静态.json$1"
+    },        
     {
       "key": "Sso",
       "name": "盘他",
