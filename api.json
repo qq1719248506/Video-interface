@@ -419,7 +419,7 @@
       "name": "采集[密]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./js/采集之王[合].js?type=url&params=../json/采集[密]静态.json"
+      "ext": "./js/采集之王[合].js?type=url&params=../json/采集[密].json"
     },    
     {
       "key": "push_agent",
