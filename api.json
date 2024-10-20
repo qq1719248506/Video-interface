@@ -745,7 +745,12 @@
       "api": "csp_Push",
       "playerType": "1",
       "searchable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/token.txt"
+      "ext": {
+          "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+          "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+          "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+          "danmu": true
+      }     
     }
   ],
   "parses": [
