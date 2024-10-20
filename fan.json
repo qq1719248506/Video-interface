@@ -261,6 +261,14 @@
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "ext": "./js/菜狗[官].js"
+    },
+    {
+      "key": "hipy_js_PTT视频",
+      "name": "PTT",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "ext": "./js/PTT[优].js"
     },    
     {
       "key": "采集之王",
