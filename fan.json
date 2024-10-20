@@ -787,7 +787,7 @@
     {
       "name": "多线ITV",
       "type": 0,
-      "url": "./lib/itvlist.m3u",
+      "url": "./json/11.txt",
       "playerType": 1
     },
     {
@@ -799,7 +799,7 @@
     {
       "name": "IPV6",
       "type": 0,
-      "url": "./lib/ipv6.m3u",
+      "url": "./json/tv.txt",
       "playerType": 1
     }
   ]
