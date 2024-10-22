@@ -1,11 +1,11 @@
 {
-  "spider": "./custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
+  "spider": "./jar/custom_spider.jar;md5;7717c6e2a0e8397b6ca68eab475f262f",
   "sites": [
     {
       "key": "dr_豆瓣",
-      "name": "🔍豆瓣荐片(js)",
+      "name": "豆瓣",
       "type": 3,
-      "api": "./js/lib/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "searchable": 2,
       "quickSearch": 0,
       "filterable": 0,
@@ -13,15 +13,15 @@
     },
     {
       "key": "玩偶gg",
-      "name": "玩偶gg",
+      "name": "玩偶",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./peizhi.json",
+        "commonConfig": "./json/peizhi.json",
         "siteUrl": "https://www.wogg.bf/",
-        "filter": "./wogg.json"
+        "filter": "./json/wogg.json"
       }
     },
     {
@@ -36,32 +36,32 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "./bilibili.json",
+        "json": "./json/bilibili.json",
         "cookie": "qwewqddasdasd"
       }
     },
     {
-      "key": "玩偶 | 蜡笔",
-      "name": "玩偶 | 蜡笔",
+      "key": "玩偶蜡笔",
+      "name": "蜡笔",
       "type": 3,
       "api": "csp_kongbai",
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./peizhi.json",
+        "commonConfig": "./json/peizhi.json",
         "siteUrl": "https://labipan.com/",
-        "filter": "./wogg.json"
+        "filter": "./json/wogg.json"
       }
     },
     {
       "key": "ConfigCenter",
-      "name": "配置中心",
+      "name": "配置",
       "type": 3,
       "api": "csp_ConfigCenter",
       "searchable": 0,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./peizhi.json"
+        "commonConfig": "./json/peizhi.json"
       }
     },
     {
@@ -75,7 +75,7 @@
       "ext": {
         "siteUrl": "你的服务器地址端口",
         "channelUsername": "hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
-        "commonConfig": "./peizhi.json"
+        "commonConfig": "./json/peizhi.json"
       }
     },
     {
@@ -88,24 +88,24 @@
       "switchable": 0,
       "ext": {
         "channelUsername": "hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
-        "commonConfig": "./peizhi.json"
+        "commonConfig": "./json/peizhi.json"
       }
     },
     {
       "key": "星剧社",
-      "name": "星剧社",
+      "name": "剧社",
       "type": 3,
       "api": "csp_Star2",
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
       "ext": {
-        "commonConfig": "./peizhi.json"
+        "commonConfig": "./json/peizhi.json"
       }
     },
     {
       "key": "易搜",
-      "name": "易搜|4K",
+      "name": "易搜",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -113,7 +113,7 @@
       "switchable": 0,
       "ext": {
         "cookie": "",
-        "commonConfig": "./peizhi.json"
+        "commonConfig": "./json/peizhi.json"
       }
     },
     {
@@ -124,18 +124,18 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./peizhi.json"
+        "commonConfig": "./json/peizhi.json"
       }
     },
     {
       "key": "紙條搜",
-      "name": "紙條搜",
+      "name": "紙條",
       "type": 3,
       "api": "csp_XiaoZhiTiao",
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./peizhi.json"
+        "commonConfig": "./json/peizhi.json"
       }
     },
     {
@@ -150,8 +150,8 @@
         "ratio": 1.433
       },
       "ext": {
-        "commonConfig": "./peizhi.json",
-        "json": "./youtube.json",
+        "commonConfig": "./json/peizhi.json",
+        "json": "./json/youtube.json",
         "cookie": ""
       }
     },
@@ -166,15 +166,15 @@
     },
     {
       "key": "网盘集合",
-      "name": "网盘集合|4K",
+      "name": "网盘",
       "type": 3,
       "api": "csp_网盘集合",
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
       "ext": {
-        "commonConfig": "./peizhi.json",
-        "share": "./网盘集合.json"
+        "commonConfig": "./json/peizhi.json",
+        "share": "./json/网盘集合.json"
       }
     },
     {
@@ -186,7 +186,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext": {
-        "commonConfig": "./peizhi.json"
+        "commonConfig": "./json/peizhi.json"
       }
     }
   ]
