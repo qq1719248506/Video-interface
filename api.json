@@ -533,16 +533,16 @@
       "ext": "./XBPQ/即看.json"
     },
     {
-      "key": "首播",
-      "name": "首播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://shoubozhan.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
-        "分类": "电视剧$2#电影$1#动漫$4#综艺$3#短剧$32#伦理片$12"
+      "key":"csp_XBPQ_NUU",
+      "name":"NUU",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":{
+        "分类url":"https://nuu.su/x/id/{cateId}/page/{catePg}.html",
+        "分类":"动漫$3#电影$1#剧集$2#综艺$4#记录片$5#爽剧$22#解说$32"
       }
     },
     {
