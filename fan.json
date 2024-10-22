@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/fan.jar;md5;f77599978d421ee20bdc30401602036e",
+  "spider": "./jar/fan.jar;md5;cfe43f9920f0702dad275000bec8059b",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -100,9 +100,9 @@
       "key": "南瓜",
       "name": "南瓜",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "csp_NanGua",
       "searchable": 1,
-      "ext": "./js/南瓜影视.js"      
+      "playerType": 2      
     },
     {
       "key": "苹果",
@@ -253,14 +253,6 @@
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "ext": "./js/菜狗[官].js"
-    },
-    {
-      "key": "hipy_js_PTT视频",
-      "name": "PTT",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "ext": "./js/PTT[优].js"
     },    
     {
       "key": "采集之王",
@@ -370,17 +362,6 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "./js/趣盘搜.js"
-    },
-    {
-      "key": "hipy_js_小站盘[搜]",
-      "name": "小站",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./js/小站盘[搜].js"
     },        
     {
       "key": "PanSearch",
@@ -463,19 +444,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "ext": "./XBPQ/胖虎.json"
-    },        
-    {
-      "key":"首播",
-      "name":"首播",
-      "type":3,
-      "api":"csp_XBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "ext":{
-        "分类url":"https://shoubozhan.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
-        "分类":"电视剧$2#电影$1#动漫$4#综艺$3#短剧$32#伦理片$12"
-      }            
-    },    
+    },            
     {
       "key": "555影院",
       "name": "555",
@@ -487,15 +456,18 @@
       "ext": "https://e3wuwu4.com/api.php/app/"
     },
     {
-      "key": "无名",
-      "name": "无名",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://43.154.162.194//api.php/v1.vod"
-    },    
+      "key":"csp_XBPQ_NUU",
+      "name":"NUU",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":{
+        "分类url":"https://nuu.su/x/id/{cateId}/page/{catePg}.html",
+        "分类":"动漫$3#电影$1#剧集$2#综艺$4#记录片$5#爽剧$22#解说$32"
+      }
+    },      
     {
       "key": "push_agent",
       "name": "推送",
@@ -521,77 +493,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "./json/bilibili.json"
-    },
-    {
-      "key": "Biliych",
-      "name": "演唱会",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./json/biliych.json"
-    },
-    {
-      "key": "少儿教育",
-      "name": "学前",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/少儿教育.json"
-    },
-    {
-      "key": "小学课堂",
-      "name": "小学",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/小学课堂.json"
-    },
-    {
-      "key": "初中课堂",
-      "name": "初中",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/初中课堂.json"
-    },
-    {
-      "key": "高中教育",
-      "name": "高中",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"
-    }
+    }    
   ],
   "parses": [
     {
