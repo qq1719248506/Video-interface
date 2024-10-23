@@ -11,8 +11,8 @@
       "filterable": 1,
       "changeable": 1,
       "ext": {
-        "commonConfig": "./json/peizhi.json",
-        "filter": "./json/douban.json"
+        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
+        "filter": "./js/douban.js"
       }
     },
     {
@@ -32,7 +32,7 @@
       "searchable": 0,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./json/peizhi.json"
+        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
       }
     },
     {
@@ -336,7 +336,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./json/peizhi.json",
+        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
         "siteUrl": "https://www.wogg.net/",
         "filter": "./json/wogg.json"
       }
@@ -349,7 +349,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./json/peizhi.json",
+        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
         "siteUrl": "http://labipan.com/",
         "filter": "./json/wogg.json"
       }
@@ -363,7 +363,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext": {
-        "commonConfig": "./json/peizhi.json"
+        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
       }
     },
     {
@@ -405,7 +405,7 @@
       "switchable": 0,
       "ext": {
         "cookie": "satoken=0eedba28-be8a-4f01-81af-2d8d44808ecf",
-        "commonConfig": "./json/peizhi.json"
+        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
       }
     },
     {
@@ -416,7 +416,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./json/peizhi.json"
+        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
       }
     },
     {
@@ -427,7 +427,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./json/peizhi.json"
+        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
       }
     },
     {
@@ -439,7 +439,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext": {
-        "commonConfig": "./json/peizhi.json",
+        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
         "share": "./json/网盘集合.json"
       }
     },
@@ -469,7 +469,7 @@
       "switchable": 0,
       "ext": {
         "channelUsername": "hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
-        "commonConfig": "./json/peizhi.json"
+        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
       }
     },
     {
@@ -480,7 +480,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "ext": {
-        "commonConfig": "./json/peizhi.json"
+        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
       }
     },
     {
@@ -488,7 +488,7 @@
       "name": "哔哩",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./json/bilibili.json"
@@ -542,7 +542,7 @@
       "filterable":1,
       "ext":{
         "分类url":"https://nuu.su/x/id/{cateId}/page/{catePg}.html",
-        "分类":"动漫$3#电影$1#剧集$2#综艺$4#记录片$5#爽剧$22#解说$32"
+        "分类":"动漫$3#电影$1#剧集$2#综艺$4#记录片$5#爽剧$22#解说$32#福利$117"
       }
     },
     {
