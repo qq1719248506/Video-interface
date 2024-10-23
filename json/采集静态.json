@@ -26,6 +26,23 @@
     ]
   },
   {
+    "name": "优质资源",
+    "url": "https://api.1080zyku.com",
+    "parse_url": "",
+    "cate_exclude": "",
+    "api": "/inc/api_mac10.php",
+    "class_name": "H4sIAIZsnmYC/0VQW26DMBC8jc+ZPkIxHwXUhDQqSqQqwUShDTSKWiBOL8N6zS1qr7H65XlYO7OLiwvIhunfDfYfwAXD/qp5xyAq1fVon0HmyJ8YZLmxLcKwUQ9zQiKFtrdI3SVqltE/LiZXha9Dx0l7k0Mn7HSIa9XeLBq3ByNbpCqBt2fSirX6OZF2rr272qu8omZFDOGB6c8a5JLGRiUuXPzlG3YZBcyOmATk7sS4DqZ17Ni49mS1N+meULrf2hV1u7tvnriSE6FpnrjsiSQbrFKz3HloE2Yuq0XAVCO1LBhu7YFNLZiXbHx/hDSyPf/RIF/0/dcff/xQy5IBAAA=",
+    "class_url": "1&2&3&4&5&6&7&8&9&10&11&12&13&14&15&16&17&18&19&20&41&54&61&62&63&64&65&66&67&68&69&70&78&79&80&81&83&92&93&94",
+    "cate_excludes": [
+      "电影",
+      "连续剧",
+      "综艺",
+      "动漫",
+      "伦理片",
+      "预告片"
+    ]
+  },  
+  {
     "name": "非凡资源",
     "url": "http://cj.ffzyapi.com",
     "parse_url": "",
@@ -83,23 +100,6 @@
       "新马泰动漫",
       "新马泰综艺",
       "其他综艺"
-    ]
-  },
-  {
-    "name": "优质资源",
-    "url": "https://api.1080zyku.com",
-    "parse_url": "",
-    "cate_exclude": "",
-    "api": "/inc/api_mac10.php",
-    "class_name": "H4sIAIZsnmYC/0VQW26DMBC8jc+ZPkIxHwXUhDQqSqQqwUShDTSKWiBOL8N6zS1qr7H65XlYO7OLiwvIhunfDfYfwAXD/qp5xyAq1fVon0HmyJ8YZLmxLcKwUQ9zQiKFtrdI3SVqltE/LiZXha9Dx0l7k0Mn7HSIa9XeLBq3ByNbpCqBt2fSirX6OZF2rr272qu8omZFDOGB6c8a5JLGRiUuXPzlG3YZBcyOmATk7sS4DqZ17Ni49mS1N+meULrf2hV1u7tvnriSE6FpnrjsiSQbrFKz3HloE2Yuq0XAVCO1LBhu7YFNLZiXbHx/hDSyPf/RIF/0/dcff/xQy5IBAAA=",
-    "class_url": "1&2&3&4&5&6&7&8&9&10&11&12&13&14&15&16&17&18&19&20&41&54&61&62&63&64&65&66&67&68&69&70&78&79&80&81&83&92&93&94",
-    "cate_excludes": [
-      "电影",
-      "连续剧",
-      "综艺",
-      "动漫",
-      "伦理片",
-      "预告片"
     ]
   },
   {
