@@ -12,7 +12,7 @@
       "changeable": 1,
       "ext": {
         "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
-        "filter": "./js/douban.js"
+        "filter": "./json/douban.json"
       }
     },
     {
