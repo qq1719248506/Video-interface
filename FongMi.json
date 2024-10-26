@@ -25,6 +25,17 @@
       }
     },
     {
+      "key": "lf_live10_min",
+      "name": " 路飞",
+      "type": 3,
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "api": "./lib/lf_live10_min-output.js",
+      "ext": "./json/lf_live.json"
+    },    
+    {
       "key": "哔哩FM",
       "name": "哔哩",
       "type": 3,
