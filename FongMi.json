@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;7717c6e2a0e8397b6ca68eab475f262f",
+  "spider": "./jar/custom_spider.jar;md5;6220b13e43fa0e0a1c4e4e00f59201eb",
   "sites": [
     {
       "key": "dr_豆瓣",
@@ -188,6 +188,77 @@
         "share": "./json/网盘集合.json"
       }
     },
+    {
+      "key": "csp_Bili",
+      "name": "哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/bilibili.json"
+    },
+    {
+      "key": "csp_毒蛇",
+      "name": "毒蛇",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/毒蛇.json"
+    },
+    {
+      "key": "兄弟",
+      "name": "兄弟",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/兄弟.json"
+    },
+    {
+      "key": "胖虎",
+      "name": "胖虎",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "./XBPQ/胖虎.json"
+    },
+    {
+      "key": "即看",
+      "name": "即看",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/即看.json"
+    },
+    {
+      "key":"csp_XBPQ_NUU",
+      "name":"NUU",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":{
+        "分类url":"https://nuu.su/x/id/{cateId}/page/{catePg}.html",
+        "分类":"动漫$3#电影$1#剧集$2#综艺$4#记录片$5#爽剧$22#解说$32#福利$117"
+      }
+    },
+    {
+      "key": "采集之王",
+      "name": "采集",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "./js/采集之王[合].js?type=url&params=../json/采集静态.json$1"
+    },    
     {
       "key": "push_agent",
       "name": "推送",
