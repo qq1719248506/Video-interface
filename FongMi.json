@@ -189,16 +189,6 @@
       }
     },
     {
-      "key": "csp_Bili",
-      "name": "哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./json/bilibili.json"
-    },
-    {
       "key": "csp_毒蛇",
       "name": "毒蛇",
       "type": 3,
