@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/spider.jar;md5;07d647cc161f07cd7cab44cd0920a8cd",
+  "spider": "./jar/spider.jar;md5;a5cd8c787e763f31999801ae0a774c03",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -233,7 +233,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/南瓜影视.js"
+      "ext": "./js/南瓜.js"
     },
     {
       "key": "csp_SixV",
