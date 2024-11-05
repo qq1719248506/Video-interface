@@ -467,7 +467,15 @@
         "分类url":"https://nuu.su/x/id/{cateId}/page/{catePg}.html",
         "分类":"动漫$3#电影$1#剧集$2#综艺$4#记录片$5#爽剧$22#解说$32"
       }
-    },      
+    },
+    {
+      "key":"易看",
+      "name":"易看",
+      "type":1,
+      "api":"https://api.yikanapi.com/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1
+    },
     {
       "key": "push_agent",
       "name": "推送",
