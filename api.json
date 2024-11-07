@@ -631,20 +631,21 @@
       "ext": "./XBPQ/即看.json"
     },
     {
-      "key": "不卡",
-      "name": "不卡",
+      "key": "酷茶",
+      "name": "酷茶",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XBPQ/不卡.json"
+      "ext": "./XBPQ/酷茶.json"
     },
     {
       "key": "csp_biubiu_酷云影院",
-      "name": "酷云影院",
+      "name": "酷云",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_biubiu",
+      "jar": "./jar/duo.jar;md5;f1859a79a60b4fd5bb16a0f826568c31",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -659,7 +660,7 @@
       "quickSearch":1,
       "filterable":1,
       "ext":{
-        "分类url":"https://nuu.su/x/id/{cateId}/page/{catePg}.html",
+        "分类url":"https://nuu.su/f/id/{cateId}/page/{catePg}.html",
         "分类":"动漫$3#电影$1#剧集$2#综艺$4#记录片$5#爽剧$22#解说$32#福利$117"
       }
     },
