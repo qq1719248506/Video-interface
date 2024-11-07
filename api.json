@@ -654,7 +654,7 @@
       "key": "csp_biubiu_酷云影院",
       "name": "酷云",
       "type": 3,
-      "api": "csp_biubiu",
+      "api": "csp_XBiubiu",
       "jar": "./jar/duo.jar;md5;f1859a79a60b4fd5bb16a0f826568c31",
       "searchable": 1,
       "quickSearch": 1,
