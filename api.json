@@ -631,15 +631,14 @@
       "ext": "./XBPQ/即看.json"
     },
     {
-      "key": "爱乐",
-      "name": "爱乐",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XBPQ/爱乐.json"
-    },    
+      "key":"vod_优质",
+      "name":"优质",
+      "type":1,
+      "playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
+      "api":"https://api.1080zyku.com/inc/api_mac10.php",
+      "searchable":1,
+      "quickSearch":1
+    },
     {
       "key": "白羊",
       "name": "白羊",
