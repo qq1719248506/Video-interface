@@ -293,7 +293,7 @@
     },
     {
       "key": "优质",
-      "name": "优质",
+      "name": "优质1",
       "type": 3,
       "api": "csp_qiao3",
       "playerType": 1,
@@ -638,6 +638,15 @@
       "api":"https://api.1080zyku.com/inc/api_mac10.php",
       "searchable":1,
       "quickSearch":1
+    },
+    {
+      "key":"vod_OK",
+      "name":"OK",
+      "type":1,
+      "api":"https://api.okzy.org/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
     },
     {
       "key": "白羊",
