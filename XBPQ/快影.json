@@ -1,0 +1,19 @@
+{
+  "请求头":"User-Agent$MOBILE_UA",
+  "编码":"UTF-8",
+  "主页url":"https://m.kuaiys.com",
+  "防丢失":"https://www.kuaiys.com/",
+  "数组":"lazyload&&</a>",
+  "标题":"title=\"&&\"",
+  "图片":"data-original=\"&&\"",
+  "副标题":"right\">&&</span>",
+  "链接":"href=\"&&\"",
+  "播放数组":"list scrollbar sort-list clearfix&&</ul>",
+  "播放列表":"<a&&a>",
+  "播放链接":"href=\"&&\"",
+  "播放标题":">&&</",
+  "线路数组":"href=\"\\#playlist&&a>",
+  "线路标题":">&&</",
+  "分类url":"https://m.kuaiys.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter={letter}&yuyan={lang}&state=&money=&ver=&jq={class}",
+  "分类":"电影$1#剧集$2#综艺$3#动漫$4#短剧$30#伦理片$28","类型":"动作片$5#爱情片$6#科幻片$7#恐怖片$8#战争片$9#喜剧片$10#纪录片$11#剧情片$12大陆剧$13#港台剧$14#欧美剧$15#日韩剧$16#海外剧$29空空空||空"
+}
