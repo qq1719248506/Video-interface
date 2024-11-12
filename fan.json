@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/fan.jar;md5;cfe43f9920f0702dad275000bec8059b",
+  "spider": "./jar/fan.jar;md5;f925971e4c934faf7fc04113567d4f5a",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -44,6 +44,31 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
+    },
+    {
+      "key": "西瓜视频",
+      "name": "西瓜",
+      "type": 3,
+      "api": "csp_AmuXiguaV2",
+      "jar": "./jar/xc09.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      }
+    },
+    {
+      "key": "1905",
+      "name": "1905",
+      "type": 3,
+      "api": "csp_Web1905",
+      "jar": "./jar/xc09.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
     },    
     {
       "key": "短剧",
@@ -55,25 +80,25 @@
       "changeable": 1
     },  
     {
-      "key": "酷看",
-      "name": "酷看",
+      "key": "木星",
+      "name": "木星",
       "type": 3,
-      "api": "csp_Kkys",
-      "timeout": 15,
+      "api": "csp_AppSx",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"
     },
     {
-      "key": "原创",
-      "name": "原创",
+      "key": "速播",
+      "name": "速播",
       "type": 3,
-      "api": "csp_YCyz",
-      "timeout": 15,
+      "api": "csp_AppSx",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
-    },
+      "changeable": 1,
+      "ext": "FbjDcUxPqpfNr0QF4QvEpcoxb5sQXd8GDXUTvbqvx0peQcuZ7GvQ0UGD/a2mS238cHqYkiBgwCduCiYrTZJtbwdDUt/L2w/LOWADxikKl6I8Cqz6OD9lIxS2anA6ytPprjXXepEhRI1g+FIGqkCgBFA="
+    },    
     {
       "key": "厂长",
       "name": "厂长",
@@ -85,16 +110,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "http://www.czzy77.com/"
-    },
-    {
-      "key": "糯米",
-      "name": "农民",
-      "type": 3,
-      "api": "csp_Nmyswv",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },    
     {
       "key": "南瓜",
@@ -320,11 +335,15 @@
       "key": "Sso",
       "name": "盘他",
       "type": 3,
-      "api": "./api/drpy2.min.js",
-      "ext": "./js/盘他.js",
+      "api": "csp_PanSso",
       "searchable": 1,
-      "quickSearch": 1
-    },    
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },        
     {
       "key": "夸搜",
       "name": "夸搜",
@@ -352,6 +371,26 @@
         "from": "4k|auto"
       }
     },
+    {
+      "key": "csp_XYQHiker_影搜",
+      "name": "影搜",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XYQHiker/影搜.json"
+    },
+    {
+      "key": "csp_XYQHikerAL_云盘资源",
+      "name": "云盘",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XYQHiker/云盘.json"
+    },    
     {
       "key": "hipy_js_趣盘搜",
       "name": "趣盘",
@@ -395,7 +434,37 @@
       "quickSearch":1,
       "filterable":1,
       "ext": "./XBPQ/一起.json"
-    },     
+    },
+    {
+      "key": "快影",
+      "name": "快影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/快影.json"
+    },    
+    {
+      "key": "哈哈",
+      "name": "哈哈",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/哈哈.json"
+    },    
+    {
+      "key": "片吧",
+      "name": "片吧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/片吧.json"
+    },    
     {
       "key": "奇侠",
       "name": "奇侠",
@@ -417,14 +486,14 @@
       "ext": "./XBPQ/毒蛇.json"
     },                                  
     {
-      "key": "麻花",
-      "name": "麻花",
+      "key": "奇优",
+      "name": "奇优",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XBPQ/麻花.json"
+      "ext": "./XBPQ/奇优.json"
     },
     {
       "key": "爱看",
@@ -435,7 +504,37 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./XBPQ/爱看.json"
-    },   
+    },
+    {
+      "key": "悦捷",
+      "name": "悦捷",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/悦捷.json"
+    },
+    {
+      "key": "天狗",
+      "name": "天狗",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/天狗.json"
+    },
+    {
+      "key": "魅影",
+      "name": "魅影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/魅影.json"
+    },    
     {
       "key": "胖虎",
       "name": "胖虎",
@@ -475,18 +574,6 @@
       "api":"https://api.yikanapi.com/api.php/provide/vod/",
       "searchable":1,
       "quickSearch":1
-    },
-    {
-      "key": "push_agent",
-      "name": "推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
     },    
     {
       "key": "Bili",
@@ -501,6 +588,18 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "./json/bilibili.json"
+    },
+    {
+      "key": "push_agent",
+      "name": "推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
     }    
   ],
   "parses": [
