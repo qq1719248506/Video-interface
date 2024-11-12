@@ -196,17 +196,11 @@
       "name": "凡人",
       "type": 3,
       "api": "csp_AppFr",
+      "jar": "./jar/天天.jar;md5;1c2663a32f99e9e488cb4777ba1ea73f",
       "ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjMzMTd8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MzNhN2ZmYTljODU0MTJjNzQyZjdhMjA5fDI1fDU2ODY4NTQzNEZFQzdDOEMyOTBBRTRGQjMyNUZGMTMwfHNoaWppZW1hb3R2fDMzYTdmZmE5Yzg1NDEyYzc=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "大米星球",
-      "name": "大米",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/APPV2.js?type=url&params=https://dmz8k4.wiki"
     },
     {
       "key": "西瓜视频",
@@ -309,22 +303,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.kmeiju.com"
+      "ext": "https://www.kmeiju.org"
     },
     {
       "key": "瓜子影视",
       "name": "瓜子",
       "type": 3,
       "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "疯狗影视",
-      "name": "疯狗",
-      "type": 3,
-      "api": "csp_FengGo",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -347,15 +332,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.freeok.lol"
-    },
-    {
-      "key": "奇优影视",
-      "name": "奇优",
-      "type": 3,
-      "api": "csp_Qiyou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "骚火影视",
@@ -461,16 +437,6 @@
       }
     },    
     {
-      "key": "新视觉",
-      "name": "新视觉",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XBPQ/新视觉.json"
-    },
-    {
       "key": "csp_毒蛇",
       "name": "毒蛇",
       "type": 3,
@@ -509,6 +475,16 @@
       "filterable": 1,
       "ext": "./XBPQ/即看.json"
     },
+    {
+      "key": "奇优",
+      "name": "奇优",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/奇优.json"
+    },    
     {
       "key": "悦捷",
       "name": "悦捷",
@@ -624,32 +600,6 @@
         "欧美综艺",
         "搞笑",
         "音乐"
-      ]
-    },
-    {
-      "key": "红牛资源",
-      "name": "红牛｜采集",
-      "type": 1,
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "国产剧",
-        "港澳剧",
-        "日剧",
-        "欧美剧",
-        "台湾剧",
-        "泰剧",
-        "韩剧",
-        "纪录片",
-        "动漫电影"
       ]
     },
     {
@@ -868,22 +818,6 @@
         "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt"
       },
       "timeout": 10
-    },
-    {
-      "key": "立播弹幕",
-      "name": "立播｜弹幕",
-      "type": 3,
-      "api": "csp_Libvio",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-        "site": "https://libvio.link",
-        "danmu": true
-      }
     },
     {
       "key": "三六零弹幕",
@@ -1290,7 +1224,7 @@
     },
     {
       "key": "阿里合集",
-      "name": "阿里｜合集",
+      "name": "合集",
       "type": 3,
       "api": "csp_AliShare",
       "searchable": 1,
