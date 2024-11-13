@@ -48,18 +48,6 @@
       }
     },
     {
-      "key": "在线短剧",
-      "name": "短剧",
-      "type": 3,
-      "api": "csp_Duanju",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      }
-    },
-    {
       "key": "星芽短剧",
       "name": "星芽",
       "type": 3,
@@ -153,16 +141,6 @@
       "filterable": 1
     },
     {
-      "key": "兄弟影视",
-      "name": "兄弟",
-      "type": 3,
-      "api": "csp_AppGetApp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "KhYl01Kekjo9vLs09V+rOtv/6QaOFwdQp2ne4h22GLkT99eCXh9SJ/lGZNM8zgk1OnFWx0zBQ9Y/9mAjQB67LaEp7Yj7w9SYBEjFbdPjKy3EHp7uBIHXVI7/dZ4r/dJapz6ihlWwqY2KlGuarL/+9suxO4ZJFOg1OxN+dTrTbi2Muff1CmBkNfrY+s4eQhuLBs4vVhslYH/yyPXePZ1AgNT8ZuBCcfE2LpJ19OKKPIvs+pt4Z/yzVA=="
-    },
-    {
       "key": "追梦影视",
       "name": "追梦",
       "type": 3,
@@ -215,15 +193,6 @@
         "type": "rect",
         "ratio": 1.433
       }
-    },
-    {
-      "key": "采集之王",
-      "name": "采集",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "./js/采集之王.js?type=url&params=../json/采集静态.json$1$1"
     },
     {
       "key": "厂长资源",
@@ -526,8 +495,15 @@
       "ext": "./XYQHiker/电影牛.json"
     },
     {
+      "key": "哔哩",
+      "name": "哔哩",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/我的哔哩[官].js"
+    },    
+    {
       "key": "三六零",
-      "name": "三六零",
+      "name": "360",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/360影视[官].js"
@@ -568,6 +544,66 @@
       "quickSearch": 0,
       "filterable": 0
     },
+    {
+      "key": "黑木耳",
+      "name": "木耳",
+      "type": 1,
+      "api": "http://json.heimuer.xyz/api.php/provide/vod/",
+      "playurl": "https://hoplayer.com/index.html?url=",
+      "searchable": 1,
+      "quickSearch": 0,
+      "categories": [
+          "剧情片",
+          "动作片",
+          "冒险片",
+          "同性片",
+          "喜剧片",
+          "奇幻片",
+          "恐怖片",
+          "悬疑片",
+          "惊悚片",
+          "灾难片",
+          "爱情片",
+          "犯罪片",
+          "科幻片",
+          "歌舞片",
+          "战争片",
+          "经典片",
+          "动画电影",
+          "网络电影",
+          "其他片",
+          "国产剧",
+          "港剧",
+          "韩剧",
+          "日剧",
+          "泰剧",
+          "台剧",
+          "欧美剧",
+          "新马剧",
+          "其他剧",
+          "国产综艺",
+          "港台综艺",
+          "韩国综艺",
+          "日本综艺",
+          "欧美综艺",
+          "新马泰综艺",
+          "其他综艺",
+          "古装短剧",
+          "虐恋短剧",
+          "逆袭短剧",
+          "神豪短剧",
+          "重生短剧",
+          "复仇短剧",
+          "穿越短剧",
+          "甜宠短剧",
+          "强者短剧",
+          "欧美动漫",
+          "日本动漫",
+          "韩国动漫",
+          "国产动漫",
+          "港台动漫"
+      ]
+    },  
     {
       "key": "优质",
       "name": "优质",
@@ -804,7 +840,7 @@
     },
     {
       "key": "哔哩弹幕",
-      "name": "哔哩",
+      "name": "哔站",
       "type": 3,
       "api": "csp_Bilimd",
       "searchable": 1,
@@ -818,18 +854,6 @@
         "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt"
       },
       "timeout": 10
-    },
-    {
-      "key": "三六零弹幕",
-      "name": "360",
-      "type": 3,
-      "api": "csp_Sp360",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "danmu": true
-      }
     },
     {
       "key": "玩偶弹幕",
@@ -1239,6 +1263,15 @@
         "type": "list"
       }
     },
+    {
+      "key": "采集之王",
+      "name": "采集",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "./js/采集之王.js?type=url&params=../json/采集[密].json$1$1"
+    },    
     {
       "key": "push_agent",
       "name": "推送",
