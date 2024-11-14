@@ -195,6 +195,132 @@
       }
     },
     {
+      "key": "雨夜",
+      "name": "雨夜",
+      "type": 3,
+      "api": "csp_Muou",
+      "jar": "./jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6",
+      "playerType": 1,
+      "ext": "caHR0cDovL2FwcC55aXlpNTIxLnRvcC8="
+    },
+    {
+      "key": "乐观",
+      "name": "乐观",
+      "type": 3,
+      "api": "csp_Xdai",
+      "jar": "./jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6",
+      "playerType": 1,
+      "ext": "caHR0cDovLzExMS4xODAuMTk4LjQwOjExMTB8NTU5MmViZWNmY2U3ODFiMXw1NTkyZWJlY2ZjZTc4MWIx"
+    },
+    {
+      "key": "人人",
+      "name": "人人",
+      "type": 3,
+      "api": "csp_Xdai",
+      "jar": "./jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6",
+      "playerType": 2,
+      "ext": "caHR0cDovL3JlbnJlbi5jdXBmb3gxLmNjOjc3ODh8MzFjOTNjN2JjMjExZDczNHwzMWM5M2M3YmMyMTFkNzM0"
+    },
+    {
+      "key": "雨滴",
+      "name": "雨滴",
+      "type": 3,
+      "api": "csp_Xdai",
+      "jar": "./jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6",
+      "playerType": 1,
+      "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOA"
+    },
+    {
+      "key": "优质",
+      "name": "优质",
+      "type": 3,
+      "api": "csp_Xdai",
+      "jar": "./jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6",
+      "playerType": 1,
+      "ext": "jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkcw"
+    },
+    {
+      "key": "客星",
+      "name": "客星┃App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "jar": "./jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6",
+      "playerType": 1,
+      "ext": "caHR0cDovLzE1NC4zNy4yMjAuMTc6NjYyMnw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWM="
+    },
+    {
+      "key": "木叶",
+      "name": "木叶",
+      "type": 3,
+      "api": "csp_Frong",
+      "jar": "./jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6",
+      "playerType": 2,
+      "ext": "cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4"
+    },
+    {
+      "key": "繁荣",
+      "name": "繁荣",
+      "type": 3,
+      "api": "csp_Frong",
+      "jar": "./jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6",
+      "playerType": 1,
+      "ext": "FMy4wLjJ8aHR0cHM6Ly92aXAuMTIzcGFuLmNuLzE4MjY0MTAxNjkvZG9uZ3RhaS8xLnR4dHw0MmY3YTIwOXwyNXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnwwOWVlMzUxNmMxY2E4ZWQx"
+    },
+    {
+      "key": "雷电",
+      "name": "雷电",
+      "type": 3,
+      "api": "csp_Slys",
+      "jar": "./jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6",
+      "playerType": 1,
+      "ext": "caHR0cDovLzEyMC4yMjQuNy45MDo4MDg="
+    },
+    {
+      "key": "柠檬",
+      "name": "柠檬",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "jar": "./jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6",
+      "playerType": 2,
+      "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
+    },
+    {
+      "key": "AI2",
+      "name": "AI2",
+      "type": 3,
+      "api": "csp_AI",
+      "jar": "./jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 2,
+      "ext": "faHR0cDovLzEyNC4yMjIuMTE2LjUvbWIvYXBpLnBocC9wcm92aWRlL3ZvZC98TW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExOS4wLjAuMCBTYWZhcmkvNTM3LjMzfHFpYW9qaQ=="
+    },
+    {
+      "key": "AI3",
+      "name": "AI3",
+      "type": 3,
+      "api": "csp_AI",
+      "jar": "./jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 2,
+      "ext": "haHR0cDovLzEyNC4yMjIuMTE2LjUvbWIvc3h5cy9hcGkucGhwL3Byb3ZpZGUvdm9kL3xva2h0dHAvNC45LjF8cWlhb2pp"
+    },
+    {
+      "key": "AI4",
+      "name": "AI4",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "./jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 2,
+      "ext": "iaHR0cDovLzM5Ljk4LjMyLjI0MTo2Njg4L2FwaS5waHAvemp2My52b2Q="
+    },    
+    {
       "key": "厂长资源",
       "name": "厂长",
       "type": 3,
@@ -383,6 +509,16 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {
+      "key": "可可",
+      "name": "可可",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/可可.json"
+    },    
     {
       "key": "柯南",
       "name": "柯南",
