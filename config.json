@@ -518,29 +518,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./XBPQ/可可.json"
-    },    
-    {
-      "key": "柯南",
-      "name": "柯南",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext":{
-        "线路数组": "data-dropdown-value=&&</div>",
-        "线路标题": "<span>&&</span>",
-        "嗅探词": "v3-cha.toutiaovod.com#video_mp4#jx.behds.cn#dgkdhls.mcloud.139.com#.m3u8#.mp4",
-        "过滤词": "/api.knvod.com/",
-        "影片年代": "<div class=\"module-info-tag\">&&</div>",
-        "影片地区": "",
-        "影片状态": "备注：&&</div>",
-        "影片类型": "module-info-tag\">&&立即播放",
-        "简介": "<p>&&</p>",
-        "分类url": "https://www.knvod.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
-        "分类": "电影$1#连续剧$2#动漫$3#综艺$4#纪录片$5#短剧$6"
-      }
-    },    
+    },        
     {
       "key": "csp_毒蛇",
       "name": "毒蛇",
@@ -775,6 +753,14 @@
       ]
     },
     {
+      "key": "牛牛资源",
+      "name": "牛牛",
+      "type": 1,      
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1    
+    },    
+    {
       "key": "无尽资源",
       "name": "无尽",
       "type": 1,      
@@ -786,7 +772,7 @@
       "key": "红牛资源",
       "name": "红牛",
       "type": 1,      
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/",
       "searchable": 1,
       "changeable": 1    
     },    
