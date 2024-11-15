@@ -775,6 +775,22 @@
       ]
     },
     {
+      "key": "无尽资源",
+      "name": "无尽",
+      "type": 1,      
+      "api": "https://api.wujinapi.net/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1    
+    },
+    {
+      "key": "红牛资源",
+      "name": "红牛",
+      "type": 1,      
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1    
+    },    
+    {
       "key": "光速资源",
       "name": "光速",
       "type": 1,
