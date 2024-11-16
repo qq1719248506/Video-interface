@@ -577,26 +577,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./XBPQ/悦捷.json"
-    },
-    {
-      "key": "天狗",
-      "name": "天狗",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XBPQ/天狗.json"
-    },
-    {
-      "key": "魅影",
-      "name": "魅影",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XBPQ/魅影.json"
     }, 
     {
       "key": "电影牛",
@@ -613,7 +593,7 @@
       "name": "哔哩",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./js/我的哔哩[官].js?type=url&params=./json/bilibili.json"
+      "ext": "./js/我的哔哩[官].js?type=url&params=./json/合集.json"
     },    
     {
       "key": "三六零",
@@ -628,16 +608,6 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/菜狗[官].js"
-    },
-    {
-      "key": "子子影视",
-      "name": "子子",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XYQHiker/子子.json"
     },
     {
       "key": "奇趣影视",
