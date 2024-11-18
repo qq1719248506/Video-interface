@@ -610,6 +610,13 @@
       "ext": "./js/菜狗[官].js"
     },
     {
+      "key": "熊猫",
+      "name": "熊猫",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/熊猫.js"
+    },    
+    {
       "key": "奇趣影视",
       "name": "奇趣",
       "type": 3,
