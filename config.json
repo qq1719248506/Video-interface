@@ -36,6 +36,19 @@
       }
     },
     {
+      "key": "csp_饭团",
+      "name": "饭团",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_FanTuan",
+      "jar":"./jar/xm.jar;md5;3574bbe3de12181b1ef79c9938246aa6",
+      "playerType": 2,
+      "filterable": 1,
+      "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+      "ext": "https://fantuan.vip/"
+    },    
+    {
       "key": "无忧短剧",
       "name": "无忧",
       "type": 3,
@@ -736,6 +749,32 @@
       "api":"https://cj.rycjapi.com/api.php/provide/vod/",
       "searchable":1,
       "quickSearch":1
+    },
+    {
+      "key": "红牛资源",
+      "name": "红牛",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "港澳剧",
+        "日剧",
+        "欧美剧",
+        "台湾剧",
+        "泰剧",
+        "韩剧",
+        "纪录片",
+        "动漫电影"
+      ]
     },    
     {
       "key": "无尽资源",
