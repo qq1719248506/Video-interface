@@ -728,6 +728,14 @@
         "搞笑",
         "音乐"
       ]
+    },
+    {
+      "key":"如意",
+      "name":"如意",
+      "type":1,
+      "api":"https://cj.rycjapi.com/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1
     },    
     {
       "key": "无尽资源",
