@@ -606,7 +606,14 @@
       "name": "哔哩",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./js/我的哔哩[官].js?type=url&params=./json/合集.json"
+      "ext": "./js/我的哔哩[官].js?type=url&params=../json/哔哩大全.json"
+    },
+    {
+      "key": "夸克",
+      "name": "夸克",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/夸克分享[合].js?type=url&params=../json/夸克分享.json"
     },    
     {
       "key": "三六零",
