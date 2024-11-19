@@ -1,22 +1,232 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;d7d65f2b7fb84ae92a3cc7b2f0138fcd",
+  "spider": "./jar/XBPQ.jar;md5;6047262eabd2f0d950e49c1016206b23",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
-      "key": "360",
-      "name": "360",
+      "key": "Douban",
+      "name": "豆瓣",
       "type": 3,
-      "api": "csp_SP360",
+      "api": "csp_Douban",
+      "jar":"./jar/custom_spider.jar;md5;92ca9354dbc6a80563a500663ed2491e",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": {}
+    },
+    {
+      "key": "BD",
+      "name": "BD",
+      "type": 3,
+      "api": "csp_BD",
+      "jar":"./jar/custom_spider.jar;md5;92ca9354dbc6a80563a500663ed2491e",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "aHR0cHM6Ly93d3cueWp5czA1LmNvbS8="
+    },
+    {
+      "key": "NCat",
+      "name": "网飞猫",
+      "type": 3,
+      "api": "csp_NCat",
+      "jar":"./jar/custom_spider.jar;md5;92ca9354dbc6a80563a500663ed2491e",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {}
+    },
+    {
+      "key": "glod",
+      "name": "金牌",
+      "type": 3,
+      "api": "csp_Glod",
+      "jar":"./jar/custom_spider.jar;md5;92ca9354dbc6a80563a500663ed2491e",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": {}
+    },
+    {
+      "key": "QxiTv",
+      "name": "七喜",
+      "type": 3,
+      "api": "csp_QxiTv",
+      "jar":"./jar/custom_spider.jar;md5;92ca9354dbc6a80563a500663ed2491e",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {}
+    },
+    {
+      "key": "甲子",
+      "name": "甲子",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar":"./jar/custom_spider.jar;md5;92ca9354dbc6a80563a500663ed2491e",
+      "searchable": 1,
+      "ext": "http://211.101.237.197:6532/api.php/app/"
+    },
+    {
+      "key": "NN",
+      "name": "泥巴",
+      "type": 3,
+      "api": "csp_NiNi",
+      "jar":"./jar/custom_spider.jar;md5;92ca9354dbc6a80563a500663ed2491e",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "NG",
+      "name": "瓜瓜",
+      "type": 3,
+      "api": "csp_NG",
+      "jar":"./jar/custom_spider.jar;md5;92ca9354dbc6a80563a500663ed2491e",
       "searchable": 1,
       "changeable": 1,
+      "ext": {}
+    },
+    {
+      "key": "bili",
+      "name": "哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar":"./jar/custom_spider.jar;md5;92ca9354dbc6a80563a500663ed2491e",
+      "searchable": 1,
+      "changeable": 0,
       "ext": {
+        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/bili.json",
+        "type": "帕梅拉#太极拳#广场舞#演唱会",
+        "cookie": ""
       }
+    },
+    {
+      "key": "Liangzi",
+      "name": "量子",
+      "type": 3,
+      "api": "csp_Liangzi",
+      "jar":"./jar/custom_spider.jar;md5;92ca9354dbc6a80563a500663ed2491e",
+      "searchable": "1",
+      "filterable": "0",
+      "changeable": 0,
+      "ext": {}
+    },
+    {
+      "key": "ChangZhang",
+      "name": "厂长",
+      "type": 3,
+      "api": "csp_ChangZhang",
+      "jar":"./jar/custom_spider.jar;md5;92ca9354dbc6a80563a500663ed2491e",
+      "searchable": "1",
+      "filterable": "0",
+      "changeable": 0,
+      "ext": {}
+    },
+    {
+      "key": "Zxzj",
+      "name": "在线",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "jar":"./jar/custom_spider.jar;md5;92ca9354dbc6a80563a500663ed2491e",
+      "searchable": "1",
+      "filterable": "0",
+      "changeable": 0,
+      "ext": {}
+    },
+    {
+      "key": "Mtyy",
+      "name": "麦田",
+      "type": 3,
+      "api": "csp_Mtyy",
+      "jar":"./jar/custom_spider.jar;md5;92ca9354dbc6a80563a500663ed2491e",
+      "searchable": "1",
+      "filterable": "0",
+      "changeable": 0,
+      "ext": {}
+    },
+    {
+      "key": "Ikanbot",
+      "name": "爱看",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "jar":"./jar/custom_spider.jar;md5;92ca9354dbc6a80563a500663ed2491e",
+      "searchable": "1",
+      "filterable": "0",
+      "changeable": 0,
+      "ext": {}
+    },
+    {
+      "key": "JustLive",
+      "name": "直播",
+      "type": 3,
+      "api": "csp_JustLive",
+      "jar":"./jar/custom_spider.jar;md5;92ca9354dbc6a80563a500663ed2491e",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "DaGongRen",
+      "name": "打工人",
+      "type": 3,
+      "api": "csp_DaGongRen",
+      "jar":"./jar/custom_spider.jar;md5;92ca9354dbc6a80563a500663ed2491e",
+      "searchable": "1",
+      "filterable": "0",
+      "changeable": 0,
+      "ext": {}
+    },
+    {
+      "key": "WuMingMusic",
+      "name": "音乐",
+      "type": 3,
+      "api": "csp_WuMingMusic",
+      "jar":"./jar/custom_spider.jar;md5;92ca9354dbc6a80563a500663ed2491e",
+      "searchable": "1",
+      "filterable": "0",
+      "changeable": 0,
+      "ext": {}
+    },
+    {
+      "key": "玩偶",
+      "name": "玩偶",
+      "type": 3,
+      "api": "csp_Wogg",
+      "jar":"./jar/custom_spider.jar;md5;92ca9354dbc6a80563a500663ed2491e",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {}
+    },
+    {
+      "key": "木偶",
+      "name": "木偶",
+      "type": 3,
+      "api": "csp_Mogg",
+      "jar":"./jar/custom_spider.jar;md5;92ca9354dbc6a80563a500663ed2491e",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {}
+    },
+    {
+      "key": "csp_AList",
+      "name": "AList",
+      "type": "3",
+      "api": "csp_AList",
+      "jar":"./jar/custom_spider.jar;md5;92ca9354dbc6a80563a500663ed2491e",
+      "searchable": "0",
+      "filterable": "1",
+      "changeable": 0,
+      "ext": "./json/alist.json"
     },
     {
       "key": "PanSou",
       "name": "盘搜",
       "type": 3,
       "api": "csp_PanSou",
+      "jar":"./jar/custom_spider.jar;md5;92ca9354dbc6a80563a500663ed2491e",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 30
+    },
+    {
+      "key": "PanSearch",
+      "name": "盘寻",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "jar":"./jar/custom_spider.jar;md5;92ca9354dbc6a80563a500663ed2491e",
       "searchable": 1,
       "changeable": 1,
       "timeout": 30
@@ -26,10 +236,49 @@
       "name": "易搜",
       "type": 3,
       "api": "csp_YiSo",
+      "jar":"./jar/custom_spider.jar;md5;92ca9354dbc6a80563a500663ed2491e",
       "searchable": 1,
       "changeable": 1,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
       "timeout": 30
+    },
+    {
+      "key": "找資源",
+      "name": "找資源",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "jar":"./jar/custom_spider.jar;md5;92ca9354dbc6a80563a500663ed2491e",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "$$$fanty$$$qqq111"
+    },
+    {
+      "key": "Yingso",
+      "name": "影搜",
+      "type": 3,
+      "api": "csp_Yingso",
+      "jar":"./jar/custom_spider.jar;md5;92ca9354dbc6a80563a500663ed2491e",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "yppan",
+      "name": "云盘盘",
+      "type": 3,
+      "api": "csp_YpPan",
+      "jar":"./jar/custom_spider.jar;md5;92ca9354dbc6a80563a500663ed2491e",
+      "searchable": 1,
+      "changeable": 1
+    },    
+    {
+      "key": "360",
+      "name": "360",
+      "type": 3,
+      "api": "csp_SP360",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+      }
     },
     {
       "key": "csp_XBPQ_看客",
