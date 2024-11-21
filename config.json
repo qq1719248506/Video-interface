@@ -623,11 +623,18 @@
       "ext": "./js/360影视[官].js"
     },
     {
-      "key": "搜狗视频",
-      "name": "搜狗",
+      "key": "三六零",
+      "name": "360",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./js/菜狗[官].js"
+      "ext": "./js/360影视[官].js"
+    },    
+    {
+      "key": "全能",
+      "name": "全能",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/全能影视.js"
     },
     {
       "key": "熊猫",
