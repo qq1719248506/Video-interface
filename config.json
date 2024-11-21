@@ -783,10 +783,35 @@
       ]
     },
     {
+      "key":"小猫咪",
+      "name":"猫咪",
+      "type":1,
+      "api":"http://zy.xiaomaomi.cc/api.php/provide/vod",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
       "key":"如意",
       "name":"如意",
       "type":1,
       "api":"https://cj.rycjapi.com/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1
+    },
+    {
+      "key":"牛牛",
+      "name":"牛牛",
+      "type":1,
+      "api":"https://api.niuniuzy.me/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1
+    },
+    {
+      "key":"刺客",
+      "name":"刺客",
+      "type":1,
+      "api":"https://ckzy.me/api.php/provide/vod/",
       "searchable":1,
       "quickSearch":1
     },
