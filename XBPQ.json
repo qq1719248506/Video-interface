@@ -281,6 +281,35 @@
       }
     },
     {
+      "key": "2400部恐怖电影",
+      "name": "恐怖",
+      "type": 3,
+      "api": "./lib/16万hys.js",
+      "ext": "./js/2400部恐怖电影.js"
+    },
+    {
+      "key": "hipy_js_采集之王[合]0",
+      "name": "采王[合]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/采集之王[合].js?type=url&params=../json/采集静态.json$1"
+    },
+    {
+      "key": "hipy_js_采集之王[合]1",
+      "name": "采王[密]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 1,
+      "ext": "./js/采集之王[合].js?type=url&params=../json/采集[zy]静态.json$1"
+    },    
+    {
       "key": "csp_XBPQ_看客",
       "name": "看客",
       "type": 3,
