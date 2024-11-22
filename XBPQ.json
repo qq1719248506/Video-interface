@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/vod.jar;md5;b0513881dbdd8592f5bd165ab8fc1cb5",
+  "spider": "./jar/custom_spider.jar;md5;4167c1f70bb7078e105cd57616afaa5c",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [ 
     {
@@ -17,7 +17,6 @@
       "name": "配置",
       "type": 3,
       "api": "csp_ConfigCenter",
-      "jar": "./jar/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
       "searchable": 0,
       "changeable": 0,
       "ext": {
@@ -29,7 +28,6 @@
       "name": "蜡笔",
       "type": 3,
       "api": "csp_kongbai",
-      "jar": "./jar/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
       "searchable": 1,
       "changeable": 0,
       "ext": {
@@ -43,7 +41,6 @@
       "name": "木偶",
       "type": 3,
       "api": "csp_kongbai",
-      "jar": "./jar/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
       "searchable": 1,
       "changeable": 0,
       "ext": {
@@ -57,7 +54,6 @@
       "name": "玩偶",
       "type": 3,
       "api": "csp_Wogg",
-      "jar": "./jar/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
       "searchable": 1,
       "changeable": 0,
       "ext": {
@@ -71,7 +67,6 @@
       "name": "哔哩",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
       "searchable": 1,
       "changeable": 0,
       "style": {
@@ -88,7 +83,6 @@
       "name": "易搜",
       "type": 3,
       "api": "csp_YiSo",
-      "jar": "./jar/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
@@ -102,7 +96,6 @@
       "name": "盤搜索",
       "type": 3,
       "api": "csp_PanSearch",
-      "jar": "./jar/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
       "searchable": 1,
       "changeable": 0,
       "ext": {
@@ -114,7 +107,6 @@
       "name": "紙條搜",
       "type": 3,
       "api": "csp_XiaoZhiTiao",
-      "jar": "./jar/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
       "searchable": 1,
       "changeable": 0,
       "ext": {
@@ -135,7 +127,6 @@
       "name": "网盘",
       "type": 3,
       "api": "csp_网盘集合",
-      "jar": "./jar/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
@@ -149,7 +140,6 @@
       "name": "推送",
       "type": 3,
       "api": "csp_Push",
-      "jar": "./jar/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
