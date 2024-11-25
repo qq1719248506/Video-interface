@@ -403,14 +403,39 @@
       "ext": "./js/采集之王[合].js?type=url&params=../json/采集[zy]静态.json$1"
     },
     {
-      "key":"csp_XBPQ_饭团",
-      "name":"饭团",
+      "key":"csp_XBPQ_Y3",
+      "name":"Y3电影",
       "type":3,
       "api":"csp_XBPQ",
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"{     \"请求头\":\"手机\",     \"简介\":\"简介：&&</p>\",     \"主演\":\"主演：&&</p>\",     \"副标题\":\"class=\\\"vtitle text-right\\\">&&</span>\",     \"线路数组\":\"javascript:void(0);&&</li>\",     \"线路标题\":\">&&</a>\",     \"播放数组\":\"id=\\\"con_playlist&&</ul>\",     \"分类\":\"电影$dianying#电视剧$dianshiju#国产剧$guocanju#综艺$zongyi#动漫$dongman#美剧$oumeiju\",     \"分类url\":\"https://www.cnmudu.com/{cateId}/index-{catePg}.html\"}"
+      "ext":{
+        "请求头":"User-Agent$MOBILE_UA",
+        "编码":"UTF-8",
+        "主页url":"https://www.y3dy.cn/",
+        "跳转播放链接":"var player_*\"url\":\"&&\"",
+        "分类url":"https://www.y3dy.cn/vod/show/area/{area}/by/{by}/id/{cateId}/letter/{letter}/page/{catePg}/year/{year}.html",
+        "分类":"电影$1#电视剧$2#综艺$30#动漫$25#体育$36#短剧$15","类型":"动作$6#喜剧$7#爱情$8#科幻$9#悬疑$10#战争$11#犯罪$12#惊恐$22#动漫$20#灾难$23#纪录片$21#剧情片$24||国产剧$13#欧美剧$14#港台$3#泰剧$4#日韩$16#新马$5||国产综艺$31#日韩综艺$32#欧美综艺$33#新马泰综$34#预告片$35||国产动漫$26#日韩动漫$27#欧美动漫$28#其他动漫$29||篮球$37#足球$38#其他$39||空"
+      }
+    },
+    {
+      "key":"csp_XBPQ_皮影",
+      "name":"皮影",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":{
+        "请求头":"User-Agent$MOBILE_UA",
+        "编码":"UTF-8",
+        "主页url":"https://www.xzweiheng.com/",
+        "跳转播放链接":"var player_*\"url\":\"&&\"",
+        "分类url":"https://www.xzweiheng.com/vodshow/{cateId}-{area}-{by}--{lang}-{letter}---{catePg}---{year}.html",
+        "分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$34",
+        "类型":"动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$24#纪录片$23#午夜剧场$33||国产剧$13#香港剧$14#韩国剧$15#欧美剧$16#台湾剧$20#日本剧$21#其它剧$22||空||空||空"
+      }
     },
     {
       "key": "csp_XBPQ_卫总",
