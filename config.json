@@ -89,7 +89,7 @@
     },
     {
       "key": "韩小圈",
-      "name": "韩小圈",
+      "name": "韩圈",
       "type": 3,
       "api": "csp_HanXiaoQuan",
       "searchable": 1,
@@ -389,46 +389,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "115",
-      "name": "115",
-      "type": 3,
-      "api": "csp_Wex115share",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 50,
-      "style": {
-        "type": "list"
-      },
-      "jar": "./jar/wex.jar"
-    },
-    {
-      "key": "雷鲸",
-      "name": "雷鲸",
-      "type": 3,
-      "api": "csp_Wexleijing",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "./jar/wex.jar"
-    },
-    {
-      "key": "天翼",
-      "name": "天翼",
-      "type": 3,
-      "api": "csp_Wextyso",
-      "searchable": 1,
-      "changeable": 0,
-      "jar": "./jar/wex.jar"
-    },
-    {
-      "key": "Emby",
-      "name": "Emby",
-      "type": 3,
-      "api": "csp_Wexemby",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "./jar/wex.jar"
     },    
     {
       "key": "可可",
@@ -525,13 +485,6 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/我的哔哩[官].js?type=url&params=../json/哔哩大全.json"
-    },
-    {
-      "key": "夸克",
-      "name": "夸克",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/夸克分享[合].js?type=url&params=../json/夸克分享.json"
     },    
     {
       "key": "三六零",
