@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/spider.jar;md5;457855ba2a9ae5b714494638a3e938ae",
+  "spider": "./jar/spider.jar;md5;dcc0c17d80044253db6a8285d54af77b",
   "wallpaper": "https://api.likepoems.com/img/bing",
   "sites": [
     {
@@ -41,8 +41,7 @@
       "type": 3,
       "searchable": 1,
       "changeable": 1,
-      "api": "csp_FanTuan",
-      "jar":"./jar/xm.jar;md5;3574bbe3de12181b1ef79c9938246aa6",
+      "api": "csp_Fantuan",
       "playerType": 2,
       "filterable": 1,
       "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
@@ -83,11 +82,10 @@
       "key": "河马短剧",
       "name": "河马",
       "type": 3,
-      "api": "csp_XYQHiker",
+      "api": "csp_AppHMDJ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XYQHiker/河马.json"
+      "filterable": 0
     },
     {
       "key": "韩小圈",
