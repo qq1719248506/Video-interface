@@ -1,7 +1,7 @@
 [
   {
-    "name": "jk",
-    "url": "https://jkunzy.com",
+    "name": "鸡坤",
+    "url": "https://jkunzyapi.com",
     "parse_url": ""
   },
   {
@@ -19,6 +19,21 @@
     "url": "https://api.apilyzy.com",
     "parse_url": ""
   },
+  {
+    "name": "精品",
+    "url": "https://www.jingpinx.com",
+    "parse_url": ""
+  },
+  {
+    "name": "香奶",
+    "url": "https://www.gdlsp.com",
+    "parse_url": "/api/json.php"
+  },
+  {
+    "name": "黄AV",
+    "url": "https://www.pgxdy.com",
+    "parse_url": "/api/json.php"
+  },  
   {
     "name": "森林",
     "url": "http://senlinzy2.com",
