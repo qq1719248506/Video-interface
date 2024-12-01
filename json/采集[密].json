@@ -20,12 +20,6 @@
     "name": "老鸭",
     "url": "https://api.apilyzy.com",
     "parse_url": ""
-  },
-  {
-    "name": "精品",
-    "url": "https://www.jingpinx.com",
-    "parse_url": "",
-    "cate_exclude": ""    
   },  
   {
     "name": "滴滴",
