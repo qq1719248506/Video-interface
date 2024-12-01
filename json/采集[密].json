@@ -1,23 +1,10 @@
 [
   {
-    "name": "鸡坤",
-    "url": "https://jkunzyapi.com",
-    "parse_url": "",
-    "cate_exclude": ""   
-  },
-  {
     "name": "色猫",
     "url": "https://caiji.semaozy.net",
     "parse_url": "",
     "cate_exclude": "",
     "api": "/inc/apijson_vod.php/"
-  },
-  {
-    "name": "️雪人",
-    "url": "https://www.xrbsp.com",
-    "parse_url": "",
-    "cate_exclude": "",
-    "api": "/api/json.php/"
   },  
   {
     "name": "奥斯卡",
@@ -38,57 +25,11 @@
     "name": "精品",
     "url": "https://www.jingpinx.com",
     "parse_url": "",
-    "cate_exclude": "",
-    "api": "/api.php/provide/vod/"    
-  },
-  {
-    "name": "香奶",
-    "url": "https://www.gdlsp.com",
-    "parse_url": "",
-    "cate_exclude": "",
-    "api": "/api/json.php/"    
-  },
-  {
-    "name": "美少女",
-    "url": "https://www.msnii.com",
-    "parse_url": "",
-    "cate_exclude": "",
-    "api": "/api/json.php/"    
-  },
-  {
-    "name": "淫水机",
-    "url": "https://www.xrbsp.com",
-    "parse_url": "",
-    "cate_exclude": "",
-    "api": "/api/json.php/"    
+    "cate_exclude": ""    
   },  
-  {
-    "name": "黄AV",
-    "url": "https://www.pgxdy.com",
-    "parse_url": "",
-    "cate_exclude": "",
-    "api": "/api/json.php/"   
-  },
-  {
-    "name": "白嫖",
-    "url": "https://www.kxgav.com",
-    "parse_url": "",
-    "cate_exclude": "",
-    "api": "/api/json.php/"   
-  },  
-  {
-    "name": "森林",
-    "url": "http://senlinzy2.com",
-    "parse_url": ""
-  },
   {
     "name": "滴滴",
     "url": "https://didizy.com",
-    "parse_url": ""
-  },
-  {
-    "name": "奶香",
-    "url": "https://naixxzy.com",
     "parse_url": "",
     "cate_exclude": "精品国产|精品日韩|精品综合|精品小说|精品美图"
   }
