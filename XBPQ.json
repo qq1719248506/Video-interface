@@ -11895,46 +11895,6 @@
       }
     },
     {
-      "key": "csp_XBPQ_巴士",
-      "name": "巴士",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "主页url": "https://dm84.tv/",
-        "数组": "class=\"item\"&&</div>",
-        "图片": "data-bg=\"&&\"",
-        "标题": "title=\"&&\"",
-        "副标题": "class=\"desc\">&&</span>",
-        "链接": "href=\"&&\"",
-        "简介": "<p>剧情：&&</p>",
-        "分类url": "https://dm84.tv/show-{cateId}--{by}-{class}--{year}-{catePg}.html",
-        "分类": "国产动漫$1#日本动漫$2#欧美动漫$3#电影$4"
-      }
-    },
-    {
-      "key": "csp_XBPQ_动漫",
-      "name": "动漫",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "主页url": "https://www.ppxdm.com/",
-        "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-        "图片": "data-original=\"&&\"",
-        "标题": "alt=\"&&\"",
-        "链接": "href=\"&&\"",
-        "线路数组": "class=\"module-tab-item tab-item\"&&</div>",
-        "线路标题": "<span>&&</span>",
-        "分类url": "https://www.ppxdm.com/v-show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-        "分类": "动漫电影$1#日本动漫$2#国产动漫$3#欧美动漫$4#短剧$20"
-      }
-    },
-    {
       "key": "csp_XBPQ_百度",
       "name": "百度",
       "type": 3,
@@ -12103,20 +12063,6 @@
         "分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
         "分类": "电影&电视剧&综艺&动漫",
         "分类值": "dianying&lianxuju&zongyi&dongman"
-      }
-    },
-    {
-      "key": "csp_XBPQ_唐人",
-      "name": "唐人",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://trjyingshi.com/index.php/vod/type/id/{cateId}.html",
-        "分类": "*",
-        "图片": "data-original=\"&&\""
       }
     },
     {
@@ -12813,32 +12759,6 @@
       }
     },
     {
-      "key": "csp_XBPQ_首播",
-      "name": "首播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://shoubozhan.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
-        "分类": "电视剧$2#电影$1#动漫$4#综艺$3#短剧$32"
-      }
-    },
-    {
-      "key": "csp_XBPQ_爱坤",
-      "name": "爱坤",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://ikun.tv/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类": "动画片$54#电影$1#电视剧$3#动漫$2#综艺$4#短剧$5"
-      }
-    },
-    {
       "key": "csp_XBPQ_奇异",
       "name": "奇异",
       "type": 3,
@@ -12849,19 +12769,6 @@
       "ext": {
         "分类url": "https://www.777111.xyz/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
         "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
-      }
-    },
-    {
-      "key": "csp_XBPQ_五五",
-      "name": "五五",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类": "短剧$45#电影$1#剧集$2#综艺$4#动漫$3",
-        "分类url": "https://www.555zxdy.com/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"
       }
     },
     {
@@ -12950,19 +12857,6 @@
       "ext": {
         "分类url": "https://www.laowang.co/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
         "分类": "电影$movie#电视剧$tv#综艺$tvshow#动漫$animation#短剧$duanju"
-      }
-    },
-    {
-      "key": "csp_XBPQ_TVB",
-      "name": "TVB",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "http://www.tvyb10.com/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
       }
     },
     {
@@ -13326,19 +13220,6 @@
       }
     },
     {
-      "key": "csp_XBPQ_七味",
-      "name": "七味",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://www.pkmp4.xyz/ms/{cateId}-{area}-------{catePg}---{year}.html",
-        "分类": "电影$1#剧集$2#综艺$3#动漫$4"
-      }
-    },
-    {
       "key": "csp_XBPQ_星辰",
       "name": "星辰",
       "type": 3,
@@ -13374,16 +13255,6 @@
       }
     },
     {
-      "key": "csp_XBPQ_饭团",
-      "name": "饭团",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "{     \"请求头\":\"手机\",     \"简介\":\"简介：&&</p>\",     \"主演\":\"主演：&&</p>\",     \"副标题\":\"class=\\\"vtitle text-right\\\">&&</span>\",     \"线路数组\":\"javascript:void(0);&&</li>\",     \"线路标题\":\">&&</a>\",     \"播放数组\":\"id=\\\"con_playlist&&</ul>\",     \"分类\":\"电影$dianying#电视剧$dianshiju#国产剧$guocanju#综艺$zongyi#动漫$dongman#美剧$oumeiju\",     \"分类url\":\"https://www.cnmudu.com/{cateId}/index-{catePg}.html\"}"
-    },
-    {
       "key": "csp_XBPQ_飞兔",
       "name": "飞兔",
       "type": 3,
@@ -13415,35 +13286,6 @@
         "跳转播放链接": "var now=\"&&\"",
         "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
         "分类url": "http://www.sxpxsm.com.cn/frim/{cateId}.html"
-      }
-    },
-    {
-      "key": "csp_XBPQ_海外",
-      "name": "海外",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://haiwaikan.tv/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}/",
-        "嗅探词": "m3u.haiwaikan.com#.m3u8",
-        "播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
-        "分类": "电影$1#剧集$2#动漫$4#综艺$3"
-      }
-    },
-    {
-      "key": "csp_XBPQ_欧乐",
-      "name": "欧乐",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://olevod.link/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
-        "分类": "电影$1#剧集$2#动漫$3#综艺$4"
       }
     },
     {
@@ -13644,78 +13486,6 @@
       }
     },
     {
-      "key": "csp_XBPQ_8号",
-      "name": "8号",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "{\"请求头\":\"手机\",\"副标题\": \"pic-text text-right\\\">&&</span>\",\"线路数组\": \"more text-muted pull-right&&</div>\",\"线路标题\": \"title\\\">&&<\",\"播放数组\": \"class=\\\"stui-content__playlist playlink clearfix&&</ul>\",\"播放链接\": \"href='&&'\",\"分类\":\"国产电视剧$13#电视剧$2#电影$1#动漫$4#综艺$3\",\"分类url\":\"http://www.8hysw.com/frim/{cateId}-{catePg}.html\",\"搜索模式\": \"1\",\"搜索url\": \"http://www.8hysw.com/search.php?page={pg}&searchword={wd}\"}"
-    },
-    {
-      "key": "csp_XBPQ_4K",
-      "name": "4K",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "站名": "4K影院",
-        "主页url": "https://www.4kvm.org",
-        "头部集合": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "热门推荐": "1",
-        "起始页": "1",
-        "直接播放": "0",
-        "倒序播放": "0",
-        "图片代理": "0",
-        "二次截取": "",
-        "数组": "<div class=\"poster\">&&<div class=\"texto\">",
-        "图片": "src=\"&&\"",
-        "标题": "alt=\"&&\"",
-        "副标题": "class=\"icon-star2\">&&</div>",
-        "链接": "href=\"&&\"",
-        "线路数组": "<div class='se-q'>&&</a>",
-        "线路标题": "class='title'>&&</span>",
-        "线路链接": "href=\"&&\"",
-        "状态": "<div class=\"extra\">&&</div>",
-        "导演": "<div class=\"persons\">&&演员</h2>[不包含:导演#制片人]",
-        "简介": "<p>&&</p>",
-        "播放二次截取": "id='playernotice&&<div class=\"sheader\">[替换:class='ajax_mode'>>>videourls:你我\"name\":1集,\"链洁\":\\&mvsource=0\"和他tables:]",
-        "播放数组": "videourls:&&tables:[替换:url\":>>链洁\":\\&ep=#name\":>>name\":第#}>>\\&source=0\"和他#{>>你我]",
-        "播放列表": "你我&&和他",
-        "播放标题": "name\":&&,",
-        "播放链接": "链洁\":&&\"",
-        "播放链接前缀": "https://www.4kvm.org/artplayer?id=+postid-&&\"",
-        "免嗅": "0",
-        "播放请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "多线数组": "<div class='se-q'>&&</a>",
-        "多线链接": "href=\"&&\"",
-        "搜索url": "https://www.4kvm.org/wp-json/dooplay/search/?keyword={wd}&nonce=c1c25fbc3d",
-        "搜索模式": "1",
-        "搜索数组": "{\"t&&}",
-        "搜索图片": "img\":\"&&\"",
-        "搜索标题": "itle\":\"&&\"",
-        "搜索链接": "url\":\"&&\"",
-        "分类url": "https://www.4kvm.org/{cateId}/page/{catePg};;d0",
-        "分类": "电影$movies#美剧$classify/meiju#国产剧$classify/guochan#韩剧$classify/hanju#番剧$classify/fanju"
-      }
-    },
-    {
-      "key": "csp_XBPQ_VS",
-      "name": "VS",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html",
-        "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"
-      }
-    },
-    {
       "key": "csp_XBPQ_小小",
       "name": "小小",
       "type": 3,
@@ -13886,24 +13656,6 @@
       }
     },
     {
-      "key": "csp_XBPQ_短剧",
-      "name": "短剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "搜索链接": "http://www.duanjutv.cc/vodsearch/{wd}----------{pg}---.html",
-        "线路标题": "<h3*>&&</h3>",
-        "线路数组": "\"more text-muted pull-right\">&&</ul>",
-        "播放数组": "\"more text-muted pull-right\">&&</ul>",
-        "播放链接": "http+://www.duanjutv.cc+href='&&'",
-        "分类": "抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23",
-        "分类链接": "http://www.duanjutv.cc/vodtype/{cateId}-{catePg}.html;;m"
-      }
-    },
-    {
       "key": "csp_XBPQ_虎牙",
       "name": "虎牙",
       "type": 3,
@@ -14017,271 +13769,6 @@
       }
     },
     {
-      "key": "csp_XBPQ_高清",
-      "name": "高清",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "搜索链接": "https://gaoqing.la/page/{pg}?cat&s={wd}",
-        "简介": "◎简*介</p>&&</p>",
-        "影片年代": "◎上映 日期&&<br>",
-        "影片地区": "◎产*地&&<br>",
-        "图片是否需要代理": "1",
-        "线路数组": "entry-content u-text-format u-clearfix&&\"content-template",
-        "线路标题": "磁力",
-        "播放数组": "entry-content u-text-format u-clearfix&&\"content-template",
-        "播放列表": "<p>&&</p>[包含:magnet]",
-        "播放链接": "*\">&&</a>",
-        "分类": "必看推荐$recommend#4K最高清$4k#BluRay蓝光原盘$bluray#1080p超清$1080P#720p高清$720p#WEB-DL标清$webdl",
-        "分类链接": "https://gaoqing.la/{cateId}/page/{catePg}[https://gaoqing.la/{cateId}]"
-      }
-    },
-    {
-      "key": "csp_XBPQ_布谷",
-      "name": "布谷",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "搜索链接": "https://www.bugutv.org/page/{pg}?cat&s={wd}",
-        "简介": "◎简*介</p>&&</p>",
-        "影片年代": "◎上映 日期&&<br>",
-        "影片地区": "◎产*地&&<br>",
-        "线路数组": "entry-content u-text-format u-clearfix&&\"content-template",
-        "线路标题": "磁力",
-        "播放数组": "entry-content u-text-format u-clearfix&&\"content-template",
-        "播放列表": "<p>&&</p>[包含:magnet]",
-        "播放链接": "*\">&&</a>",
-        "分类": "4KUHD电影$4kuhd#4K电影$4kmovie#4K剧集$4ktv#杜比视界$dolbyvision#4K纪录片$4kdocu#4K演示片$4kdemo/4ktv-4ktv#杜比演示片$4kdemo/dolbydomo#DTS演示片$4kdemo/dtsdomo#8K演示片$4kdemo/8kdemo#蓝光电影$bluraymovie/bluray-movie#蓝光剧集$bluraymovie/bluraytv#3D蓝光$bluraymovie/3dmovie#蓝光纪录片$bluraymovie/documentary#蓝光演唱会$bluraymovie/audiotest",
-        "分类链接": "https://www.bugutv.org/{cateId}/page/{catePg}"
-      }
-    },
-    {
-      "key": "csp_XBPQ_恐怖",
-      "name": "恐怖",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "主页url": "https://m.haokongbu.top/",
-        "搜索url": "https://s.haokongbu.top/e/search/result/?searchid={wd}",
-        "分类url": "https://m.haokongbu.top/{cateId}/index_{catePg}.html[https://m.haokongbu.top/{cateId}/index.html]",
-        "分类": "国产剧$guochanju#港剧$gangju#动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#剧情片$juqingpian#微电影$weidianying#记录片$m_jlp#高清$gaoqing#动漫$donghuapian#台湾$taiwanju#日本$riju#韩国$hanju#欧美$oumeiju#泰国$taiguoju#海外$haiwaiju",
-        "数组": "<li>&&</li>",
-        "副标题": "class=\"typeset\"&&</i>",
-        "起始页": 2,
-        "倒序": 1,
-        "播放数组": "下载地址</h2>&&</ul>",
-        "播放列表": "<li><&&</a>"
-      }
-    },
-    {
-      "key": "csp_XBPQ_小白",
-      "name": "小白",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "请求头": "手机",
-        "编码": "GB2312",
-        "副标题": "time\">&&</label>",
-        "数组": "<li>&&</li>",
-        "二次截取": "pic-list pic-list-focus fn-right&&</ol>",
-        "主页url": "https://www.xbw20.com/",
-        "分类url": "https://www.xbw20.com/vod/{cateId}{catePg}.html[https://www.xbw20.com/vod/{cateId}.html]",
-        "搜索url": "https://www.xbw20.com/search.asp?searchword={wd}",
-        "分类": "电影$newmovie#电视剧$newTV#4K专区$new4K#动画片$newcartoon",
-        "起始页": 2,
-        "倒序": 1,
-        "播放数组": "迅雷下载</div>&&</div>",
-        "播放列表": "<li><&&</a >",
-        "筛选": {
-          "newmovie": [
-            {
-              "key": "cateId",
-              "name": "类型",
-              "value": [
-                {
-                  "n": "全部",
-                  "v": ""
-                },
-                {
-                  "n": "科幻片",
-                  "v": "newScience"
-                },
-                {
-                  "n": "动作片",
-                  "v": "newaction"
-                },
-                {
-                  "n": "恐怖片",
-                  "v": "newscary"
-                },
-                {
-                  "n": "喜剧片",
-                  "v": "newcomedy"
-                },
-                {
-                  "n": "爱情片",
-                  "v": "newromance"
-                },
-                {
-                  "n": "战争片",
-                  "v": "newwar"
-                },
-                {
-                  "n": "剧情片",
-                  "v": "newplot"
-                },
-                {
-                  "n": "记录片",
-                  "v": "newrecord"
-                }
-              ]
-            }
-          ],
-          "newTV": [
-            {
-              "key": "cateId",
-              "name": "分类",
-              "value": [
-                {
-                  "n": "分类",
-                  "v": ""
-                },
-                {
-                  "n": "国产剧",
-                  "v": "newmainland"
-                },
-                {
-                  "n": "港剧",
-                  "v": "newtvb"
-                },
-                {
-                  "n": "台剧",
-                  "v": "newtaiju"
-                },
-                {
-                  "n": "美剧",
-                  "v": "newoumeiju"
-                },
-                {
-                  "n": "英剧",
-                  "v": "newyingju"
-                },
-                {
-                  "n": "韩剧",
-                  "v": "newkorea"
-                },
-                {
-                  "n": "日剧",
-                  "v": "newriju"
-                },
-                {
-                  "n": "泰剧",
-                  "v": "newAsia"
-                },
-                {
-                  "n": "印度剧",
-                  "v": "newyinduju"
-                },
-                {
-                  "n": "新加坡剧",
-                  "v": "newxinjiapo"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    },
-    {
-      "key": "csp_XBPQ_天堂",
-      "name": "天堂",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "规则名": "BT天堂",
-        "规则作者": "",
-        "请求头参数": "PC_UA",
-        "网页编码格式": "UTF-8",
-        "图片是否需要代理": "0",
-        "是否开启获取首页数据": "1",
-        "首页推荐链接": "https://www.bttt11.com",
-        "首页列表数组规则": "body&&.ul-imgtxt1",
-        "首页片单列表数组规则": "li",
-        "首页片单是否Jsoup写法": "1",
-        "首页片单标题": "h3&&Text",
-        "首页片单链接": "a&&href",
-        "首页片单图片": "img&&src",
-        "首页片单副标题": "span,-1&&Text",
-        "首页片单链接加前缀": "https://www.bt-tt.com",
-        "首页片单链接加后缀": "",
-        "分类起始页码": "0",
-        "分类链接": "https://www.bttt11.com/www.bt-tt.com/html/page-{cateId}-{catePg}.html",
-        "分类名称": "大陆电影&港台电影&欧美电影&欧美剧&日韩剧&日韩电影&动漫&亚太剧&亚太电影&综艺&纪录片",
-        "分类名称替换词": "4&3&1&6&7&2&11&10&5&12&13",
-        "筛选数据": {},
-        "分类截取模式": "1",
-        "分类列表数组规则": ".ul-imgtxt2&&li",
-        "分类片单是否Jsoup写法": "1",
-        "分类片单标题": "h3&&Text",
-        "分类片单链接": "a&&href",
-        "分类片单图片": "img&&src",
-        "分类片单副标题": "span,-1--a&&Text!更新时间：",
-        "分类片单链接加前缀": "https://www.bt-tt.com",
-        "分类片单链接加后缀": "",
-        "搜索请求头参数": "User-Agent$PC_UA",
-        "搜索链接": "https://www.bt-tt.com/e/search/;post",
-        "POST请求数据": "show=title,newstext&keyboard={wd}&searchtype=影视搜索",
-        "搜索截取模式": "1",
-        "搜索列表数组规则": ".ul-imgtxt2&&li",
-        "搜索片单是否Jsoup写法": "1",
-        "搜索片单图片": "img&&src",
-        "搜索片单标题": "h3&&Text",
-        "搜索片单链接": "a&&href",
-        "搜索片单副标题": "span,-1--a&&Text!更新时间：",
-        "搜索片单链接加前缀": "https://www.bt-tt.com",
-        "搜索片单链接加后缀": "",
-        "链接是否直接播放": "0",
-        "直接播放链接加前缀": "",
-        "直接播放链接加后缀": "",
-        "直接播放直链视频请求头": "",
-        "详情是否Jsoup写法": "0",
-        "类型详情": "<p>◎类　　别&&</p>",
-        "年代详情": "<p>◎年　　代&&</p>",
-        "地区详情": "<p>◎产　　地&&</p>",
-        "演员详情": "",
-        "简介详情": "",
-        "线路列表数组规则": "",
-        "线路标题": "",
-        "播放列表数组规则": "body&&.container",
-        "选集列表数组规则": "a[href^=magnet]||a[href^=ed2K]",
-        "选集标题链接是否Jsoup写法": "1",
-        "选集标题": "Text",
-        "选集链接": "a&&href",
-        "是否反转选集序列": "0",
-        "选集链接加前缀": "",
-        "选集链接加后缀": "",
-        "分析MacPlayer": "0",
-        "是否开启手动嗅探": "0",
-        "手动嗅探视频链接关键词": ".mp4#.m3u8#.flv",
-        "手动嗅探视频链接过滤词": ".html"
-      }
-    },
-    {
       "key": "csp_XBPQ_蓝光",
       "name": "蓝光",
       "type": 3,
@@ -14317,24 +13804,6 @@
       }
     },
     {
-      "key": "csp_XBPQ_磁力",
-      "name": "磁力",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "站名": "磁力追剧",
-        "分类": "电视剧$13#动作片$6#科幻片$7#爱情片$8#喜剧片$9#恐怖片$10#战争片$11#剧情片$12",
-        "搜索url": "https://www.zmp4.com/vodsearch.html?wd={wd}",
-        "播放数组": "class=\"panel down-list thunder1&&</ul",
-        "线路数组": "class=\"stui-pannel__head active&&</div",
-        "线路标题": "class=\"title titlego\">&&</h3",
-        "分类url": "https://www.zmp4.com/show/{cateId}/page/{catePg}/year/{year}.html;;a"
-      }
-    },
-    {
       "key": "csp_XBPQ_玩偶",
       "name": "玩偶",
       "type": 3,
@@ -14367,25 +13836,6 @@
         "线路标题": "weight: bold;\">&&</td>",
         "分类": "蓝光-4k-电影$蓝光-4k-电影#精选剧集$精选剧集",
         "分类url": "https://www.lysvc.cc/archives/category/%e5%bd%b1%e8%a7%86%e8%b5%84%e6%ba%90/{cateId}/page/{catePg}"
-      }
-    },
-    {
-      "key": "csp_XBPQ_迅雷",
-      "name": "迅雷",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "搜索url": "https://xunlei8.cc/s/{wd}.html",
-        "搜索数组": "bec4f196629d\">&&\"b9a905c",
-        "搜索标题": "<h2*>&&</i>",
-        "播放数组": "czs-category-l bdba79a1be86a&&b11e9b1883",
-        "播放列表": "<li>&&</li>[不包含:ed2k#</span></a#pan.baidu]",
-        "简介": "b1f40f7888\">&&</p>",
-        "分类": "电影$list#电视剧$tv",
-        "分类url": "https://xunlei8.cc/{cateId}-0-0-0-date-{catePg}-30.html;;md"
       }
     },
     {
@@ -14459,55 +13909,6 @@
       }
     },
     {
-      "key": "csp_XBPQ_MP4",
-      "name": "MP4",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "主页url": "https://www.dbmp4.com/",
-        "请求头": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-        "热门推荐": "1",
-        "首页": "电视剧$10",
-        "直接播放": "0",
-        "倒序播放": "1",
-        "二次截取": "<div id=\"list_all\">&&<div class=\"text-center\">",
-        "数组": "<li>&&</a>",
-        "图片": "data-original=\"&&\"",
-        "标题": "alt=\"《&&》\"",
-        "链接": "href=\"&&\"",
-        "副标题": "rate badge\">&&</span>",
-        "搜索url": "https://www.dbmp4.com/search/;post;wd={wd}&p={pg}",
-        "搜索模式": "1",
-        "搜索二次截取": "<div id=\"list_all\">&&<div class=\"text-center\">",
-        "搜索数组": "<li>&&</a>",
-        "搜索图片": "data-original=\"&&\"",
-        "搜索标题": "alt=\"《&&》\"",
-        "搜索链接": "href=\"&&\"",
-        "搜索后缀": "vod",
-        "线路二次截取": "<ul class=\"nav nav-tabs  dpplay pull-right\">&&</ul>",
-        "线路数组": "<div id=\"download1\"&&/h2>",
-        "线路标题": "<h2>&&<",
-        "播放数组": "<ul class=\"panel down-list thunder1\">&&</ul>",
-        "状态": "更新:&&</span>",
-        "导演": "导演:&&</p>",
-        "主演": "主演:&&</p>[不包含:\" /  \"]",
-        "简介": "<div class=\"article-related info\">&&</p>",
-        "播放列表": "<li>&&</ul>",
-        "播放标题": "title=\"&&\"",
-        "播放链接": "href=\"&&\"",
-        "播放链接前缀": "",
-        "嗅探词": "zjcdn.com#1.mp4#.m3u8?#.mp4#.m3u8",
-        "过滤词": "url=#?v=https",
-        "播放请求头": "",
-        "免嗅": "0",
-        "分类": "电视剧$10#动作片$1#科幻片$2#爱情片$3#喜剧片$4#恐怖片$5#战争片$6#剧情片$7#记录片$8#动漫$9",
-        "分类url": "https://www.dbmp4.com/list/{cateId}-{catePg}.html"
-      }
-    },
-    {
       "key": "csp_XBPQ_BT",
       "name": "BT",
       "type": 3,
@@ -14525,29 +13926,6 @@
         "播放链接": "href=\"&&\"[包含:magnet]",
         "分类": "电影$movies#电视剧$tv",
         "分类url": "https://www.btbtl.com/type/{cateId}/{catePg}/"
-      }
-    },
-    {
-      "key": "csp_XBPQ_MP4US",
-      "name": "MP4US",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "标题": "《&&》",
-        "数组": "<li>&&</li>",
-        "副标题": "rate badge\">&&</span>+|+update_time\">&&</span>",
-        "线路标题": "<h2>&&</h2>[替换:下载地址>>磁力]",
-        "播放数组": "download_url&&</ul>",
-        "播放列表": "<a&&</a>[不包含:ed2k]",
-        "线路数组": "download_url&&</ul>",
-        "分类二次截取": "<ul&&</ul>",
-        "分类数组": "<li&&</li>",
-        "分类标题": ">&&</a",
-        "分类ID": "/list/&&-1.html",
-        "分类url": "https://m.mp4us.com/list/{cateId}-{catePg}.html;;dm"
       }
     }
   ],
