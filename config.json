@@ -451,6 +451,16 @@
       "ext": "./XBPQ/即看.json"
     },
     {
+      "key": "小鸭",
+      "name": "小鸭",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/小鸭.json"
+    },    
+    {
       "key": "奇优",
       "name": "奇优",
       "type": 3,
@@ -494,13 +504,6 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/夸克分享[合].js?type=url&params=../json/夸克分享.json"
     },    
-    {
-      "key": "三六零",
-      "name": "360",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/360影视[官].js"
-    },
     {
       "key": "三六零",
       "name": "360",
@@ -667,39 +670,6 @@
         "港台综艺",
         "欧美综艺"
       ]
-    },
-    {
-      "key":"小猫咪",
-      "name":"猫咪",
-      "type":1,
-      "api":"http://zy.xiaomaomi.cc/api.php/provide/vod",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1
-    },
-    {
-      "key":"如意",
-      "name":"如意",
-      "type":1,
-      "api":"https://cj.rycjapi.com/api.php/provide/vod/",
-      "searchable":1,
-      "quickSearch":1
-    },
-    {
-      "key":"牛牛",
-      "name":"牛牛",
-      "type":1,
-      "api":"https://api.niuniuzy.me/api.php/provide/vod/",
-      "searchable":1,
-      "quickSearch":1
-    },
-    {
-      "key":"刺客",
-      "name":"刺客",
-      "type":1,
-      "api":"https://ckzy.me/api.php/provide/vod/",
-      "searchable":1,
-      "quickSearch":1
     },
     {
       "key": "红牛资源",
