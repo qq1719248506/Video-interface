@@ -3,7 +3,7 @@
 	"站名": "小鸭看看",
 	"主页url": "https://xiaoyakankan.com/",
 	"热门": "",
-    "分类": "电影$10#电视剧$11#综艺$12#动漫$13#",
+    "分类": "电影$10#电视剧$11#综艺$12#动漫$13#福利$15#",
 
 	"分类url": "https://xiaoyakankan.com/cat/{cateId}-{catePg}.html",
 	"数组": "",
