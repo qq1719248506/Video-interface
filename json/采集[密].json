@@ -3,9 +3,22 @@
     "name": "鸡坤",
     "url": "https://jkunzyapi.com",
     "parse_url": "",
-    "cate_exclude": "",
-    "api": "/api.php/provide/vod/"    
+    "cate_exclude": ""   
   },
+  {
+    "name": "色猫",
+    "url": "https://caiji.semaozy.net",
+    "parse_url": "",
+    "cate_exclude": "",
+    "api": "/inc/apijson_vod.php/"
+  },
+  {
+    "name": "️雪人",
+    "url": "https://www.xrbsp.com",
+    "parse_url": "",
+    "cate_exclude": "",
+    "api": "/api/json.php/"
+  },  
   {
     "name": "奥斯卡",
     "url": "https://aosikazy.com",
