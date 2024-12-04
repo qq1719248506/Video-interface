@@ -173,7 +173,7 @@
     },
     {
       "key": "兄弟影视",
-      "name": "兄弟｜APP",
+      "name": "兄弟",
       "type": 3,
       "api": "csp_AppGetApp",
       "searchable": 1,
