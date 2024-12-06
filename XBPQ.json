@@ -5181,7 +5181,7 @@
       "ext": {
         "请求头": "手机",
         "发布页": "https://www.cdnkan.top/",
-        "主页url": "https://physvod.com/",
+        "主页url": "https://panghuys.com/",
         "数组": "",
         "图片": "data-original=\"&&\"",
         "标题": "title=\"&&\"",
@@ -5189,11 +5189,11 @@
         "链接": "",
         "简介": "",
         "搜索模式": "1",
-        "搜索url": "https://physvod.com/phsch.html?wd={wd}",
+        "搜索url": "https://panghuys.com/phsch.html?wd={wd}",
         "搜索数组": "module-card-item-class&&</span></a",
         "线路数组": "class=\"module-tab-item tab-item\"&&</div>",
         "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-        "分类url": "https://physvod.com/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
+        "分类url": "https://panghuys.com/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
         "分类": "电影&电视剧&动漫&综艺&短剧&解说&其他&",
         "分类值": "1&2&4&3&7&8&9&"
       }
@@ -5356,36 +5356,6 @@
         "主演": "主演：&&</div>",
         "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
         "分类url": "https://www.cdprop.com/movshow/{cateId}-{catePg}-.html"
-      }
-    },
-    {
-      "key": "csp_XBPQ_秋霞",
-      "name": "秋霞",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "请求头": "手机",
-        "主页url": "http://www.hongbaohk.com",
-        "数组": "class=\"myui-vodlist__box\">&&</div>",
-        "简介": "剧情简介</h3>&&</span>",
-        "线路数组": "href=\"#play_down*\"&&</li>[排序:1080zyk>>]",
-        "线路标题": "tab\">&&</a",
-        "播放数组": "class=\"myui-content__list&&</ul>",
-        "播放列表": "<li&&</li>",
-        "播放标题": ">&&</a",
-        "播放链接": "href=\"&&\"",
-        "搜索数组": "lazyload\"&&</a",
-        "搜索图片": "data-original=\"&&\"",
-        "搜索标题": "title=\"&&\"",
-        "搜索链接": "href=\"&&\"",
-        "搜索url": "http://www.hongbaohk.com/sou/{wd}----------{pg}---.html",
-        "分类数组": "class=\"col-lg-5 col-md-5 col-sm-5 col-xs-3\">&&</li>",
-        "分类标题": ">&&</a",
-        "分类ID": "href=\"/hk&&.html\"",
-        "分类url": "http://www.hongbaohk.com/rou/{cateId}--{by}------{catePg}---.html[]"
       }
     },
     {
@@ -7454,36 +7424,6 @@
       }
     },
     {
-      "key": "csp_XBPQ_小熊",
-      "name": "小熊",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "http://www.xizoursofa.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html[http://www.xizoursofa.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html]",
-        "跳转播放链接": "<iframe border*src=\"&&\"",
-        "播放链接前缀": "http://www.xizoursofa.com",
-        "分类": "电影$1#电视剧$2#动漫$3#综艺$4#动画片$5#体育赛事$28"
-      }
-    },
-    {
-      "key": "csp_XBPQ_团夕",
-      "name": "团夕",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "简介": "hl-content-text\">&&</span>",
-        "线路数组": "hl-tabs-btn hl-slide-swiper&&</a>",
-        "分类url": "http://ikvv.cc/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-        "分类": "短剧$20#电视剧$2#电影$1#动漫$4#综艺$3"
-      }
-    },
-    {
       "key": "csp_XBPQ_蛙蛙",
       "name": "蛙蛙",
       "type": 3,
@@ -7656,33 +7596,6 @@
         "分类url": "http://32d.cc/index.php/vod/show/id/{cateId}/page/{catePg}.html}",
         "分类": "电影&电视剧&综艺&动漫&短剧",
         "分类值": "1&2&3&4&5"
-      }
-    },
-    {
-      "key": "csp_XBPQ_蚊子",
-      "name": "蚊子",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://wg.wzys.link/index.php/vod/show/area/{area}/id/{cateId}/year/{year}.html",
-        "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$21"
-      }
-    },
-    {
-      "key": "csp_XBPQ_孜然",
-      "name": "孜然",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "嗅探词": ".mp4#m3u8",
-        "分类url": "https://www.zrys1.top/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
       }
     },
     {
@@ -7883,19 +7796,6 @@
         "排序": "综合$1#最新$2#最热$3#评分$4",
         "分类url": "https://www.dushe7.app/show/{cateId}-{class}-{area}--{year}-{by}-{catePg}.html",
         "分类": "电影$1#连续剧$2#动漫$3#综艺$4#短剧$6"
-      }
-    },
-    {
-      "key": "csp_XBPQ_狂人",
-      "name": "狂人",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://www.kpkuang.one/vodshow/{cateId}-{area}-------{catePg}---{year}--.html",
-        "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
       }
     },
     {
@@ -8182,7 +8082,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "分类url": "https://cddys.me/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
+        "分类url": "https://cddys.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
       }
     },
@@ -8250,7 +8150,7 @@
     },
     {
       "key": "csp_XBPQ_FreeOK",
-      "name": "FreeOK",
+      "name": "富瑞",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
