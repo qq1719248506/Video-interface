@@ -438,6 +438,26 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "鬼片",
+      "name": "鬼片",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/鬼片.json"
+    },
+    {
+      "key": "蝌蚪",
+      "name": "蝌蚪",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/蝌蚪.json"
     },    
     {
       "key": "可可",
