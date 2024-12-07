@@ -8611,14 +8611,38 @@
     {
       "key": "155资源",
       "name": "155",
-      "api": "https://155api.com/api.php/provide/vod/",
-      "download": "",
-      "jiexiUrl": "",
-      "group": "影视",
-      "status": true,
-      "isActive": true,
       "type": 1,
-      "id": 53
+      "api": "https://155api.com/api.php/provide/vod/"
+    },
+    {
+      "key":"黄AV",
+      "name": "黄AV",
+      "type":1,
+      "api":"https://www.pgxdy.com/api/json.php"
+    },    
+    {
+      "key":"美少女",
+      "name": "美少女",
+      "type":1,      
+      "api": "https://www.msnii.com/api/json.php"
+    },
+    {
+      "key":"白嫖资源",
+      "name": "白嫖",
+      "type":1,      
+      "api": "https://www.kxgav.com/api/json.php"
+    },    
+    {
+      "key": "香奶儿资源",
+      "name": "香奶儿",
+      "type": 1,
+      "api": "https://www.gdlsp.com/api/json.php"
+    },
+    {
+      "key": "精品资源",
+      "name": "精品",
+      "type": 1,
+      "api": "https://www.jingpinx.com/api.php/provide/vod/"
     },    
     {
       "key": "hipy_js_采集之王[合]1",
