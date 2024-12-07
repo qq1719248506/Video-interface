@@ -7838,19 +7838,6 @@
       }
     },
     {
-      "key": "csp_XBPQ_桵空",
-      "name": "桵空",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://www.maigo.cc/vodshow/{cateId}---{class}-----{catePg}---{year}/",
-        "分类": "电影$84#综艺$91#大陆剧$81#港台剧$82#海外剧$83#纪录片$88#动漫$1#日剧$32#日漫$46#国漫$47#美漫$85"
-      }
-    },
-    {
       "key": "csp_XBPQ_耐看",
       "name": "耐看",
       "type": 3,
@@ -7887,19 +7874,6 @@
       "ext": {
         "分类url": "https://www.netflixgc.com/vodtype/{cateId}.html",
         "分类": "电影$1#电视剧$2#动漫$3"
-      }
-    },
-    {
-      "key": "csp_XBPQ_口袋",
-      "name": "口袋",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://www.k987.tv/type/{cateId}.html",
-        "分类": "电影$1#剧集$2#综艺$4#动漫$3"
       }
     },
     {
@@ -7952,21 +7926,6 @@
       }
     },
     {
-      "key": "csp_XBPQ_即刻",
-      "name": "即刻",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "嗅探词": ".m3u8",
-        "分类url": "https://www.jkdy.cc/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
-        "分类": "电影$1#剧集$2#动漫$4#综艺$4",
-        "搜索模式": "0"
-      }
-    },
-    {
       "key": "csp_XBPQ_热播",
       "name": "热播",
       "type": 3,
@@ -7996,16 +7955,6 @@
         "分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;a",
         "跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"
       }
-    },
-    {
-      "key": "csp_XBPQ_嘟嘟",
-      "name": "嘟嘟",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "{     \"请求头\":\"手机\",     \"简介\":\"介绍：&&</span>\",     \"副标题\":\"class=\\\"other\\\">&&</p>\",     \"线路数组\":\"playerico ico-Azhan&&/li>\",     \"线路标题\":\"</i>&&<\",     \"分类\":\"电影$1#电视剧$2#国产剧$12#港剧$21#综艺$31#动漫$26\",     \"分类url\":\"http://www.dudu30.com/?m=vod-type-id-{cateId}-pg-{catePg}.html\"}"
     },
     {
       "key": "csp_XBPQ_小镇",
