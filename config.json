@@ -36,6 +36,29 @@
       }
     },
     {
+      "key": "1905",
+      "name": "1905",
+      "type": 3,
+      "api": "csp_Web1905",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },    
+    {
+      "key": "西瓜视频",
+      "name": "西瓜",
+      "type": 3,
+      "api": "csp_AmuXiguaV2",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      }
+    },    
+    {
       "key": "csp_饭团",
       "name": "饭团",
       "type": 3,
@@ -228,29 +251,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "1905",
-      "name": "1905",
-      "type": 3,
-      "api": "csp_Web1905",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
-    },    
-    {
-      "key": "西瓜视频",
-      "name": "西瓜",
-      "type": 3,
-      "api": "csp_AmuXiguaV2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      }
     },
     {
       "key": "繁荣",
@@ -1252,7 +1252,7 @@
     },
     {
       "key": "小纸条弹幕",
-      "name": "小纸条",
+      "name": "纸条",
       "type": 3,
       "api": "csp_XiaoZhiTiao",
       "searchable": 1,
