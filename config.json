@@ -240,6 +240,69 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "KhY021WelCEl+6MsvwnzaPusskyiDwxc/zHc8gWyReBS+prQb0FAAvlCb5Uoj4LihPmHGDbnCYo/risaDE3tISvdDENCSVt4yNkc/84/jK0C1mB7qQzP6tbIGNAuvYFQ5GG9wtLMcQNCCr0aUEOhalQ68ReunWqH5JzX96l/BDfD/4KyVQlAKaurrptTFwKIRcQ7DU0yNCOv0eHPd48jyYXnc/YzNv9jY54k0unLa6z06bdWLsj4G0aNHwcp3IxydlT/taKaA0S27Tmdq7nkMyq26a39g1MHcVEvL6x7xZmF+nOYuZBIiIxzh36dj2ues4Nt2ukFtac="
+    },
+    {
+      "key": "影视配置",
+      "name": "Config",
+      "type": 3,
+      "api": "csp_Wexconfig",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "jar": "./jar/wex.txt;md5;35e402b4863ac8c37907a931e615b312"
+    },
+    {
+      "key": "115",
+      "name": "115盘",
+      "type": 3,
+      "api": "csp_Wex115share",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 50,
+      "style": {
+        "type": "list"
+      },
+      "jar": "./jar/wex.txt;md5;35e402b4863ac8c37907a931e615b312"
+    },
+    {
+      "key": "雷鲸",
+      "name": "雷鲸",
+      "type": 3,
+      "api": "csp_Wexleijing",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "./jar/wex.txt;md5;35e402b4863ac8c37907a931e615b312"
+    },
+    {
+      "key": "天翼",
+      "name": "天翼",
+      "type": 3,
+      "api": "csp_Wextyso",
+      "searchable": 1,
+      "changeable": 0,
+      "jar": "./jar/wex.txt;md5;35e402b4863ac8c37907a931e615b312"
+    },
+    {
+      "key": "盘他",
+      "name": "盘他",
+      "type": 3,
+      "api": "csp_WexYDpanta",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "./jar/wex.txt;md5;35e402b4863ac8c37907a931e615b312"
+    },
+    {
+      "key": "Emby",
+      "name": "Emby",
+      "type": 3,
+      "api": "csp_Wexemby",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "./jar/wex.txt;md5;35e402b4863ac8c37907a931e615b312"
     },    
     {
       "key": "忍者影视",
