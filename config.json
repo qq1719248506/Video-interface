@@ -1025,6 +1025,16 @@
       ]
     },
     {
+      "key": "牛牛资源",
+      "name": "牛牛",
+      "type": 0,
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/xml",
+      "playUrl": "https://jiexi.niuniuzy.org/m3u8/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },    
+    {
       "key": "哔哩弹幕",
       "name": "哔站",
       "type": 3,
