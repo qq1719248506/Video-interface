@@ -1,8 +1,7 @@
-{ 
-  "主页url": "https://www.keke2.app",
-  "请求头": "User-Agent$MOBILE_UA",  
-  "分类url": "https://www.keke2.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
-  "分类": "X影视$1#电视剧$2#综艺$4#动漫$3#短剧$6",
-  "图片": "https+://61.147.93.252:15002+data-original=\"&&\"",
-  "搜索url": "https://www.keke2.app/search?k={wd}"
+{
+    "简介": "detail-content\" style=*>&&</span>",
+    "数组": "stui-vodlist__box\">&&</div></div>",
+    "副标题": "pic-text text-right\">&&</span>",
+    "分类url": "https://www.kmxibanyayu.com/vs/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+    "分类": "短剧$duanju#电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi"
 }
