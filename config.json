@@ -513,6 +513,16 @@
       "filterable": 1
     },
     {
+      "key": "齐鲁",
+      "name": "齐鲁",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/齐鲁.json"
+    },    
+    {
       "key": "鬼片",
       "name": "鬼片",
       "type": 3,
