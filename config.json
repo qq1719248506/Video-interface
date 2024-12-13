@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/spider.jar;md5;f42e4298608320cc71f4b0c3cd77fa4a",
+  "spider": "./jar/spider.jar;md5;a80462cb80c5439c31e56ccd5caa9ea6",
   "wallpaper": "https://api.likepoems.com/img/bing",
   "sites": [
     {
@@ -57,6 +57,16 @@
         "type": "rect",
         "ratio": 1.433
       }
+    },
+    {
+      "key": "南瓜",
+      "name": "南瓜",
+      "type": 3,
+      "api": "csp_NanGua",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },    
     {
       "key": "csp_饭团",
