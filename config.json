@@ -553,14 +553,14 @@
       "ext": "./XBPQ/毒蛇.json"
     },
     {
-      "key": "兄弟",
-      "name": "兄弟",
+      "key": "独播",
+      "name": "独播",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XBPQ/兄弟.json"
+      "ext": "./XBPQ/独播.json"
     },
     {
       "key": "胖虎",
