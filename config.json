@@ -256,7 +256,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "./jar/wex.zip;md5;cae606af0c0d24a48ce5e0387c8c18cb"
+      "jar": "./jar/wex.zip;md5;e201db5ceb582fc58be2e811a0714ffb"
     },
     {
       "key": "115",
@@ -269,7 +269,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "./jar/wex.zip;md5;cae606af0c0d24a48ce5e0387c8c18cb"
+      "jar": "./jar/wex.zip;md5;e201db5ceb582fc58be2e811a0714ffb"
     },
     {
       "key": "雷鲸",
@@ -278,7 +278,7 @@
       "api": "csp_Wexleijing",
       "searchable": 1,
       "changeable": 1,
-      "jar": "./jar/wex.zip;md5;cae606af0c0d24a48ce5e0387c8c18cb"
+      "jar": "./jar/wex.zip;md5;e201db5ceb582fc58be2e811a0714ffb"
     },
     {
       "key": "天翼",
@@ -287,7 +287,7 @@
       "api": "csp_Wextyso",
       "searchable": 1,
       "changeable": 0,
-      "jar": "./jar/wex.zip;md5;cae606af0c0d24a48ce5e0387c8c18cb"
+      "jar": "./jar/wex.zip;md5;e201db5ceb582fc58be2e811a0714ffb"
     },
     {
       "key": "盘他",
@@ -296,7 +296,7 @@
       "api": "csp_WexYDpanta",
       "searchable": 1,
       "changeable": 1,
-      "jar": "./jar/wex.zip;md5;cae606af0c0d24a48ce5e0387c8c18cb"
+      "jar": "./jar/wex.zip;md5;e201db5ceb582fc58be2e811a0714ffb"
     },
     {
       "key": "Emby",
@@ -305,7 +305,7 @@
       "api": "csp_Wexemby",
       "searchable": 1,
       "changeable": 1,
-      "jar": "./jar/wex.zip;md5;cae606af0c0d24a48ce5e0387c8c18cb"
+      "jar": "./jar/wex.zip;md5;e201db5ceb582fc58be2e811a0714ffb"
     },    
     {
       "key": "忍者影视",
