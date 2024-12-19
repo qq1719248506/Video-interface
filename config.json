@@ -652,35 +652,35 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/json/KKYS.json"
+      "ext": "./XBPQ/可可.json"
     },
     {
       "key": "青柠影视",
       "name": "青柠",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/json/QNYS.json"
+      "ext": "./XBPQ/青柠.json"
     },
     {
       "key": "面包影视",
       "name": "面包",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/json/MBYS.json"
+      "ext": "./XBPQ/面包.json"
     },
     {
       "key": "永乐影视",
       "name": "永乐",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/json/YLYS.json"
+      "ext": "./XBPQ/永乐.json"
     },
     {
       "key": "雪糕影视",
       "name": "雪糕",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/json/XGYS.json"
+      "ext": "./XBPQ/雪糕.json"
     },
     {
       "key": "即看",
@@ -692,6 +692,16 @@
       "filterable": 1,
       "ext": "./XBPQ/即看.json"
     },
+    {
+      "key": "酷猫",
+      "name": "酷猫",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/酷猫.json"
+    },    
     {
       "key": "小鸭",
       "name": "小鸭",
@@ -1299,6 +1309,64 @@
         }
       }
     },
+    {
+      "name": "反弹",
+      "type": 1,
+      "url": "http://110.40.85.39:81/jxxx/api.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "User-Agent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.94 Safari/537.36"
+        }
+      }
+    },    
+    {
+      "name": "巧计",
+      "type": 1,
+      "url": "https://zy.qiaoji8.com/gouzi.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },    
     {
       "name": "臻享",
       "type": "1",
