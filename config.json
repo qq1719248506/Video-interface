@@ -478,6 +478,13 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./XBPQ/小鸭.json"
+    },
+    {
+      "key": "琥珀",
+      "name": "琥珀",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/琥珀.json"
     },    
     {
       "key": "奇趣",
