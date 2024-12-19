@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/spider.zip;md5;a86f7115b9ed01b4e96c08c061107569",
+  "spider": "./jar/spider.txt;md5;a86f7115b9ed01b4e96c08c061107569",
   "wallpaper": "https://api.likepoems.com/img/bing",
   "sites": [
     {
@@ -392,7 +392,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "./jar/wex.zip;md5;e201db5ceb582fc58be2e811a0714ffb"
+      "jar": "./jar/wex.txt;md5;e201db5ceb582fc58be2e811a0714ffb"
     },
     {
       "key": "雷鲸",
@@ -401,7 +401,7 @@
       "api": "csp_Wexleijing",
       "searchable": 1,
       "changeable": 1,
-      "jar": "./jar/wex.zip;md5;e201db5ceb582fc58be2e811a0714ffb"
+      "jar": "./jar/wex.txt;md5;e201db5ceb582fc58be2e811a0714ffb"
     },
     {
       "key": "天翼",
@@ -410,7 +410,7 @@
       "api": "csp_Wextyso",
       "searchable": 1,
       "changeable": 0,
-      "jar": "./jar/wex.zip;md5;e201db5ceb582fc58be2e811a0714ffb"
+      "jar": "./jar/wex.txt;md5;e201db5ceb582fc58be2e811a0714ffb"
     },
     {
       "key": "盘他",
@@ -419,7 +419,7 @@
       "api": "csp_WexYDpanta",
       "searchable": 1,
       "changeable": 1,
-      "jar": "./jar/wex.zip;md5;e201db5ceb582fc58be2e811a0714ffb"
+      "jar": "./jar/wex.txt;md5;e201db5ceb582fc58be2e811a0714ffb"
     },
     {
       "key": "Emby",
@@ -428,7 +428,7 @@
       "api": "csp_Wexemby",
       "searchable": 1,
       "changeable": 1,
-      "jar": "./jar/wex.zip;md5;e201db5ceb582fc58be2e811a0714ffb"
+      "jar": "./jar/wex.txt;md5;e201db5ceb582fc58be2e811a0714ffb"
     },
     {
       "key": "星芽短剧",
@@ -1317,7 +1317,7 @@
       "api": "csp_Wexalllive",
       "searchable": 1,
       "changeable": 1,
-      "jar": "./ja/wex.zip;md5;e201db5ceb582fc58be2e811a0714ffb"
+      "jar": "./ja/wex.txt;md5;e201db5ceb582fc58be2e811a0714ffb"
     },
     {
       "key": "IKTV",
@@ -1326,7 +1326,7 @@
       "api": "csp_WexIktv",
       "searchable": 1,
       "changeable": 0,
-      "jar": "./jar/wex.zip;md5;e201db5ceb582fc58be2e811a0714ffb"
+      "jar": "./jar/wex.txt;md5;e201db5ceb582fc58be2e811a0714ffb"
     },
     {
       "key": "push_agent",
