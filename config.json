@@ -47,7 +47,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "./jar/wex.zip;md5;e201db5ceb582fc58be2e811a0714ffb"
+      "jar": "./jar/wex.txt;md5;e201db5ceb582fc58be2e811a0714ffb"
     },
     {
       "key": "csp_饭团",
@@ -763,15 +763,6 @@
       "filterable": 1
     },
     {
-      "key": "机器人",
-      "name": "机器人",
-      "type": 3,
-      "api": "csp_Ikanbot",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "电影牛",
       "name": "电影牛",
       "type": 3,
@@ -807,8 +798,8 @@
       "type": 3,
       "api": "csp_Web1905",
       "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "优质",
@@ -1321,7 +1312,7 @@
     },
     {
       "key": "IKTV",
-      "name": "KTV｜音乐",
+      "name": "音乐",
       "type": 3,
       "api": "csp_WexIktv",
       "searchable": 1,
@@ -1345,6 +1336,16 @@
     }
   ],
   "parses": [
+    {
+      "name": "Json聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "Web聚合",
+      "type": 3,
+      "url": "Web"
+    },
     {
       "name": "臻享",
       "type": "1",
