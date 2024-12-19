@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/spider.txt;md5;a86f7115b9ed01b4e96c08c061107569",
+  "spider": "https://gitee.com/PizazzXS/four-d/raw/master/spider.txt;md5;a86f7115b9ed01b4e96c08c061107569",
   "wallpaper": "https://api.likepoems.com/img/bing",
   "sites": [
     {
@@ -47,20 +47,8 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "./jar/wex.txt;md5;e201db5ceb582fc58be2e811a0714ffb"
+      "jar": "https://gitee.com/PizazzXS/four-d/raw/master/wex.txt;md5;e201db5ceb582fc58be2e811a0714ffb"
     },
-    {
-      "key": "csp_饭团",
-      "name": "饭团",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_Fantuan",
-      "playerType": 2,
-      "filterable": 1,
-      "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-      "ext": "https://fantuan.vip/"
-    },    
     {
       "key": "厂长弹幕",
       "name": "厂长",
@@ -142,7 +130,7 @@
     },
     {
       "key": "立播弹幕",
-      "name": "利播",
+      "name": "立播",
       "type": 3,
       "api": "csp_Libvio",
       "searchable": 1,
@@ -182,7 +170,7 @@
     },
     {
       "key": "小苹果弹幕",
-      "name": "苹果",
+      "name": "小苹果",
       "type": 3,
       "api": "csp_Xpg",
       "searchable": 1,
@@ -392,7 +380,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "./jar/wex.txt;md5;e201db5ceb582fc58be2e811a0714ffb"
+      "jar": "https://gitee.com/PizazzXS/four-d/raw/master/wex.txt;md5;e201db5ceb582fc58be2e811a0714ffb"
     },
     {
       "key": "雷鲸",
@@ -401,7 +389,7 @@
       "api": "csp_Wexleijing",
       "searchable": 1,
       "changeable": 1,
-      "jar": "./jar/wex.txt;md5;e201db5ceb582fc58be2e811a0714ffb"
+      "jar": "https://gitee.com/PizazzXS/four-d/raw/master/wex.txt;md5;e201db5ceb582fc58be2e811a0714ffb"
     },
     {
       "key": "天翼",
@@ -410,7 +398,7 @@
       "api": "csp_Wextyso",
       "searchable": 1,
       "changeable": 0,
-      "jar": "./jar/wex.txt;md5;e201db5ceb582fc58be2e811a0714ffb"
+      "jar": "https://gitee.com/PizazzXS/four-d/raw/master/wex.txt;md5;e201db5ceb582fc58be2e811a0714ffb"
     },
     {
       "key": "盘他",
@@ -419,7 +407,7 @@
       "api": "csp_WexYDpanta",
       "searchable": 1,
       "changeable": 1,
-      "jar": "./jar/wex.txt;md5;e201db5ceb582fc58be2e811a0714ffb"
+      "jar": "https://gitee.com/PizazzXS/four-d/raw/master/wex.txt;md5;e201db5ceb582fc58be2e811a0714ffb"
     },
     {
       "key": "Emby",
@@ -428,7 +416,7 @@
       "api": "csp_Wexemby",
       "searchable": 1,
       "changeable": 1,
-      "jar": "./jar/wex.txt;md5;e201db5ceb582fc58be2e811a0714ffb"
+      "jar": "https://gitee.com/PizazzXS/four-d/raw/master/wex.txt;md5;e201db5ceb582fc58be2e811a0714ffb"
     },
     {
       "key": "星芽短剧",
@@ -449,59 +437,11 @@
       "filterable": 0
     },
     {
-      "key": "鬼片",
-      "name": "鬼片",
+      "key": "吉吉短剧",
+      "name": "吉吉",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./XBPQ/鬼片.json"
-    },    
-    {
-      "key": "可可",
-      "name": "可可",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/可可.json"
-    },
-    {
-      "key": "哈哈",
-      "name": "哈哈",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XBPQ/哈哈.json"
-    },
-    {
-      "key": "即看",
-      "name": "即看",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/即看.json"
-    },
-    {
-      "key": "小鸭",
-      "name": "小鸭",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/小鸭.json"
-    },
-    {
-      "key": "琥珀",
-      "name": "琥珀",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/琥珀.json"
-    },    
-    {
-      "key": "奇趣",
-      "name": "奇趣",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XYQHiker/奇趣.json"
+      "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/json/JJDJ.json"
     },
     {
       "key": "韩小圈",
@@ -523,7 +463,7 @@
       "ext": "https://www.tvkuys.xyz/api.php/app/"
     },
     {
-      "key": "天天影视",
+      "key": "舔舔",
       "name": "舔舔",
       "type": 3,
       "api": "csp_AppTT",
@@ -532,7 +472,7 @@
       "filterable": 1
     },
     {
-      "key": "热播影视",
+      "key": "热播",
       "name": "热播",
       "type": 3,
       "api": "csp_AppRB",
@@ -582,8 +522,8 @@
       "key": "大米星球",
       "name": "大米",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/APPV2.js?type=url&params=https://damifan.wiki"
+      "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+      "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/APPV2.js?type=url&params=https://damifan.wiki"
     },
     {
       "key": "西瓜视频",
@@ -600,7 +540,14 @@
       }
     },
     {
-      "key": "厂长资源",
+      "key": "采集之王",
+      "name": "采集",
+      "type": 3,
+      "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+      "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/CJZW.js?type=url&params=https://gitee.com/PizazzXS/four-d/raw/master/movie/json/CJJT.json$1$1"
+    },
+    {
+      "key": "厂长",
       "name": "厂长",
       "type": 3,
       "api": "csp_Czzy",
@@ -627,8 +574,8 @@
       "filterable": 1
     },
     {
-      "key": "立播影视",
-      "name": "立播",
+      "key": "利播影视",
+      "name": "利播",
       "type": 3,
       "api": "csp_Libvio",
       "searchable": 1,
@@ -698,32 +645,72 @@
       "filterable": 1
     },
     {
+      "key": "可可影视",
+      "name": "可可",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/json/KKYS.json"
+    },
+    {
       "key": "青柠影视",
       "name": "青柠",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./XBPQ/青柠.json"
+      "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/json/QNYS.json"
     },
     {
       "key": "面包影视",
       "name": "面包",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./XBPQ/面包.json"
+      "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/json/MBYS.json"
     },
     {
       "key": "永乐影视",
       "name": "永乐",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./XBPQ/永乐.json"
+      "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/json/YLYS.json"
     },
     {
       "key": "雪糕影视",
       "name": "雪糕",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./XBPQ/雪糕.json"
+      "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/json/XGYS.json"
+    },
+    {
+      "key": "即看",
+      "name": "即看",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/即看.json"
+    },
+    {
+      "key": "小鸭",
+      "name": "小鸭",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/小鸭.json"
+    },
+    {
+      "key": "琥珀",
+      "name": "琥珀",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/琥珀.json"
     },
     {
       "key": "金牌影视",
@@ -755,7 +742,7 @@
     },
     {
       "key": "小苹果",
-      "name": "小苹果",
+      "name": "苹果",
       "type": 3,
       "api": "csp_Xpg",
       "searchable": 1,
@@ -770,27 +757,31 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XYQHiker/电影牛.json"
+      "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/json/DYN.json"
     },
     {
       "key": "三六零",
       "name": "三六零",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/360影视[官]"
-    {
-      "key": "搜狗视频",
-      "name": "搜狗｜视频",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/菜狗[官]"
+      "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+      "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/SLL.js"
     },
     {
-      "key": "哔哩大全",
-      "name": "哔站",
+      "key": "搜狗视频",
+      "name": "搜狗",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/我的哔哩[官].js?type=url&params=../json/哔哩大全.json"
+      "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+      "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/SGSP.js"
+    },
+    {
+      "key": "奇趣影视",
+      "name": "奇趣",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/json/QQYS.json"
     },
     {
       "key": "1905",
@@ -798,76 +789,9 @@
       "type": 3,
       "api": "csp_Web1905",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "优质",
-      "name": "优质",
-      "type": 1,
-      "api": "https://api.1080zyku.com/inc/apijson.php?ac=lis",
-      "searchable": 1,
       "quickSearch": 0,
-      "filterable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "奇幻片",
-        "恐怖片",
-        "灾难片",
-        "悬疑片",
-        "爱情片",
-        "战争片",
-        "纪录片",
-        "伦理片",
-        "动画电影",
-        "大陆剧",
-        "欧美剧",
-        "港澳剧",
-        "动画片",
-        "动漫",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "搞笑",
-        "音乐"
-      ]
+      "filterable": 0
     },
-    {
-      "key": "火狐资源",
-      "name": "火狐",
-      "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "内地剧",
-        "香港剧",
-        "欧美剧",
-        "韩剧",
-        "日剧",
-        "马泰剧",
-        "台湾剧",
-        "动画片",
-        "中国动漫",
-        "日本动漫",
-        "欧美动漫",
-        "战争片",
-        "动作片",
-        "科幻片",
-        "纪录片",
-        "爱情片",
-        "喜剧片",
-        "灾难片",
-        "悬疑片",
-        "大陆综艺",
-        "日韩综艺",
-        "港台综艺",
-        "欧美综艺"
-      ]
-    },        
     {
       "key": "红牛资源",
       "name": "红牛",
@@ -1105,14 +1029,14 @@
       "style": {
         "type": "list"
       },
-      "ext": "./XBPQ/哆啦.json"
+      "ext": "https://gitee.com/PizazzXS/four-d/raw/master/anime/json/DLXFS.json"
     },
     {
       "key": "动画片",
       "name": "动画片",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/动画片.js"
+      "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+      "ext": "https://gitee.com/PizazzXS/four-d/raw/master/anime/js/DHPDQ.js"
     },
     {
       "key": "夸克影搜弹幕",
@@ -1198,7 +1122,7 @@
     },
     {
       "key": "小纸条弹幕",
-      "name": "纸条",
+      "name": "小纸条",
       "type": 3,
       "api": "csp_XiaoZhiTiao",
       "searchable": 1,
@@ -1211,7 +1135,7 @@
     },
     {
       "key": "夸克趣盘搜弹幕",
-      "name": "趣盘",
+      "name": "趣盘搜",
       "type": 3,
       "api": "csp_QuPanSou",
       "searchable": 1,
@@ -1308,7 +1232,7 @@
       "api": "csp_Wexalllive",
       "searchable": 1,
       "changeable": 1,
-      "jar": "./ja/wex.txt;md5;e201db5ceb582fc58be2e811a0714ffb"
+      "jar": "https://gitee.com/PizazzXS/four-d/raw/master/wex.txt;md5;e201db5ceb582fc58be2e811a0714ffb"
     },
     {
       "key": "IKTV",
@@ -1317,7 +1241,7 @@
       "api": "csp_WexIktv",
       "searchable": 1,
       "changeable": 0,
-      "jar": "./jar/wex.txt;md5;e201db5ceb582fc58be2e811a0714ffb"
+      "jar": "https://gitee.com/PizazzXS/four-d/raw/master/wex.txt;md5;e201db5ceb582fc58be2e811a0714ffb"
     },
     {
       "key": "push_agent",
@@ -1345,35 +1269,6 @@
       "name": "Web聚合",
       "type": 3,
       "url": "Web"
-    },
-    {
-      "name": "臻享",
-      "type": "1",
-      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
     },
     {
       "name": "推荐",
@@ -1405,9 +1300,96 @@
       }
     },
     {
+      "name": "臻享",
+      "type": "1",
+      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
       "name": "优选",
       "type": 1,
       "url": "http://1.94.221.189:88/algorithm.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "至臻",
+      "type": 1,
+      "url": "http://yunhai.qijiyun.vip/home/api?type=ys&uid=177259&key=dijnouxKNOQSTUWXY5&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "至尊",
+      "type": 1,
+      "url": "http://154.9.253.211:777/api/?key=tizaOMgxmM5q9aEh6Y&url=",
       "ext": {
         "flag": [
           "qq",
