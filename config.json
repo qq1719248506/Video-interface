@@ -655,6 +655,16 @@
       "ext": "./XBPQ/可可.json"
     },
     {
+      "key": "鬼片网",
+      "name": "鬼片",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/鬼片.json"
+    },    
+    {
       "key": "青柠影视",
       "name": "青柠",
       "type": 3,
