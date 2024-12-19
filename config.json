@@ -449,6 +449,13 @@
       "filterable": 0
     },
     {
+      "key": "鬼片",
+      "name": "鬼片",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/鬼片.json"
+    },    
+    {
       "key": "可可",
       "name": "可可",
       "type": 3,
