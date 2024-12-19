@@ -50,6 +50,18 @@
       "jar": "./jar/wex.zip;md5;e201db5ceb582fc58be2e811a0714ffb"
     },
     {
+      "key": "csp_饭团",
+      "name": "饭团",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_Fantuan",
+      "playerType": 2,
+      "filterable": 1,
+      "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+      "ext": "https://fantuan.vip/"
+    },    
+    {
       "key": "厂长弹幕",
       "name": "厂长",
       "type": 3,
