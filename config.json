@@ -655,14 +655,14 @@
       "ext": "./XBPQ/可可.json"
     },
     {
-      "key": "鬼片网",
-      "name": "鬼片",
+      "key": "魅影",
+      "name": "魅影",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XBPQ/鬼片.json"
+      "ext": "./XBPQ/魅影.json"
     },    
     {
       "key": "青柠影视",
@@ -702,6 +702,16 @@
       "filterable": 1,
       "ext": "./XBPQ/即看.json"
     },
+    {
+      "key": "晚秋",
+      "name": "晚秋",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/晚秋.json"
+    },    
     {
       "key": "酷猫",
       "name": "酷猫",
