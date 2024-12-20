@@ -792,6 +792,16 @@
       "ext": "./XBPQ/琥珀.json"
     },
     {
+      "key": "奈飞",
+      "name": "奈飞",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/奈飞.json"
+    },    
+    {
       "key": "金牌影视",
       "name": "金牌",
       "type": 3,
@@ -836,7 +846,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/json/DYN.json"
+      "ext": "./XYQHiker/电影牛.json"
     },
     {
       "key": "三六零",
@@ -860,7 +870,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/json/QQYS.json"
+      "ext": "./XYQHiker/奇趣.json"
     },
     {
       "key": "1905",
