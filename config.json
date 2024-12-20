@@ -561,8 +561,8 @@
       "key": "大米星球",
       "name": "大米",
       "type": 3,
-      "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
-      "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/APPV2.js?type=url&params=https://damifan.wiki"
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/APPV2.js?type=url&params=https://damifan.wiki"
     },
     {
       "key": "西瓜视频",
@@ -1118,14 +1118,14 @@
       "style": {
         "type": "list"
       },
-      "ext": "https://gitee.com/PizazzXS/four-d/raw/master/anime/json/DLXFS.json"
+      "ext": "./XBPQ/哆啦.json"
     },
     {
       "key": "动画片",
       "name": "动画片",
       "type": 3,
-      "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
-      "ext": "https://gitee.com/PizazzXS/four-d/raw/master/anime/js/DHPDQ.js"
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/动画片.js"
     },
     {
       "key": "夸克影搜弹幕",
@@ -1211,7 +1211,7 @@
     },
     {
       "key": "小纸条弹幕",
-      "name": "小纸条",
+      "name": "纸条",
       "type": 3,
       "api": "csp_XiaoZhiTiao",
       "searchable": 1,
@@ -1283,7 +1283,7 @@
     },
     {
       "key": "我的UC",
-      "name": "UC",
+      "name": "优汐",
       "type": 3,
       "api": "csp_MyUc",
       "searchable": 0,
@@ -1308,7 +1308,7 @@
       "indexs": 0,
       "ext": {
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "share": "https://gitee.com/PizazzXS/four-d/raw/master/js/alishare.txt"
+        "share": "./json/alishare.txt"
       },
       "style": {
         "type": "list"
@@ -1321,7 +1321,7 @@
       "api": "csp_Wexalllive",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://gitee.com/PizazzXS/four-d/raw/master/wex.txt;md5;e201db5ceb582fc58be2e811a0714ffb"
+      "jar": "./jar/wex.txt;md5;e201db5ceb582fc58be2e811a0714ffb"
     },
     {
       "key": "IKTV",
@@ -1330,7 +1330,7 @@
       "api": "csp_WexIktv",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://gitee.com/PizazzXS/four-d/raw/master/wex.txt;md5;e201db5ceb582fc58be2e811a0714ffb"
+      "jar": "./jar/wex.txt;md5;e201db5ceb582fc58be2e811a0714ffb"
     },
     {
       "key": "push_agent",
