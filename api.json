@@ -41,17 +41,6 @@
       "ext": "./js/央视大全[优].js"
     },
     {
-      "key": "hipy_js_我的哔哩[官]1",
-      "name": "哔哩大全[官]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 1,
-      "ext": "./js/我的哔哩[官].js?type=url&params=../json/哔哩大全.json"
-    },
-    {
       "key": "hipy_js_菜狗[官]",
       "name": "搜狗[官]",
       "type": 3,
