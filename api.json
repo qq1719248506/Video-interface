@@ -63,6 +63,28 @@
       "ext": "./js/菜狗[官].js"
     },
     {
+      "key": "hipy_js_追剧",
+      "name": "追剧",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/追剧.js"
+    },    
+    {
+      "key": "hipy_js_芒果[官]",
+      "name": "芒果[官]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/芒果.js"
+    },    
+    {
       "key": "csp_SuBaiBai",
       "name": "☁️白白┃1080P",
       "type": 3,
