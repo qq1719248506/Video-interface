@@ -19,28 +19,6 @@
       "api": "csp_Config"
     },
     {
-      "key": "hipy_js_央视大全[官]",
-      "name": "央视大全[官]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./js/央视大全[央].js"
-    },
-    {
-      "key": "hipy_js_央视大全[优]",
-      "name": "央视大全[优]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./js/央视大全[优].js"
-    },
-    {
       "key": "hipy_js_菜狗[官]",
       "name": "搜狗[官]",
       "type": 3,
@@ -480,7 +458,7 @@
     {
       "name": "cctv",
       "type": 0,
-      "url": "./json/live.txt",
+      "url": "  https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
