@@ -47,7 +47,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://gitee.com/PizazzXS/four-d/raw/master/wex.txt;md5;e201db5ceb582fc58be2e811a0714ffb"
+      "jar": "./jar/wex.txt;md5;c0a0b82a9b66c0a6f8919305ee5c3591"
     },
     {
       "key": "厂长弹幕",
@@ -380,7 +380,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "./jar/wex.txt;md5;e201db5ceb582fc58be2e811a0714ffb"
+      "jar": "./jar/wex.txt;md5;c0a0b82a9b66c0a6f8919305ee5c3591"
     },
     {
       "key": "雷鲸",
@@ -389,7 +389,7 @@
       "api": "csp_Wexleijing",
       "searchable": 1,
       "changeable": 1,
-      "jar": "./jar/wex.txt;md5;e201db5ceb582fc58be2e811a0714ffb"
+      "jar": "./jar/wex.txt;md5;c0a0b82a9b66c0a6f8919305ee5c3591"
     },
     {
       "key": "天翼",
@@ -398,7 +398,7 @@
       "api": "csp_Wextyso",
       "searchable": 1,
       "changeable": 0,
-      "jar": "./jar/wex.txt;md5;e201db5ceb582fc58be2e811a0714ffb"
+      "jar": "./jar/wex.txt;md5;c0a0b82a9b66c0a6f8919305ee5c3591"
     },
     {
       "key": "盘他",
@@ -407,7 +407,7 @@
       "api": "csp_WexYDpanta",
       "searchable": 1,
       "changeable": 1,
-      "jar": "./jar/wex.txt;md5;e201db5ceb582fc58be2e811a0714ffb"
+      "jar": "./jar/wex.txt;md5;c0a0b82a9b66c0a6f8919305ee5c3591"
     },
     {
       "key": "Emby",
@@ -418,7 +418,25 @@
       "changeable": 1,
       "jar": "./jar/wex.txt;md5;e201db5ceb582fc58be2e811a0714ffb"
     },
-  {
+    {
+      "key": "Alllive",
+      "name": "直播‍",
+      "type": 3,
+      "api": "csp_Wexalllive",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "./jar/wex.txt;md5;c0a0b82a9b66c0a6f8919305ee5c3591"
+    },
+    {
+      "key": "IKTV",
+      "name": "音乐",
+      "type": 3,
+      "api": "csp_WexIktv",
+      "searchable": 1,
+      "changeable": 0,
+      "jar": "./jar/wex.txt;md5;c0a0b82a9b66c0a6f8919305ee5c3591"
+    },    
+    {
       "key": "csp_南果",
       "name": "南果",
       "type": 3,
@@ -1327,24 +1345,6 @@
       "style": {
         "type": "list"
       }
-    },
-    {
-      "key": "Alllive",
-      "name": "直播‍",
-      "type": 3,
-      "api": "csp_Wexalllive",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "./jar/wex.txt;md5;e201db5ceb582fc58be2e811a0714ffb"
-    },
-    {
-      "key": "IKTV",
-      "name": "音乐",
-      "type": 3,
-      "api": "csp_WexIktv",
-      "searchable": 1,
-      "changeable": 0,
-      "jar": "./jar/wex.txt;md5;e201db5ceb582fc58be2e811a0714ffb"
     },
     {
       "key": "push_agent",
