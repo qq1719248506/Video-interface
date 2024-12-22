@@ -566,9 +566,10 @@
     },
     {
       "key":"drjs_我的哔哩[官]",
-      "name":"哔站","type":3,
+      "name":"哔站",
+      "type":3,
       "api":"./lib/drpy2.min.js",
-      "ext":"./js/我的哔哩[官].js?type=url&params=../json/Bili1.json"
+      "ext":"./js/我的哔哩[官].js?type=url&params=../json/哔哩大全.json"
     },
     {
       "key": "2400部恐怖电影",
