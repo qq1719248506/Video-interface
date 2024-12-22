@@ -565,6 +565,12 @@
       "ext": "./js/APPV2.js?type=url&params=https://damifan.wiki"
     },
     {
+      "key":"drjs_我的哔哩[官]",
+      "name":"哔站","type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./js/我的哔哩[官].js?type=url&params=../json/Bili1.json"
+    },
+    {
       "key": "2400部恐怖电影",
       "name": "恐怖",
       "type": 3,
