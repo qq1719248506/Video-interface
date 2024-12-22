@@ -565,6 +565,13 @@
       "ext": "./js/APPV2.js?type=url&params=https://damifan.wiki"
     },
     {
+      "key": "2400部恐怖电影",
+      "name": "恐怖",
+      "type": 3,
+      "api": "./lib/16万hys.js",
+      "ext": "./js/2400部恐怖电影.js"
+    },    
+    {
       "key": "西瓜视频",
       "name": "西瓜",
       "type": 3,
