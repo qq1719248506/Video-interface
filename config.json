@@ -498,7 +498,7 @@
       "name": "吉吉",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/json/JJDJ.json"
+      "ext": "./XBPQ/吉吉.json"
     },
     {
       "key": "韩小圈",
