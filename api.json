@@ -12,7 +12,7 @@
     },
     {
       "key": "配置",
-      "name": "️⚙️网盘┃配置",
+      "name": "️配置",
       "type": 3,
       "changeable": 0,
       "searchable": 0,
@@ -20,7 +20,7 @@
     },
     {
       "key": "hipy_js_菜狗[官]",
-      "name": "搜狗[官]",
+      "name": "搜狗",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
@@ -42,7 +42,7 @@
     },    
     {
       "key": "hipy_js_芒果[官]",
-      "name": "芒果[官]",
+      "name": "芒果",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
@@ -53,7 +53,7 @@
     },    
     {
       "key": "csp_SuBaiBai",
-      "name": "☁️白白┃1080P",
+      "name": "白白",
       "type": 3,
       "api": "csp_SuBaiBai",
       "playerType": 2,
@@ -61,7 +61,7 @@
     },
     {
       "key": "木耳",
-      "name": "🪴木耳┃秒播",
+      "name": "木耳",
       "type": 1,
       "api": "https://json02.heimuer.xyz/api.php/provide/vod",
       "searchable": 1,
@@ -124,7 +124,7 @@
     },
     {
       "key": "csp_Wogg",
-      "name": "🧸玩偶┃4K4K",
+      "name": "玩偶",
       "type": 3,
       "api": "csp_Wogg",
       "changeable": 0,
@@ -144,7 +144,7 @@
     },
     {
       "key": "csp_Netfixtv",
-      "name": "💯至臻┃4K4K",
+      "name": "至臻",
       "type": 3,
       "api": "csp_Duopan",
       "changeable": 0,
@@ -165,14 +165,14 @@
     },
     {
       "key": "小怡",
-      "name": "🔍怡搜┃4K4K",
+      "name": "怡搜",
       "type": 3,
       "api": "csp_XiaoYi",
       "changeable": 0
     },
     {
       "key": "csp_UC",
-      "name": "💌MIUC┃4K4K",
+      "name": "优汐",
       "type": 3,
       "api": "csp_MiUc",
       "changeable": 0,
@@ -192,14 +192,14 @@
     },
     {
       "key": "米搜",
-      "name": "🔍米搜┃4K4K",
+      "name": "米搜",
       "type": 3,
       "api": "csp_MiSou",
       "changeable": 0
     },
     {
       "key": "88看球",
-      "name": "🏀看球┃直播",
+      "name": "看球",
       "type": 3,
       "api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
       "searchable": 1,
@@ -211,7 +211,7 @@
     },
     {
       "key": "csp_JPYY",
-      "name": "🚗文采┃1080P",
+      "name": "文采",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
@@ -222,14 +222,14 @@
     },
     {
       "key": "csp_Xlys",
-      "name": "🍤哔嘀┃1080P",
+      "name": "哔嘀",
       "api": "csp_Xlys",
       "type": 3,
       "playerType": 2
     },
     {
       "key": "csp_Wwys",
-      "name": "👨农民┃1080P",
+      "name": "农民",
       "type": 3,
       "playerType": 2,
       "changeable": 0,
@@ -238,7 +238,7 @@
     },
     {
       "key": "csp_XSX",
-      "name": "👀视讯┃1080P",
+      "name": "视讯",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
@@ -250,14 +250,14 @@
     },
     {
       "key": "huohuo",
-      "name": "💥火火┃1080P",
+      "name": "火火",
       "type": 3,
       "changeable": 0,
       "api": "csp_SaoHuo"
     },
     {
       "key": "瓜子",
-      "name": "🍉瓜子┃1080P",
+      "name": "瓜子",
       "type": 3,
       "api": "csp_Gz360",
       "searchable": 1,
@@ -268,28 +268,28 @@
     },
     {
       "key": "csp_南瓜",
-      "name": "🎃南瓜┃1080P",
+      "name": "南瓜",
       "type": 3,
       "api": "csp_MiTuApp",
       "ext": "ewogICAgICAgICJ1cmwiOiAiaHR0cDovLzExMS4xODAuMjA2LjEyNzozMzAiLAogICAgICAgICJkYXRhS2V5IjogInZhM2hmNzkzbjNDRmR2RlMiLAogICAgICAgICJkYXRhSXYiOiAidmEzaGY3OTNuM0NGZHZGUyIsCiAgICAgICAgImRldmljZUlkIjogIjIzODEzYjE1YmY3YmQzNTljYjhkMzJmOWQwMjg2MjQ0YyIKICB9"
     },
     {
       "key": "csp_MiTuApp",
-      "name": "🐰米兔┃1080P",
+      "name": "米兔",
       "type": 3,
       "api": "csp_MiTuApp",
       "ext": "ewogICAgICAgICJ1cmwiOiAiaHR0cHM6Ly9reTEwODAudG9wIiwKICAgICAgICAiZGF0YUtleSI6ICJlNTlkNDRiMmVlZjAzYmEyIiwKICAgICAgICAiZGF0YUl2IjogImU1OWQ0NGIyZWVmMDNiYTIiLAogICAgICAgICJkZXZpY2VJZCI6ICIyMzgxM2IxNWJmN2JkMzU5Y2I4ZDMyZjlkMDI4NjI0NGMiCiAgfQ=="
     },
     {
       "key": "csp_电影",
-      "name": "🎬电影┃1080P",
+      "name": "电影",
       "type": 3,
       "api": "csp_MiTuApp",
       "ext": "ewogICAgICAgICJ1cmwiOiAiaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5IiwKICAgICAgICAiZGF0YUtleSI6ICJkeXl6dHZhcGlhcHB5eWRzIiwKICAgICAgICAiZGF0YUl2IjogImR5eXp0dmFwaWFwcHl5ZHMiLAogICAgICAgICJkZXZpY2VJZCI6ICIyMzgxM2IxNWJmN2JkMzU5Y2I4ZDMyZjlkMDI4NjI0NGMiCiAgICAgIH0="
     },
     {
       "key": "csp_zhufan",
-      "name": "🍚追饭┃1080P",
+      "name": "追饭",
       "searchable": 1,
       "quickSearch": 1,
       "type": 3,
@@ -303,7 +303,7 @@
     },
     {
       "key": "csp_LiteApple",
-      "name": "🍎苹果┃1080P",
+      "name": "苹果",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
@@ -314,7 +314,7 @@
     },
     {
       "key": "csp_视觉",
-      "name": "🔭视觉┃PYTHON",
+      "name": "视觉",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
@@ -325,7 +325,7 @@
     },
     {
       "key": "csp_Bili",
-      "name": "🆎哔哩┃哔哩",
+      "name": "哔哩",
       "type": 3,
       "api": "csp_Bili",
       "playerType": 2,
@@ -340,7 +340,7 @@
     },
     {
       "key": "荐片",
-      "name": "🍭荐片┃磁力",
+      "name": "荐片",
       "api": "csp_Jianpian",
       "type": 3,
       "playerType": "1",
