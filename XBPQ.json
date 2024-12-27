@@ -35,6 +35,24 @@
       "ext": "https://fantuan.vip/"
     },
     {
+      "key": "哔哩",
+      "name": "哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "cookie": "file://TV/bili_cookie.txt",
+        "json": "./json/bili.txt"
+      },
+      "timeout": 20
+    },    
+    {
       "key": "西瓜视频",
       "name": "西瓜",
       "type": 3,
