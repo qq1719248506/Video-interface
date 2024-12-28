@@ -1108,6 +1108,52 @@
       "filterable": 0
     },
     {
+      "key":"木耳",
+      "name":"木耳",
+      "type":1,
+      "api":"https://json.heimuer.xyz/api.php/provide/vod",
+      "playUrl":"json:https://tvbox.linkpc.net/api/kill_ads?url=",
+      "header":{
+        "User-Agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36"
+      },
+      "searchable":1,
+      "changeable":1,
+      "categories":[
+        "国产剧",
+        "港剧",
+        "欧美剧",
+        "台剧",
+        "韩剧",
+        "日剧",
+        "泰剧",
+        "国产综艺",
+        "欧美综艺",
+        "韩国综艺",
+        "日本综艺",
+        "日本动漫",
+        "国产动漫",
+        "欧美动漫",
+        "动画电影",
+        "冒险片",
+        "剧情片",
+        "动作片",
+        "喜剧片",
+        "奇幻片",
+        "恐怖片",
+        "悬疑片",
+        "惊悚片",
+        "战争片",
+        "歌舞片",
+        "灾难片",
+        "爱情片",
+        "犯罪片",
+        "科幻片",
+        "纪录片",
+        "同性片",
+        "经典片"
+      ]
+    },
+    {
       "key": "红牛资源",
       "name": "红牛",
       "type": 1,
@@ -1197,7 +1243,7 @@
       "key": "快车资源",
       "name": "快车",
       "type": 1,
-      "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
+      "api": "https://caiji.kczyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "changeable": 1,
       "categories": [
@@ -1224,6 +1270,9 @@
         "大陆综艺",
         "日韩综艺",
         "港台综艺",
+        "伦理",
+        "港台三级",
+        "西方伦理",
         "欧美综艺"
       ]
     },
