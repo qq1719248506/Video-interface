@@ -626,6 +626,20 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./XBPQ/小鸭.json"
+    },
+    {
+      "key": "新皮皮虾",
+      "name": "皮虾",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType":1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+          "线路数组": "module-tab-item&&</span>", 
+          "分类url": "http://www.ppxys.vip/s/{cateId}/by/{by}/page/{catePg}.html",
+          "分类": "今日更新$http://www.ppxys.vip/label/new.html#热榜$http://www.ppxys.vip/label/hot.html#电视剧$1#电影$2#动漫$3"
+      }
     },    
     {
       "key":"csp_XBPQ_五五",
