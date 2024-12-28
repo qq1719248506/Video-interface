@@ -908,6 +908,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./XBPQ/皮虾.json"
+    },
+    {
+      "key": "白嫖",
+      "name": "白嫖",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/白嫖.json"
     },    
     {
       "key": "可可影视",
