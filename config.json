@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/spider.txt;md5;a017cafdb3877083267886d97c5e24f2",
+  "spider": "./jar/spider.txt;md5;e2eec45c8fc73009c3dd7256b6f8366a",
   "wallpaper": "https://api.likepoems.com/img/bing",
   "sites": [
     {
@@ -642,13 +642,6 @@
       "ext": "./js/APPV2.js?type=url&params=https://damifan.wiki"
     },
     {
-      "key":"drjs_我的哔哩[官]",
-      "name":"哔站",
-      "type":3,
-      "api":"./lib/drpy2.min.js",
-      "ext":"./js/我的哔哩[官].js?type=url&params=../json/哔哩大全.json"
-    },
-    {
       "key": "2400部恐怖电影",
       "name": "恐怖",
       "type": 3,
@@ -774,6 +767,16 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {
+      "key": "皮皮虾影视",
+      "name": "皮虾",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/皮虾.json"
+    },    
     {
       "key": "可可影视",
       "name": "可可",
