@@ -21,16 +21,6 @@
       "name": "本地",
       "type": 3,
       "api": "csp_LocalFile"
-    },
-    {
-      "key": "CNTV",
-      "name": "CNTV",
-      "type": 4,
-      "api": "https://azure.leuse.top/vod/cntv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 2
     },    
     {
       "key": "配置中心",
