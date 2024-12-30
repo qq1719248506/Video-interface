@@ -721,6 +721,16 @@
       "filterable": 1
     },
     {
+      "key":"鸭奈飞",
+      "name":"奈飞",
+      "type":3,
+      "api":"csp_AppYsV2",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://yanetflix.me/api.php/app/"
+    },    
+    {
       "key": "酷影视",
       "name": "酷影",
       "type": 3,
