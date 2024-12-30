@@ -99,6 +99,13 @@
         "danmu": true,
         "site": "aHR0cDovL3YubGt1eXMuY24="
       }
+    },
+    {
+      "key": "光阴影视",
+      "name": "光影",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/光影影视.js"
     },    
     {
       "key": "糯米弹幕",
