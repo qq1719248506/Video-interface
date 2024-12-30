@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/spider.txt;md5;e2eec45c8fc73009c3dd7256b6f8366a",
+  "spider": "./jar/spider.txt;md5;e1d228ec418396239a1899f9bb1c1d05",
   "wallpaper": "https://api.likepoems.com/img/bing",
   "sites": [
     {
@@ -87,6 +87,19 @@
         "site": "aHR0cDovL3YucmJvdHYuY24="
       }
     },
+    {
+      "key": "浪酷弹幕",
+      "name": "浪酷",
+      "type": 3,
+      "api": "csp_TianTian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true,
+        "site": "aHR0cDovL3YubGt1eXMuY24="
+      }
+    },    
     {
       "key": "糯米弹幕",
       "name": "糯米",
@@ -710,6 +723,26 @@
       "filterable": 1,
       "ext": "https://www.tvkuys.xyz/api.php/app/"
     },
+    {
+      "key": "皮皮虾",
+      "name": "皮虾",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://38.55.250.149:1314/api.php/app/"
+    },
+    {
+      "key": "HG影视",
+      "name": "HG",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://cs.hgyx.vip/api2/api.php/app/"
+    },    
     {
       "key": "舔舔",
       "name": "舔舔",
