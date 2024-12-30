@@ -828,7 +828,7 @@
       "key": "采集之王",
       "name": "采集",
       "type": 3,
-      "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/CJZW.js?type=url&params=https://gitee.com/PizazzXS/four-d/raw/master/movie/json/CJJT.json$1$1"
     },
     {
