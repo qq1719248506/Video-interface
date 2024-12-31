@@ -50,6 +50,15 @@
       "jar": "./jar/wex.txt;md5;c0a0b82a9b66c0a6f8919305ee5c3591"
     },
     {
+      "key": "移动云盘",
+      "name": "移动",
+      "type": 3,
+      "api": "csp_YDjisu",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "./jar/YD.jar"
+    },    
+    {
       "key": "厂长弹幕",
       "name": "厂长",
       "type": 3,
