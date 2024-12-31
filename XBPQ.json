@@ -636,6 +636,20 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./XBPQ/晚秋.json"
+    },
+    {
+      "key": "csp_AList",
+      "name": "AList",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      },
+      "ext": "./json/alistjar18.json",
+      "timeout": 15
     },    
     {
       "key": "新皮皮虾",
