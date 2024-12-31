@@ -56,7 +56,7 @@
       "api": "csp_YDjisu",
       "searchable": 1,
       "changeable": 1,
-      "jar": "./jar/YD.jar"
+      "jar": "./jar/YD.jar;md5;86f2682c25d817a27f1fcb682aff1440"
     },    
     {
       "key": "厂长弹幕",
