@@ -101,6 +101,13 @@
       }
     },
     {
+      "key": "武享吧",
+      "name": "格斗",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/武享吧.js"
+    },    
+    {
       "key": "流光影视",
       "name": "流光",
       "type": 3,
@@ -884,26 +891,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./XBPQ/雪糕.json"
-    },
-    {
-      "key": "即看",
-      "name": "即看",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XBPQ/即看.json"
-    },
-    {
-      "key": "晚秋",
-      "name": "晚秋",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XBPQ/晚秋.json"
     },    
     {
       "key": "酷猫",
@@ -915,26 +902,6 @@
       "filterable": 1,
       "ext": "./XBPQ/酷猫.json"
     },    
-    {
-      "key": "小鸭",
-      "name": "小鸭",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XBPQ/小鸭.json"
-    },
-    {
-      "key": "琥珀",
-      "name": "琥珀",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XBPQ/琥珀.json"
-    },
     {
       "key": "奈飞",
       "name": "奈飞",
