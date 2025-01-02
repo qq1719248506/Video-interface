@@ -48,15 +48,6 @@
         "ratio": 1.597
       },
       "jar": "./jar/wex.txt;md5;c0a0b82a9b66c0a6f8919305ee5c3591"
-    },
-    {
-      "key": "肥羊",
-      "name": "肥羊",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "./jar/Feiyang.jar;md5;5eb978d2f573450219e726ea543039c0"
     },    
     {
       "key": "移动云盘",
