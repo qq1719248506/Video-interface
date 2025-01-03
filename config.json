@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/spider.jar;md5;efe435b615f67db156b65cb15157f680",
+  "spider": "./jar/spider.txt;md5;00ade2b74c302f33afbeb7f96f861be4",
   "wallpaper": "https://api.likepoems.com/img/bing",
   "sites": [
     {
@@ -48,6 +48,29 @@
         "ratio": 1.597
       },
       "jar": "./jar/wex.txt;md5;c0a0b82a9b66c0a6f8919305ee5c3591"
+    },
+    {
+      "key": "1905",
+      "name": "1905",
+      "type": 3,
+      "api": "csp_Web1905",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "西瓜视频",
+      "name": "西瓜",
+      "type": 3,
+      "api": "csp_AmuXiguaV2",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
     },    
     {
       "key": "移动云盘",
@@ -772,22 +795,8 @@
       "ext": "./js/2400部恐怖电影.js"
     },    
     {
-      "key": "西瓜视频",
-      "name": "西瓜",
-      "type": 3,
-      "api": "csp_AmuXiguaV2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    {
       "key": "采集之王",
-      "name": "采集",
+      "name": "采王",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/CJZW.js?type=url&params=https://gitee.com/PizazzXS/four-d/raw/master/movie/json/CJJT.json$1$1"
@@ -1058,15 +1067,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./XYQHiker/奇趣.json"
-    },
-    {
-      "key": "1905",
-      "name": "1905",
-      "type": 3,
-      "api": "csp_Web1905",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
     },
     {
       "key":"木耳",
