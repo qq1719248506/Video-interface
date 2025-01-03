@@ -8683,58 +8683,7 @@
         "分类ID": "https://www.kissavtv.com/index/getActorMvs/actorId/&&\"",
         "分类url": "https://www.kissavtv.com/index/getactormvs/actorId/{cateId}/sort/update/page/{catePg};;z"
       }
-    },
-    {
-      "key": "✨宇逍遥✨",
-      "name": "逍遥",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "主页url": "https://www.yumv.cn/vodshow/dianying---伦理--------.html",
-        "分类url": "https://www.yumv.cn/vodshow/dianying-{cateId}--伦理-----{catePg}---.html",
-        "分类": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他",
-        "分类值": "*",
-        "数组": "默认--wrapper-pic\"&&</li>||搜索--wrapper-pic\"&&</li>",
-        "标题": "title=\"&&\"",
-        "图片": "data-original=\"&&\"",
-        "副标题": "✨+overflow\">&&</",
-        "链接": "href=\"&&\"",
-        "状态": "状态：&&</span>",
-        "导演": "✨+导演：&&</span>",
-        "主演": "✨+主演：&&</span>",
-        "简介": "✨+简介：&&</div>",
-        "线路数组": "swiper-slide ewave-tab&&</li>",
-        "线路标题": "✨+>&&<",
-        "播放二次截取": "",
-        "播放数组": "playlist-sort-content\"&&</ul>",
-        "倒序": "0",
-        "播放列表": "<a&&/a>",
-        "播放标题": "✨+>&&<",
-        "播放链接": "href=\"&&\"",
-        "跳转播放链接": "var player_*\"url\":\"&&\"",
-        "搜索请求头": "User-Agent$MOBILE_UA",
-        "搜索url": "/vodsearch/{wd}----------{pg}---.html"
-      }
     },    
-    {
-      "key": "农夫与少妇",
-      "name": "农夫",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "分类url": "https://nfsfhf9.nfsf-a16.buzz/go/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
-        "分类": "国产专区$6#制服诱惑$13#中文字幕$7#国产传媒$8#日本有码$9#日本无码$10#欧美无码$11#强奸乱伦$12#三级专区$23#人妖系列$30#韩国主播$31#国产主播$14#激情动漫$15#明星换脸$16#抖阴视频$20#女优明星$21#网曝黑料$22#AV解说$24#SM调教$25#少女萝莉$26"
-      }
-    },
     {
       "key": "指间的黑客",
       "name": "金钗",
@@ -8882,19 +8831,6 @@
       }
     },    
     {
-      "key": "色最色",
-      "name": "最色",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "主页url": "https://xn--zovv42dba.com/",
-        "直接播放": "1",
-        "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-        "分类url": "https://xn--zovv42dba.com/list-read-id-{cateId}-p-{catePg}",
-        "分类": "国产精品$19#偷拍自拍$20#欧美成人$26#中文无码$23#中文字幕$22#亚洲情色$21#卡通动漫$24#成人伦理$25"
-      }
-    },
-    {
       "key": "沙咖影院",
       "name": "沙咖",
       "type": 3,
@@ -8941,25 +8877,6 @@
         "分类数组": "<li&&</li>",
         "分类标题": ">&&/a>",
         "分类ID": "/vodtype/&&.html"
-      }
-    },
-    {
-      "key": "不雅视频",
-      "name": "雅趣",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "主页url": "https://byym13.buzz/",
-        "数组": "fed-list-item&&</li>",
-        "图片": "('&&')",
-        "标题": "title=\"&&\"",
-        "链接": "href=\"&&\"[替换:display>>detail]",
-        "分类url": "https://byym13.buzz/sort/{cateId}/{catePg};;z",
-        "分类": "无码专区&制服诱惑&三级伦理&AI换脸&中文字幕&卡通动漫&欧美系列&美女主播&国产自拍&熟女人妻&萝莉少女&女同性爱&多人群交&美乳巨乳&强奸乱伦&抖阴视频&韩国主播&网红头条&网爆黑料&欧美无码&女优明星&SM调教&AV解说&日本AV&国产视频&动漫天堂&黑料吃瓜&伦理剧情&稀缺资源&中文字幕&角色剧情&无码推荐&丝袜美腿&传媒影视&国产精品&美女主播&素人拍摄&偷拍自拍&里番作品&3D动漫&同人作品&热门事件&吃瓜事件&采集帮助&SPA养生&日韩精品&制服淫穴&台湾swag&日本无码&日本有码&中字无码&主播视讯&欧美性爱&日本乱伦&AV解说&国产AV&乱伦国产&强奸乱伦&AI换脸&制服诱惑&滴滴探花&成人动漫&SPA养生&日本乱伦&萝莉少女",
-        "分类值": "21&25&27&29&30&32&35&36&38&40&42&44&46&48&49&50&51&52&53&54&55&56&57&257&258&259&260&261&262&263&264&265&266&267&268&269&270&271&272&273&274&275&276&277&278&279&280&281&282&283&284&285&286&287&288&289&290&291&292&293&294&295&296&297&298"
       }
     },    
     {
