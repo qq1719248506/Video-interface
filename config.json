@@ -314,6 +314,54 @@
       }
     },
     {
+      "key": "夸克白嫖弹幕",
+      "name": "白嫖",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+        "site": "https://smdyo.top",
+        "danmu": true
+      }
+    },
+    {
+      "key": "夸克虎斑弹幕",
+      "name": "虎斑",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+        "site": "https://wp.huban.xyz",
+        "danmu": true
+      }
+    },
+    {
+      "key": "夸克下饭弹幕",
+      "name": "下饭",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+        "site": "http://txfyyds.top",
+        "danmu": true
+      }
+    },     
+    {
       "key": "夸克肥猫弹幕",
       "name": "肥猫",
       "type": 3,
