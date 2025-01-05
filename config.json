@@ -727,13 +727,6 @@
       "filterable": 0
     },
     {
-      "key": "吉吉短剧",
-      "name": "吉吉",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/吉吉.json"
-    },
-    {
       "key": "韩小圈",
       "name": "韩圈",
       "type": 3,
@@ -947,6 +940,20 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {
+      "key": "吉吉短剧",
+      "name": "吉吉",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/吉吉.json"
+    },
+    {
+      "key": "海纳影视",
+      "name": "海纳",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/海纳.json"
+    },    
     {
       "key": "皮皮虾影视",
       "name": "皮虾",
