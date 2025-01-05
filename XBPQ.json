@@ -8135,20 +8135,6 @@
       }
     },
     {
-      "key": "csp_XBPQ_飞兔",
-      "name": "飞兔",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://www.feitu.tv/filter/{cateId}/by/{by}/page/{catePg}/year/{year}/",
-        "播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
-        "分类": "电影$1#剧集$2#动漫$4#综艺$3"
-      }
-    },
-    {
       "key": "csp_XBPQ_FreeOK",
       "name": "富瑞",
       "type": 3,
@@ -8167,20 +8153,6 @@
         "导演": "导演：&&</div>",
         "主演": "主演：&&</div>",
         "简介": "<p>&&</p>"
-      }
-    },
-    {
-      "key": "csp_XBPQ_Auete",
-      "name": "Auete",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://auete.pro/{cateId}/index{catePg}.html[https://auete.pro/{cateId}/index.html];;k",
-        "搜索url": "https://auete.pro/search.php?searchword=?wd={wd}",
-        "分类": "电影$Movie#连续剧$Tv#综艺$Zy#动漫$Dm"
       }
     },
     {
@@ -8287,19 +8259,6 @@
         "搜索图片": "coverWap",
         "搜索副标题": "statusDesc+'/'+totalChapterNum",
         "搜索链接": "'/drama/'+bookId"
-      }
-    },
-    {
-      "key": "csp_XBPQ_榜一",
-      "name": "榜一",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类": "逆袭短剧$1#甜宠短剧$3#虐恋短剧$5#穿越短剧$7#重生短剧$9#都市短剧$11#现代言情短剧$13#古装短剧$15#古代言情短剧$17#战神短剧$19#神医短剧$21#神豪短剧$23#超能短剧$25#萌宝短剧$27#复仇短剧$29#脑洞短剧$31#赘婿短剧$33#玄幻短剧$35#热血短剧$37#其他短剧$39",
-        "分类url": "https://duanjuu.com/vodshow/{cateId}--------{catePg}---.html;;m"
       }
     },
     {
@@ -8468,83 +8427,6 @@
         "链接": "href=\"&&\"",
         "分类url": "http://www.xilibo.com/{cateId}/{catePg}/;;z",
         "分类": "搞笑视频$gaoxiao#微电影$vdianying#二人转$errenzhuan#飞碟说$feidieshuo"
-      }
-    },
-    {
-      "key": "csp_XBPQ_蓝光",
-      "name": "蓝光",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "站名": "蓝光电影",
-        "作者": "cally",
-        "请求头": "手机",
-        "分类url": "https://www.languangdy.com/{cateId}/index_{catePg}.html[https://www.languangdy.com/{cateId}/]",
-        "分类": "Bluray蓝光原盘$Bluray#蓝光1080P$1080P#4K超高清$4K#WEB-DL高清电影$other/WEB-DL#TVshow$other/TVshow#电影合集$other/Collection",
-        "数组": "class=\"post_hover\">&&</li>",
-        "图片": "src=\"&&\"",
-        "标题": "title=\"&&\"",
-        "副标题": "info_date info_ico\">&&</span>",
-        "链接": "href=\"&&\"",
-        "影片类型": "<p>◎类别&&</p >",
-        "影片年代": "<p>◎年代&&</p >",
-        "影片地区": "<p>◎产地&&</p >",
-        "影片状态": "",
-        "导演": "<p>◎导演&&</p >",
-        "主演": "<p>◎主演&&<br>",
-        "简介": "请勿相信影片中的广告，以免上当受骗！+<p>◎简介&&<br>",
-        "线路标题": "磁力",
-        "播放数组": "dir=\"rtl\">&&</div>",
-        "播放列表": "<a&&/a>",
-        "播放标题": ">&&<",
-        "播放链接": "href=\"&&\"",
-        "搜索url": "/e/search/index.php;post;show=title,tempid=1,tbname=article,hidden=1,dopost=search&keyboard={wd}",
-        "主页url": "https://www.languangdy.com/"
-      }
-    },
-    {
-      "key": "csp_XBPQ_狸云",
-      "name": "狸云",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "搜索url": "https://www.lysvc.cc/?cat=&s={wd}",
-        "数组": "class=\"post-item&&class=\"entry-title&&</article> ",
-        "图片": "data-bg=\"&&\">",
-        "播放链接": "<td><a href=\"&&\">[包含:magnet]",
-        "播放标题": ">&&</a>",
-        "线路标题": "weight: bold;\">&&</td>",
-        "分类": "蓝光-4k-电影$蓝光-4k-电影#精选剧集$精选剧集",
-        "分类url": "https://www.lysvc.cc/archives/category/%e5%bd%b1%e8%a7%86%e8%b5%84%e6%ba%90/{cateId}/page/{catePg}"
-      }
-    },
-    {
-      "key": "csp_XBPQ_缘觉",
-      "name": "缘觉",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "数组": "<div class=\"card card-sm card-link\">&&</div>",
-        "图片": "img src=\"&&\"",
-        "链接": "href=\"&&\"",
-        "标题": "<h3 class=\"mb-0 card-title text-truncate\">&&</h3>",
-        "副标题": "span class=\"badge bg-pink position-absolute top-0 star-0\">&&</span>",
-        "线路数组": "<div class=\"d-flex\">&&</div>",
-        "播放链接": "href=\"/&&/play/&&.htm\"",
-        "播放数组": "<div class=\"btn-group\">&&</div>",
-        "分类数组": "<div class=\"col\">&&</div>",
-        "分类": "动作&爱情&喜剧&科幻&恐怖&战争",
-        "分类值": "dongzuo&aiqing&xiju&kehuan&kongbu&zhanzheng",
-        "分类url": "https://www.yjys.me/s/{cateId}/{catePg}"
       }
     },
     {
@@ -8799,36 +8681,6 @@
         "分类": "国产精品&日本有码&日本无码&中文字幕&欧美情色&色情动漫&伦理三级&制服诱惑",
         "分类值": "826&828&829&830&831&832&955&956"
       }
-    },
-    {
-      "key": "汪汪汪影院",
-      "name": "汪汪",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "主页url": "https://www.ffssaa7.site/",
-        "二次截取": "module-items\"&&id=\"page[替换:module-footer>>module-item]",
-        "数组": "module-item-pic&&module-item\"",
-        "标题": "title=\"&&\"",
-        "图片": "data-src=\"&&\"",
-        "副标题": "class=\"module-item-text\">&&</div>",
-        "链接": "href=\"&&\"",
-        "播放数组": "class=\"scroll-content\"&&</div>",
-        "播放列表": "<a&&a>",
-        "播放链接": "href=\"&&\"",
-        "播放标题": "<span>&&</span>",
-        "线路数组": "module-tab-item tab-item&&</div>",
-        "线路标题": "<span>&&</span>",
-        "跳转播放链接": "var player_*\"url\":\"&&\"",
-        "分类url": "https://www.ffssaa7.site/index.php/vod/show/by/score/id/{cateId}/letter/{letter}/page/{catePg}/year/{year}.html",
-        "分类": "鲨鱼资源$1#115$2#乐播$3#辣椒资源$4",
-        "类型": "精品推荐$20#国产情色$21#日本无码$22#AV明星$23#中文字幕$24#网红主播$25#成人动漫$26#欧美情色$27#国模私拍$28#长腿丝袜$29#邻家人妻$30#韩国伦理$31#香港伦理$37||抖音视频$39#韩国主播$40#网红头条$41#网爆黑料$42#欧美无码$43#女优明星$44#SM调教$45#AV解说$46#无码专区$56#麻豆传媒$50#制服诱惑$51#三级伦理$52#AI换脸$53#中文字幕$54#卡通动漫$47#欧美系列$48#美女主播$49#强奸乱伦$57#国产自拍$55#熟女人妻$38||亚洲情色$58#国产主播$59#国产自拍$60#无码专区$61#欧美性爱$62#熟女人妻$63#强奸乱伦$64#巨乳美乳$65#中文字幕$66#制服诱惑$67#女同性恋$68#卡通动画$69#视频伦理$70#少女萝莉$71#重口色情$72#人兽性交$73||国产自拍$74#欧美极品$75#日韩无码$76#AV明星$77#中文字幕$78#动漫精品$79#极骚萝莉$80#人妖视频$81#重咸口味$82#强奸乱伦$83#三级自慰$84#HEYZO$85#独家DMM$86#HEY诱惑$87#童颜巨乳$88#高潮喷吹$89#激情口交$90#绝美少女$91#首次亮相$92#独家擂台格斗$95"
-      }
     },    
     {
       "key": "沙咖影院",
@@ -9050,18 +8902,6 @@
       ]
     },    
     {
-      "key": "奶香",
-      "name": "奶香",
-      "type": 1,
-      "api": "https://Naixxzy.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "changeable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.485
-      }
-    },
-    {
       "key": "葡萄",
       "name": "葡萄",
       "type": 1,
@@ -9072,28 +8912,6 @@
         "type": "rect",
         "ratio": 1.485
       }
-    },
-    {
-      "key": "丝袜",
-      "name": "丝袜",
-      "type": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.485
-      },
-      "api": "https://www.siwazyw.tv/api.php/provide/vod",
-      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="
-    },
-    {
-      "key": "探探",
-      "name": "探探",
-      "type": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.485
-      },
-      "api": "https://apittzy.com/api.php/provide/vod",
-      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="
     },    
     {
       "key": "bp",
