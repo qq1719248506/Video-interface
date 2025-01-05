@@ -1162,6 +1162,15 @@
         "经典片"
       ]
     },
+    { 
+      "key": "老虎资源",
+      "name":"老虎",
+      "api": "https://www.huyaapi.com/api.php/provide/vod/",
+      "type":1,
+      "playUrl":"",
+      "searchable":1,
+      "quickSearch":1
+    },
     {
       "key": "红牛资源",
       "name": "红牛",
