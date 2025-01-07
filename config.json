@@ -840,7 +840,7 @@
       "name": "采王",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/CJZW.js?type=url&params=https://gitee.com/PizazzXS/four-d/raw/master/movie/json/CJJT.json$1$1"
+      "ext": "./js/采集之王.js?type=url&params=./json/采集静态.json$1$1"
     },
     {
       "key": "厂长",
@@ -1103,15 +1103,15 @@
       "key": "三六零",
       "name": "三六零",
       "type": 3,
-      "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
-      "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/SLL.js"
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/360.js"
     },
     {
       "key": "搜狗视频",
       "name": "搜狗",
       "type": 3,
-      "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
-      "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/SGSP.js"
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/搜狗.js"
     },
     {
       "key": "奇趣影视",
@@ -1171,9 +1171,9 @@
     },
     { 
       "key": "老虎资源",
-      "name":"老虎",
+      "name": "老虎",
+      "type": 1,
       "api": "https://www.huyaapi.com/api.php/provide/vod/",
-      "type":1,
       "playUrl":"",
       "searchable":1,
       "quickSearch":1
