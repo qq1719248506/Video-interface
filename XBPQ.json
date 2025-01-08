@@ -846,32 +846,6 @@
         "分类url": "http://lymyx.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#伦理片$30#网红短剧$40"
       }
-    },
-    {
-      "key": "晚秋影视",
-      "name": "晚秋",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "主页url": "http://www.360shipu.com/",
-        "数组": "lazyload\"&&</a>",
-        "标题": "title=\"&&\"",
-        "图片": "data-original=\"&&\"",
-        "副标题": "right\">&&</span>",
-        "链接": "href=\"&&\"",
-        "播放数组": "playlist clearfix&&</ul>",
-        "播放列表": "<li&&</li>",
-        "播放链接": "href=\"&&\"",
-        "播放标题": ">&&</",
-        "线路数组": "<h3 class=*title\">&&h3>",
-        "线路标题": ">&&</",
-        "跳转播放链接": "var player_*\"url\":\"&&\"",
-        "分类url": "http://www.360shipu.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#伦理片$30#电影解说$39",
-        "类型": "动作片$7#喜剧片$8#爱情片$9#科幻片$10#恐怖片$11#剧情片$12#战争片$13#犯罪片$29||国产剧$14#港剧$15#台湾剧$16#韩剧$17#日剧$18#泰剧$31#欧美剧$19#海外剧$20#短剧$43||大陆综艺$21#日韩综艺$22#港台综艺$23#欧美综艺$24||国产动漫$25#日本动漫$26#欧美动漫$27#海外动漫$28||空||空"
-      }
     },    
     {
       "key":"csp_XBPQ_琥珀",
@@ -1105,36 +1079,6 @@
       }
     },
     {
-      "key":"csp_XBPQ_七七",
-      "name":"七味",
-      "type":3,
-      "api":"csp_XBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":{
-        "请求头":"User-Agent$MOBILE_UA",
-        "编码":"UTF-8",
-        "防走丢":"https://www.qwmkv.com/",
-        "主页url":"https://www.pkmp4.xyz/",
-        "二次截取":"class=\"pic-list clearfix\"&&</ul>",
-        "数组":"<li>&&</li>",
-        "标题":"title=\"&&\"",
-        "图片":"src=\"&&\"",
-        "副标题":"</i>&&</span>",
-        "链接":"href=\"&&\"",
-        "播放数组":"class=\"player\"&&</ul>",
-        "播放链接":"href=\"&&\"",
-        "播放列表":"<a&&a>",
-        "播放标题":">&&</",
-        "线路数组":"<option&&option>",
-        "线路标题":">&&</",
-        "跳转播放链接":"var player_*\"url\":\"&&\"",
-        "分类url":"https://www.pkmp4.xyz/ms/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-        "分类":"电影$1#剧集$2#综艺$3#动漫$4#短剧$30"
-      }
-    },
-    {
       "key":"csp_XBPQ_酷猫",
       "name":"酷猫",
       "type":3,
@@ -1197,36 +1141,6 @@
         "分类url":"http://xtk.njjinwu.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
         "分类":"电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#午夜剧场$lunlipian#网红短剧$duanju#动画片$donghuapian#邵氏电影$shaoshidianying",
         "筛选":"1","类型":"动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#犯罪片$fanzuipian#战争片$zhanzhengpian||国产剧$guocanju#港剧$gangju#台湾剧$taiwanju#韩剧$hanju#日剧$riju#泰剧$taiju#欧美剧$oumeiju#海外剧$haiwaiju||大陆综艺$daluzongyi#日韩综艺$rihanzongyi#港台综艺$gangtaizongyi#欧美综艺$oumeizongyi||国产动漫$guochandongman#日本动漫$ribendongman#欧美动漫$oumeidongman#海外动漫$haiwaidongman||空||空||空||空"
-      }
-    },
-    {
-      "key":"csp_XBPQ_殇情",
-      "name":"殇情",
-      "type":3,
-      "api":"csp_XBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":{
-        "请求头":"User-Agent$MOBILE_UA",
-        "编码":"UTF-8",
-        "二次截取":"vodlist clearfix\">&&</ul>",
-        "数组":"lazyload\"&&</li>",
-        "标题":"title=\"&&\"",
-        "图片":"data-original=\"&&\"",
-        "副标题":"text-right\">&&</span>",
-        "链接":"href=\"&&\"",
-        "播放数组":"list sort-list clearfix\"&&</ul>",
-        "播放列表":"<a&&a>",
-        "播放链接":"href=\"&&\"",
-        "播放标题":">&&<",
-        "线路数组":"\\#playlist&&</li>",
-        "线路标题":"tab\"&&</a>",
-        "跳转播放链接":"var player_*\"url\":\"&&\"",
-        "主页url":"http://v.hpdjt999.com/",
-        "分类url":"http://v.hpdjt999.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-        "分类":"电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju",
-        "类型":"动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian#奇幻片$qihuanpian#犯罪片$fanzuipian#悬疑片$xuanyipian#纪录片$jilupian#伦理片$lunlipian#动画片$donghuapian#老电影$laodianying||国产剧$guochanju#香港剧$xianggangju#台湾剧$diwanju#日本剧$ribenju#韩国剧$hanguoju#泰国剧$taiguoju#欧美剧$oumeiju#欧美剧$oumeiju#海外剧$haiwaiju||大陆综艺$daluzongyi#港台综艺$gangtaizongyi#日韩综<艺$rihanzongyi#欧美综艺$oumeizongyi||国产动漫$guochandongman#港台动漫$gangtaidongman#日韩动漫$rihandongman#欧美动漫$oumeidongman#海外动漫$haiwaidongman||空"
       }
     },
     {
@@ -1355,30 +1269,6 @@
         "分类url":"https://www.xzweiheng.com/vodshow/{cateId}-{area}-{by}--{lang}-{letter}---{catePg}---{year}.html",
         "分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$34",
         "类型":"动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$24#纪录片$23#午夜剧场$33||国产剧$13#香港剧$14#韩国剧$15#欧美剧$16#台湾剧$20#日本剧$21#其它剧$22||空||空||空"
-      }
-    },
-    {
-      "key": "csp_XBPQ_预告",
-      "name": "预告",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "首页": "正在热映",
-        "图片代理": "",
-        "分类url": "https://movie.douban.com/{cateId}/;;aRC",
-        "分类": "即将上映$cinema/later#正在热映$cinema/nowplaying",
-        "数组": "class=\"item mod &&</ul>||正在热映--class=\"list-item&&</ul>",
-        "图片": "src=\"&&\"",
-        "标题": "\"intro\">&&</a>",
-        "链接": "href=\"&&\"",
-        "副标题": "data-score=\"&&\"+class=\"release-date\">&&</li>",
-        "播放数组": "<li class=\"video&&</li>",
-        "播放列表": "<a&&</a>",
-        "播放标题": "alt=\"&&\"",
-        "播放链接": "https://m.douban.com+href=\"&&\""
       }
     },
     {
@@ -1791,36 +1681,6 @@
       }
     },
     {
-      "key": "csp_XBPQ_瓜瓜",
-      "name": "瓜瓜",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "主页url": "http://www.cdjyhm.com/list/1.html",
-        "简介": "style=\"display: none;\">&&</span>",
-        "数组": "lazyload\"&&</a>",
-        "标题": "title=\"&&\"",
-        "图片": "data-original=\"&&\"",
-        "副标题": "right\">&&</span>",
-        "链接": "href=\"&&\"",
-        "播放数组": "class=\"stui-content__playlist&&</ul>",
-        "播放列表": "<a&&a>",
-        "播放链接": "href=\"&&\"",
-        "播放标题": ">&&</",
-        "线路数组": "href=\"\\#playlist&&</li>[排序:抖音云>百度云>字节云]",
-        "线路标题": "\">&&</a>",
-        "跳转播放链接": "var player_*\"url\":\"&&\"",
-        "分类url": "http://www.cdjyhm.com/show/{cateId}-{area}-{by}------{catePg}---{year}.html",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-        "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12||国产剧$13#香港剧$14#韩国剧$15#欧美剧$16||空||空"
-      }
-    },
-    {
       "key": "csp_XBPQ_飘花",
       "name": "飘花",
       "type": 3,
@@ -2059,35 +1919,6 @@
       }
     },
     {
-      "key": "csp_XBPQ_咕咚",
-      "name": "咕咚",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "主页url": "https://www.zgbdzs.com/",
-        "数组": "class=\"hl-item-thumb hl-lazy\"&&</a>",
-        "标题": "title=\"&&\"",
-        "图片": "data-original=\"&&\"",
-        "副标题": "\">&&</span>",
-        "播放数组": "class=\"hl-plays-list hl-sort-list&&</ul>",
-        "播放列表": "<a&&a>",
-        "播放链接": "href=\"&&\"",
-        "播放标题": ">&&</",
-        "链接": "href=\"&&\"",
-        "线路数组": "class=\"hl-tabs-btn hl-slide-swiper&&a>",
-        "线路标题": "alt=\"&&\"",
-        "跳转播放链接": "var player_*\"url\":\"&&\"",
-        "分类url": "https://www.zgbdzs.com/vodshow/{cateId}-{area}-{by}--{lang}-{letter}---{catePg}---{year}.html",
-        "分类": "电影$1#连续剧$2#综艺$3#动漫$4#夜间福利$21#体育赛事$26#短剧$27",
-        "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12||国产剧$13#港台剧$14#日韩剧$15#欧美剧$16||空||空||空||空||空"
-      }
-    },
-    {
       "key": "csp_XBPQ_万博",
       "name": "万博",
       "type": 3,
@@ -2196,65 +2027,6 @@
         "跳转播放链接": "var player_*\"url\":\"&&\"",
         "分类url": "https://silidm.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
         "分类": "电影$dianying#剧集$juji#动漫$dongman#综艺$zongyi"
-      }
-    },
-    {
-      "key": "csp_XBPQ_八八",
-      "name": "八八",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "主页url": "https://www.88tv.net/",
-        "二次截取": "class=\"myui-vodlist clearfix\"&&</ul>",
-        "数组": "lazyload\"&&</a>",
-        "标题": "title=\"&&\"",
-        "图片": "data-original=\"&&\"",
-        "副标题": "right\">&&</span>",
-        "链接": "href=\"&&\"",
-        "播放数组": "list sort-list clearfix\"&&</ul>",
-        "播放列表": "<a&&a>",
-        "播放链接": "href=\"&&\"",
-        "播放标题": ">&&</",
-        "线路数组": "<li class=\"active\"&&li>",
-        "线路标题": "\">&&</a>",
-        "跳转播放链接": "var player_*\"url\":\"&&\"",
-        "分类url": "https://www.88tv.net/show/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}/",
-        "分类": "电影$dy#电视剧$dsj#动漫$dm",
-        "类型": "动作$dz#科幻$kh#喜剧$xj#恐怖$kb#爱情$aq#战争$zz#剧情$jq#纪录$jl||陆剧$lj#美剧$mj#韩剧$hj#日剧$rj#泰剧$tj#台剧$twj#其他剧$qtj||空"
-      }
-    },
-    {
-      "key": "csp_XBPQ_三六",
-      "name": "三六",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "主页url": "http://www.360shipu.com/",
-        "数组": "lazyload\"&&</a>",
-        "标题": "title=\"&&\"",
-        "图片": "data-original=\"&&\"",
-        "副标题": "right\">&&</span>",
-        "链接": "href=\"&&\"",
-        "播放数组": "playlist clearfix&&</ul>",
-        "播放列表": "<li&&</li>",
-        "播放链接": "href=\"&&\"",
-        "播放标题": ">&&</",
-        "线路数组": "<h3 class=*title\">&&h3>",
-        "线路标题": ">&&</",
-        "跳转播放链接": "var player_*\"url\":\"&&\"",
-        "分类url": "http://www.360shipu.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#伦理片$30#电影解说$39",
-        "类型": "动作片$7#喜剧片$8#爱情片$9#科幻片$10#恐怖片$11#剧情片$12#战争片$13#犯罪片$29||国产剧$14#港剧$15#台湾剧$16#韩剧$17#日剧$18#泰剧$31#欧美剧$19#海外剧$20#短剧$43||大陆综艺$21#日韩综艺$22#港台综艺$23#欧美综艺$24||国产动漫$25#日本动漫$26#欧美动漫$27#海外动漫$28||空||空"
       }
     },
     {
