@@ -1,5 +1,5 @@
 {
-    "spider": "./spider.jar",
+    "spider": "./jar/spider.jar",
     "wallpaper": "http://127.0.0.1:9978/file/TVBox/wallpaper.jpg",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
     "sites": [
@@ -493,7 +493,7 @@
             "style": {
                 "type": "list"
             },
-            "jar": "./wex.jar"
+            "jar": "./jar/wex.jar"
         },
         {
             "key": "雷鲸",
@@ -502,7 +502,7 @@
             "api": "csp_Wexleijing",
             "searchable": 1,
             "changeable": 1,
-            "jar": "./wex.jar"
+            "jar": "./jar/wex.jar"
         },
         {
             "key": "天翼",
@@ -511,7 +511,7 @@
             "api": "csp_Wextyso",
             "searchable": 1,
             "changeable": 0,
-            "jar": "./wex.jar"
+            "jar": "./jar/wex.jar"
         },
         {
             "key": "盘他",
@@ -520,7 +520,7 @@
             "api": "csp_WexYDpanta",
             "searchable": 1,
             "changeable": 1,
-            "jar": "./wex.jar"
+            "jar": "./jar/wex.jar"
         },
         {
             "key": "Emby",
@@ -529,7 +529,7 @@
             "api": "csp_Wexemby",
             "searchable": 1,
             "changeable": 1,
-            "jar": "./wex.jar"
+            "jar": "./jar/wex.jar"
         },
         {
             "key": "星芽短剧",
