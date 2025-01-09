@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/spider.txt;md5;00ade2b74c302f33afbeb7f96f861be4",
+  "spider": "./jar/spider.jar;md5;94c57abab7936ad18d0873b6717498ef",
   "wallpaper": "https://api.likepoems.com/img/bing",
   "sites": [ 
      {
@@ -74,40 +74,6 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
-    },
-    {
-      "key": "优质",
-      "name": "优质",
-      "type": 1,
-      "api": "https://api.1080zyku.com/inc/apijson.php?ac=lis",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "奇幻片",
-        "恐怖片",
-        "灾难片",
-        "悬疑片",
-        "爱情片",
-        "战争片",
-        "纪录片",
-        "伦理片",
-        "动画电影",
-        "大陆剧",
-        "欧美剧",
-        "港澳剧",
-        "动画片",
-        "动漫",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "搞笑",
-        "音乐"
-      ]
     },
     {
       "key": "火狐资源",
