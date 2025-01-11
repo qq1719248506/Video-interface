@@ -875,6 +875,16 @@
       "filterable": 1
     },
     {
+      "key": "毒蛇影视",
+      "name": "毒蛇",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/毒蛇.json"
+    },    
+    {
       "key": "琥珀影视",
       "name": "琥珀",
       "type": 3,
@@ -974,6 +984,13 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./XBPQ/快影.json"
+    },
+    {
+      "key": "速影",
+      "name": "速影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/速影.json"
     },    
     {
       "key": "金牌影视",
