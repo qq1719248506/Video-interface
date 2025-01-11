@@ -1,5 +1,5 @@
 {
-    "spider": "./spider.jar",
+    "spider": "./jar/spider.jar",
     "wallpaper": "http://127.0.0.1:9978/file/TVBox/wallpaper.jpg",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
     "sites": [
@@ -48,7 +48,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "jar": "./wex.jar"
+            "jar": "./jar/wex.jar"
         },
         {
             "key": "1905",
@@ -534,7 +534,7 @@
             "style": {
                 "type": "list"
             },
-            "jar": "./wex.jar"
+            "jar": "./jar/wex.jar"
         },
         {
             "key": "雷鲸",
@@ -543,7 +543,7 @@
             "api": "csp_Wexleijing",
             "searchable": 1,
             "changeable": 1,
-            "jar": "./wex.jar"
+            "jar": "./jar/wex.jar"
         },
         {
             "key": "天翼",
@@ -552,7 +552,7 @@
             "api": "csp_Wextyso",
             "searchable": 1,
             "changeable": 0,
-            "jar": "./wex.jar"
+            "jar": "./jar/wex.jar"
         },
         {
             "key": "盘他",
@@ -561,7 +561,7 @@
             "api": "csp_WexYDpanta",
             "searchable": 1,
             "changeable": 1,
-            "jar": "./wex.jar"
+            "jar": "./jar/wex.jar"
         },
         {
             "key": "Emby",
@@ -570,7 +570,7 @@
             "api": "csp_Wexemby",
             "searchable": 1,
             "changeable": 1,
-            "jar": "./wex.jar"
+            "jar": "./jar/wex.jar"
         },
         {
             "key": "星芽短剧",
@@ -1382,7 +1382,7 @@
             "api": "csp_Wexalllive",
             "searchable": 1,
             "changeable": 1,
-            "jar": "./wex.jar"
+            "jar": "./jar/wex.jar"
         },
         {
             "key": "IKTV",
@@ -1391,7 +1391,7 @@
             "api": "csp_WexIktv",
             "searchable": 1,
             "changeable": 0,
-            "jar": "./wex.jar"
+            "jar": "./jar/wex.jar"
         },
         {
             "key": "push_agent",
@@ -1817,7 +1817,7 @@
         {
             "name": "AI直播",
             "type": 0,
-            "url": "https://ghproxy.1888866.xyz/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.cn/tv/{name}.png",
             "playerType": 1,
