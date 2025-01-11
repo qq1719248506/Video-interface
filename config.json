@@ -87,7 +87,7 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "api": "./py/jlqk.py",
+            "api": "./py/py_jlqk.py",
             "playerType": 2,
             "filterable": 1
         },     
