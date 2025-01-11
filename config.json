@@ -109,6 +109,16 @@
       "quickSearch": 1,
       "playerType": 2,
       "filterable": 1
+    },
+    {
+      "key": "奇趣影视",
+      "name": "奇趣",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XYQHiker/奇趣.json"
     },    
     {
       "key": "厂长弹幕",
@@ -993,16 +1003,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "奇趣影视",
-      "name": "奇趣",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XYQHiker/奇趣.json"
     },
     {
       "key": "红牛资源",
