@@ -81,6 +81,14 @@
       "ext": "./js/我的哔哩[官].js?type=url&params=../json/哔哩大全.json"
     },
     {
+      "key": "csp_Fantuan",
+      "name": "饭团",
+      "type": 3,
+      "api": "csp_Fantuan",
+      "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+      "ext": "https://www.fantuan.vip"
+    },    
+    {
       "key": "csp_九龙趣看",
       "name": "九龙",
       "type": 3,
