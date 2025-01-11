@@ -81,6 +81,17 @@
             "ext": "./js/我的哔哩[官].js?type=url&params=../json/哔哩大全.json"
         },
         {
+            "key": "csp_九龙趣看",
+            "name": "九龙",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "api": "./py/jlqk.py",
+            "playerType": 2,
+            "filterable": 1
+        },     
+        {
             "key": "厂长弹幕",
             "name": "厂长",
             "type": 3,
