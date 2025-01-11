@@ -916,6 +916,13 @@
       "ext": "./XBPQ/尺度.json"
     },
     {
+      "key": "快影",
+      "name": "快影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/快影.json"
+    },    
+    {
       "key": "金牌影视",
       "name": "金牌",
       "type": 3,
