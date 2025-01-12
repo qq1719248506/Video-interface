@@ -666,14 +666,6 @@
       "playerType": 2,
       "filterable": 1,
       "ext": ""
-    },
-    {
-      "key":"星河",
-      "name":"星河",
-      "type":3,
-      "api":"csp_Muou",
-      "playerType":2,
-      "ext":"caHR0cDovL2EubXVxaXhoLnRvcDo1NjIzfOW5leWQr+aYn+ays3w0LjEuOA=="
     },    
     {
       "key": "永夜",
