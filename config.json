@@ -121,7 +121,7 @@
       "key": "猎手影视",
       "name": "猎手",
       "type": 3,
-      "api": "./py/py_猎手.py",
+      "api": "./py/py_电影猎手.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
