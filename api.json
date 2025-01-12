@@ -2108,7 +2108,7 @@
     {
       "name": "AI直播",
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+      "url": "https://ghproxy.net/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.cn/tv/{name}.png",
       "playerType": 2,
