@@ -81,6 +81,13 @@
       "ext": "./js/我的哔哩[官].js?type=url&params=../json/哔哩大全.json"
     },
     {
+      "key": "搜狗视频",
+      "name": "搜狗",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/搜狗.js"
+    },    
+    {
       "key": "csp_Fantuan",
       "name": "饭团",
       "type": 3,
@@ -963,13 +970,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./XBPQ/希望.json"
-    },
-    {
-      "key": "漫漫",
-      "name": "漫漫",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/漫漫.json"
     },
     {
       "key": "尺度",
