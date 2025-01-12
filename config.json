@@ -118,6 +118,17 @@
       "filterable": 1
     },
     {
+      "key": "猎手影视",
+      "name": "猎手",
+      "type": 3,
+      "api": "./py/py_猎手.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },    
+    {
       "key": "奇趣影视",
       "name": "奇趣",
       "type": 3,
