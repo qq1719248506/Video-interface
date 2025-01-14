@@ -1,1 +1,342 @@
-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
+/**
+ * 已知问题：
+ * [推荐]页面：'雷电模拟器'播放部份影片会出错，'播放器'改成'ijk' & '解码方式'改成'软解'，即可正常播放
+ * 影视TV 超連結跳轉支持
+ * 影视TV 弹幕支持
+ * https://t.me/fongmi_offical/
+ * https://github.com/FongMi/Release/tree/main/apk
+ * 皮皮虾DMBox 弹幕支持
+ * 设置 > 窗口预览 > 开启
+ * https://t.me/pipixiawerun
+ * vod_area:'bilidanmu'
+ * Cookie设置
+ * Cookie获取方法 https://ghproxy.net/https://raw.githubusercontent.com/UndCover/PyramidStore/main/list.md
+ * Cookie设置方法1: DR-PY 后台管理界面
+ * CMS后台管理 > 设置中心 > 环境变量 > {"bili_cookie":"XXXXXXX","vmid":"XXXXXX"} > 保存
+ * Cookie设置方法2: 手动替换Cookie
+ * 底下代码 headers的
+ * "Cookie":"$bili_cookie"
+ * 手动替换为
+ * "Cookie":"将获取的Cookie黏贴在这"
+ * 客户端长期Cookie设置教程:
+ * 抓包哔哩手机端搜索access_key,取任意链接里的access_key和appkey在drpy环境变量中增加同名的环境变量即可
+ * 此时哔哩.js这个解析可用于此源的解析线路用
+ * 传参 ?render=1&type=url&params=../json/哔哩教育.json@哔哩教育[官]
+ * 传参 ?render=1&type=url&params=../json/哔哩大全.json@哔哩大全[官]
+ */
+var rule = {
+    title: '我的哔哩[官]',
+    host: 'https://api.bilibili.com',
+    homeUrl: '/x/web-interface/ranking/v2?rid=0&type=origin',
+    url: '/x/web-interface/search/type?search_type=video&fyfilter',
+    filter_url: 'keyword=fyclass{{fl.tid}}&page=fypage&duration={{fl.duration}}&order={{fl.order}}',
+    class_parse: async function () {
+        // let html = request('{{host}}/files/json/哔哩教育.json');
+        let html = await request(rule.params);
+        let json = dealJson(html);
+        let classes = json.classes;
+        let filters = json.filter;
+        return {
+            class: classes,
+            filters,
+        }
+    },
+    filterable: 1,
+    detailUrl: '/x/web-interface/view/detail?aid=fyid',
+    searchUrl: '/x/web-interface/search/type?search_type=video&keyword=**&page=fypage',
+    searchable: 2,
+    quickSearch: 0,
+    // params: '?render=1&type=url&params=../json/哔哩教育.json@哔哩教育[官]',
+    // params: '?render=1&type=url&params=../json/哔哩大全.json@哔哩大全[官]',
+    headers: {
+        "User-Agent": "PC_UA",
+        "Referer": "https://www.bilibili.com",
+        "Cookie": "buvid3=666"
+    },
+    timeout: 5000,
+    limit: 8,
+    play_parse: true,
+    double: false,
+    lazy: async function () {
+        let {input} = this;
+        let ids = input.split('_');
+        let dan = 'https://api.bilibili.com/x/v1/dm/list.so?oid=' + ids[1];
+        let result = {};
+        let iurl = 'https://api.bilibili.com:443/x/player/playurl?avid=' + ids[0] + '&cid=' + ids[1] + '&qn=116';
+        let html = await request(iurl);
+        let jRoot = JSON.parse(html);
+        let jo = jRoot.data;
+        let ja = jo.durl;
+        let maxSize = -1;
+        let position = -1;
+        ja.forEach(function (tmpJo, i) {
+            if (maxSize < Number(tmpJo.size)) {
+                maxSize = Number(tmpJo.size);
+                position = i
+            }
+        });
+        let purl = '';
+        if (ja.length > 0) {
+            if (position === -1) {
+                position = 0
+            }
+            purl = ja[position].url
+        }
+        result.parse = 0;
+        result.playUrl = '';
+        result.url = unescape(purl);
+        result.header = {
+            'Referer': 'https://live.bilibili.com',
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36'
+        };
+        if (/\\.flv/.test(purl)) {
+            result.contentType = 'video/x-flv';
+        } else {
+            result.contentType = '';
+        }
+        result.danmaku = dan;
+        return result
+    },
+    推荐: async function () {
+        let {input} = this;
+        let html = await request(input);
+        let vodList = JSON.parse(html).data.list;
+        let videos = [];
+        vodList.forEach(function (vod) {
+            let aid = vod.aid;
+            let title = misc.stripHtmlTag(vod.title);
+            let img = vod.pic;
+            if (img.startsWith('//')) {
+                img = 'https:' + img;
+            }
+            let remark = turnDHM(vod.duration) + ' ▶' + ConvertNum(vod.stat.view) + ' 🆙' + vod.owner.name;
+            videos.push({
+                vod_id: aid,
+                vod_name: title,
+                vod_pic: img,
+                vod_remarks: remark
+            })
+        });
+        return videos;
+    },
+    一级: async function () {
+        let {input, MY_CATE, MY_PAGE} = this;
+        if (MY_CATE.endsWith('_clicklink')) {
+            MY_CATE = MY_CATE.split('_')[0];
+            input = rule.host + '/x/web-interface/search/type?search_type=video&keyword=' + MY_CATE + '&page=' + MY_PAGE;
+        }
+        let data = [];
+        let vodList = [];
+        if (MY_CATE === '推荐') {
+            input = rule.host + '/x/web-interface/index/top/rcmd?ps=14&fresh_idx=' + MY_PAGE + '&fresh_idx_1h=' + MY_PAGE;
+            data = JSON.parse(await request(input)).data;
+            vodList = data.item;
+        } else if (MY_CATE === '历史记录') {
+            input = rule.host + '/x/v2/history?pn=' + MY_PAGE;
+            data = JSON.parse(await request(input)).data;
+            vodList = data;
+        } else {
+            data = JSON.parse(await request(input)).data;
+            vodList = data.result;
+        }
+        let videos = [];
+        vodList.forEach(function (vod) {
+            let aid = vod.aid ? vod.aid : vod.id;
+            let title = misc.stripHtmlTag(vod.title);
+            let img = vod.pic;
+            if (img.startsWith('//')) {
+                img = 'https:' + img;
+            }
+            let play = '';
+            let danmaku = '';
+            if (MY_CATE === '推荐') {
+                play = ConvertNum(vod.stat.view);
+                danmaku = vod.stat.danmaku;
+            } else if (MY_CATE === '历史记录') {
+                play = ConvertNum(vod.stat.view);
+                danmaku = vod.stat.danmaku;
+            } else {
+                play = ConvertNum(vod.play);
+                danmaku = vod.video_review;
+            }
+            let remark = turnDHM(vod.duration) + ' ▶' + play + ' 💬' + danmaku;
+            videos.push({
+                vod_id: aid,
+                vod_name: title,
+                vod_pic: img,
+                vod_remarks: remark
+            })
+        });
+        return videos
+    },
+    二级: async function () {
+        let {input} = this;
+        let html = await request(input);
+        let jo = JSON.parse(html).data.View;
+        // 历史记录
+        let cookies = rule.headers.Cookie.split(';');
+        let bili_jct = '';
+        cookies.forEach(cookie => {
+            if (cookie.includes('bili_jct')) {
+                bili_jct = cookie.split('=')[1];
+            }
+        });
+        if (bili_jct !== '') {
+            let historyReport = 'https://api.bilibili.com/x/v2/history/report';
+            let dataPost = {
+                aid: jo.aid,
+                cid: jo.cid,
+                csrf: bili_jct,
+            };
+            await post(historyReport, dataPost, 'form');
+        }
+
+        let stat = jo.stat;
+        let up_info = JSON.parse(html).data.Card;
+        let relation = up_info.following ? '已关注' : '未关注';
+        let aid = jo.aid;
+        let title = misc.stripHtmlTag(jo.title);
+        let pic = jo.pic;
+        let desc = jo.desc;
+
+        let date = new Date(jo.pubdate * 1000);
+        let yy = date.getFullYear().toString();
+        let mm = date.getMonth() + 1;
+        mm = mm < 10 ? ('0' + mm) : mm;
+        let dd = date.getDate();
+        dd = dd < 10 ? ('0' + dd) : dd;
+
+        let up_name = jo.owner.name;
+        let typeName = jo.tname;
+        // let remark = jo.duration;
+        let vod = {
+            vod_id: aid,
+            vod_name: title,
+            vod_pic: pic,
+            type_name: typeName,
+            vod_year: yy + mm + dd,
+            vod_area: 'bilidanmu',
+            // vod_remarks: remark,
+            vod_tags: 'mv',
+            // vod_director: '🆙 ' + up_name + '　👥 ' + up_info.follower + '　' + relation,
+            vod_director: '🆙 ' + '[a=cr:' + JSON.stringify({
+                'id': up_name + '_clicklink',
+                'name': up_name
+            }) + '/]' + up_name + '[/a]' + '　👥 ' + up_info.follower + '　' + relation,
+            vod_actor: '▶' + stat.view + '　' + '💬' + stat.danmaku + '　' + '👍' + stat.like + '　' + '💰' + stat.coin + '　' + '⭐' + stat.favorite,
+            vod_content: desc
+        };
+        let ja = jo.pages;
+        let treeMap = {};
+        let playurls = [];
+        ja.forEach(function (tmpJo) {
+            let cid = tmpJo.cid;
+            let part = tmpJo.part.replaceAll('#', '﹟').replaceAll('$', '﹩');
+            playurls.push(
+                part + '$' + aid + '_' + cid
+            )
+        });
+        treeMap['B站'] = playurls.join('#');
+        let relatedData = JSON.parse(html).data.Related;
+        playurls = [];
+        relatedData.forEach(function (rd) {
+            let ccid = rd.cid;
+            let title = rd.title.replaceAll('#', '﹟').replaceAll('$', '﹩');
+            let aaid = rd.aid;
+            playurls.push(
+                title + '$' + aaid + '_' + ccid
+            )
+        });
+        treeMap['相关推荐'] = playurls.join('#');
+        vod.vod_play_from = Object.keys(treeMap).join("$$$");
+        vod.vod_play_url = Object.values(treeMap).join("$$$");
+        return vod;
+    },
+    搜索: async function () {
+        let {input} = this;
+        let html = await request(input);
+        let videos = [];
+        let vodList = JSON.parse(html).data.result;
+        vodList.forEach(function (vod) {
+            let aid = vod.aid;
+            let title = misc.stripHtmlTag(vod.title);
+            let img = vod.pic;
+            if (img.startsWith('//')) {
+                img = 'https:' + img;
+            }
+            let remark = turnDHM(vod.duration);
+            videos.push({
+                vod_id: aid,
+                vod_name: title,
+                vod_pic: img,
+                vod_remarks: remark
+            })
+        });
+        return videos;
+    },
+}
+
+
+function turnDHM(duration) {
+    let min = '';
+    let sec = '';
+    try {
+        min = duration.split(':')[0];
+        sec = duration.split(':')[1];
+    } catch (e) {
+        min = Math.floor(duration / 60);
+        sec = duration % 60;
+    }
+    if (isNaN(parseInt(duration))) {
+        return '无效输入';
+    }
+    if (min == 0) {
+        return sec + '秒'
+    } else if (0 < min && min < 60) {
+        return min + '分'
+    } else if (60 <= min && min < 1440) {
+        if (min % 60 == 0) {
+            let h = min / 60;
+            return h + '小时'
+        } else {
+            let h = min / 60;
+            h = (h + '').split('.')[0];
+            let m = min % 60;
+            return h + '小时' + m + '分';
+        }
+    } else if (min >= 1440) {
+        let d = min / 60 / 24;
+        d = (d + '').split('.')[0];
+        let h = min / 60 % 24;
+        h = (h + '').split('.')[0];
+        let m = min % 60;
+        let dhm = '';
+        if (d > 0) {
+            dhm = d + '天'
+        }
+        if (h >= 1) {
+            dhm = dhm + h + '小时'
+        }
+        if (m > 0) {
+            dhm = dhm + m + '分'
+        }
+        return dhm
+    }
+    return null
+}
+
+function ConvertNum(num) {
+    let _ws = Math.pow(10, 1);
+    let _b = 1e4;
+    if (num < _b) {
+        return num.toString();
+    }
+    let _r = '';
+    let _strArg = ['', '万', '亿', '万亿'];
+    let _i = Math.floor(Math.log(num) / Math.log(_b));
+    if (_i > 3) {
+        _i = 3;
+    }
+    _r = Math.floor(num / Math.pow(_b, _i) * _ws) / _ws + _strArg[_i];
+    return _r;
+}
