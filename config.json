@@ -86,6 +86,13 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/搜狗.js"
+    },
+    {
+      "key": "鬼片之家",
+      "name": "鬼片",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/鬼片之家.js"
     },    
     {
       "key": "csp_Fantuan",
@@ -1258,6 +1265,17 @@
         "欧美综艺"
       ]
     },
+    {
+      "key": "hipy_js_采集之王[合]",
+      "name": "采王",
+      "type": 3,
+      "api": "./drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 1,
+      "ext": "./js/采集之王[合].js?type=url&params=../json/采集[密]静态.json$1"
+    },    
     {
       "key": "夸克影搜弹幕",
       "name": "影搜",
