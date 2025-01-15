@@ -790,16 +790,6 @@
       "filterable": 1
     },
     {
-      "key": "可可影视",
-      "name": "可可",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XBPQ/可可.json"
-    },
-    {
       "key": "海纳影视",
       "name": "海纳",
       "type": 3,
@@ -1236,16 +1226,6 @@
       }
     },
     {
-      "key": "修罗影视",
-      "name": "修罗",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XBPQ/修罗.json"
-    },
-    {
       "key": "我的阿里",
       "name": "阿里",
       "type": 3,
@@ -1338,6 +1318,27 @@
       "indexs": 0,
       "ext": "https://9877.kstore.space/Market/market.json"
     },
+    {
+      "key": "即看",
+      "name": "即看",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/即看.json"
+    },
+    {
+      "key": "开心",
+      "name": "开心",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/开心.json"
+    },    
+    {
+      "key": "小鸭",
+      "name": "小鸭",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/小鸭.json"
+    },    
     {
       "key":"csp_XBPQ_五五",
       "name":"三五",
