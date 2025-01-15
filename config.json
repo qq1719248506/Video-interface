@@ -968,6 +968,13 @@
       "ext": "./XBPQ/即看.json"
     },
     {
+      "key": "开心",
+      "name": "开心",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/开心.json"
+    },    
+    {
       "key": "小鸭",
       "name": "小鸭",
       "type": 3,
