@@ -571,7 +571,7 @@
       "key": "九龙影视",
       "name": "九龙",
       "type": 3,
-      "api": "./py/py_九龙.py",
+      "api": "./py/py_jlqk.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -589,6 +589,17 @@
       "filterable": 1,
       "playerType": 2
     },
+    {
+      "key": "酷云影视",
+      "name": "酷云",
+      "type": 3,
+      "api": "./py/py_酷云.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },    
     {
       "key": "木头",
       "name": "木头",
