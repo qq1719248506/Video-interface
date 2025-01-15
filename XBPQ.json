@@ -780,7 +780,7 @@
     },
     {
       "key": "可可影视",
-      "name": "可可｜影视",
+      "name": "可可",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -790,7 +790,7 @@
     },
     {
       "key": "海纳影视",
-      "name": "海纳｜影视",
+      "name": "海纳",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
