@@ -1273,7 +1273,7 @@
       ]
     },
     {
-      "key": "hipy_js_采集之王[合]",
+      "key": "hipy_js_采集之王",
       "name": "采王",
       "type": 3,
       "api": "./lib/drpy2.min.js",
@@ -1281,7 +1281,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 1,
-      "ext": "./js/采集之王[合].js?type=url&params=../json/采集[密]静态.json"
+      "ext": "./js/采集之王.js?type=url&params=../json/采集[密]静态.json"
     },    
     {
       "key": "夸克影搜弹幕",
