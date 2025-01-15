@@ -78,7 +78,7 @@
       "name": "哔站",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./js/我的哔哩[官].js?type=url&params=../json/哔哩大全.json"
+      "ext": "./js/哔哩.js?type=url&params=../json/哔哩大全.json"
     },
     {
       "key": "搜狗视频",
@@ -92,7 +92,7 @@
       "name": "鬼片",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./js/鬼片之家.js"
+      "ext": "./js/鬼片.js"
     },    
     {
       "key": "csp_Fantuan",
