@@ -120,7 +120,7 @@
       "key": "csp_九龙趣看",
       "name": "九龙",
       "type": 3,
-      "api": "./py/py_九龙影视",
+      "api": "./py/九龙影视",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
