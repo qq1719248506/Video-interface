@@ -1035,6 +1035,13 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./XBPQ/开心.json"
+    },
+    {
+      "key": "大树",
+      "name": "大树",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/大树.json"
     },    
     {
       "key": "小鸭",
