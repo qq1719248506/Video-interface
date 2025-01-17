@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/spider.jar",
+    "spider": "./spider.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
     "sites": [
@@ -48,7 +48,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "jar": "./jar/wex.jar"
+            "jar": "./wex.jar"
         },
         {
             "key": "厂长弹幕",
@@ -156,7 +156,7 @@
             },
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
-                "json": "./json/哔哩合集.json"
+                "json": "./JSON/哔哩合集.json"
             },
             "timeout": 10
         },
@@ -521,7 +521,7 @@
             "style": {
                 "type": "list"
             },
-            "jar": "./jar/wex.jar"
+            "jar": "./wex.jar"
         },
         {
             "key": "雷鲸",
@@ -530,7 +530,7 @@
             "api": "csp_Wexleijing",
             "searchable": 1,
             "changeable": 1,
-            "jar": "./jar/wex.jar"
+            "jar": "./wex.jar"
         },
         {
             "key": "天翼",
@@ -539,7 +539,7 @@
             "api": "csp_Wextyso",
             "searchable": 1,
             "changeable": 0,
-            "jar": "./jar/wex.jar"
+            "jar": "./wex.jar"
         },
         {
             "key": "盘他",
@@ -548,7 +548,7 @@
             "api": "csp_WexYDpanta",
             "searchable": 1,
             "changeable": 1,
-            "jar": "./jar/wex.jar"
+            "jar": "./wex.jar"
         },
         {
             "key": "Emby",
@@ -557,7 +557,7 @@
             "api": "csp_Wexemby",
             "searchable": 1,
             "changeable": 1,
-            "jar": "./jar/wex.jar"
+            "jar": "./wex.jar"
         },
         {
             "key": "星芽短剧",
@@ -666,7 +666,7 @@
             "key": "九龙影视",
             "name": "九龙｜APP",
             "type": 3,
-            "api": "./py/九龙影视.py",
+            "api": "./PY/九龙影视.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -677,7 +677,7 @@
             "key": "猎手影视",
             "name": "猎手｜APP",
             "type": 3,
-            "api": "./py/猎手影视.py",
+            "api": "./PY/猎手影视.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -865,8 +865,8 @@
             "key": "采集之王",
             "name": "采集｜合集",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/采集之王.js?type=url&params=../json/采集静态.json$1$1"
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/采集之王.js?type=url&params=../JSON/采集静态.json$1$1"
         },
         {
             "key": "厂长资源",
@@ -1029,34 +1029,6 @@
             "filterable": 1
         },
         {
-            "key": "素白白",
-            "name": "素白白｜影视",
-            "type": 3,
-            "api": "csp_Subaibai",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://subaibai.com"
-        },
-        {
-            "key": "小苹果",
-            "name": "小苹果｜影视",
-            "type": 3,
-            "api": "csp_Xpg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "机器人",
-            "name": "机器人｜影视",
-            "type": 3,
-            "api": "csp_Ikanbot",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "电影牛",
             "name": "电影牛｜影视",
             "type": 3,
@@ -1065,6 +1037,13 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./XYQHiker/电影牛.json"
+        },
+        {
+            "key": "素白白",
+            "name": "素白白｜影视",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/素白白.js"
         },
         {
             "key": "剧圈圈",
@@ -1093,6 +1072,13 @@
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/茶杯狐.js"
+        },
+        {
+            "key": "思古影视",
+            "name": "思古｜影视",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/思古影视.js"
         },
         {
             "key": "魔力高清",
