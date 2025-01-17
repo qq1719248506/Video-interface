@@ -88,6 +88,20 @@
       "ext": "./js/搜狗.js"
     },
     {
+      "key": "思古",
+      "name": "思古",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/思古.js"
+    },
+    {
+      "key": "碟调",
+      "name": "碟调",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/碟调.js"
+    },    
+    {
       "key": "鬼片之家",
       "name": "鬼片",
       "type": 3,
@@ -106,7 +120,7 @@
       "key": "csp_九龙趣看",
       "name": "九龙",
       "type": 3,
-      "api": "./py/py_jlqk.py",
+      "api": "./py/py_九龙影视",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
