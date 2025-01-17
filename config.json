@@ -1149,6 +1149,7 @@
         "泰剧",
         "韩剧",
         "纪录片",
+        "伦理片",
         "动漫电影"
       ]
     },    
@@ -1378,6 +1379,14 @@
         "欧美综艺"
       ]
     },
+    {
+      "key":"色戒",
+      "name":"色戒",
+      "type":1,
+      "api":"https://sjzy.tv/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1
+    },    
     {
       "key": "hipy_js_采集之王",
       "name": "采王",
