@@ -16,7 +16,7 @@
   "线路数组":"class=\"drama_catalogTitle&&</div>",
   "线路标题":"\">&&<span>",
   "跳转播放链接":"var player_*\"url\":\"&&\"",
-  "分类url":"https://www.oichaw.com/vodtype/{cateId}-{area}-------{catePg}---{year}.html",
+  "分类url":"https://www.oichaw.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   "分类":"电影$1#电视剧$2#动漫$4#综艺$3#短剧$49#伦理$50",
   "分类值":"*"
 }
