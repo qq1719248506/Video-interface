@@ -571,7 +571,7 @@
       "key": "九龙影视",
       "name": "九龙",
       "type": 3,
-      "api": "./py/py_jlqk.py",
+      "api": "./py/py_九龙影视",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
