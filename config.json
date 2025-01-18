@@ -146,7 +146,7 @@
       "key": "csp_游子",
       "name": "游子",
       "type": 3,
-      "api": "./py/游子视频.py",
+      "api": "./py/游子.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
