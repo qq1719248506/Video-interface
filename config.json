@@ -132,6 +132,28 @@
       "filterable": 1
     },
     {
+      "key": "csp_映播",
+      "name": "映播",
+      "type": 3,
+      "api": "./py/映播.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1
+    },    
+    {
+      "key": "csp_游子",
+      "name": "游子",
+      "type": 3,
+      "api": "./py/游子视频.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1
+    },    
+    {
       "key": "猎手影视",
       "name": "猎手",
       "type": 3,
