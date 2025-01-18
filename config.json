@@ -100,14 +100,7 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/碟调.js"
-    },    
-    {
-      "key": "鬼片之家",
-      "name": "鬼片",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/鬼片.js"
-    },    
+    },        
     {
       "key": "csp_Fantuan",
       "name": "饭团",
