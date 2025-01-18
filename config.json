@@ -1050,13 +1050,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./XBPQ/开心.json"
-    },
-    {
-      "key": "素拓",
-      "name": "素拓",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/素拓.json"
     },    
     {
       "key": "小鸭",
@@ -1078,13 +1071,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./XBPQ/尺度.json"
-    },
-    {
-      "key": "快影",
-      "name": "快影",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/快影.json"
     },
     {
       "key": "速影",
