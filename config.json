@@ -152,6 +152,17 @@
       "quickSearch": 1,
       "playerType": 2,
       "filterable": 1
+    },
+    {
+      "key": "csp_策驰",
+      "name": "策驰",
+      "type": 3,
+      "api": "./py/策驰.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1
     },    
     {
       "key": "猎手影视",
