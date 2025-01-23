@@ -1082,13 +1082,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./XBPQ/尺度.json"
-    },
-    {
-      "key": "速影",
-      "name": "速影",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/速影.json"
     },    
     {
       "key": "金牌影视",
