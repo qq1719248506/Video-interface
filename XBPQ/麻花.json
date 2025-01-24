@@ -1,7 +1,7 @@
 {
     "作者": "圥忈",
     "站名": "麻花影视",
-    "主页url": "https://www.mahuage1.com/",
+    "主页url": "https://www.mahuage8.com/",
     "数组": "class=\"hl-item-thumb hl-lazy\"&&</li",
     "图片": "data-original=\"&&\"",
     "标题": "title=\"&&\"",
@@ -28,6 +28,6 @@
     "播放标题": ">&&<",
     "播放链接": "href=\"&&\"",
     "免嗅": "0",
-    "分类url": "https://www.mahuage1.com/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类url": "https://www.mahuage8.com/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "电影$1#连续剧$2#动漫$4#综艺$3"
 }
