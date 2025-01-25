@@ -2172,7 +2172,7 @@
       "timeout": 10
     },
     {
-      "name": "直播",
+      "name": "肥羊",
       "type": 3,
       "api": "csp_Feiyang",
       "url": "tv.m3u",
@@ -2180,9 +2180,18 @@
       "ua": "okhttp/3.15"
     },
     {
+      "name": "电视直播",
+      "type": 0,
+      "url": "  https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
+      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.cn/tv/{name}.png",
+      "playerType": 2,
+      "timeout": 10
+    }    
+    {
       "name": "AI直播",
       "type": 0,
-      "url": "https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
+      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.cn/tv/{name}.png",
       "playerType": 2,
