@@ -74,13 +74,6 @@
       }
     },
     {
-      "key": "哔哩大全",
-      "name": "哔站",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/我的哔哩[官].js?type=url&params=../json/哔哩大全.json"
-    },
-    {
       "key": "搜狗视频",
       "name": "搜狗",
       "type": 3,
@@ -721,22 +714,6 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "KhY021WelCEl+6MsvwnzaPussky/EAoc9z7C4keyHaEQ+sKbXhMKd83VjTL7Ls6+m7XDIcGdziOxPv79y/h4QCvmOEJmZ1VD6dopzAVxkFzEFw=="
-    },
-    {
-      "key": "世纪",
-      "name": "世纪",
-      "type": 3,
-      "api": "csp_Drama",
-      "playerType": 2,
-      "ext": "saHR0cDovLzExOC4yNS4xOC4yMTc6NjYzMnxURkxZV1ZKNUVHNVlCMVBMWkxWVk1HVkxCR1JJRENTV3xuajZFNUs0eVlZVDVXNFNjSjNKM3JKMnpyemNKa3BUa3wyMQ=="
-    },
-    {
-      "key": "图图",
-      "name": "图图",
-      "type": 3,
-      "api": "csp_APPTT",
-      "playerType": 1,
-      "ext": "cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA=="
     },    
     {
       "key": "永夜",
@@ -1159,32 +1136,6 @@
       "searchable": 1,
       "changeable": 1
     },    
-    {
-      "key": "红牛资源",
-      "name": "红牛",
-      "type": 1,
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "国产剧",
-        "港澳剧",
-        "日剧",
-        "欧美剧",
-        "台湾剧",
-        "泰剧",
-        "韩剧",
-        "纪录片",
-        "动漫电影"
-      ]
-    },
     {
       "key": "光速资源",
       "name": "光速",
