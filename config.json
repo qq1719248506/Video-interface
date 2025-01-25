@@ -163,6 +163,17 @@
       "quickSearch": 1,
       "playerType": 2,
       "filterable": 1
+    },
+    {
+      "key": "csp_星空",
+      "name": "星空",
+      "type": 3,
+      "api": "./py/星空.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1
     },    
     {
       "key": "猎手影视",
@@ -710,7 +721,23 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "KhY021WelCEl+6MsvwnzaPussky/EAoc9z7C4keyHaEQ+sKbXhMKd83VjTL7Ls6+m7XDIcGdziOxPv79y/h4QCvmOEJmZ1VD6dopzAVxkFzEFw=="
-    },      
+    },
+    {
+      "key": "世纪",
+      "name": "世纪",
+      "type": 3,
+      "api": "csp_Drama",
+      "playerType": 2,
+      "ext": "saHR0cDovLzExOC4yNS4xOC4yMTc6NjYzMnxURkxZV1ZKNUVHNVlCMVBMWkxWVk1HVkxCR1JJRENTV3xuajZFNUs0eVlZVDVXNFNjSjNKM3JKMnpyemNKa3BUa3wyMQ=="
+    },
+    {
+      "key": "图图",
+      "name": "图图",
+      "type": 3,
+      "api": "csp_APPTT",
+      "playerType": 1,
+      "ext": "cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA=="
+    },    
     {
       "key": "永夜",
       "name": "永夜",
@@ -1716,7 +1743,7 @@
       }
     },
     {
-      "name": "HGvip",
+      "name": "无双",
       "type": 1,
       "url": "http://1.94.221.189:88/algorithm.php?url=",
       "ext": {
@@ -1727,9 +1754,9 @@
           "User-Agent": "okhttp/4.9.1"
         }
       }
-    },
+    },    
     {
-      "name": "皮皮虾",
+      "name": "皮虾",
       "type": "1",
       "url": "http://45.207.215.101:5423/index.php?url=",
       "ext": {
@@ -1737,22 +1764,6 @@
           "PPXLG",
           "皮皮虾4K"
         ]
-      }
-    },
-    {
-      "name": "无双",
-      "type": 0,
-      "url": " http://103.117.123.193:1980/players/?url=",
-      "ext": {
-        "flag": [
-          "mgtv",
-          "芒果",
-          "RY",
-          "VIP线路"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
       }
     },
     {
