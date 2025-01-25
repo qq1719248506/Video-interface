@@ -2196,7 +2196,17 @@
       "logo": "https://live.fanmingming.cn/tv/{name}.png",
       "playerType": 2,
       "timeout": 10
-    },    
+    },
+	  {
+			"name": "稳定直播",
+			"urls": [
+				"proxy://do=live&type=txt&ext=https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/hipy-sniffer/refs/heads/main/static/lives/lives.txt"
+			]
+		},
+		{
+			"name": "拾光直播",
+			"url": "https://slink.ltd/https://raw.githubusercontent.com/xmbjm/TV/refs/heads/master/output/user_result.txt"
+		},    
     {
       "name": "电视Live",
       "type": 0,
