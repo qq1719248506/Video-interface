@@ -714,6 +714,22 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "KhY021WelCEl+6MsvwnzaPussky/EAoc9z7C4keyHaEQ+sKbXhMKd83VjTL7Ls6+m7XDIcGdziOxPv79y/h4QCvmOEJmZ1VD6dopzAVxkFzEFw=="
+    },
+    {
+      "key": "图图",
+      "name": "图图",
+      "type": 3,
+      "api": "csp_APPTT",
+      "playerType": 1,
+      "ext": "cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA=="
+    },
+    {
+      "key": "星河",
+      "name": "星河",
+      "type": 3,
+      "api": "csp_Muou",
+      "playerType": 2,
+      "ext": "caHR0cDovL2EubXVxaXhoLnRvcDo1NjIzfOW5leWQr+aYn+ays3w0LjEuOA=="
     },    
     {
       "key": "永夜",
@@ -739,6 +755,14 @@
       "playerType": 1,
       "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
     },
+    {
+      "key": "玉米",
+      "name": "玉米",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "jaHR0cDovLzIxMS4xMDEuMjM3LjIyMDo3Nzg4L3lteXMudHh0fDF2ZmZzZGFzZGFzZGFzZDJ8MXZmZnNkYXNkYXNkYXNkMnwxMDU="
+    },    
     {
       "key": "雨滴",
       "name": "雨滴",
@@ -1134,7 +1158,37 @@
       "type": 1,
       "api": "https://api.yzzy-api.com/inc/apijson.php",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "纪录片",
+        "动画片",
+        "国产剧",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "港剧",
+        "台剧",
+        "泰剧",
+        "福利",
+        "伦理片",
+        "海外剧",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫"
+      ]      
     },    
     {
       "key": "光速资源",
@@ -1335,26 +1389,7 @@
         "日韩综艺",
         "欧美综艺"
       ]
-    },
-    {
-      "key":"色戒",
-      "name":"色戒",
-      "type":1,
-      "api":"https://sjzy.tv/api.php/provide/vod/",
-      "searchable":1,
-      "quickSearch":1
-    },    
-    {
-      "key": "hipy_js_采集之王",
-      "name": "采王",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 1,
-      "ext": "./js/采集之王.js?type=url&params=../json/采集[密]静态.json"
-    },    
+    },        
     {
       "key": "夸克影搜弹幕",
       "name": "影搜",
