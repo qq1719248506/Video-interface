@@ -1572,41 +1572,6 @@
       }
     },
     {
-      "key":"csp_XBPQ_动动",
-      "name":"动动",
-      "type":3,
-      "api":"csp_XBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":{
-        "请求头":"User-Agent$MOBILE_UA",
-        "编码":"UTF-8",
-        "主页url":"https://cn.agekkkk.com/",
-        "数组":"lazyload\"&&</a>",
-        "标题":"title=\"&&\"",
-        "图片":"data-original=\"&&\"",
-        "副标题":"bbFB text-right\"><b>&&</b>",
-        "链接":"href=\"&&\"",
-        "播放数组":"class=\"play-list-content\"&&</ul>",
-        "播放列表":"<a&&a>",
-        "播放链接":"href=\"&&\"",
-        "播放标题":">&&</",
-        "线路数组":"href=\"\\#playlist&&</a>",
-        "线路标题":"\"tab\">&&<span>",
-        "跳转播放链接":"urlDecode(var player_*\"url\":\"&&\")",
-        "搜索url":"https://cn.agekkkk.com/search/{wd}----------{pg}---.html",
-        "搜索数组":"lazyload\"&&</a>",
-        "搜索标题":"title=\"&&\"",
-        "搜索图片":"data-original=\"&&\"",
-        "搜索副标题":"bbFB text-right\"><b>&&</b>",
-        "搜索链接":"href=\"&&\"",
-        "简介":"style=\"display: none;\">&&</span>",
-        "分类url":"https://cn.agekkkk.com/type/{cateId}-{catePg}.html",
-        "分类":"日韩漫$1#国产漫$2#动态漫$5#特摄片$4#欧美漫$3"
-      }
-    },
-    {
       "key":"csp_XBPQ_屋屋",
       "name":"屋屋",
       "type":3,
@@ -1812,73 +1777,6 @@
         "分类":"电影$1#电视剧$2#动漫$4#短剧$3#伦理片$30#微视频$36",
         "筛选":"1",
         "类型":"动作片$7#喜剧片$8#爱情片$9#科幻片$10#恐怖片$11#剧情片$12#犯罪片$29#战争片$13||国产剧$14#港剧$15#台湾剧$16#韩剧$17#日剧$18#泰剧$31#欧美剧$19#海外剧$20||国产动漫$25#日本动漫$26#欧美动漫$27#海外动漫$28||重生民国$21#现代言情$22#反转爽文$23||空||空"
-      }
-    },
-    {
-      "key":"csp_XBPQ_漫漫",
-      "name":"漫漫",
-      "type":3,
-      "api":"csp_XBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":{
-        "请求头":"User-Agent$MOBILE_UA",
-        "编码":"UTF-8",
-        "主页url":"http://www.cgwall.cn/",
-        "数组":"vodlist_item num&&</a>",
-        "标题":"title=\"&&\"",
-        "图片":"data-original=\"&&\"",
-        "副标题":"text_dy\">&&<",
-        "链接":"href=\"&&\"",
-        "简介":"简介：</span>&&</li> ",
-        "线路数组":"<h3&&h3>",
-        "线路标题":">&&</",
-        "播放数组":"content_playlist&&</ul>",
-        "播放列表":"<a&&a>",
-        "播放标题":">&&</",
-        "播放链接":"href=\"&&\"",
-        "跳转播放链接":"var player_*\"url\":\"&&\"",
-        "分类url":"http://www.cgwall.cn/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-        "分类":"电影$1#电视剧$2#动漫$4#短剧$3#伦理片$30#微视频$36",
-        "筛选":"1",
-        "类型":"动作片$7#喜剧片$8#爱情片$9#科幻片$10#恐怖片$11#剧情片$12#犯罪片$29#战争片$13||国产剧$14#港剧$15#台湾剧$16#韩剧$17#日剧$18#泰剧$31#欧美剧$19#海外剧$20||国产动漫$25#日本动漫$26#欧美动漫$27#海外动漫$28||重生民国$21#现代言情$22#反转爽文$23||空||空"
-      }
-    },
-    {
-      "key":"csp_XBPQ_Y3",
-      "name":"歪Ⅲ",
-      "type":3,
-      "api":"csp_XBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":{
-        "请求头":"User-Agent$MOBILE_UA",
-        "编码":"UTF-8",
-        "主页url":"https://www.y3dy.cn/",
-        "跳转播放链接":"var player_*\"url\":\"&&\"",
-        "分类url":"https://www.y3dy.cn/vod/show/area/{area}/by/{by}/id/{cateId}/letter/{letter}/page/{catePg}/year/{year}.html",
-        "分类":"电影$1#电视剧$2#综艺$30#动漫$25#体育$36#短剧$15",
-        "类型":"动作$6#喜剧$7#爱情$8#科幻$9#悬疑$10#战争$11#犯罪$12#惊恐$22#动漫$20#灾难$23#纪录片$21#剧情片$24||国产剧$13#欧美剧$14#港台$3#泰剧$4#日韩$16#新马$5||国产综艺$31#日韩综艺$32#欧美综艺$33#新马泰综$34#预告片$35||国产动漫$26#日韩动漫$27#欧美动漫$28#其他动漫$29||篮球$37#足球$38#其他$39||空"
-      }
-    },
-    {
-      "key":"csp_XBPQ_皮影",
-      "name":"皮影",
-      "type":3,
-      "api":"csp_XBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":{
-        "请求头":"User-Agent$MOBILE_UA",
-        "编码":"UTF-8",
-        "主页url":"https://www.xzweiheng.com/",
-        "跳转播放链接":"var player_*\"url\":\"&&\"",
-        "分类url":"https://www.xzweiheng.com/vodshow/{cateId}-{area}-{by}--{lang}-{letter}---{catePg}---{year}.html",
-        "分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$34",
-        "类型":"动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$24#纪录片$23#午夜剧场$33||国产剧$13#香港剧$14#韩国剧$15#欧美剧$16#台湾剧$20#日本剧$21#其它剧$22||空||空||空"
       }
     },
     {
@@ -3529,31 +3427,6 @@
       }
     },
     {
-      "key": "Aries不承担任何风险-KISSAV(女优)",
-      "name": "女优",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "主页url": "https://www.kissavtv.com/index/getActorList/sort/count",
-        "数组": "bind_video_img\">&&</h",
-        "图片": "data-src=\"&&\"",
-        "标题": "title\"><a*>&&</a",
-        "副标题": "label\">&&<",
-        "简介": "header-left\">&&<php",
-        "链接": "href=\"&&\"",
-        "搜索模式": "1",
-        "搜索url": "https://www.kissavtv.com/search/page/{pg}/wd/{wd}.html",
-        "分类数组": "<div class=\"col-6 col-sm-4 col-lg-3\">&&<span",
-        "分类标题": "title\">&&</h",
-        "分类ID": "https://www.kissavtv.com/index/getActorMvs/actorId/&&\"",
-        "分类url": "https://www.kissavtv.com/index/getactormvs/actorId/{cateId}/sort/update/page/{catePg};;z"
-      }
-    },
-    {
       "key": "指间的黑客",
       "name": "金钗",
       "type": 3,
@@ -3789,15 +3662,7 @@
       "api":"https://apilsbzy1.com/api.php/provide/vod/",
       "searchable":1,
       "quickSearch":1
-    },
-    {
-      "key":"探探",
-      "name":"探探",
-      "type":1,
-      "api":"https://apitantanzy.com/api.php/provide/vod/",
-      "searchable":1,
-      "quickSearch":1
-    },
+    }, 
     {
       "key":"百万",
       "name":"百万",
