@@ -686,16 +686,6 @@
       "ext": "https://www.tvkuys.xyz/api.php/app/"
     },
     {
-      "key": "皮皮虾",
-      "name": "皮虾",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://38.55.250.149:1314/api.php/app/"
-    },
-    {
       "key": "HG影视",
       "name": "HG",
       "type": 3,
@@ -716,6 +706,14 @@
       "ext": "KhY021WelCEl+6MsvwnzaPussky/EAoc9z7C4keyHaEQ+sKbXhMKd83VjTL7Ls6+m7XDIcGdziOxPv79y/h4QCvmOEJmZ1VD6dopzAVxkFzEFw=="
     },
     {
+      "key": "世纪",
+      "name": "世纪",
+      "type": 3,
+      "api": "csp_Drama",
+      "playerType": 2,
+      "ext": "saHR0cDovLzExMC40Mi40OS42ODo4OTAwfENEQjZXTU5BTVhCRFNGRFVVS1hJRU1PMVVHMU1VTEoxfDJDMUEwNkUxOTdFRjEwQ0YzRjYwNThDQTdBODAzQjVafDIw"
+    },    
+    {
       "key": "图图",
       "name": "图图",
       "type": 3,
@@ -723,6 +721,14 @@
       "playerType": 1,
       "ext": "cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA=="
     },
+    {
+      "key": "时常",
+      "name": "时常",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "jaHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMnwxMzQ="
+    },    
     {
       "key": "星河",
       "name": "星河",
