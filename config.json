@@ -1034,6 +1034,17 @@
       "ext": "./XBPQ/琥珀.json"
     },
     {
+      "key": "樱花影视",
+      "name": "樱花",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "线路标题": "<h3 class=\"title\">&&</h3>",
+        "分类url": "https://yinghuadm.fun/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+        "分类": "电影$1#剧集$2#综艺$3#动漫$4"
+      }
+    },    
+    {
       "key": "面包影视",
       "name": "面包",
       "type": 3,
