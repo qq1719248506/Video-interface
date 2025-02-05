@@ -818,6 +818,126 @@
       "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
     },
     {
+      "key": "虎虎",
+      "name": "虎虎",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppDrama",
+      "ext": "dZyf/FE+KyNozU1BJTipIlQwV9Exzgodak8HaPQS3+zONEYCA2iEg3LraoCo2u5+6rn3VmrCG6H/XvFKSMzGrev5JV2DZOVsAQxLXRNRbxFUFKM1SEJpngJgi7Fj/n1DfJU3XaJt/aV+5tEC4C+/K7Bx/k1Kz08b1iyW0f8Ghf/NH5BnTsoFeiXrPUjRIyi1oIQh1RUF0aQHwI/DPqGAMHE+KK9efsb7FTDKW7TXastSWVcfpizheTXfXFdRtX+qjWkii8PMPPizDUAlTR3Ptg=="
+    },
+    {
+      "key": "小米眼镜",
+      "name": "眼镜",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppDrama",
+      "ext": "dZyf/FE+KyNozU1BJTipIo9iSIwfIqdHlpvuwJw09AVmwEOfCxMwqLVMJhfLimSVcQK/l703QANc8WIkB/uW5sUdZSeZIU9+8Rk+3N6ehNBRUUbdXwHB/6h1j5nm+yHTh+KNx2kJ25BR77lheSHLwTnAU6VXLKSspVz/FQx8qOP8w0hfCMh1ephwsEIF24MCgXWhiAzL92YSEph0y0FlAqwP2rvfW8v3juUbcw47E+M="
+    },
+    {
+      "key": "米兔",
+      "name": "米兔",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_MiTuApp",
+      "ext": "s1/kf8dfHZAgs5H4ledT0oVFC1n/KhNfQfc0onBTauGjjbKin/VdMFrfJlKKnt/ClccntSyJqzbI1hHzGUUmZg7v02l1fvcdAH0iCUzGlopNgnI3rkeQtAwS54GySfRT0IRokasLwr5Rr6pm8/lTNJXMTEkq+9mzK976Dvv80seU9riYmFeBD+EBp8RzurdP02PNc0S2aZPlMbdm5yTIQfI8QeSRJGz+0AIsFOyBoPr4LDptq0AAc37KMhnWDCXF"
+    },
+    {
+      "key": "玉米",
+      "name": "玉米",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_MiTuApp",
+      "ext": "s1/kf8dfHZAgs5H4ledT0i6LXx6xdZC0ph9uRVITTKNp23AhIWvyzmvWXVSGAFNw4cyEOCScilMV9nTxuQd8NgE7JgcEh/KZ0BJMCTQ3NWsr7zaQPpHDJf1GLtn+xIRmSB9So8Y08nH6E8sY9yun1dTf0xqR2kGXxnoBoGZMWam+DW343WG42WKm94hzvQb7yDEUDLU2jR9lBy3hMWV7yjLPpu0QFLKd8NNgBWw1p4Q="
+    },
+    {
+      "key": "电影",
+      "name": "电影",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_MiTuApp",
+      "ext": "s1/kf8dfHZAgs5H4ledT0gNpK7vQhd67t79FMOlp/3hon97gPN02BO+erk3EBCNXM6SamStX8E1N/eOSW8iHnh/V/WWXQik712AKDkDyClacr4JX917KX00fvnFi+PAJCJmEjfkTIInNogcntp+7cErzTorQY87aZkXQz64jcMNBTxpU+OGhfwZ2WqemvRRoQcF3TRFQdK9yVcAPrcKlPHxNivbPun5GntvfOIbWqYyWQSzU7f8y5TSHoXNt3Ag7WpEtt5DdeFwKFlYQ/RcwUw=="
+    },
+    {
+      "key": "米多",
+      "name": "米多",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_MiTuApp",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn9Eir6RzAIaQXa7PAZzZhsYO7tEfOCUAO2ipKyX1sxqAYggPt4M4DNHWCnz414Yfuh19nNi3k0dkJGtsOqEQzKCgcf9wGo4XmYWuIzgVworYxXRSYBQb2oLBmTl1W7hxxhfer8LsRYZB6ALfwu2bInzh3EENDkFkaHYb1olDPUR1EqpMaZLpMW0oSOW9zzMF5WIDfKUOvd7q2bKD4uZ8/oc="
+    },
+    {
+      "key": "良人",
+      "name": "良人",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_MiTuApp",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn+pzOh0GsJJgcwHHxDs8FcBDGD81qAZtun78VAJxzshCbStdXIlQiksUvc2b5fXyuxJO9KBNp5LzL/pYLLOs1V3R3WOh90eVpJGxxXWEZtoq+F7Cq4CbQ3J1TTXahpYpeXXeevwPopQutGBNaxYkdBgBL6rCgov0BCUWOXriRXNndZJYNJohfwIzBP+iTuz6C8FWXazDuKfwSS4BfeyQuGM="
+    },    
+    {
+      "key": "尘落",
+      "name": "尘落",
+      "type": 3,
+      "api": "csp_Wetv"
+    },
+    {
+      "key": "快看影视",
+      "name": "快看",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "饭团影视",
+      "name": "饭团",
+      "type": 3,
+      "api": "csp_Fantuan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "来看影视",
+      "name": "来看",
+      "type": 3,
+      "api": "csp_Lkdy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "樱花影视",
+      "name": "樱花",
+      "type": 3,
+      "api": "csp_Lggys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "饺子影视",
+      "name": "饺子",
+      "type": 3,
+      "api": "csp_Jiaozi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "看客影视",
+      "name": "看客",
+      "type": 3,
+      "api": "csp_Kanke",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },    
+    {
       "key": "龙虾影视",
       "name": "龙虾",
       "type": 3,
@@ -958,15 +1078,6 @@
       }
     },
     {
-      "key": "饺子影视",
-      "name": "饺子",
-      "type": 3,
-      "api": "csp_Jiaozi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "全网影视",
       "name": "全网",
       "type": 3,
@@ -975,15 +1086,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.91qkw.com"
-    },
-    {
-      "key": "看客影视",
-      "name": "看客",
-      "type": 3,
-      "api": "csp_Kanke",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "瓜子影视",
