@@ -1370,34 +1370,6 @@
       }
     },
     {
-      "key": "火狼影视",
-      "name": "火狼",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "数组": "class=\"list-pics part-2by3\"&&</a>",
-        "标题": "title=\"&&\"",
-        "图片": "url=&&\"",
-        "副标题": "remarks\">&&</span>",
-        "链接": "href=\"&&\"",
-        "简介": "text-muted pnxs-10px lhxs-30px\"&&</p>",
-        "线路数组": "btns-info rims-info part-eone&&</li>",
-        "线路标题": ">&&<",
-        "播放数组": "play-item&&</ul>",
-        "播放列表": "<a&&/a>[不包含:展开]",
-        "播放标题": ">&&</",
-        "播放链接": "href=\"&&\"",
-        "跳转解析": "data-play=\"&&\"",
-        "分类url": "https://www.huolang.pro/zhao/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#午夜剧场$5#网红短剧$35"
-      }
-    },
-    {
       "key": "乐游影院",
       "name": "乐游",
       "type": 3,
@@ -1685,37 +1657,6 @@
         "分类url":"http://xtk.njjinwu.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
         "分类":"电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#午夜剧场$lunlipian#网红短剧$duanju#动画片$donghuapian#邵氏电影$shaoshidianying",
         "筛选":"1","类型":"动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#犯罪片$fanzuipian#战争片$zhanzhengpian||国产剧$guocanju#港剧$gangju#台湾剧$taiwanju#韩剧$hanju#日剧$riju#泰剧$taiju#欧美剧$oumeiju#海外剧$haiwaiju||大陆综艺$daluzongyi#日韩综艺$rihanzongyi#港台综艺$gangtaizongyi#欧美综艺$oumeizongyi||国产动漫$guochandongman#日本动漫$ribendongman#欧美动漫$oumeidongman#海外动漫$haiwaidongman||空||空||空||空"
-      }
-    },
-    {
-      "key":"csp_XBPQ_森林",
-      "name":"森林",
-      "type":3,
-      "api":"csp_XBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":{
-        "请求头":"User-Agent$MOBILE_UA",
-        "编码":"UTF-8",
-        "主页url":"https://nxxy.cc/",
-        "数组":"class=\"public-list-box&&</a>",
-        "标题":"alt=\"&&\"",
-        "图片":"src=\"&&\"",
-        "副标题":"\">&&</span>",
-        "链接":"href=\"&&\"",
-        "播放数组":"anthology-list-play&&</ul>",
-        "播放列表":"<a&&a>",
-        "播放链接":"href=\"&&\"",
-        "播放标题":">&&</",
-        "线路数组":"<a class=\"swiper-slide\"&&a>",
-        "线路标题":"\\&nbsp;&&</",
-        "跳转播放链接":"var Iyplayer*id:&&,",
-        "二次跳转播放链接":"file\":\"&&\"",
-        "搜索url":"https://nxxy.cc/search/index.html?keyword={wd}&page={pg}",
-        "分类url":"https://nxxy.cc/vod/list.html?cate_id={class}&page={catePg}&type_id={cateId}",
-        "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
-        "剧情":"动作片$9#喜剧片$10#爱情片$11#恐怖片$12#剧情片$13#科幻片$14#惊悚片$15#奇幻片$16#动画片$17#悬疑片$18#冒险片$19#纪录片$20#战争片$21||国产剧$22#香港剧$23#台湾剧$24#欧美剧$25#日本剧$26#韩国剧$27#泰国剧$28#海外剧$29||大陆综艺$30#港台综艺$31#日韩综艺$32#欧美综艺$33#海外综艺$34||国产动漫$35#日本动漫$36#欧美动漫$37#海外动漫$38"
       }
     },
     {
@@ -3407,26 +3348,6 @@
       }
     },
     {
-      "key": "金陵乐园",
-      "name": "金陵",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "主页url": "https://jud.jllth9.motorcycles/cn/home/web/",
-        "直接播放": "1",
-        "数组": "img\">&&</p",
-        "图片": "src=\"&&\"",
-        "标题": "title-p\">*_self\">&&</a>",
-        "副标题": "</i>&&</span>",
-        "链接": "href=\"&&\"[替换:play#.html>>/sid/1/nid/1.html]",
-        "搜索模式": "1",
-        "搜索url": "https://jud.jllth9.motorcycles/cn/home/web/index.php/vod/search/page/{pg}/wd/{wd}.html",
-        "分类url": "https://jud.jllth9.motorcycles/cn/home/web/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-        "分类": "自拍偷拍&巨乳波霸&强奸乱伦&人妻熟女&制服丝袜&花季少女&无码露毛&群P多人&人兽人妖&男同女同&韩日专区&欧美色情&成人动漫&三级剧情",
-        "分类值": "20&21&22&23&24&25&26&27&28&29&30&31&32&33"
-      }
-    },
-    {
       "key": "指间的黑客",
       "name": "金钗",
       "type": 3,
@@ -3609,35 +3530,6 @@
       }
     },
     {
-      "key": "csp_XBPQ_花心小妞",
-      "name": "花心",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "发布地址": "hxxn3a.top",
-        "请求头": "手机",
-        "站名": "花心小妞",
-        "主页url": "https://hxxn3a.top/gbook/?shouye",
-        "直接播放": "1",
-        "数组": "stui-vodlist__box&&</li>",
-        "标题": "title=\"&&\"",
-        "图片": "data-original=\"&&\"",
-        "副标题": "<p>&&</p >",
-        "链接": "https://hxxn3a.top/vodplay/+href=\"/voddetail/&&.html\"+-1-1.html",
-        "线路数组": "layui-btn-normal play-btn&&</a >",
-        "播放数组": "group-box bg-card&&</div>",
-        "免嗅": "1",
-        "搜索url": "https://hxxn3a.top/vodsearch/{wd}----------{pg}---.html",
-        "分类url": "https://hxxn3a.top/vodshow/{cateId}--------{catePg}---.html",
-        "分类数组": "<li&&</li>",
-        "分类标题": ">&&</a >",
-        "分类ID": "/vodtype/&&.html\""
-      }
-    },
-    {
       "key":"csp_XYQHiker_鲨鱼AV",
       "name":"鲨鱼",
       "type":3,
@@ -3769,7 +3661,7 @@
       "key": "bp",
       "name": "白嫖",
       "type": 0,
-      "api": "https://www.kxgav.com/api/xml.php ",
+      "api": "https://www.kxgav.com/api/xml.php",
       "searchable": 1,
       "changeable": 1,
       "style": {
