@@ -853,6 +853,15 @@
       "ext": "saHR0cHM6Ly94Y2Jhb3RhLm9zcy1jbi1xaW5nZGFvLmFsaXl1bmNzLmNvbS9nZXRhcHBfdjQudHh0fDZ2YXhqbjR2YmtyaHN6cDh8NnZheGpuNHZia3Joc3pwOHwxMDA="
     },
     {
+      "key": "闹闹",
+      "name": "闹闹",
+      "type": 3,
+      "api": "csp_Xdai",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "caHR0cDovLzExMC40Mi4zLjE5NTo4OTg5fEQ2cTdoamI4N0ZKMDlGNzd8RDZxN2hqYjg3RkowOUY3Nw"
+    },    
+    {
       "key": "蝴蝶",
       "name": "蝴蝶",
       "type": 3,
