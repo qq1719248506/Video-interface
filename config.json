@@ -1110,11 +1110,11 @@
       "ext": "./XBPQ/琥珀.json"
     },
     {
-      "key": "鬼片之家",
-      "name": "鬼片",
+      "key": "麻花影视",
+      "name": "麻花",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./XBPQ/鬼片.json"
+      "ext": "./XBPQ/麻花.json"
     },    
     {
       "key": "面包影视",
