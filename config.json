@@ -2111,7 +2111,16 @@
       "logo": "https://live.fanmingming.cn/tv/{name}.png",      
       "playerType": 1,
       "timeout": 10
-    },    
+    },
+    {
+      "name": "tv",
+      "type": 0,
+      "url": "./json/ytblive.m3u",
+      "epg": "",
+      "logo": "",      
+      "playerType": 1,
+      "timeout": 10
+    },      
     {
       "name": "直播",
       "type": 3,
