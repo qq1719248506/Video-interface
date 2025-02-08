@@ -1248,7 +1248,33 @@
       "api": "https://api.yzzy-api.com/inc/apijson.php",
       "searchable": 1,
       "changeable": 1
-    },  
+    },
+    {
+      "key": "如意资源",
+      "name": "如意",
+      "type": 1,
+      "api": "https://www.ryzy.tv/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "港澳剧",
+        "日剧",
+        "欧美剧",
+        "台湾剧",
+        "泰剧",
+        "韩剧",
+        "纪录片",
+        "动漫电影"
+      ]
+    },    
     {
       "key": "光速资源",
       "name": "光速",
