@@ -2122,9 +2122,18 @@
       "url": "./json/ytblive.m3u",
       "epg": "",
       "logo": "",      
-      "playerType": 1,
+      "playerType": 2,
       "timeout": 10
-    },      
+    },
+    {
+      "name": "tv资源",
+      "type": 0,
+      "url": "./json/tv资源.txt",
+      "epg": "",
+      "logo": "",      
+      "playerType": 2,
+      "timeout": 10
+    },    
     {
       "name": "直播",
       "type": 3,
