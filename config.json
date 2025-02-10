@@ -79,20 +79,6 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/搜狗.js"
-    },
-    {
-      "key": "思古",
-      "name": "思古",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/思古.js"
-    },
-    {
-      "key": "碟调",
-      "name": "碟调",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/碟调.js"
     },        
     {
       "key": "小米尘落",
