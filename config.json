@@ -856,6 +856,18 @@
       "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
     },
     {
+      "key": "csp_夜猫",
+      "name": "夜猫",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "api": "./js/Appapi.js",
+      "playerType": 2,
+      "filterable": 1,
+      "ext": "aHR0cHM6Ly95bS1ycmNkbi1hb21lbmNsb3VkLnlteXMxLnh5ei9hcGkucGhwfDF2ZmZzZGFzZGFzZGFzZDJ8MXZmZnNkYXNkYXNkYXNkMg=="
+    },    
+    {
       "key": "快看影视",
       "name": "快看",
       "type": 3,
