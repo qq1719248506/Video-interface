@@ -862,7 +862,7 @@
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
-      "api": "./js/Appapi.js",
+      "api": "./cat/appys.js",
       "playerType": 2,
       "filterable": 1,
       "ext": "aHR0cHM6Ly95bS1ycmNkbi1hb21lbmNsb3VkLnlteXMxLnh5ei9hcGkucGhwfDF2ZmZzZGFzZGFzZGFzZDJ8MXZmZnNkYXNkYXNkYXNkMg=="
