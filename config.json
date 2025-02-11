@@ -2090,6 +2090,24 @@
   ],
   "lives": [
     {
+      "name": "直播{一}",
+      "type": 0,
+      "url": "https://ghfast.top/raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
+      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.cn/tv/{name}.png",
+      "playerType": 2,
+      "timeout": 10
+    },
+    {
+      "name": "直播{二}",
+      "type": 0,
+      "url": "https://ghp.ci/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt",
+      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.cn/tv/{name}.png",
+      "playerType": 2,
+      "timeout": 10
+    },    
+    {
       "name": "AI直播+",
       "type": 0,
       "url": "https://pan.ly93.cc/f/l2W9sx/user_result.txt",
@@ -2114,15 +2132,6 @@
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.cn/tv/{name}.png",      
       "playerType": 1,
-      "timeout": 10
-    },
-    {
-      "name": "tv",
-      "type": 0,
-      "url": "./json/ytblive.m3u",
-      "epg": "",
-      "logo": "",      
-      "playerType": 2,
       "timeout": 10
     },
     {
