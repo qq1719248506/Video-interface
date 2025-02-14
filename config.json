@@ -74,6 +74,13 @@
       }
     },
     {
+      "key": "武享吧",
+      "name": "拳皇",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/拳皇.js"
+    },    
+    {
       "key": "搜狗视频",
       "name": "搜狗",
       "type": 3,
@@ -2090,7 +2097,7 @@
   ],
   "lives": [
     {
-      "name": "肥羊直播",
+      "name": "肥羊",
       "type": 3,
       "api": "csp_Feiyang",
       "url": "https://9877.kstore.space/Live/live.m3u",
@@ -2136,27 +2143,9 @@
       "logo": "https://live.fanmingming.cn/tv/{name}.png",      
       "playerType": 1,
       "timeout": 10
-    },
-    {
-      "name": "1905电影",
-      "type": 0,
-      "url": "./json/live_1905.txt",
-      "epg": "",
-      "logo": "",      
-      "playerType": 2,
-      "timeout": 10
     },    
     {
-      "name": "tv资源{一}",
-      "type": 0,
-      "url": "./json/18资源丰富.txt",
-      "epg": "",
-      "logo": "",      
-      "playerType": 2,
-      "timeout": 10
-    },    
-    {
-      "name": "tv资源{二}",
+      "name": "tv资源",
       "type": 0,
       "url": "./json/tv资源.txt",
       "epg": "",
@@ -2164,14 +2153,6 @@
       "playerType": 2,
       "timeout": 10
     },    
-    {
-      "name": "直播",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "url": "tv.m3u",
-      "timeout": 10,
-      "ua": "okhttp/3.15"
-    },
     {
       "name": "CIPTV直播",
       "type": 3,
