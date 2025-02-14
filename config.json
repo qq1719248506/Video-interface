@@ -2090,18 +2090,21 @@
   ],
   "lives": [
     {
-      "name": "直播{一}",
+      "name": "肥羊直播",
+      "type": 3,
+      "api": "csp_Feiyang",
+      "url": "https://9877.kstore.space/Live/live.m3u",
+      "timeout": 10,
+      "ua": "okhttp/3.15",
+      "catchup": {
+        "type": "append",
+        "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+      }
+    },    
+    {
+      "name": "TV直播",
       "type": 0,
       "url": "https://ghfast.top/raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
-      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-      "logo": "https://live.fanmingming.cn/tv/{name}.png",
-      "playerType": 2,
-      "timeout": 10
-    },
-    {
-      "name": "直播{二}",
-      "type": 0,
-      "url": "https://ghp.ci/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.cn/tv/{name}.png",
       "playerType": 2,
@@ -2135,7 +2138,25 @@
       "timeout": 10
     },
     {
-      "name": "tv资源",
+      "name": "1905电影",
+      "type": 0,
+      "url": "./json/live_1905.txt",
+      "epg": "",
+      "logo": "",      
+      "playerType": 2,
+      "timeout": 10
+    },    
+    {
+      "name": "tv资源{一}",
+      "type": 0,
+      "url": "./json/18资源丰富.txt",
+      "epg": "",
+      "logo": "",      
+      "playerType": 2,
+      "timeout": 10
+    },    
+    {
+      "name": "tv资源{二}",
       "type": 0,
       "url": "./json/tv资源.txt",
       "epg": "",
