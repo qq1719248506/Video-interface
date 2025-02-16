@@ -503,17 +503,6 @@
       "playerType": 2
     },
     {
-      "key": "csp_1905电影",
-      "name": "1905电影",
-      "type": 3,
-      "api": "./py/py_1905.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "playerType": 2,
-      "filterable": 1
-    },
-    {
       "key": "巧技",
       "name": "巧技",
       "type": 3,
@@ -1451,6 +1440,65 @@
     }
   ],
   "parses": [
+    {
+      "name": "巧一",
+      "type": 1,
+      "url": "https://zy.qiaoji8.com/neibu.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "巧二",
+      "type": 1,
+      "url": "https://zy.qiaoji8.com/gouzi.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905",
+          "NetFilx"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },    
     {
       "name": "臻享",
       "type": "1",
