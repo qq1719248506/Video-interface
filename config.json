@@ -86,13 +86,7 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/搜狗.js"
-    },        
-    {
-      "key": "小米尘落",
-      "name": "尘落",
-      "type": 3,
-      "api": "csp_Wetv"
-    },    
+    },            
     {
       "key": "csp_酷云",
       "name": "酷云",
