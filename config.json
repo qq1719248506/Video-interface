@@ -938,6 +938,13 @@
       "ext": "./XBPQ/开心.json"
     },
     {
+      "key": "吃瓜",
+      "name": "吃瓜",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/吃瓜.json"
+    },    
+    {
       "key": "青蛙",
       "name": "青蛙",
       "type": 3,
