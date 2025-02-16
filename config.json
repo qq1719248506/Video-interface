@@ -882,6 +882,13 @@
       "filterable": 1
     },
     {
+      "key": "凌云影视",
+      "name": "凌云",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/凌云.json"
+    },    
+    {
       "key": "可可影视",
       "name": "可可",
       "type": 3,
@@ -929,6 +936,13 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./XBPQ/开心.json"
+    },
+    {
+      "key": "青蛙",
+      "name": "青蛙",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/青蛙.json"
     },    
     {
       "key": "小鸭",
