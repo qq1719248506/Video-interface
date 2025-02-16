@@ -924,13 +924,6 @@
       "ext": "./XBPQ/雪糕.json"
     },
     {
-      "key": "流光影视",
-      "name": "流光",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/流光.json"
-    },
-    {
       "key": "开心",
       "name": "开心",
       "type": 3,
