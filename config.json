@@ -141,7 +141,18 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2
-    },    
+    },
+    {
+      "key": "csp_1905电影",
+      "name": "1905电影",
+      "type": 3,
+      "api": "./py/py_1905.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1
+    },     
     {
       "key": "奇趣影视",
       "name": "奇趣",
