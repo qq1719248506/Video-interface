@@ -45,6 +45,29 @@
       "jar": "./jar/wex.jar"
     },
     {
+      "key": "1905",
+      "name": "1905",
+      "type": 3,
+      "api": "csp_Web1905",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "西瓜视频",
+      "name": "西瓜",
+      "type": 3,
+      "api": "csp_AmuXiguaV2",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },    
+    {
       "key": "厂长弹幕",
       "name": "厂长",
       "type": 3,
@@ -731,20 +754,6 @@
       "api": "csp_XiaoMaoApp"
     },
     {
-      "key": "西瓜视频",
-      "name": "西瓜",
-      "type": 3,
-      "api": "csp_AmuXiguaV2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    {
       "key": "采集之王",
       "name": "采集",
       "type": 3,
@@ -761,14 +770,15 @@
       "filterable": 1
     },
     {
-      "key": "南瓜影视",
-      "name": "南瓜",
+      "key": "农民影视",
+      "name": "农民",
       "type": 3,
-      "api": "csp_NanGua",
+      "api": "csp_Wwys",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
-    },
+      "filterable": 1,
+      "ext": "https://m.wwgz.cn"
+    },    
     {
       "key": "低端影视",
       "name": "低端",
@@ -786,7 +796,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
+    },    
     {
       "key": "饭团影视",
       "name": "饭团",
@@ -968,15 +978,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "1905",
-      "name": "1905",
-      "type": 3,
-      "api": "csp_Web1905",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
     },
     {
       "key": "优质资源",
