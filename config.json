@@ -1925,6 +1925,22 @@
       "timeout": 10
     },
     {
+      "name": "港台直播",
+      "type": 0,
+      "url": "./json/CR.txt",
+      "epg": "",
+      "playerType": 2,
+      "timeout": 10
+    },
+     {
+      "name": "tv资源",
+      "type": 0,
+      "url": "./json/tv资源.txt",
+      "epg": "",
+      "playerType": 2,
+      "timeout": 10
+    },   
+    {
       "name": "虎牙一起看",
       "type": 3,
       "api": "csp_Feiyang",
