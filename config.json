@@ -905,6 +905,13 @@
       "filterable": 1
     },
     {
+      "key": "酷猫影视",
+      "name": "酷猫",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/酷猫.json"
+    },    
+    {
       "key": "凌云影视",
       "name": "凌云",
       "type": 3,
@@ -1253,11 +1260,11 @@
       "ext": "./XBPQ/哆啦.json"
     },
     {
-      "key": "动画片",
-      "name": "动画片",
+      "key": "武享吧",
+      "name": "搏击",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./js/动画片.js"
+      "ext": "./js/拳皇.js"
     },
     {
       "key": "搜索弹幕",
