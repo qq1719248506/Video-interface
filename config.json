@@ -526,6 +526,14 @@
       "playerType": 2
     },
     {
+      "key": "巧技一",
+      "name": "技巧",
+      "type": 3,
+      "api": "csp_qiao2",
+      "playerType": 2,
+      "ext": "./json/cksp.txt"
+    },
+    {
       "key": "巧技",
       "name": "巧技",
       "type": 3,
