@@ -483,20 +483,10 @@
       "ext": "https://www.tvkuys.xyz/api.php/app/"
     },
     {
-      "key": "HG影视",
-      "name": "HG",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://cs.hgyx.vip/api2/api.php/app/"
-    },
-    {
       "key": "csp_酷云",
       "name": "酷云",
       "type": 3,
-      "api": "./py/py_酷云.py",
+      "api": "./py/酷云.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -518,13 +508,69 @@
       "key": "猎手影视",
       "name": "猎手",
       "type": 3,
-      "api": "./py/py_猎手影视.py",
+      "api": "./py/猎手.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2
     },
+    {
+      "key": "酷猫影视",
+      "name": "酷猫",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/酷猫.json"
+    },
+    {
+      "key": "青蛙",
+      "name": "青蛙",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/青蛙.json"
+    },	  
+    {
+      "key": "凌云影视",
+      "name": "凌云",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/凌云.json"
+    },    
+    {
+      "key": "可可影视",
+      "name": "可可",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/可可.json"
+    },
+    {
+      "key": "海纳影视",
+      "name": "海纳",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/海纳.json"
+    },
+    {
+      "key": "面包影视",
+      "name": "面包",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/面包.json"
+    },
+    {
+      "key": "永乐影视",
+      "name": "永乐",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/永乐.json"
+    },
+    {
+      "key": "雪糕影视",
+      "name": "雪糕",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/雪糕.json"
+    },	  
     {
       "key": "巧技一",
       "name": "技巧",
@@ -786,13 +832,6 @@
       "api": "csp_XiaoMaoApp"
     },
     {
-      "key": "采集之王",
-      "name": "采集",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/采集之王.js?type=url&params=../json/采集静态.json$1$1"
-    },
-    {
       "key": "爱看机器人",
       "name": "爱看",
       "type": 3,
@@ -921,60 +960,11 @@
       "filterable": 1
     },
     {
-      "key": "酷猫影视",
-      "name": "酷猫",
+      "key": "即看",
+      "name": "即看",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./XBPQ/酷猫.json"
-    },    
-    {
-      "key": "凌云影视",
-      "name": "凌云",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/凌云.json"
-    },    
-    {
-      "key": "可可影视",
-      "name": "可可",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/可可.json"
-    },
-    {
-      "key": "海纳影视",
-      "name": "海纳",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/海纳.json"
-    },
-    {
-      "key": "面包影视",
-      "name": "面包",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/面包.json"
-    },
-    {
-      "key": "永乐影视",
-      "name": "永乐",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/永乐.json"
-    },
-    {
-      "key": "雪糕影视",
-      "name": "雪糕",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/雪糕.json"
-    },
-    {
-      "key": "开心",
-      "name": "开心",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/开心.json"
+      "ext": "./XBPQ/即看.json"
     },
     {
       "key": "吃瓜",
@@ -982,14 +972,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./XBPQ/吃瓜.json"
-    },    
-    {
-      "key": "青蛙",
-      "name": "青蛙",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/青蛙.json"
-    },    
+    },        
     {
       "key": "小鸭",
       "name": "小鸭",
