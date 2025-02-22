@@ -1862,7 +1862,23 @@
       "epg": "",
       "playerType": 2,
       "timeout": 10
-    },   
+    },
+    {
+	    "name": "彩虹台",
+	    "type": 0,
+	    "url": "./json/彩虹台.txt",
+	    "ua": "okhttp/3.15",
+	    "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+	    "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+	    "name": "午夜",
+	    "type": 0,
+	    "url": "./json/18直播.txt",
+	    "ua": "okhttp/3.15",
+	    "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+	    "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+    },    
     {
       "name": "虎牙一起看",
       "type": 3,
