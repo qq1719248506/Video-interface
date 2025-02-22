@@ -45,7 +45,17 @@
         "type": "rect",
         "ratio": 1.597
       }
-    },    
+    },
+    {
+      "key":"鬼片之家",
+      "name":"鬼片",
+      "type":4,
+      "api":"https://drpys.6516789.xyz/api/鬼片之家",
+      "searchable":2,
+      "filterable":0,
+      "quickSearch":0,
+      "ext":""
+    },	  
     {
       "key": "厂长弹幕",
       "name": "厂长",
