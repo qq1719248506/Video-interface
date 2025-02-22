@@ -65,25 +65,6 @@
       "filterable":0,
       "quickSearch":0,
       "ext":""
-    },
-    {
-      "key": "哔哩哔哩",
-      "name": "哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "./jar/bili.jar",    
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 2,
-      "style": {
-        "type": "rect",
-        "ratio": 1.755
-      },
-      "filterable": 1,
-      "ext": {
-        "type": "纪录片#短剧合集#帕梅拉#广场舞#演唱会#贝瓦儿歌#抖音热歌#经典无损音乐合集#DJ#4K#8K#CCTV#模特#泳装秀#内衣秀#小姐姐#健身#相声小品",
-        "cookie": "SESSDATA=08b2adbd%2C1726323100%2Caf7e8%2A32CjBJJ-Kmg1Mm12WHy6adNQ-jUa_uXjVpAKByc6P08m4kMZH039rmIckn4MGCISGJQk8SVnpKQzNyNWZxZnpOdHZoVnNmSUg1TFZydmZkRFA3TW1vemdOZFQ2MG92ZTZyZE5mS3BFMTM3NUZFdlJSSUM0S2RqYW1DNWpVNDFTaC0tSThVRWFpSjVBIIEC;bili_jct=2c573e4ac5b70ce08fd10d5bb5754cf8;DedeUserID=33758170;DedeUserID__ckMd5=a9d70ee75eb75a9f;sid=gy6c4zp4"
-      }
     },	  
     {
       "key": "厂长弹幕",
@@ -1784,14 +1765,14 @@
       "timeout": "3",
       "playerType": 2
     },
-		{
-			"name": "BIPTV",
-			"type": 0,
-			"url": "./json/biptv.txt",
-			"ua": "okhttp/3.15",
-			"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-		},    
+    {
+      "name": "BIPTV",
+      "type": 0,
+      "url": "./json/biptv.txt",
+      "ua": "okhttp/3.15",
+      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+    },    
     {
       "name": "肥羊",
       "type": 3,
@@ -1828,7 +1809,7 @@
       "playerType": 2,
       "timeout": 10
     },
-     {
+    {
       "name": "TV资源",
       "type": 0,
       "url": "./json/tv资源.txt",
