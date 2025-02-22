@@ -1549,7 +1549,12 @@
           "User-Agent": "okhttp/4.9.1"
         }
       }
-    }
+    },
+    {
+	    "name": "8090",
+	    "type": 0,
+	    "url": "https://www.8090g.cn/jiexi/?url="
+    }    
   ],
   "rules": [
     {
