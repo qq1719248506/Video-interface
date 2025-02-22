@@ -11,13 +11,6 @@
       "searchable": 0
     },
     {
-      "key": "预告",
-      "name": "预告",
-      "type": 3,
-      "api": "csp_YGP",
-      "searchable": 0
-    },
-    {
       "key": "配置中心",
       "name": "Config",
       "type": 3,
@@ -29,20 +22,6 @@
         "type": "rect",
         "ratio": 1.597
       }
-    },
-    {
-      "key": "影视配置",
-      "name": "配置",
-      "type": 3,
-      "api": "csp_Wexconfig",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "jar": "./jar/wex.jar"
     },
     {
       "key": "1905",
@@ -407,42 +386,6 @@
         "site": "http://txfpan.top",
         "danmu": true
       }
-    },
-    {
-      "key": "雷鲸",
-      "name": "雷鲸",
-      "type": 3,
-      "api": "csp_Wexleijing",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "./jar/wex.jar"
-    },
-    {
-      "key": "天翼",
-      "name": "天翼",
-      "type": 3,
-      "api": "csp_Wextyso",
-      "searchable": 1,
-      "changeable": 0,
-      "jar": "./jar/wex.jar"
-    },
-    {
-      "key": "盘他",
-      "name": "盘他",
-      "type": 3,
-      "api": "csp_WexYDpanta",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "./jar/wex.jar"
-    },
-    {
-      "key": "Emby",
-      "name": "Emby",
-      "type": 3,
-      "api": "csp_Wexemby",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "./jar/wex.jar"
     },
     {
       "key": "星芽短剧",
