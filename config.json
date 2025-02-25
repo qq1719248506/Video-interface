@@ -45,16 +45,6 @@
         "type": "rect",
         "ratio": 1.597
       }
-    },
-    {
-      "key": "py_1905",
-      "name": "老电影",
-      "type": 3,
-      "api": "./py/1905.py",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },	  
     {
       "key":"鬼片之家",
@@ -65,6 +55,28 @@
       "filterable":0,
       "quickSearch":0,
       "ext":""
+    },
+    {
+      "key": "搜狗",
+      "name": "搜狗",
+      "type": 3,
+      "api": "./lbs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/搜狗.js"
+    },
+    {
+      "key": "老电影",
+      "name": "老电影",
+      "type": 3,
+      "api": "./lbs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/1905.js"
     },	  
     {
       "key": "厂长弹幕",
