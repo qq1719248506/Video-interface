@@ -71,12 +71,12 @@
       "key": "老电影",
       "name": "老电影",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./cat/1905.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "./js/1905.js"
+      "ext": ""
     },	  
     {
       "key": "厂长弹幕",
