@@ -66,17 +66,6 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "./js/搜狗.js"
-    },
-    {
-      "key": "老电影",
-      "name": "老电影",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./js/1905.js"
     },	  
     {
       "key": "厂长弹幕",
@@ -212,18 +201,6 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
-      "key": "机器人弹幕",
-      "name": "机器人",
-      "type": 3,
-      "api": "csp_Ikanbot",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": {
         "danmu": true
       }
