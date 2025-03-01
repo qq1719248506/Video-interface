@@ -65,6 +65,16 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "./js/搜狗.js"
+    },
+    {
+      "key":"鬼片之家",
+      "name":"鬼片",
+      "type":4,
+      "api":"https://drpys.6516789.xyz/api/鬼片之家",
+      "searchable":2,
+      "filterable":0,
+      "quickSearch":0,
+      "ext":""
     },    
     {
       "key": "巧技",
