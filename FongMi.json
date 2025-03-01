@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
+  "spider": "./jar/custom_spider.jar;md5;7ebdedae0efff9808d0988c1def02a5f",
   "wallpaper": "https://bing.img.run/rand.php",
   "lives": [
     {
@@ -45,8 +45,160 @@
   ],
   "sites": [
     {
+      "key": "hipy_js_豆瓣[官]",
+      "name": "豆瓣",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/豆瓣.js"
+    },
+    {
+      "key": "搜狗",
+      "name": "搜狗",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/搜狗.js"
+    },    
+    {
+      "key": "巧技",
+      "name": "巧技",
+      "type": 3,
+      "api": "csp_qiao2",
+      "playerType": 2,
+      "ext": "./json/cksp.txt"
+    },    
+    {
+      "key": "剧评",
+      "name": "剧评",
+      "type": 3,
+      "api": "csp_Jpys",
+      "playerType": 1,
+      "ext": "caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="
+    },
+    {
+      "key": "木头",
+      "name": "木头",
+      "type": 3,
+      "api": "csp_Shark",
+      "playerType": 1,
+      "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
+    },
+    {
+      "key": "永夜",
+      "name": "永夜",
+      "type": 3,
+      "api": "csp_Muou",
+      "playerType": 2,
+      "ext": "caHR0cDovL211b3UuNTZ1eGkuY29tfENvZmZlZTRLfDQuMS44"
+    },
+    {
+      "key": "星河",
+      "name": "星河",
+      "type": 3,
+      "api": "csp_Muou",
+      "playerType": 2,
+      "ext": "caHR0cHM6Ly9odC5tb3liay5jbnzphZLlrqLlvbHop4Z8NC4xLjg="
+    },
+    {
+      "key": "23ys",
+      "name": "二三",
+      "type": 3,
+      "api": "csp_Muou",
+      "playerType": 2,
+      "ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"
+    },
+    {
+      "key": "主角",
+      "name": "主角",
+      "type": 3,
+      "api": "csp_Muou",
+      "playerType": 2,
+      "ext": "caHR0cHM6Ly9tdW91Lmxpbmd1dHYuY2586L+95Ymn5b2x6ZmifDQuMS44"
+    },
+    {
+      "key": "时常",
+      "name": "时常",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "jaHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMnwxMzQ="
+    },
+    {
+      "key": "雨滴",
+      "name": "雨滴",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="
+    },
+    {
+      "key": "现代",
+      "name": "现代",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "caHR0cHM6Ly94ZHlzLnZpcC9nZXRhcHAudHh0fHN6ZGp3ZGFwcHdjbm1kaGJ8c3pkandkYXBwd2NubWRoYnwxMTQ="
+    },
+    {
+      "key": "玉米",
+      "name": "玉米",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "jaHR0cHM6Ly95b3V5b3V0dS0xMzE5MjA5NzQ4LmNvcy5hcC1jaGVuZ2R1Lm15cWNsb3VkLmNvbS93RjlvQTRmRDh4Rzh4RzVxLnR4dHxkUzl0WTVuSzR0WDlvSTFqfGRTOXRZNW5LNHRYOW9JMWp8NDQy"
+    },
+    {
+      "key": "优质",
+      "name": "优质",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "jaHR0cDovL2R5eXp0dmFwcGFwaWdvb2RneC42OC5neS9jaXdrMjh2dTM4aW84L2FwaXVybC50eHR8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA=="
+    },
+    {
+      "key": "木叶",
+      "name": "木叶",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "ext": "saHR0cDovL2hvc3QueXl5cy5uZXdzLzI1MDEyMy50eHR8UnVOOUxSdndUUmdwUW5wS3xSdU45TFJ2d1RSZ3BRbnBLfDU0Ng=="
+    },
+    {
+      "key": "蝴蝶",
+      "name": "蝴蝶",
+      "type": 3,
+      "api": "csp_Hudie",
+      "playerType": 2,
+      "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
+    },
+    {
+      "key": "猎手影视",
+      "name": "猎手",
+      "type": 3,
+      "api": "./py/猎手.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "酷猫影视",
+      "name": "酷猫",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/酷猫.json"
+    },    
+    {
       "key": "Tg | 豆瓣",
-      "name": "Tg | 豆瓣",
+      "name": "豆瓣",
       "type": 3,
       "api": "csp_TgYunDouBanPan",
       "searchable": 1,
@@ -96,6 +248,19 @@
         "filter": "./json/wogg.json"
       }
     },
+    {
+      "key": "玩偶 | 二小",
+      "name": "二小",
+      "type": 3,
+      "api": "csp_kongbai",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./json/peizhi.json",
+        "siteUrl": "https://erxiaofn.click/",
+        "filter": "./json/wogg.json"
+      }
+    },    
     {
       "key": "玩偶 | 小米",
       "name": "小米",
@@ -341,12 +506,39 @@
         "commonConfig": "./json/peizhi.json"
       }
     },
-
+    {
+      "key": "优质资源",
+      "name": "优质",
+      "type": 1,
+      "api": "https://api.yzzy-api.com/inc/apijson.php",
+      "searchable": 1,
+      "changeable": 1,
+      "playurl": "https://vip.zykbf.com/?url=",
+       "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "港澳剧",
+        "日剧",
+        "欧美剧",
+        "台湾剧",
+        "泰剧",
+        "韩剧",
+        "纪录片",
+        "动漫电影"
+      ]           
+    },
     {
       "key": "360资源",
       "name": "360资源-采集",
       "type": 1,
       "api": "https://360zy.com/api.php/seaxml/vod/",
+      "playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "searchable": 1,
       "changeable": 1,
       "categories": [
@@ -386,6 +578,7 @@
       "name": "非凡",
       "type": 1,
       "api": "http://api.ffzyapi.com/api.php/provide/vod/",
+      "playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "searchable": 1,
       "changeable": 1,
       "categories": [
@@ -425,6 +618,7 @@
       "name": "量子",
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "searchable": 1,
       "changeable": 1,
       "categories": [
