@@ -134,104 +134,45 @@
       "ext": "FbjPcVZY48PN/RIZ5QqOrsp1OZsTS9wQSSpQpK6jnh0fUMKIu22IxR6Z7/exDifuKH+Agjg9"
     },
     {
-      "key": "巧技",
-      "name": "巧技",
+      "key": "猎手影视",
+      "name": "猎手",
       "type": 3,
-      "api": "csp_qiao2",
-      "playerType": 2,
-      "ext": "./json/cksp.txt"
+      "api": "./py/猎手.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
     },
     {
-      "key": "木头",
-      "name": "木头",
+      "key": "酷猫影视",
+      "name": "酷猫",
       "type": 3,
-      "api": "csp_Shark",
-      "playerType": 1,
-      "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/酷猫.json"
     },
     {
-      "key": "星河",
-      "name": "星河",
+      "key": "星辰影院",
+      "name": "星辰",
       "type": 3,
-      "api": "csp_Muou",
-      "playerType": 2,
-      "ext": "caHR0cHM6Ly9odC5tb3liay5jbnzphZLlrqLlvbHop4Z8NC4xLjg="
-    },
-    {
-      "key": "二三",
-      "name": "二三",
-      "type": 3,
-      "api": "csp_Muou",
-      "playerType": 2,
-      "ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"
-    },
-    {
-      "key":"主角",
-      "name":"主角",
-      "type":3,
-      "api":"csp_Muou",
-      "playerType":2,
-      "ext":"caHR0cHM6Ly9tdW91Lmxpbmd1dHYuY2586L+95Ymn5b2x6ZmifDQuMS44"
-    },
-    {
-      "key": "时常",
-      "name": "时常",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 1,
-      "ext": "jaHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMnwxMzQ="
-    },
-    {
-      "key": "雨滴",
-      "name": "雨滴",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 1,
-      "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="
-    },
-    {
-      "key": "现代",
-      "name": "现代",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 1,
-      "ext": "caHR0cHM6Ly94ZHlzLnZpcC9nZXRhcHAudHh0fHN6ZGp3ZGFwcHdjbm1kaGJ8c3pkandkYXBwd2NubWRoYnwxMTQ="
-    },
-    {
-      "key": "玉米",
-      "name": "玉米",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 1,
-      "ext": "jaHR0cDovL3NkeXMudXMvc2QudHh0fDdmOWI0OWRhZjkyOGNjZTd8N2Y5YjQ5ZGFmOTI4Y2NlN3w0NDI="
-    },
-    {
-      "key": "木叶",
-      "name": "木叶",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 2,
-      "ext": "saHR0cDovL3d3dy56amMuYXBwfGFiNGU5YTQyMTY3NWYxNGJ8YWI0ZTlhNDIxNjc1ZjE0Ynw0NDI="
-    },
-    {
-      "key": "蝴蝶",
-      "name": "蝴蝶",
-      "type": 3,
-      "api": "csp_Hudie",
-      "playerType": 2,
-      "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
-    },
-    {
-      "key": "蚂蚁",
-      "name": "蚂蚁",
-      "type": 3,
-      "api": "csp_Mayiys",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "playerType": 1,
-      "ext": "jaHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L21heWkudHh0"
-    },
+      "filterable": 1,
+      "ext": {
+        "影片类型": "",
+        "播放标题": ">&&<[不包含:1080P]",
+        "分类url": "https://citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
+        "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#短剧$duanju"
+      }
+    },	  
+    {
+      "key": "青蛙",
+      "name": "青蛙",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/青蛙.json"
+    },    
     {
       "key": "黑木耳资源",
       "name": "木耳",
