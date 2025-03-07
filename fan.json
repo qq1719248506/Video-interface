@@ -134,6 +134,132 @@
       "ext": "FbjPcVZY48PN/RIZ5QqOrsp1OZsTS9wQSSpQpK6jnh0fUMKIu22IxR6Z7/exDifuKH+Agjg9"
     },
     {
+      "key": "巧技",
+      "name": "巧技",
+      "type": 3,
+      "api": "csp_qiao2",
+      "jar": "./jar/Qj0214.jar",
+      "playerType": 2,
+      "ext": "./json/cksp.txt"
+    },    
+    {
+      "key": "木头",
+      "name": "木头",
+      "type": 3,
+      "api": "csp_Shark",
+      "jar": "./jar/Qj0214.jar",
+      "playerType": 1,
+      "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
+    },
+    {
+      "key": "永夜",
+      "name": "永夜",
+      "type": 3,
+      "api": "csp_Muou",
+      "jar": "./jar/Qj0214.jar",
+      "playerType": 2,
+      "ext": "caHR0cDovL211b3UuNTZ1eGkuY29tfENvZmZlZTRLfDQuMS44"
+    },
+    {
+      "key": "星河",
+      "name": "星河",
+      "type": 3,
+      "api": "csp_Muou",
+      "jar": "./jar/Qj0214.jar",
+      "playerType": 2,
+      "ext": "caHR0cDovL21vdS5qcDU1LmNufOi/veW/huW9seinhnw0LjEuOQ=="
+    },
+    {
+      "key": "油条",
+      "name": "油条",
+      "type": 3,
+      "api": "csp_Muou",
+      "jar": "./jar/Qj0214.jar",
+      "playerType": 2,
+      "ext": "caHR0cDovL3UzYS50dHhnenMuY2585LyY5LyY5YWUfDQuMS45"
+    },
+    {
+      "key": "23ys",
+      "name": "二三",
+      "type": 3,
+      "api": "csp_Muou",
+      "jar": "./jar/Qj0214.jar",
+      "playerType": 2,
+      "ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"
+    },
+    {
+      "key": "主角",
+      "name": "主角",
+      "type": 3,
+      "api": "csp_Muou",
+      "jar": "./jar/Qj0214.jar",
+      "playerType": 2,
+      "ext": "caHR0cHM6Ly9tdW91Lmxpbmd1dHYuY2586L+95Ymn5b2x6ZmifDQuMS44"
+    },
+    {
+      "key": "时常",
+      "name": "时常",
+      "type": 3,
+      "api": "csp_Xdai",
+      "jar": "./jar/Qj0214.jar",
+      "playerType": 1,
+      "ext": "jaHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMnwxMzQ="
+    },
+    {
+      "key": "雨滴",
+      "name": "雨滴",
+      "type": 3,
+      "api": "csp_Xdai",
+      "jar": "./jar/Qj0214.jar",
+      "playerType": 1,
+      "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="
+    },
+    {
+      "key": "现代",
+      "name": "现代",
+      "type": 3,
+      "api": "csp_Xdai",
+      "jar": "./jar/Qj0214.jar",
+      "playerType": 1,
+      "ext": "caHR0cHM6Ly94ZHlzLnZpcC9nZXRhcHAudHh0fHN6ZGp3ZGFwcHdjbm1kaGJ8c3pkandkYXBwd2NubWRoYnwxMTQ="
+    },
+    {
+      "key": "玉米",
+      "name": "玉米",
+      "type": 3,
+      "api": "csp_Xdai",
+      "jar": "./jar/Qj0214.jar",
+      "playerType": 1,
+      "ext": "jaHR0cHM6Ly93d3cuempjLmFwcC98YWI0ZTlhNDIxNjc1ZjE0YnxhYjRlOWE0MjE2NzVmMTRifDQ0Mg=="
+    },
+    {
+      "key": "木叶",
+      "name": "木叶",
+      "type": 3,
+      "api": "csp_Xdai",
+      "jar": "./jar/Qj0214.jar",
+      "playerType": 2,
+      "ext": "saHR0cDovLzExMy40NS4yNDMuMjMzL211eWUudHh0fFJ1TjlMUnZ3VFJncFFucEt8UnVOOUxSdndUUmdwUW5wS3w1NDc="
+    },
+    {
+      "key": "蝴蝶",
+      "name": "蝴蝶",
+      "type": 3,
+      "api": "csp_Hudie",
+      "jar": "./jar/Qj0214.jar",
+      "playerType": 2,
+      "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
+    },
+    {
+      "key": "柠檬",
+      "name": "柠檬",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "jar": "./jar/Qj0214.jar",
+      "playerType": 2,
+      "ext": "eaHR0cHM6Ly9ubXZvZC5jbjozMTY2L3dlYmNsb3VkL3JlbGF5LnBocD91cmw9"
+    },    
+    {
       "key": "酷猫影视",
       "name": "酷猫",
       "type": 3,
