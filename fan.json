@@ -1,5 +1,5 @@
 {
-"spider":"./spider.jar",
+"spider":"./jar/fan.jar",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
 {"key":"豆","name":"豆瓣","type":3,"api":"csp_DouDou","indexs":1,"searchable":0,"quickSearch":0,"filterable":0},
