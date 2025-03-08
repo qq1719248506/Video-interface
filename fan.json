@@ -258,6 +258,20 @@
       "jar": "./jar/Qj0214.jar",
       "playerType": 2,
       "ext": "eaHR0cHM6Ly9ubXZvZC5jbjozMTY2L3dlYmNsb3VkL3JlbGF5LnBocD91cmw9"
+    },
+    {
+      "key": "秀儿影视",
+      "name": "秀儿",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/秀儿.json"
+    },
+    {
+      "key": "狐狸君",
+      "name": "狐狸",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/狐狸.json"
     },    
     {
       "key": "酷猫影视",
