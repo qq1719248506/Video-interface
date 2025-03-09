@@ -260,6 +260,17 @@
       "ext": "eaHR0cHM6Ly9ubXZvZC5jbjozMTY2L3dlYmNsb3VkL3JlbGF5LnBocD91cmw9"
     },
     {
+      "key": "奇趣影视",
+      "name": "奇趣",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "jar": "./jar/XYQHiker.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XYQHiker/奇趣.json"
+    },    
+    {
       "key": "秀儿影视",
       "name": "秀儿",
       "type": 3,
