@@ -263,12 +263,12 @@
       "key": "奇趣影视",
       "name": "奇趣",
       "type": 3,
-      "api": "csp_XYQHiker",
-      "jar": "./jar/XYQHiker.jar",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XYQHiker/奇趣.json"
+        "分类url": "https://www.qqutv.com/qqys/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
+        "分类": "电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi#纪录片$jilupian"      
     },    
     {
       "key": "秀儿影视",
