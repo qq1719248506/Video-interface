@@ -777,7 +777,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
