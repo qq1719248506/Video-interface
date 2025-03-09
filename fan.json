@@ -258,6 +258,21 @@
       "jar": "./jar/Qj0214.jar",
       "playerType": 2,
       "ext": "eaHR0cHM6Ly9ubXZvZC5jbjozMTY2L3dlYmNsb3VkL3JlbGF5LnBocD91cmw9"
+    },
+    {
+      "key": "奇趣影视",
+      "name": "奇趣",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "影片类型": "",
+        "播放标题": ">&&<[不包含:1080P]",
+        "分类url": "https://www.qqutv.com/qqys/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
+        "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#短剧$duanju"
+      }
     },    
     {
       "key": "秀儿影视",
