@@ -975,43 +975,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "服务器油管",
-      "name": "服务器油管",
-      "type": 4,
-      "api": "http://zhangqun66.com/yt/yt001.php",
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "动作片#科幻片#沙雕穿越#中国动漫#小说#影视解说#新闻直播#动物#风光#放松#短剧#古装短剧#萌宝短剧#经典音乐#海洋#太空#穿越短剧"
-    },
-    {
-      "key": "油管播放列表1",
-      "name": "油管播放列表1",
-      "type": 4,
-      "api": "http://zhangqun66.com/ytlb.php",
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "油管播放列表2",
-      "name": "油管播放列表2",
-      "type": 4,
-      "api": "http://zhangqun66.com/ytlb1.php",
-      "searchable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "changeable": 1
     },	  
     {
       "key": "黑木耳资源",
