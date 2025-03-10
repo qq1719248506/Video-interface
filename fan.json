@@ -36,7 +36,18 @@
         "type": "rect",
         "ratio": 1.597
       }
-    },	  
+    },
+    {
+      "key": "csp_BookYSTS",
+      "name": "听书",
+      "type": 3,
+      "api": "csp_BookYSTS",
+      "searchable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      }
+    },
     {
       "key":"鬼片之家",
       "name":"鬼片",
