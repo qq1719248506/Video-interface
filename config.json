@@ -1699,6 +1699,27 @@
       }
     },
     {
+      "name":"火花",
+      "type":1,
+      "url":"https://api.huohua.live/api/?key=vw7rQBbgOih9jDCMVc&url="
+    },
+    {
+      "name":"柒月",
+      "type":1,
+      "url":"https://yh.imayday.cn/api/?key=f22bafe11382d2ea90b643dca705b1fe&url="
+    },
+    {
+      "name":"影探",
+      "type":1,
+      "url":"https://jx.bhs6.com/api/?key=e9b9c8a21dfeab775de29040e824d415&url=",
+      "ua":"User-Agent$okhttp/3.12.0#referer$123"
+    },
+    {
+      "name":"君离",
+      "type":1,
+      "url":"http://jx.xn--xhqq0ymuct0cyu7cdie.com/api/?key=6dde0ab5e74b25271d4a438f12d62f7d&url="
+    },
+    {
       "name": "冰豆",
       "type": 0,
       "url": "https://bd.jx.cn/?url=",
