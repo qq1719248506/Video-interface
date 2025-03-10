@@ -885,6 +885,11 @@
       }
     },
     {
+      "name":"playerjy",
+      "type":0,
+      "url":"https://jx.playerjy.com/?url="
+    },
+    {
       "name": "冰豆",
       "type": 0,
       "url": "https://bd.jx.cn/?url=",
