@@ -143,6 +143,7 @@
       "name": "1905",
       "type": 3,
       "api": "./py/1905.py",
+      "playurl": "https://vip.zykbf.com/?url=",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
@@ -2639,19 +2640,6 @@
           "seven",
           "bilibili",
           "1905"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
-    {
-      "name": "无双",
-      "type": 1,
-      "url": "http://1.94.221.189:88/algorithm.php?url=",
-      "ext": {
-        "flag": [
-          "hgvip"
         ],
         "header": {
           "User-Agent": "okhttp/4.9.1"
