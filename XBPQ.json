@@ -2397,6 +2397,12 @@
       "api":"https://apilsbzy1.com/api.php/provide/vod/",
       "searchable":1,
       "quickSearch":1
+    },
+    {
+      "key":"GAY资源",
+      "name": "GAY资源",
+      "api": "https://gayapi.com/api.php/provide/vod/",
+      "playUrl": ""
     }, 
     {
       "key":"百万",
@@ -2414,6 +2420,30 @@
       "searchable":1,
       "quickSearch":1
     },
+    {
+      "key":"优异",
+      "name": "优异",
+      "api": "https://a.uezy.pw/api.php/provide/vod/",
+      "playUrl": ""
+    },
+    {
+      "key":"橘猫资源",
+      "name": "橘猫",
+      "api": "https://to.to-long.com/api.php/provide/vod/",
+      "playUrl": ""
+    },
+    {
+      "key":"X细胞资源",
+      "name": "X细胞",
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod/",
+      "playUrl": ""
+    }, 
+    {
+      "key":"搜AV资源",
+      "name": "搜AV",
+      "api": "https://api.souavzy.vip/api.php/provide/vod/",
+      "playUrl": "https://souavzy.info/m3u8/?url="
+    },  
     {
       "key": "番外",
       "name": "番外",
