@@ -2401,6 +2401,7 @@
     {
       "key":"GAY资源",
       "name": "GAY资源",
+      "type": 1,
       "api": "https://gayapi.com/api.php/provide/vod/",
       "playUrl": ""
     }, 
@@ -2423,24 +2424,28 @@
     {
       "key":"优异",
       "name": "优异",
+      "type": 1,
       "api": "https://a.uezy.pw/api.php/provide/vod/",
       "playUrl": ""
     },
     {
       "key":"橘猫资源",
       "name": "橘猫",
+      "type": 1,
       "api": "https://to.to-long.com/api.php/provide/vod/",
       "playUrl": ""
     },
     {
       "key":"X细胞资源",
       "name": "X细胞",
+      "type": 1,
       "api": "https://www.xxibaozyw.com/api.php/provide/vod/",
       "playUrl": ""
     }, 
     {
       "key":"搜AV资源",
       "name": "搜AV",
+      "type": 1,
       "api": "https://api.souavzy.vip/api.php/provide/vod/",
       "playUrl": "https://souavzy.info/m3u8/?url="
     },  
