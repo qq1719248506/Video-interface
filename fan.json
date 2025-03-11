@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/fan.jar",
+  "spider": "./jar/fan.jar;md5;b6a6d71e3318c502c4965ee6237dfdfe",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -771,7 +771,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce40194194e5a5f7474"
+        "json": "./json/bilibili.json"
       }
     },
     {
@@ -787,7 +787,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce40194194f4eb2747e"
+        "json": "./json/biliych.json"
       }
     }
   ],
