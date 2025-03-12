@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>解析</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="renderer" content="webkit|ie-comp|ie-stand">
+    <script>
+        // 在这里设置您的API数组和URL后缀
+        var apiArray = ["https://www.yemu.xyz/?url=", "https://jx.xmflv.com/?url="]; // 替换为实际的API地址
+        //var urlPs = "https://v.qq.com/x/cover/mzc00200c6971y1/r4100fe82e1.html"; // 替换为实际的URL后缀，或者根据需要动态设置
+		// 解析URL参数来获取urlPs的值
+        function getUrlParam(param) {
+            var params = new URLSearchParams(window.location.search);
+            return params.get(param);
+        }
+		
+        window.onload = function() {
+			var urlPs = getUrlParam('url'); // 如果没有提供'url'参数，则默认为空字符串
+			// 检查urlPs是否为空
+			if (!urlPs) {
+				// 显示错误消息（这里可以根据需要修改错误处理逻辑）
+				alert('URL参数为空，请提供一个有效的URL。');
+				// 停止执行后续代码
+				return;
+			}
+            var iframeHtml = "";
+            for (var i = 0; i < apiArray.length; i++) {
+                var URL = apiArray[i] + urlPs;
+                iframeHtml += "<iframe sandbox='allow-scripts allow-same-origin allow-forms' frameborder='0' allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' src='" + URL + "'></iframe>";
+            }
+            document.getElementById("iframeContainer").innerHTML = iframeHtml;
+        };
+    </script>
+</head>
+<body>
+    <div id="iframeContainer" style="
+    display: flex;
+    justify-content: center; /* 水平居中 */
+    align-items: center;    /* 垂直居中 */
+    height: 100vh;          /* 使容器高度占满整个视口高度 */
+    width: 100%;            /* 使容器宽度占满整个页面宽度 */
+    /* overflow: hidden; */       /* 防止iframe超出容器范围 */
+    border: 0;              /* 移除容器边框（可选） */
+    /* margin: 0; */              /* 移除容器外边距（可选） */
+    /* padding: 0; */             /* 移除容器内边距（可选） */
+"></div>
+</body>
+</html>
