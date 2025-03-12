@@ -17,7 +17,6 @@
       "name": "1905",
       "type": 3,
       "api": "csp_Web1905",
-      "jar": "./jar/spider.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
@@ -27,7 +26,6 @@
       "name": "西瓜",
       "type": 3,
       "api": "csp_AmuXiguaV2",
-      "jar": "./jar/spider.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
