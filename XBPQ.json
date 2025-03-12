@@ -8,27 +8,6 @@
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
-    },
-    {
-      "key": "潮流",
-      "name": "潮流",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"
-    },
-    {
-      "key": "梦回",
-      "name": "梦回",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"
-    },
-    {
-      "key": "星辉",
-      "name": "星辉",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
     },    
     {
       "key": "吉吉短剧",
@@ -36,17 +15,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./XBPQ/吉吉.json"
-    },
-    {
-      "key": "新视觉影视",
-      "name": "新视觉",
-      "type": 3,
-      "api": "./py/py_新视觉.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
     },
     {
       "key": "酷影视",
@@ -57,16 +25,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.tvkuys.xyz/api.php/app/"
-    },
-    {
-      "key": "皮皮虾",
-      "name": "皮虾",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.ppxys.vip/api.php/app/"
     },
     {
       "key": "HG影视",
@@ -2377,6 +2335,7 @@
       "name":"鲨鱼",
       "type":3,
       "api":"csp_XYQHiker",
+      "jar":"./jar/XYQHiker.jar",
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
@@ -2534,7 +2493,59 @@
         "type": "rect",
         "ratio": 1.485
       }
-    },    
+    },
+     {
+      "key": "玉兔专场",
+      "name": "玉兔",
+      "type": 1,
+      "api": "https://apiyutu.com/api.php/provide/vod/",
+      "playUrl": "https://yutujx.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "精品推荐",
+        "国产精品",
+        "主播秀色",
+        "日本有码",
+        "日本无码",
+        "中文字幕",
+        "童颜巨乳",
+        "性感人妻",
+        "强奸乱伦",
+        "欧美情色",
+        "童真萝莉",
+        "三级伦理",
+        "卡通动漫",
+        "丝袜OL",
+        "口爆颜射",
+        "自拍偷拍",
+        "日本片商",
+        "Cosplay",
+        "素人自拍",
+        "台湾色情",
+        "韩国自拍",
+        "性感港姐",
+        "东南亚情色",
+        "凌辱束缚",
+        "剧情介绍",
+        "多P 3P",
+        "91系列",
+        "网红系列",
+        "野外系列",
+        "女仆系列",
+        "学生中出",
+        "性感旗袍",
+        "兽耳作品",
+        "瑜伽裤",
+        "骚货护士",
+        "及膝袜",
+        "网曝系列",
+        "麻豆传媒",
+        "女同人妖",
+        "恋腿癖"
+      ]
+    },   
     {
       "key": "bp",
       "name": "白嫖",
