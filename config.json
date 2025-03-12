@@ -609,13 +609,6 @@
       "ext": "./XBPQ/吃瓜.json"
     },        
     {
-      "key": "小鸭",
-      "name": "小鸭",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/小鸭.json"
-    },
-    {
       "key": "金牌影视",
       "name": "金牌",
       "type": 3,
