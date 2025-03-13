@@ -630,6 +630,28 @@
       }
     },
     {
+      "key":"我的小站",
+      "name":"小站",
+      "type":3,
+      "api":"csp_XYQHikerAL",
+      "jar":"./jar/XYQHiker.jar",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./XYQHiker/小站.json"
+    },
+    {
+      "key":"阿里云盘",
+      "name":"云盘",
+      "type":3,
+      "api":"csp_XYQHikerAL",
+      "jar":"./jar/XYQHiker.jar",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./XYQHiker/云盘.json"
+    },    
+    {
       "key": "PanSso",
       "name": "盘他",
       "type": 3,
