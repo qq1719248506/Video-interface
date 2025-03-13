@@ -607,7 +607,14 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./XBPQ/吃瓜.json"
-    },        
+    },
+    {
+      "key": "速影",
+      "name": "速影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/速影.json"
+    },    
     {
       "key": "金牌影视",
       "name": "金牌",
