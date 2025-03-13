@@ -313,20 +313,6 @@
       }
     },
     {
-      "key":"麦田影视",
-      "name":"麦田",
-      "type":3,
-      "api":"csp_XBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":{
-        "搜索url":" https://www.mtyy6.com/vodsearch/-------------.html?wd={wd}",
-        "分类url":"https://www.mtyy6.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
-        "分类":"电影$2#连续剧$1#动漫$4#综艺$3"
-      }
-    },
-    {
       "key": "秀儿影视",
       "name": "秀儿",
       "type": 3,
