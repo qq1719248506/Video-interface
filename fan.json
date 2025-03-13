@@ -313,12 +313,26 @@
       }
     },
     {
+      "key": "花姐影院",
+      "name": "花姐",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/花姐.json"
+    },
+    {
+      "key": "齐鲁电影网",
+      "name": "齐鲁",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/齐鲁.json"
+    },    
+    {
       "key": "秀儿影视",
       "name": "秀儿",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./XBPQ/秀儿.json"
-    },
+    },    
     {
       "key": "狐狸君",
       "name": "狐狸",
