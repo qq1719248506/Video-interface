@@ -516,10 +516,9 @@
       "name": "饭团",
       "type": 3,
       "api": "csp_Fantuan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+      "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+      "ext": "https://www.fantuan.vip"
+    },    
     {
       "key": "来看影视",
       "name": "来看",
