@@ -22,20 +22,6 @@
       "filterable": 0
     },
     {
-      "key": "西瓜视频",
-      "name": "西瓜",
-      "type": 3,
-      "api": "csp_AmuXiguaV2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    {
       "key":"bookan_book_open",
       "name":"博看",
       "type":3,
@@ -66,15 +52,6 @@
         "siteUrl": "https://www.wogg.net/",
         "danMu": "弹"
       }
-    },
-    {
-      "key": "YGP",
-      "name": "荐影",
-      "type": 3,
-      "api": "csp_YGP",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
     },
     {
       "key": "alllive",
