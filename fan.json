@@ -42,13 +42,6 @@
       "api":"./cat/MyCatBookan.js"
     },
     {
-      "key":"鬼片之家",
-      "name":"鬼片",
-      "type":4,
-      "api":"https://drpys.6516789.xyz/api/鬼片之家",
-      "searchable":2
-    },
-    {
       "key": "搜狗",
       "name": "搜狗",
       "type": 3,
