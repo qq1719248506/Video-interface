@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/fan.jar;md5;b6a6d71e3318c502c4965ee6237dfdfe",
+  "spider": "./jar/XBPQA.jar;md5;84a917ee083f9159823f80c51c81f71e",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
   "sites": [
     {
@@ -37,10 +37,21 @@
       "ext": "https://cs.hgyx.vip/api2/api.php/app/"
     },
     {
+      "key": "1905电影网",
+      "name": "1905",
+      "type": 3,
+      "api": "./py/1905.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },    
+    {
       "key": "九龙影视",
       "name": "九龙",
       "type": 3,
-      "api": "./py/py_九龙影视",
+      "api": "./py/九龙.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -51,7 +62,7 @@
       "key": "猎手影视",
       "name": "猎手",
       "type": 3,
-      "api": "./py/py_猎手影视.py",
+      "api": "./py/猎手.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -95,16 +106,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./XBPQ/流光.json"
-    }, 
-    {
-      "key": "1905",
-      "name": "1905",
-      "type": 3,
-      "api": "csp_Web1905",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
-    },    
+    },     
     {
       "key": "哆啦新番社",
       "name": "哆啦",
@@ -131,6 +133,13 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./XBPQ/吃瓜.json"
+    },
+    {
+      "key": "速影",
+      "name": "速影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/速影.json"
     },    
     {
       "key": "小鸭",
@@ -1497,32 +1506,6 @@
       }
     },
     {
-      "key": "csp_XBPQ_爱上",
-      "name": "爱上",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "主页url": "https://23dyw.cn",
-        "二次截取": "<div class=\"public-list-div public-list-bj\">&&</div>",
-        "数组": "<a&&</a>",
-        "标题": "alt=\"&&\"",
-        "副标题": "<span class=\"public-list-prb hide ft2\">&&</span>",
-        "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-        "链接": "/vod/player.html?+detail.html?&&\"",
-        "线路数组": "<a&&</a>",
-        "线路标题": "&nbsp;&&</",
-        "播放组数": "<li class=\"box border  ecnav-dt ecnav-dt1\"&&</li>",
-        "播放链接": "href=\"&&\"",
-        "播放标题": ">&&</span",
-        "直接播放": "0",
-        "分类url": "https://23dyw.cn/vod/list.html?cate_id={area}&page={catePg}&type_id={cateId}",
-        "分类": "电视剧$2#电影$1#动漫$4#综艺$3#短剧$39"
-      }
-    },
-    {
       "key": "csp_XBPQ_微云",
       "name": "微云",
       "type": 3,
@@ -1658,31 +1641,6 @@
         "分类url": "http://www.chnmx.com/e/action/ListInfo.php?page={catePg}&classid={cateId}&line=24&tempid=9&ph=1&andor=and&orderby={by}&myorder=0",
         "分类": "电影&动作片&喜剧片&爱情片&科幻片&剧情片&恐怖片&剧集&综艺&动漫",
         "分类值": "1&2&3&4&5&6&7&20&30&26"
-      }
-    },
-    {
-      "key": "csp_XBPQ_奈飞",
-      "name": "奈飞",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "主页url": "https://www.naifei1.org",
-        "数组": "lazy lazyloaded&&module-item\">",
-        "标题": "title=\"&&\"",
-        "图片": "data-src=\"&&\"",
-        "副标题": "item-text&&<",
-        "链接": "href=\"&&\"",
-        "线路数组": "data-dropdown&&</div>",
-        "线路标题": ">&&</",
-        "简介": "剧情介绍，&&\">",
-        "分类url": "https://www.naifei1.org/vodshow/area/{area}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
-        "分类": "电影&剧集&综艺&动漫&短剧",
-        "分类值": "dy&juji&zongyi&4dongman&dj"
       }
     },
     {
@@ -1898,35 +1856,6 @@
       }
     },
     {
-      "key": "csp_XBPQ_爱影",
-      "name": "爱影",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "发布地址": "https://www.aikanys.vip/",
-        "数组": "<a&&</div></div></a>",
-        "副标题": "module-item-note\">&&</div",
-        "简介": "line-height:20px;\">&&</p",
-        "线路数组": "module-tab-item tab-item&&</div",
-        "线路标题": "<span>&&</span",
-        "播放数组": "<div class=\"module-play-list-content&&</div",
-        "跳转解析": "爱看专用（优先推荐）$https://cms.akanhd.com/player/ec.php?code=akanhd&if=1&from=lekanzyw&url=#爱看新线S+$https://cms.akanhd.com/player/ec.php?code=akanhd&if=1&from=ikm3u8&url=#蓝光F+$https://cms.akanhd.com/player/ec.php?code=akanhd&if=1&from=snm3u8&url=#蓝光R+$https://cms.akanhd.com/player/ec.php?code=akanhd&if=1&from=lekanzyw&url=#蓝光E+$https://cms.akanhd.com/player/ec.php?code=akanhd&if=1&from=leshi&url=#蓝光L+$https://cms.akanhd.com/player/ec.php?code=akanhd&if=1&from=ikm3u8&url=",
-        "跳转播放链接": "解析+var player_*\"url\":\"&&\"",
-        "搜索数组": "<div class=\"module-card-item module-item&&</a></div></div>",
-        "搜索图片": "data-original=\"&&\"",
-        "搜索标题": "alt=\"&&\"",
-        "搜索链接": "title\"><a href=\"&&\"",
-        "搜索url": "https://www.aikanhd.vip/vodsearch/{wd}----------{pg}---/",
-        "分类数组": "<li class=\"swiper-slide navbar-item&&</li[不包含:福利区]",
-        "分类标题": "title=\"&&\"",
-        "分类ID": "href=\"/vodtype/&&/\"",
-        "分类url": "https://www.aikanhd.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/"
-      }
-    },
-    {
       "key": "csp_XBPQ_百度",
       "name": "百度",
       "type": 3,
@@ -1939,25 +1868,6 @@
         "跳转播放链接": "<iframe border*src=\"&&\"",
         "播放链接前缀": "http://hnguangdian.com",
         "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju#韩剧$hanju"
-      }
-    },
-    {
-      "key": "csp_XBPQ_蛙蛙",
-      "name": "蛙蛙",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "主页url": "https://www.wvod.tv/",
-        "数组": "hl-col-lg-2\"&&</a>",
-        "图片": "data-original=\"&&\"",
-        "标题": "title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "简介": "简介：&&</li>",
-        "分类url": "https://www.wvod.tv/vodshow/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类": "电影$20#电视剧$21#综艺$22#动漫$23#体育$25#纪录片$24"
       }
     },
     {
@@ -1976,41 +1886,7 @@
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$36",
         "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$24#纪录片$23#预告片$35国产剧$13#香港剧$14#韩国剧$15#欧美剧$16#台湾剧$20#日本剧$21#泰剧$34#其它剧$22大陆综艺$25#日韩综艺$26#港台综艺$27#欧美综艺$28国产动漫$29#日韩动漫$30#欧美动漫$31#其它动漫$32爽文短剧$37#女频恋爱$38#反转爽剧$39#古装仙侠$40#年代穿越$41#脑洞悬疑$42#现代都市$43"
       }
-    },
-    {
-      "key": "哈哈",
-      "name": "哈哈",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "主页url": "https://www.hahads.com/show/20-----------.html",
-        "跳转播放链接": "var player_*\"url\":\"&&\"",
-        "分类url": "https://www.hahads.com/show/20-{cateId}-------{catePg}---.html",
-        "分类": "大陆&香港&台湾&美国&法国&英国&日本&韩国&泰国&印度&西班牙&加拿大&俄罗斯&新加坡&其它",
-        "分类值": "*"
-      }
     },    
-    {
-      "key": "csp_XBPQ_私人",
-      "name": "私人",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "主页url": "https://www.siren93.com",
-        "分类url": "https://www.siren93.com/vodshow/{cateId}--{by}------{catePg}---{year}/",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-        "搜索url": "https://www.siren93.com/vodsearch/-------------.html?wd={wd}",
-        "筛选": "1",
-        "类型": "1--动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#战争片$11#剧情片$12#动画片$34#歌舞片$20#历史片$21#谍战片$22||2--国产剧$13#香港剧$14#欧美剧$15#日本剧$16#海外剧$23#台湾剧$24#韩国剧$25#泰国剧$26#灾难片$27#奇幻片$28#冒险片$29#犯罪片$30#惊悚片$31#传记片$32#悬疑片$33||3--综艺$3||4--动漫$4",
-        "年份": "2004-2024",
-        "排序": "时间排序$time#人气排序$hits#评分排序$score"
-      }
-    },
     {
       "key": "csp_XBPQ_极速",
       "name": "极速",
@@ -2064,19 +1940,6 @@
         "播放标题": ">&&<",
         "播放链接": "href=\"&&\"",
         "免嗅": "0"
-      }
-    },
-    {
-      "key": "csp_XBPQ_麻衣",
-      "name": "麻衣",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
-        "分类": "电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"
       }
     },
     {
@@ -2578,126 +2441,6 @@
       },
       "api": "https://api.ddapi.cc/api.php/provide/vod",
       "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="
-    },
-    {
-      "key": "PanSso",
-      "name": "盘他",
-      "type": 3,
-      "api": "csp_PanSso",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "YpanSo",
-      "name": "盘她",
-      "type": 3,
-      "api": "csp_YpanSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "xzso",
-      "name": "盘它",
-      "type": 3,
-      "api": "csp_Xzso",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "米搜",
-      "name": "米搜",
-      "type": 3,
-      "api": "csp_MIPanSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "夸搜",
-      "name": "夸搜",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "pan": "quark",
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "Aliso",
-      "name": "盘搜",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "YiSo",
-      "name": "易搜",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "push_agent",
-      "name": "推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "Bili",
-      "name": "哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "./json/bilibili.json"
-      }
     }        
   ],
   "parses": [
