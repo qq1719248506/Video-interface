@@ -18,6 +18,6 @@
   "搜索url": "https://xn--94qq85au3qyvbe13c.com/vodsearch/{wd}----------{pg}---.html",
   "搜索模式": "1",
   "嗅探词": ".m3u8#.mp4",
-  "分类url": "https://xn--94qq85au3qyvbe13c.com/movie-type-id-{cateId}-{area}-pg-{catePg}---{year}.html",
+  "分类url": "https://xn--94qq85au3qyvbe13c.com/movie-type-id-{cateId}-pg-{catePg}---{year}--{letter}--area-{area}-{lang}-.html",
   "分类": "电影$1#连续剧$2#综艺$3#动漫$4#伦理片$22"
 }
