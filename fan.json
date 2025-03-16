@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/fan.jar;md5;c6f980fd49540b9615167a79a44ffbc2",
+  "spider": "./jar/fang.jar;md5;ecfabfbdbf20070efc8b82e14d20c3c3",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -174,7 +174,6 @@
       "name": "木头",
       "type": 3,
       "api": "csp_Shark",
-      "jar": "./jar/Qj.jar;md5;78ca5c467dd82d0d7c8f2ed5dbb023b2",
       "playerType": 1,
       "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
     },
@@ -183,7 +182,6 @@
       "name": "永夜",
       "type": 3,
       "api": "csp_Muou",
-      "jar": "./jar/Qj.jar;md5;78ca5c467dd82d0d7c8f2ed5dbb023b2",
       "playerType": 2,
       "ext": "caHR0cDovL211b3UuNTZ1eGkuY29tfENvZmZlZTRLfDQuMS44"
     },
@@ -192,7 +190,6 @@
       "name": "星河",
       "type": 3,
       "api": "csp_Muou",
-      "jar": "./jar/Qj.jar;md5;78ca5c467dd82d0d7c8f2ed5dbb023b2",
       "playerType": 2,
       "ext": "caHR0cDovL21vdS5qcDU1LmNufOi/veW/huW9seinhnw0LjEuOQ=="
     },
@@ -201,7 +198,6 @@
       "name": "油条",
       "type": 3,
       "api": "csp_Muou",
-      "jar": "./jar/Qj.jar;md5;78ca5c467dd82d0d7c8f2ed5dbb023b2",
       "playerType": 2,
       "ext": "caHR0cDovL3UzYS50dHhnenMuY2585LyY5LyY5YWUfDQuMS45"
     },
@@ -210,7 +206,6 @@
       "name": "二三",
       "type": 3,
       "api": "csp_Muou",
-      "jar": "./jar/Qj.jar;md5;78ca5c467dd82d0d7c8f2ed5dbb023b2",
       "playerType": 2,
       "ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"
     },
@@ -219,7 +214,6 @@
       "name": "主角",
       "type": 3,
       "api": "csp_Muou",
-      "jar": "./jar/Qj.jar;md5;78ca5c467dd82d0d7c8f2ed5dbb023b2",
       "playerType": 2,
       "ext": "caHR0cHM6Ly9tdW91Lmxpbmd1dHYuY2586L+95Ymn5b2x6ZmifDQuMS44"
     },
@@ -228,7 +222,6 @@
       "name": "时常",
       "type": 3,
       "api": "csp_Xdai",
-      "jar": "./jar/Qj.jar;md5;78ca5c467dd82d0d7c8f2ed5dbb023b2",
       "playerType": 1,
       "ext": "jaHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMnwxMzQ="
     },
@@ -237,7 +230,6 @@
       "name": "雨滴",
       "type": 3,
       "api": "csp_Xdai",
-      "jar": "./jar/Qj.jar;md5;78ca5c467dd82d0d7c8f2ed5dbb023b2",
       "playerType": 1,
       "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="
     },
@@ -246,7 +238,6 @@
       "name": "现代",
       "type": 3,
       "api": "csp_Xdai",
-      "jar": "./jar/Qj.jar;md5;78ca5c467dd82d0d7c8f2ed5dbb023b2",
       "playerType": 1,
       "ext": "caHR0cHM6Ly94ZHlzLnZpcC9nZXRhcHAudHh0fHN6ZGp3ZGFwcHdjbm1kaGJ8c3pkandkYXBwd2NubWRoYnwxMTQ="
     },
@@ -255,7 +246,6 @@
       "name": "玉米",
       "type": 3,
       "api": "csp_Xdai",
-      "jar": "./jar/Qj.jar;md5;78ca5c467dd82d0d7c8f2ed5dbb023b2",
       "playerType": 1,
       "ext": "jaHR0cHM6Ly93d3cuempjLmFwcC98YWI0ZTlhNDIxNjc1ZjE0YnxhYjRlOWE0MjE2NzVmMTRifDQ0Mg=="
     },
@@ -264,7 +254,6 @@
       "name": "木叶",
       "type": 3,
       "api": "csp_Xdai",
-      "jar": "./jar/Qj.jar;md5;78ca5c467dd82d0d7c8f2ed5dbb023b2",
       "playerType": 2,
       "ext": "saHR0cDovLzExMy40NS4yNDMuMjMzL211eWUudHh0fFJ1TjlMUnZ3VFJncFFucEt8UnVOOUxSdndUUmdwUW5wS3w1NDc="
     },
@@ -273,7 +262,6 @@
       "name": "蝴蝶",
       "type": 3,
       "api": "csp_Hudie",
-      "jar": "./jar/Qj.jar;md5;78ca5c467dd82d0d7c8f2ed5dbb023b2",
       "playerType": 2,
       "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
     },
