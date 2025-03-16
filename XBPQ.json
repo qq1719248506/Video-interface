@@ -3,38 +3,48 @@
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
   "sites": [
     {
-      "key": "豆瓣",
-      "name": "豆瓣",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0
-    },    
+      "key":"豆瓣",
+      "name":"豆瓣",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":{
+        "首页":"正在热映",
+        "图片代理":"",
+        "分类url":"https://movie.douban.com/{cateId}/;;aRC",
+        "分类":"即将上映$cinema/later#正在热映$cinema/nowplaying",
+        "数组":"class=\"item mod &&</ul>||正在热映--class=\"list-item&&</ul>",
+        "图片":"src=\"&&\"",
+        "标题":"\"intro\">&&</a>",
+        "链接":"href=\"&&\"",
+        "副标题":"data-score=\"&&\"+class=\"release-date\">&&</li>",
+        "播放数组":"<li class=\"video&&</li>",
+        "播放列表":"<a&&</a>",
+        "播放标题":"alt=\"&&\"",
+        "播放链接":"https://m.douban.com+href=\"&&\""
+      }
+    },   
     {
-      "key": "吉吉短剧",
-      "name": "吉吉",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/吉吉.json"
-    },
-    {
-      "key": "酷影视",
-      "name": "酷影",
+      "key": "宝片影视",
+      "name": "宝片",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.tvkuys.xyz/api.php/app/"
+      "ext": "http://172.247.189.145:8989/mogai_api.php/v1.vod"
     },
     {
-      "key": "HG影视",
-      "name": "HG",
+      "key": "大米",
+      "name": "大米",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cs.hgyx.vip/api2/api.php/app/"
+      "ext": "https://www.dami678.shop//api.php/app/"
     },
     {
       "key": "1905电影网",
@@ -69,6 +79,13 @@
       "filterable": 1,
       "playerType": 2
     },
+    {
+      "key": "吉吉短剧",
+      "name": "吉吉",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/吉吉.json"
+    },    
     {
       "key": "海纳影视",
       "name": "海纳",
