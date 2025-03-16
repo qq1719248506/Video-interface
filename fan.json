@@ -323,6 +323,13 @@
       "ext": "./XBPQ/青蛙.json"
     },
     {
+      "key": "毒蛇",
+      "name": "毒蛇",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/毒蛇.json"
+    },    
+    {
       "key": "小枫",
       "name": "小枫",
       "type": 3,
