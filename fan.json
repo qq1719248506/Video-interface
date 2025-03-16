@@ -333,6 +333,36 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./XBPQ/青蛙.json"
+    },
+    {
+      "key": "小枫",
+      "name": "小枫",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://kekedy.icu/api.php/app/"
+    },
+    {
+      "key": "酷8",
+      "name": "酷吧",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://k8.8itv.cn//mogai_api.php/v1.vod"
+    },
+    {
+      "key": "私人",
+      "name": "私人",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://v.catcs.cc//api.php/v1.vod"
     },    
     {
       "key": "黑木耳资源",
