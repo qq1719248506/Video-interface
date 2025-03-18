@@ -140,15 +140,7 @@
       "name": "星辰",
       "type": 3,
       "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "影片类型": "",
-        "播放标题": ">&&<[不包含:1080P]",
-        "分类url": "https://citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
-        "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#短剧$duanju"
-      }
+      "ext": "./XBPQ/星辰.json"
     },	  
     {
       "key": "青蛙",
@@ -198,7 +190,28 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./XBPQ/雪糕.json"
-    },	  
+    },
+    {
+      "key": "即看",
+      "name": "即看",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/即看.json"
+    },
+    {
+      "key": "吃瓜",
+      "name": "吃瓜",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/吃瓜.json"
+    },
+    {
+      "key": "速影",
+      "name": "速影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/速影.json"
+    },    
     {
       "key": "巧技",
       "name": "巧技",
@@ -585,29 +598,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "即看",
-      "name": "即看",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/即看.json"
-    },
-    {
-      "key": "吃瓜",
-      "name": "吃瓜",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jar/XBPQA.jar",
-      "ext": "./XBPQ/吃瓜.json"
-    },
-    {
-      "key": "速影",
-      "name": "速影",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jar/XBPQA.jar",
-      "ext": "./XBPQ/速影.json"
     },    
     {
       "key": "金牌影视",
