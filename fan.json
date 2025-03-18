@@ -64,83 +64,6 @@
       "changeable": 0
     },
     {
-      "key": "抠搜",
-      "name": "抠搜",
-      "type": 3,
-      "api": "csp_KkSs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "UC",
-      "name": "优汐",
-      "type": 3,
-      "api": "csp_UuSs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto",
-        "pturl": "http://tv.91muou.icu/|http://54271.fun/"
-      }
-    },
-    {
-      "key": "原创",
-      "name": "原创",
-      "type": 3,
-      "api": "csp_YCyz",
-      "timeout": 15,
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "苹果",
-      "name": "苹果",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "厂长",
-      "name": "厂长",
-      "type": 3,
-      "api": "csp_NewCz",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czzyvideo.com/"
-    },
-    {
-      "key": "糯米",
-      "name": "糯米",
-      "type": 3,
-      "api": "csp_Nmyswv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "白白",
-      "name": "白白",
-      "type": 3,
-      "api": "csp_Sbaibai",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "神车",
       "name": "神车",
       "type": 3,
@@ -477,6 +400,56 @@
         "汽车",
         "短剧大全"
       ]            
+    },
+    {
+      "key": "原创",
+      "name": "原创",
+      "type": 3,
+      "api": "csp_YCyz",
+      "timeout": 15,
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "苹果",
+      "name": "苹果",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "厂长",
+      "name": "厂长",
+      "type": 3,
+      "api": "csp_NewCz",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.czzyvideo.com/"
+    },
+    {
+      "key": "糯米",
+      "name": "糯米",
+      "type": 3,
+      "api": "csp_Nmyswv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "白白",
+      "name": "白白",
+      "type": 3,
+      "api": "csp_Sbaibai",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },    
     {
       "key": "Lib",
@@ -696,6 +669,33 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"./XYQHiker/云盘.json"
+    },
+    {
+      "key": "抠搜",
+      "name": "抠搜",
+      "type": 3,
+      "api": "csp_KkSs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "UC",
+      "name": "优汐",
+      "type": 3,
+      "api": "csp_UuSs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto",
+        "pturl": "http://tv.91muou.icu/|http://54271.fun/"
+      }
     },    
     {
       "key": "PanSso",
