@@ -77,15 +77,6 @@
       "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
     },
     {
-      "key": "永夜",
-      "name": "永夜",
-      "type": 3,
-      "api": "csp_Xdai",
-      "jar": "./jar/Qj.jar;md5;78ca5c467dd82d0d7c8f2ed5dbb023b2",
-      "playerType": 2,
-      "ext": "caHR0cDovLzExMC40MC42NC4yMjU6ODk0NXxHOGt6QjF2WHdRcDlaN21GfEc4a3pCMXZYd1FwOVo3bUZ8MTAw"
-    },
-    {
       "key": "星河",
       "name": "星河",
       "type": 3,
@@ -120,15 +111,6 @@
       "jar": "./jar/Qj.jar;md5;78ca5c467dd82d0d7c8f2ed5dbb023b2",
       "playerType": 2,
       "ext": "caHR0cHM6Ly9tdW91Lmxpbmd1dHYuY2586L+95Ymn5b2x6ZmifDQuMS44"
-    },
-    {
-      "key": "时常",
-      "name": "时常",
-      "type": 3,
-      "api": "csp_Xdai",
-      "jar": "./jar/Qj.jar;md5;78ca5c467dd82d0d7c8f2ed5dbb023b2",
-      "playerType": 1,
-      "ext": "jaHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMnwxMzQ="
     },
     {
       "key": "雨滴",
