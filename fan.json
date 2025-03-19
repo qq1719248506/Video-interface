@@ -188,6 +188,17 @@
       }
     },
     {
+      "key": "瓜籽儿影院",
+      "name": "瓜籽",
+      "type":3,
+      "api":"csp_XBPQ",
+      "ext": {
+        "线路标题" :"[排序:GZ高清>IK超清]",
+        "分类url":"https://www.guaziys.com/Show/{cateId}-{class}-{by}------{catePg}---/",
+        "分类":"电视剧$2#电影$1#动漫$4#综艺$3"
+      }
+    },
+    {
       "key": "花姐影院",
       "name": "花姐",
       "type": 3,
