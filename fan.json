@@ -199,6 +199,20 @@
       }
     },
     {
+      "key": "白嫖影视",
+      "name": "白嫖",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "简介":"module-item-style video-text\">&&</div>",
+        "数组":"<a&&module-item-pic",
+        "副标题":"module-item-text\">&&</div>",
+        "播放数组":"module-blocklist\">&&</div></div>",
+        "分类url": "https://ys.51baipiao.net/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电视剧$2#电影$1#动漫$29#综艺$3"
+      }
+    },
+    {
       "key": "花姐影院",
       "name": "花姐",
       "type": 3,
