@@ -8,6 +8,8 @@ TVBOX接口在线解密：https://lige.chat/ua
 
 加密解密：http://www.sailtool.com/base64/
 
+在线解密工具：http://go2.work.gd/m3u
+
 文件md5在线计算：https://www.md5ma.com/md5-calculator
 
 OK版影视APP
