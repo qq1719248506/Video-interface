@@ -267,17 +267,51 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./XBPQ/优质.json"
-    },    
+    },
     {
-      "key": "小枫",
-      "name": "小枫",
+      "key": "星空影视",
+      "name": "星空",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "api": "./py/星空.py",
       "searchable": 1,
+      "changeable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://kekedy.icu/api.php/app/"
+      "playerType": 2
+    },    
+    {
+      "key": "火车影视",
+      "name": "火车",
+      "type": 3,
+      "api": "./py/火车.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
     },
+    {
+      "key": "美帕影视",
+      "name": "美帕",
+      "type": 3,
+      "api": "./py/美帕.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "嗨皮影视",
+      "name": "嗨皮",
+      "type": 3,
+      "api": "./py/嗨皮.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },    
     {
       "key": "酷8",
       "name": "酷吧",
