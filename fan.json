@@ -56,17 +56,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "rfOX1voDIQhH8epBwpmIsuSzrWqbloq80ygmO9WjCB9RMwhf/nZ7r/EzcL5d1Nw67mKKK4Je"
-    },
-    {
-      "key": "溢彩",
-      "name": "溢彩",
-      "type": 3,
-      "api": "csp_AppSK",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "rfOX1voDIQhH8epBwtCFsqytsyyZwsnimWFjKc+jS1xHcE9fpWU7oKJ1cO9Swdt5tnqCZsFHjiJz5HEyTr51QZvCqObdFjLuH/mEy+uqVyo="
+      "ext": "FbjPcVZY48PN/RIZ5QqOrsp1OZsTS9wQSSpQpK6jnh0fUMKIu22IxR6Z7/exDifuKH+Agjg9"
     },    
     {
       "key": "巧技",
@@ -75,7 +65,7 @@
       "api": "csp_qiao2",
       "jar": "./jar/fix250221.jar;md5;57fc499bf2e0e3fcdc1f5a86fbd2f1a3",
       "playerType": 2,
-      "ext": "./json/cksp.txt"
+      "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt"
     },    
     {
       "key": "木头",
@@ -90,10 +80,10 @@
       "key": "星河",
       "name": "星河",
       "type": 3,
-      "api": "csp_Xdai",
+      "api": "csp_Muou",
       "jar": "./jar/Qj.jar;md5;78ca5c467dd82d0d7c8f2ed5dbb023b2",
       "playerType": 2,
-      "ext": "caHR0cDovL3Rlbmd4dW55dW5hbGl5dW4ub3NzLWNuLXNoYW5naGFpLmFsaXl1bmNzLmNvbS90ZW5neHVueXVuLnR4dHxmNWUydHg1M3lrcDZzMmM5fGY1ZTJ0eDUzeWtwNnMyYzl8MzYx"
+      "ext": "caHR0cDovL2EubXVxaXhoLnRvcDo1NjIzfOW5leWQr+aYn+ays3w0LjEuOA=="
     },
     {
       "key": "油条",
@@ -270,6 +260,13 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./XBPQ/毒蛇.json"
+    },
+    {
+      "key": "优质",
+      "name": "优质",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/优质.json"
     },    
     {
       "key": "小枫",
