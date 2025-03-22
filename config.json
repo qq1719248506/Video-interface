@@ -196,13 +196,6 @@
       "ext": "./XBPQ/雪糕.json"
     },
     {
-      "key": "即看",
-      "name": "即看",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/即看.json"
-    },
-    {
       "key": "吃瓜",
       "name": "吃瓜",
       "type": 3,
