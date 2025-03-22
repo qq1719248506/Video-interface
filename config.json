@@ -129,6 +129,17 @@
       "playerType": 2
     },
     {
+      "key": "火车影视",
+      "name": "火车",
+      "type": 3,
+      "api": "./py/火车.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },    
+    {
       "key": "酷猫影视",
       "name": "酷猫",
       "type": 3,
