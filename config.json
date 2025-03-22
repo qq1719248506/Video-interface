@@ -145,13 +145,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./XBPQ/酷猫.json"
-    },
-    {
-      "key": "星辰影院",
-      "name": "星辰",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/星辰.json"
     },	  
     {
       "key": "青蛙",
