@@ -278,6 +278,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2
+    },
+    {
+      "key": "悠悠影视",
+      "name": "悠悠",
+      "type": 3,
+      "api": "./py/悠悠.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
     },    
     {
       "key": "美帕影视",
