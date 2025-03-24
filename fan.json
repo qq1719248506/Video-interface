@@ -113,6 +113,15 @@
       "ext": "caHR0cHM6Ly9tdW91Lmxpbmd1dHYuY2586L+95Ymn5b2x6ZmifDQuMS44"
     },
     {
+      "key": "龙虾",
+      "name": "龙虾",
+      "type": 3,
+      "api": "csp_Xdai",
+      "jar": "./jar/Qj.jar;md5;78ca5c467dd82d0d7c8f2ed5dbb023b2",
+      "playerType": 1,
+      "ext": "jaHR0cDovL3BweC5iangzNjUudG9wfHBpcGl4aWEyMTc1MjIzMjR8cGlwaXhpYTIxNzUyMjMyNHw1MDY="
+    },    
+    {
       "key": "雨滴",
       "name": "雨滴",
       "type": 3,
