@@ -266,6 +266,14 @@
       "ext":"caHR0cHM6Ly9tdW91Lmxpbmd1dHYuY2586L+95Ymn5b2x6ZmifDQuMS44"
     },
     {
+      "key": "龙虾",
+      "name": "龙虾",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "jaHR0cDovL3BweC5iangzNjUudG9wfHBpcGl4aWEyMTc1MjIzMjR8cGlwaXhpYTIxNzUyMjMyNHw1MDY="
+    },     
+    {
       "key": "时常",
       "name": "时常",
       "type": 3,
