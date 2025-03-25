@@ -208,6 +208,22 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./XBPQ/速影.json"
+    },
+    {
+      "key": "即看",
+      "name": "即看",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "发布页": "https://www.5280.fun/",
+        "主页url": "https://www.jkv.app/",
+        "副标题": "xszxj text_right\">&&</span>",
+        "搜索url": "/search/-------------.html?wd={wd}&submit=",
+        "简介": "content_desc context clearfix\">&&</span>",
+        "嗅探词": "cdn.zui.cm:2022#svip.m3u8#ppsm3u8.com#.m3u8#cdn.zui.cm:2022#.mp4#mp4?#ixigua#.czspp#.flv#.mp3#.m4a#?item/video#is_play_url=1#play/?#qianpailive",
+        "分类url": "https://www.jkv.app/show/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+        "分类": "国产剧$13#电影$1#剧集$2#综艺$3#动漫$4#"
+      }
     },    
     {
       "key": "巧技",
