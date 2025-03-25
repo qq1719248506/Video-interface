@@ -291,7 +291,6 @@ https://haikuo.lanzouf.com/u/GoldRiver
 
 9，修改genJar.bat文件，在复制smail文件时，将上一步的文件夹复制进去，达到缝合目的
 
-bash
 @echo off
 del "%~dp0\custom_spider.jar"
 java -jar "%~dp0\3rd\baksmali-2.5.2.jar" d "%~dp0\..\app\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex" -o "%~dp0\Smali_classes"
@@ -303,13 +302,13 @@ if not exist "%~dp0\spider.jar\smali\com\github\catvod\" md "%~dp0\spider.jar\sm
 move "%~dp0\Smali_classes\com\github\catvod\spider" "%~dp0\spider.jar\smali\com\github\catvod\"
 move "%~dp0\Smali_classes\com\github\catvod\parser" "%~dp0\spider.jar\smali\com\github\catvod\"
 move "%~dp0\Smali_classes\com\github\catvod\js" "%~dp0\spider.jar\smali\com\github\catvod\"
-
-
+ 
+ 
 xcopy /s "%~dp0\3rd\xbpq\spider\" "%~dp0\spider.jar\smali\com\github\catvod\spider"
 if not exist "%~dp0\spider.jar\smali\com\github\catvod\parser\" md "%~dp0\spider.jar\smali\com\github\catvod\parser\"
 xcopy /s "%~dp0\3rd\xbpq\parser\" "%~dp0\spider.jar\smali\com\github\catvod\parser"
-
-
+ 
+ 
 java -jar "%~dp0\3rd\apktool_2.4.1.jar" b "%~dp0\spider.jar" -c
 move "%~dp0\spider.jar\dist\dex.jar" "%~dp0\custom_spider.jar"
 certUtil -hashfile "%~dp0\custom_spider.jar" MD5 | find /i /v "md5" | find /i /v "certutil" > "%~dp0\custom_spider.jar.md5"
@@ -317,6 +316,7 @@ rd /s/q "%~dp0\spider.jar\build"
 rd /s/q "%~dp0\spider.jar\smali"
 rd /s/q "%~dp0\spider.jar\dist"
 rd /s/q "%~dp0\Smali_classes"
+
 上述文件新增了两个xcopy的命令，就是两个空行之间的代码。
 
 10，运行build.bat打包，打包过程与原打包相同。
