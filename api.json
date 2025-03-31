@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;d6c57e91166ce9a0af13dfc1f352d22b",
+  "spider": "./jar/custom_spider.jar",
   "lives": [
     {
       "name": "直播一线",
@@ -344,14 +344,6 @@
       "filterable": 1
     },
     {
-      "key": "QiLeSo",
-      "name": "线路5待修复",
-      "type": 3,
-      "api": "csp_QiLeSo",
-      "searchable": 1,
-      "timeout": 3
-    },
-    {
       "key": "lzzy",
       "name": "量子🎦采集",
       "type": 1,
@@ -510,6 +502,14 @@
       "ext": " {\"site\":\"https://ddys.info/\"}"
     },
     {
+      "key": "QiLeSo",
+      "name": "奇乐搜┃搜索",
+      "type": 3,
+      "api": "csp_QiLeSo",
+      "searchable": 1,
+      "timeout": 30
+    },    
+    {
       "key": "YunPanBa",
       "name": "云盘🐢网盘",
       "type": 3,
@@ -517,6 +517,14 @@
       "searchable": 1,
       "timeout": 3
     },
+    {
+      "key": "TianYiSo",
+      "name": "天翼┃搜索",
+      "type": 3,
+      "api": "csp_TianYiSo",
+      "searchable": 1,
+      "timeout": 30
+    },    
     {
       "key": "PanSearch",
       "name": "盘搜🐢搜索",
