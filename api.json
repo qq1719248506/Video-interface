@@ -1,5 +1,5 @@
 {
-  "spider": "http://xn--oev29b.top/files/custom_spider.jar;md5;d6c57e91166ce9a0af13dfc1f352d22b",
+  "spider": "./jar/custom_spider.jar;md5;d6c57e91166ce9a0af13dfc1f352d22b",
   "lives": [
     {
       "name": "直播一线",
@@ -20,8 +20,8 @@
   ],
   "sites": [
     {
-      "key": "Notice",
-      "name": "进群享受更多",
+      "key": "豆瓣",
+      "name": "豆瓣",
       "type": 3,
       "api": "csp_Douban",
       "ext": {}
@@ -344,86 +344,12 @@
       "filterable": 1
     },
     {
-      "key": "🚑9",
-      "name": "线路4待修复",
-      "type": 3,
-      "api": "csp_FirstAid",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "QiLeSo",
       "name": "线路5待修复",
       "type": 3,
       "api": "csp_QiLeSo",
       "searchable": 1,
       "timeout": 3
-    },
-    {
-      "key": "奇珍🐢道长",
-      "name": "奇异🐢影视",
-      "type": 3,
-      "api": "https://gitee.com/fengdoudev/tv/raw/master/js/mb/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://gitee.com/fengdoudev/tv/raw/master/js/奇珍异兽[官].js"
-    },
-    {
-      "key": "36-道长",
-      "name": "36🐢影视",
-      "type": 3,
-      "api": "https://gitee.com/fengdoudev/tv/raw/master/js/mb/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://gitee.com/fengdoudev/tv/raw/master/js/360影视[官].js"
-    },
-    {
-      "key": "采购-道长",
-      "name": "菜狗🐢影视",
-      "type": 3,
-      "api": "https://gitee.com/fengdoudev/tv/raw/master/js/mb/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://gitee.com/fengdoudev/tv/raw/master/js/菜狗[官].js"
-    },
-    {
-      "key": "优酷-道长",
-      "name": "酷优🐢影视",
-      "type": 3,
-      "api": "https://gitee.com/fengdoudev/tv/raw/master/js/mb/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://gitee.com/fengdoudev/tv/raw/master/js/优酷[官].js"
-    },
-    {
-      "key": "腾云-道长",
-      "name": "腾云🐢影视",
-      "type": 3,
-      "api": "https://gitee.com/fengdoudev/tv/raw/master/js/mb/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://gitee.com/fengdoudev/tv/raw/master/js/腾云驾雾[官].js"
-    },
-    {
-      "key": "忙无果-道长",
-      "name": "果忙🐢影视",
-      "type": 3,
-      "api": "https://gitee.com/fengdoudev/tv/raw/master/js/mb/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://gitee.com/fengdoudev/tv/raw/master/js/百忙无果[官].js"
     },
     {
       "key": "lzzy",
