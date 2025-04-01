@@ -226,7 +226,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/wogg.json"
+      "ext": "./json/wogg.json?"
     },
     {
       "key": "木偶",
@@ -236,13 +236,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/mogg.json"
+      "ext": "./json/mogg.json?"
     },
     {
       "key": "蜡笔",
       "name": "蜡笔",
       "type": 3,
-      "api": "csp_PanWebShare",
+      "api": "csp_PanWebShare?",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -258,7 +258,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/xm.json"
+      "ext": "./json/xm.json?"
     },
     {
       "key": "至臻",
@@ -269,7 +269,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/zz.json"
+      "ext": "./json/zz.json?"
     },
     {
       "key": "多多",
@@ -280,7 +280,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/yyds.json"
+      "ext": "./json/yyds.json?"
     },
     {
       "key": "欧哥",
@@ -291,7 +291,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/og.json"
+      "ext": "./json/og.json?"
     },
     {
       "key": "二小",
@@ -302,7 +302,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/ex.json"
+      "ext": "./json/ex.json?"
     },
     {
       "key": "百家",
@@ -324,7 +324,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/dawo.json"
+      "ext": "./json/dawo.json?"
     },
     {
       "key": "虎斑",
@@ -335,7 +335,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/hb.json"
+      "ext": "./json/hb.json?"
     },
     {
       "key": "闪电",
@@ -346,7 +346,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/sd.json"
+      "ext": "./json/sd.json?"
     },
     {
       "key": "下饭",
@@ -357,7 +357,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/xf.json"
+      "ext": "./json/xf.json?"
     },
     {
       "key": "团长",
@@ -382,7 +382,7 @@
         "type": "rect",
         "ratio": 1.433
       },
-      "ext": "./json/lj.json"
+      "ext": "./json/lj.json?"
     },
     {
       "key": "概念",
@@ -397,7 +397,7 @@
         "type": "rect",
         "ratio": 1.433
       },
-      "ext": "./json/hm.json"
+      "ext": "./json/hm.json?"
     },
     {
       "key": "Pan1",
@@ -412,7 +412,7 @@
         "type": "rect",
         "ratio": 1.433
       },
-      "ext": "./json/pan1.json"
+      "ext": "./json/pan1.json?"
     },
     {
       "key": "趣盘",
