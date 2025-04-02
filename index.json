@@ -1612,35 +1612,6 @@
   ],
   "parses": [
     {
-      "name": "夏夜",
-      "type": "1",
-      "url": "http://8.155.50.80/xiaye.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
-    {
       "name": "羊羊",
       "type": 1,
       "url": "http://117.50.184.199:94/api.php/?key=1&url=",
