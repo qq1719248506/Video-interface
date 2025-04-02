@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/spider4.2.1.jar",
+  "spider": "./jar/spider4.2.2.jar",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
   "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
   "sites": [
@@ -984,36 +984,8 @@
       "name": "即看",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": {
-        "发布页": "https://www.5280.fun/",
-        "主页url": "https://www.jkv.app/",
-	"数组": "lazyload&&</a>",
-	"直接播放": "0",
-	"图片": "data-background-image=\"&&\"",
-	"标题": "title=\"&&\"",
-	"链接": "href=\"&&\"",
-	"链接前缀": "",
-        "链接后缀": "",
-	"搜索数组": "lazyload&&</a>",
-	"搜索图片": "data-background-image=\"&&\"",
-	"搜索标题": "title=\"&&\"",
-	"搜索链接": "href=\"&&\"",
-	"搜索副标题": "xszxj text_right\">&&</span>",
-	"影片类型": "类型：&&</li>",
-	"影片年代": "年份：&&</a>",
-	"影片地区": "地区：&&</a>",
-	"影片状态": "状态：&&</li>",
-	"导演": "导演：&&</li>",
-	"主演": "主演：&&</li>",
-	"简介": "content_desc context clearfix\">&&</span>",        
-        "副标题": "xszxj text_right\">&&</span>",
-        "搜索url": "/search/-------------.html?wd={wd}&submit=",
-        "简介": "content_desc context clearfix\">&&</span>",
-        "嗅探词": "cdn.zui.cm:2022#svip.m3u8#ppsm3u8.com#.m3u8#cdn.zui.cm:2022#.mp4#mp4?#ixigua#.czspp#.flv#.mp3#.m4a#?item/video#is_play_url=1#play/?#qianpailive",
-        "分类url": "https://www.jkv.app/show/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-        "分类": "国产剧$13#电影$1#剧集$2#综艺$3#动漫$4#"
-      }
-    },
+      "ext": "./XBPQ/即看.json"
+    }, 
     {
       "key": "一起影视",
       "name": "一起",
