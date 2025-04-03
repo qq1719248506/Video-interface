@@ -1,4 +1,0 @@
-﻿###
-1905a,http://A/ku9/js/1905.js?id=1905a
-1905b,http://A/ku9/js/1905.js?id=1905b
-cctv6,http://A/ku9/js/1905.js?id=cctv6
