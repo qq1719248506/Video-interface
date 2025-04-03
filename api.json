@@ -478,6 +478,17 @@
       "filterable": 1
     },
     {
+      "key": "csp_恋鱼",
+      "name": "恋鱼",
+      "type": 3,
+      "api": "./py/恋鱼.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1
+    },    
+    {
       "key": "csp_映播",
       "name": "映播",
       "type": 3,
