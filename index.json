@@ -2141,7 +2141,14 @@
       "ua": "okhttp/3.15,AptvPlayer/1.4.0",
       "timeout": 10,
       "playerType": 2
-    }
+    },
+    {
+      "name": "TV资源",
+      "type": 0,
+      "url": "./json/tv资源.txt",
+      "playerType": 2,
+      "timeout": 10
+    }    
   ],
   "hosts": [
     "cache.ott.*.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
