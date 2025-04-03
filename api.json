@@ -4,18 +4,16 @@
   "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
   "sites": [
     {
-      "key": "豆瓣",
+      "key": "hipy_js_豆瓣[官]",
       "name": "豆瓣",
       "type": 3,
-      "api": "csp_DouBan",
-      "searchable": 0
-    },
-    {
-      "key": "本地",
-      "name": "本地",
-      "type": 3,
-      "api": "csp_Local"
-    },
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/豆瓣.js"
+    },    
     {
       "key": "配置中心",
       "name": "配置",
@@ -148,23 +146,16 @@
       "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw5rDqsKjwpPCncKjwqfDmcOsw57Dn8KbwpRewqbDosOjwqHCpcKaWnvClcKpwqDCrcKawqDDnMKYZWNkwrHDl8Ogw5vCqsKWY8KTYsKxwqbCocKlwppaecKmV8KzwpPCocKuw6BoZGRpw53Dl8Krwq3CrWRjYmHCsMKawqbCmcKhdcKRwp7Cm8OHw5TDsMKgwrRTV+ecpOaTncKgwp/CmsKgw4rClMKiwqPClcOOw6XDpsKgwrRTV8KYwqTDrcOjw63Cs8KpYsKRwqDCoMOvwqTCqMOfw6zCmMKVwpjClMKnw6nDo8OpwqnCncKjwp/CnsKnw6PDosOpwrnCqMKiwpxtwqDCn8KawqDCvsKUwp59wqXDjsOlw6bCoMK0U1fCmMKkw63Do8OtwrPCqWLClMKdXsOvw5zDnsOzwqjClMKjwpnCkcKow5fDp8Okw69ib8KRwpPCtsOXw6fCn8OuwqLCm8KVwp7CtsOEw4PDhcK8dnh6dsOMwr/DkcOPw4B4e8KCVsOuw6XDpsK2wqFfUFfClMOew5bDrMOyw6rCp3vClcKpwqDCrcKawqDDscKowqnCmWbCr8KpwqHDtg=="
     },
     {
-      "key": "哔哩合集",
+      "key": "hipy_js_我的哔哩[官]1",
       "name": "哔哩",
       "type": 3,
-      "api": "csp_AmuBiliV2",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "./json/哔哩合集.json",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
-      }
-    },
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 1,
+      "ext": "./js/我的哔哩[官].js?type=url&params=../json/哔哩大全.json"
+    },    
     {
       "key": "抖音",
       "name": "抖音",
@@ -179,7 +170,7 @@
       "name": "阿里",
       "type": 3,
       "api": "csp_PanAli",
-      "searchable": 0,
+      "searchable": 1,
       "filterable": 0,
       "changeable": 0,
       "style": {
@@ -193,7 +184,7 @@
       "name": "夸克",
       "type": 3,
       "api": "csp_PanQuark",
-      "searchable": 0,
+      "searchable": 1,
       "filterable": 0,
       "changeable": 0,
       "style": {
@@ -207,7 +198,7 @@
       "name": "UC",
       "type": 3,
       "api": "csp_PanUc",
-      "searchable": 0,
+      "searchable": 1,
       "filterable": 0,
       "changeable": 0,
       "style": {
@@ -221,7 +212,7 @@
       "name": "百度",
       "type": 3,
       "api": "csp_PanBaiDu",
-      "searchable": 0,
+      "searchable": 1,
       "filterable": 0,
       "changeable": 0,
       "style": {
@@ -721,17 +712,6 @@
       "filterable": 1
     },
     {
-      "key": "八号影视",
-      "name": "八号",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "jar": "./jar/XYQHiker.jar;md5;85909954c2b4dcb6e707121835f97354",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XYQHiker/八号.json"
-    },
-    {
       "key": "盒子影视",
       "name": "盒子",
       "type": 3,
@@ -765,17 +745,6 @@
       "ext": "./XYQHiker/看看.json"
     },
     {
-      "key": "七新影视",
-      "name": "七新",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "jar": "./jar/XYQHiker.jar;md5;85909954c2b4dcb6e707121835f97354",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XYQHiker/七新.json"
-    },
-    {
       "key": "骚火影视",
       "name": "骚火",
       "type": 3,
@@ -787,16 +756,16 @@
       "ext": "./XYQHiker/骚火.json"
     },
     {
-      "key": "盘搜索",
+      "key": "hipy_js_盘搜",
       "name": "盘搜",
       "type": 3,
-      "api": "csp_XYQHikerAL",
-      "jar": "./jar/XYQHiker.jar;md5;85909954c2b4dcb6e707121835f97354",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XYQHiker/盘搜.json"
-    },    
+      "order_num": 0,
+      "ext": "./js/盘搜.js"
+    },        
     {
       "key": "红牛资源",
       "name": "红牛",
