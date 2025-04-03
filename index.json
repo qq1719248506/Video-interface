@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/spider.txt;md5;",
+  "spider": "./jar/spider.txt;md5;88022362aa18d847a9453ed9e92ba9ed",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
   "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
   "sites": [
@@ -425,10 +425,10 @@
       "quickSearch": 1
     },
     {
-      "key": "爱看短剧",
-      "name": "爱看",
+      "key": "云端",
+      "name": "云端",
       "type": 3,
-      "api": "./py/短剧.py",
+      "api": "./py/云端.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -436,10 +436,21 @@
       "playerType": 2
     },
     {
-      "key": "csp_酷云",
-      "name": "酷云",
+      "key": "云速",
+      "name": "云速",
       "type": 3,
-      "api": "./py/酷云.py",
+      "api": "./py/云速.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },    
+    {
+      "key": "csp_恋鱼",
+      "name": "恋鱼",
+      "type": 3,
+      "api": "./py/恋鱼.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -501,6 +512,28 @@
       "filterable": 1,
       "playerType": 2
     },
+    {
+      "key": "推特APP",
+      "name": "推特",
+      "type": 3,
+      "api": "./py/推特APP.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "小红薯APP",
+      "name": "红薯",
+      "type": 3,
+      "api": "./py/小红薯APP.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },     
     {
       "key": "巧技",
       "name": "巧技",
