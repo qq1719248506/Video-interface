@@ -511,28 +511,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2
-    },
-    {
-      "key": "推特APP",
-      "name": "推特",
-      "type": 3,
-      "api": "./py/推特APP.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "小红薯APP",
-      "name": "红薯",
-      "type": 3,
-      "api": "./py/小红薯APP.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
     },     
     {
       "key": "巧技",
