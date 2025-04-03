@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/spider.txt",
+  "spider": "./jar/spider.txt;md5;",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
   "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
   "sites": [
@@ -1025,16 +1025,6 @@
       "filterable": 1
     },
     {
-      "key": "八号影视",
-      "name": "八号",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XYQHiker/八号.json"
-    },
-    {
       "key": "盒子影视",
       "name": "盒子",
       "type": 3,
@@ -1045,16 +1035,6 @@
       "ext": "./XYQHiker/盒子.json"
     },
     {
-      "key": "九八影视",
-      "name": "酒吧",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XYQHiker/酒吧.json"
-    },
-    {
       "key": "看看影视",
       "name": "看看",
       "type": 3,
@@ -1063,16 +1043,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./XYQHiker/看看.json"
-    },
-    {
-      "key": "七新影视",
-      "name": "七新",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XYQHiker/七新.json"
     },
     {
       "key": "骚火影视",
