@@ -76,6 +76,50 @@
       "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
     },
     {
+      "key": "奇趣影视",
+      "name": "奇趣",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "影片类型": "",
+        "播放标题": ">&&<[不包含:1080P]",
+        "分类url": "https://www.qqutv.com/qqys/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
+        "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#短剧$duanju"
+      }
+    },
+    {
+      "key":"喝茶",
+      "name":"喝茶",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable": 1,
+      "ext":{
+        "播放标题":"📹+>&&</a>",
+        "播放链接":"http://www.mskg.cc/vplay/+/vplay/&&.html+.html",
+        "线路数组":"{&&}[替换:线路>>喝茶]",
+        "分类url":" http://www.mskg.cc/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "分类":"电视剧&电影&综艺&动漫",
+        "分类值":"2&1&3&4"
+      }
+    },
+    {
+      "key": "优质",
+      "name": "优质",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/优质.json"
+    },
+    {
+      "key": "酷猫影视",
+      "name": "酷猫",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/酷猫.json"
+    },    
+    {
       "key": "csp_Lgyy",
       "name": "流光",
       "type": 3,
