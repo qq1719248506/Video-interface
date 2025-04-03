@@ -151,7 +151,7 @@
       "key": "哔哩合集",
       "name": "哔哩",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "csp_AmuBiliV2",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -165,6 +165,15 @@
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       }
     },
+    {
+      "key": "抖音",
+      "name": "抖音",
+      "type": 3,
+      "api": "csp_AmuDouYin",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },    
     {
       "key": "阿里云盘",
       "name": "阿里",
