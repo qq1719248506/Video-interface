@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/spider.txt;md5;796bb6225c141f541a78992457ef6279",
+  "spider": "./jar/spider.txt;md5;857486ac0290d4442429e997ff5e1351",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
   "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
   "sites": [
@@ -88,7 +88,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }      
     },
     {
       "key": "天天影视",
@@ -98,7 +100,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
+      "ext": {
+        "url": "http://tt.ysdqjs.cn"
+      }       
     },
     {
       "key": "浪酷影视",
@@ -108,7 +112,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"
+       "ext": {
+        "url": "http://v.lkuys.cn"
+      }      
     },
     {
       "key": "三六零",
