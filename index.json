@@ -1116,6 +1116,7 @@
       "name": "速播",
       "type": 1,
       "api": "https://subocaiji.com/api.php/provide/vod",
+      "playUrl": "https://subojiexi.com/play/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "categories": []
@@ -1125,6 +1126,7 @@
       "name": "蜂巢",
       "type": 1,
       "api": "https://api.fczy888.me/api.php/provide/vod/",
+      "playUrl": "https://jiexi.fczy888.vip/m3u8/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "categories": []
