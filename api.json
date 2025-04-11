@@ -374,6 +374,28 @@
       "filterable": 0
     },
     {
+      "key": "国外剧",
+      "name": "外剧",
+      "type": 3,
+      "api": "./py/外剧.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "小红影视",
+      "name": "小红",
+      "type": 3,
+      "api": "./py/小红.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
       "key": "绝对影视",
       "name": "绝对",
       "type": 3,
@@ -383,7 +405,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2
-    },
+    },    
     {
       "key": "边缘影视",
       "name": "边缘",
