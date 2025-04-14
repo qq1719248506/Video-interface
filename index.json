@@ -1460,34 +1460,6 @@
       "ext": "./XBPQ/哆啦.json"
     },
     {
-      "key": "曼波动漫",
-      "name": "曼波",
-      "type": 3,
-      "api": "csp_Xdai",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "jaHR0cHM6Ly9hcHAub21vZnVuMS50b3AvYXBpLnBocHw2NmRjMzA5Y2JlZWNhNDU0fDY2ZGMzMDljYmVlY2E0NTR8MTAw"
-    },
-    {
-      "key": "稀饭动漫",
-      "name": "稀饭",
-      "type": 3,
-      "api": "csp_Xdai",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "jaHR0cHM6Ly94ZmFwcC0xMzA1MzkwMDY1LmNvcy5hcC1ndWFuZ3pob3UubXlxY2xvdWQuY29tL2dldGFwcC50eHR8MXlaMlNwbjlrcm56VktvQ3wxeVoyU3BuOWtybnpWS29DfDEwMA=="
-    },
-    {
-      "key": "咕咕动漫",
-      "name": "咕咕",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 1,
-      "ext": "jaHR0cHM6Ly93d3cuZ3VndTMuY29tfG5LZlo4S1g2SlROV1J6VER8bktmWjhLWDZKVE5XUnpURHw0MDE="
-    },
-    {
       "key": "修罗影视",
       "name": "修罗",
       "type": 3,
@@ -1994,6 +1966,13 @@
       "timeout": 10,
       "playerType": 2
     },
+    {
+      "name": "湾湾资源",
+      "type": 0,
+      "url": "./json/湾湾.txt",
+      "playerType": 2,
+      "timeout": 10
+    },    
     {
       "name": "TV资源",
       "type": 0,
