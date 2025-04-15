@@ -33,15 +33,6 @@
       "filterable": 0
     },
     {
-      "key": "抖音",
-      "name": "抖音",
-      "type": 3,
-      "api": "csp_AmuDouYin",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "梨园春",
       "name": "戏曲",
       "type": 3,
