@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/spider.jar;md5;af880135bcbf1fd7b65b63ad521a01c5",
+  "spider": "./jar/spider.jar;md5;08f5682c35c837845c430f55ff8bbcd6",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
   "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
   "sites": [
@@ -316,7 +316,7 @@
       "key": "Pan1",
       "name": "Pan1",
       "type": 3,
-      "api": "csp_PanWebShareCloudHM",
+      "api": "csp_PanWebShareCloud123",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -339,7 +339,9 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw7DDscKqXsKhwqXDqcOUw6jDrMOiwphewpPCn8OmwprCpsKZwqHCp8KZwqBXwrPCk8Khw5Tlh7/phJvmj5XlkJNc5Yel5L6K5ZGxwrPlv6vop7notbTmu4DnrInDlsKawqbCmcKhwpfClcKTwqLDssOjw67DhMOfwqxXalDCoMOqw6/DssOjaWZmV8O2"
+      "ext": {
+        "url": "https://www.qupanshe.com"
+      }
     },
     {
       "key": "聚搜",
@@ -355,6 +357,18 @@
       },
       "ext": "./json/aliyunpansearch.json"
     },
+    {
+      "key": "盘库",
+      "name": "盘库",
+      "type": 3,
+      "api": "csp_PanWebKuBa",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": {
+        "url": "https://panku8.com"
+      }
+    },    
     {
       "key": "星芽短剧",
       "name": "星芽",
@@ -372,6 +386,20 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
+    },
+    {
+      "key": "金牌",
+      "name": "金牌",
+      "type": 3,
+      "api": "./py/金牌.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "ext": {
+        "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
+      }
     },
     {
       "key": "国外剧",
@@ -637,6 +665,14 @@
       "playerType": 1,
       "ext": "jaHR0cDovLzE1NC4xMi45MS4yMTE6NjY4fDEyMzQ1Njc4OUFCQ0RFRkd8MTIzNDU2Nzg5QUJDREVGR3wxMDY="
     },
+    {
+      "key": "人人",
+      "name": "人人",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "jaHR0cHM6Ly9zdmlwMS5mdW58bGFvZGllc2Rhd3Nzd2FzZHxsYW9kaWVzZGF3c3N3YXNkfDI5OGU1ZmUyOWM3NGIzNWFhYmI5ODM2ZWUyZjZmNDQ5ZnwxMDU="
+    },    
     {
       "key": "格格",
       "name": "格格",
