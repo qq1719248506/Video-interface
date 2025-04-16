@@ -407,15 +407,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "花都",
-      "name": "花都",
-      "type": 3,
-      "api": "./py/花都.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },    
     {
       "key": "国外剧",
