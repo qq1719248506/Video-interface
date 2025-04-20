@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/spider.jar;md5;cf4c705bfd60d82c1761995f97279ca4",
+  "spider": "./jar/spider.jar;md5;a9edc77b65fdba8da8d6af08aeaf0d74",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
   "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
   "sites": [
@@ -318,6 +318,21 @@
       },
       "ext": "./json/pan1.json?"
     },
+    {
+      "key": "夸父",
+      "name": "夸父",
+      "type": 3,
+      "api": "csp_PanWebShareCloudKF",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "style": {
+        "type": "list",
+        "ratio": 1.433
+      },
+      "ext": "./json/kf.json"
+    },    
     {
       "key": "趣盘",
       "name": "趣盘",
