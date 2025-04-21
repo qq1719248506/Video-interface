@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/spider.jar;md5;e76c9a3c70ac890677875b52dd36bc29",
+  "spider": "./jar/spider.jar",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
   "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
   "sites": [
