@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;ce205b9034e614faab21f16dda9a3fc4",
+  "spider": "./jar/custom_spider.jar;md5;3071cacc4cfa0fd32579882e5bd3f8b7",
   "lives": [
     {
       "name": "电视直播",
