@@ -801,6 +801,33 @@
       "ext": "https://v.wetv.wang"
     },
     {
+      "key": "攻阁影视",
+      "name": "攻阁",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Lggys"
+    },
+    {
+      "key": "鸭梨影视",
+      "name": "鸭梨",
+      "type": 3,
+      "api": "csp_KmeiJu"
+    },
+    {
+      "key": "绝对影视",
+      "name": "绝对",
+      "type": 3,
+      "api": "csp_FourK",
+      "ext": "https://www.4kvm.tv"
+    },
+    {
+      "key": "白白影视",
+      "name": "白白",
+      "type": 3,
+      "api": "csp_SuBaiBai",
+      "ext": "https://www.subaibai.com"
+    },    
+    {
       "key": "低端影视",
       "name": "低端",
       "type": 3,
