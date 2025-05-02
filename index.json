@@ -815,6 +815,13 @@
       "ext": "https://www.subaibai.com"
     },
     {
+      "key": "流光影视",
+      "name": "️流光",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_FreeOk"
+    },    
+    {
       "key": "低端影视",
       "name": "低端",
       "type": 3,
