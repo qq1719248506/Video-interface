@@ -610,6 +610,17 @@
       "filterable": 0
     },
     {
+      "key": "柯南影视",
+      "name": "柯南",
+      "type": 3,
+      "api": "./py/柯南.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },    
+    {
       "key": "河马短剧",
       "name": "河马",
       "type": 3,
