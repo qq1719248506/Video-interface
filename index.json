@@ -611,7 +611,7 @@
       "key": "双星",
       "name": "双星",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./lib/cloud.min.js",
       "ext": "./js/双星.js",
       "style": {
         "type": "list"
