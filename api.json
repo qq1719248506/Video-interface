@@ -736,7 +736,7 @@
     },
     {
       "key": "猎手影视",
-      "name": "猎手｜影视",
+      "name": "猎手",
       "type": 3,
       "api": "./py/猎手.py",
       "searchable": 1,
