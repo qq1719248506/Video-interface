@@ -736,7 +736,7 @@
     },
     {
       "key": "猎手影视",
-      "name": "猎手｜影视",
+      "name": "猎手",
       "type": 3,
       "api": "./py/猎手.py",
       "searchable": 1,
@@ -1103,34 +1103,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "武享吧",
-      "name": "拳皇",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/拳皇.js"
-    }, 
-    {
-      "key": "思古影视",
-      "name": "思古",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/思古.js"
-    },
-    {
-      "key": "魔力高清",
-      "name": "魔力",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/魔力.js"
-    },
-    {
-      "key": "碟调影视",
-      "name": "碟调",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/碟调.js"
     },
     {
       "key": "八号影视",
