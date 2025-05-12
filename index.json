@@ -700,10 +700,21 @@
       "filterable": 0
     },
     {
+      "key": "海马",
+      "name": "海马",
+      "type": 3,
+      "api": "./py/海马.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },    
+    {
       "key": "河马短剧",
       "name": "河马",
       "type": 3,
-      "api": "./lib/河马.py",
+      "api": "./py/河马.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -714,7 +725,7 @@
       "key": "偷乐短剧",
       "name": "偷乐",
       "type": 3,
-      "api": "./lib/偷乐.py",
+      "api": "./py/偷乐.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
