@@ -31,6 +31,13 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
+    },
+    {
+      "key": "武享吧",
+      "name": "UFC",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/武吧.js"
     },    
     {
       "key": "热播影视",
@@ -738,7 +745,7 @@
       "key": "双星",
       "name": "双星",
       "type": 3,
-      "api": "./lib/cloud.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./js/双星.js",
       "style": {
         "type": "list"
