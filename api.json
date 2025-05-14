@@ -24,6 +24,15 @@
       }
     },
     {
+      "key": "1905",
+      "name": "1905",
+      "type": 3,
+      "api": "csp_Web1905",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },    
+    {
       "key": "热播影视",
       "name": "热播",
       "type": 3,
@@ -424,41 +433,32 @@
       }
     },
     {
-      "key": "哔哩视频",
-      "name": "哔哩｜视频",
-      "type": 3,
-      "api": "./lib/哔哩视频.py",
-      "ext": {
-        "json": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
-      }
-    },
-    {
       "key": "腾讯视频",
       "name": "腾讯",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/腾讯.js"
+      "ext": "./js/腾讯.js"
     },
     {
       "key": "优酷视频",
       "name": "优酷",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/优酷.js"
+      "ext": "./js/优酷.js"
     },
     {
       "key": "芒果视频",
       "name": "芒果",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/芒果.js"
+      "ext": "./js/芒果.js"
     },
     {
       "key": "爱奇艺",
-      "name": "爱奇异",
+      "name": "奇异",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/爱奇艺.js"
+      "ext": "./js/奇艺.js"
     },
     {
       "key": "哔哩合集",
@@ -474,7 +474,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "./lib/哔哩合集.json",
+        "json": "./json/哔哩合集.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       }
     },
@@ -486,7 +486,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/wogg.json"
+      "ext": "./json/wogg.json"
     },
     {
       "key": "木偶",
@@ -496,7 +496,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/mogg.json"
+      "ext": "./json/mogg.json"
     },
     {
       "key": "蜡笔",
@@ -507,7 +507,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./lib/lb.json"
+      "ext": "./json/lb.json"
     },
     {
       "key": "至臻",
@@ -518,7 +518,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./lib/zz.json"
+      "ext": "./json/zz.json"
     },
     {
       "key": "多多",
@@ -529,7 +529,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./lib/yyds.json"
+      "ext": "./json/yyds.json"
     },
     {
       "key": "欧哥",
@@ -540,7 +540,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./lib/og.json"
+      "ext": "./json/og.json"
     },
     {
       "key": "二小",
@@ -551,7 +551,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./lib/ex.json"
+      "ext": "./json/ex.json"
     },
     {
       "key": "百家",
@@ -562,7 +562,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./lib/bj.json"
+      "ext": "./json/bj.json"
     },
     {
       "key": "大玩",
@@ -573,7 +573,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./lib/dawo.json"
+      "ext": "./json/dawo.json"
     },
     {
       "key": "虎斑",
@@ -584,7 +584,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./lib/hb.json"
+      "ext": "./json/hb.json"
     },
     {
       "key": "闪电",
@@ -595,7 +595,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./lib/sd.json"
+      "ext": "./json/sd.json"
     },
     {
       "key": "下饭",
@@ -606,7 +606,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./lib/xf.json"
+      "ext": "./json/xf.json"
     },
     {
       "key": "奥秘",
@@ -617,7 +617,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./lib/am.json"
+      "ext": "./json/am.json"
     },
     {
       "key": "团长",
@@ -642,7 +642,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "./lib/lj.json"
+      "ext": "./json/lj.json"
     },
     {
       "key": "海绵",
@@ -657,7 +657,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "./lib/hm.json"
+      "ext": "./json/hm.json"
     },
     {
       "key": "Pan1",
@@ -672,7 +672,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "./lib/pan1.json"
+      "ext": "./json/pan1.json"
     },
     {
       "key": "夸父",
@@ -687,7 +687,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "./lib/kf.json"
+      "ext": "./json/kf.json"
     },
     {
       "key": "趣盘",
@@ -719,7 +719,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "./lib/aliyunpansearch.json"
+      "ext": "./json/aliyunpansearch.json"
     },
     {
       "key": "盘库",
@@ -739,7 +739,7 @@
       "name": "双星",
       "type": 3,
       "api": "./lib/cloud.min.js",
-      "ext": "./lib/双星.js",
+      "ext": "./js/双星.js",
       "style": {
         "type": "list"
       }
@@ -757,7 +757,7 @@
       "key": "河马短剧",
       "name": "河马",
       "type": 3,
-      "api": "./lib/河马.py",
+      "api": "./py/河马.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -768,7 +768,7 @@
       "key": "偷乐短剧",
       "name": "偷乐",
       "type": 3,
-      "api": "./lib/偷乐.py",
+      "api": "./py/偷乐.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -779,7 +779,7 @@
       "key": "爱看短剧",
       "name": "爱看",
       "type": 3,
-      "api": "./lib/爱看.py",
+      "api": "./py/爱看.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -790,7 +790,7 @@
       "key": "金牌影视",
       "name": "金牌",
       "type": 3,
-      "api": "./lib/金牌.py",
+      "api": "./py/金牌.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -803,7 +803,7 @@
       "key": "猎手影视",
       "name": "猎手",
       "type": 3,
-      "api": "./lib/猎手.py",
+      "api": "./py/猎手.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -814,7 +814,7 @@
       "key": "美帕影视",
       "name": "美帕",
       "type": 3,
-      "api": "./lib/美帕.py",
+      "api": "./py/美帕.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -825,7 +825,7 @@
       "key": "嗨皮影视",
       "name": "嗨皮",
       "type": 3,
-      "api": "./lib/嗨皮.py",
+      "api": "./py/嗨皮.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -975,7 +975,7 @@
       "name": "采集",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/采集之王.js?type=url&params=../json/采集静态.json$1$1"
+      "ext": "./js/采集之王.js?type=url&params=../json/采集静态.json$1$1"
     },
     {
       "key": "爱看机器人",
@@ -987,53 +987,68 @@
       "filterable": 1
     },
     {
+      "key": "奇趣影视",
+      "name": "奇趣",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "影片类型": "",
+        "播放标题": ">&&<",
+        "分类url": "https://www.qqutv.com/qqys/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
+        "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#短剧$duanju"
+      }
+    },    
+    {
       "key": "七七影视",
       "name": "七七",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./lib/七七.json"
+      "ext": "./XBPQ/七七.json"
     },
     {
       "key": "可可影视",
       "name": "可可",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./lib/可可.json"
+      "ext": "./XBPQ/可可.json"
     },
     {
       "key": "海纳影视",
       "name": "海纳",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./lib/海纳.json"
+      "ext": "./XBPQ/海纳.json"
     },
     {
       "key": "面包影视",
       "name": "面包",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./lib/面包.json"
+      "ext": "./XBPQ/面包.json"
     },
     {
       "key": "永乐影视",
       "name": "永乐",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./lib/永乐.json"
+      "ext": "./XBPQ/永乐.json"
     },
     {
       "key": "雪糕影视",
       "name": "雪糕",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./lib/雪糕.json"
+      "ext": "./XBPQ/雪糕.json"
     },
     {
       "key": "流光影视",
       "name": "流光",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./lib/流光.json"
+      "ext": "./XBPQ/流光.json"
     },
     {
       "key": "一起影视",
@@ -1072,7 +1087,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/八号.json"
+      "ext": "./XYQHiker/八号.json"
     },
     {
       "key": "盒子影视",
@@ -1082,7 +1097,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/盒子.json"
+      "ext": "./XYQHiker/盒子.json"
     },
     {
       "key": "骚火影视",
@@ -1092,16 +1107,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/骚火.json"
-    },
-    {
-      "key": "1905",
-      "name": "1905",
-      "type": 3,
-      "api": "csp_Web1905",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
+      "ext": "./XYQHiker/骚火.json"
     },
     {
       "key": "光速资源",
@@ -1277,7 +1283,7 @@
       "style": {
         "type": "list"
       },
-      "ext": "./lib/哆啦.json"
+      "ext": "./XBPQ/哆啦.json"
     },
     {
       "key": "曼波动漫",
@@ -1340,14 +1346,14 @@
       "name": "樱花",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./lib/樱花.json"
+      "ext": "./XBPQ/樱花.json"
     },
     {
       "key": "动画片",
-      "name": "动画片｜动漫",
+      "name": "动画片",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/动画片.js"
+      "ext": "./js/动画片.js"
     },
     {
       "key": "狐狸君",
@@ -1358,7 +1364,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/狐狸.json"
+      "ext": "./XBPQ/狐狸.json"
     },
     {
       "key": "阿里云盘",
@@ -1372,7 +1378,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "./lib/aliShare.json"
+      "ext": "./json/aliShare.json"
     },
     {
       "key": "夸克云盘",
@@ -1386,7 +1392,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "./lib/quarkShare.json"
+      "ext": "./json/quarkShare.json"
     },
     {
       "key": "UC",
@@ -1400,7 +1406,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "./lib/ucShare.json"
+      "ext": "./json/ucShare.json"
     },
     {
       "key": "百度云盘",
@@ -1426,7 +1432,7 @@
       "style": {
         "type": "list"
       },
-      "ext": "./lib/alist.json"
+      "ext": "./json/alist.json"
     },
     {
       "key": "88看球",
@@ -1451,16 +1457,6 @@
         "ratio": 3.8
       },
       "gridview": "0-0-4.1"
-    },
-    {
-      "key": "版本信息",
-      "name": "版本",
-      "type": 3,
-      "api": "csp_Market",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "ext": "./lib/single.json"
     },
     {
       "key": "push_agent",
