@@ -3,7 +3,7 @@ var rule = {
     title: '思古影视',
     host: 'https://siguyy.cn',
     url: '/show/fyclass--------fypage---/',
-    searchUrl: '/search/**----------fypage---/',
+    searchUrl: 'https://siguyy.cn/search/-------------/?wd=**',
     searchable: 2,
     quickSearch: 0,
     timeout: 5000,
