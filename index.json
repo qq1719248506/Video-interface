@@ -992,6 +992,13 @@
       "ext": "./XBPQ/七七.json"
     },
     {
+      "key": "火车太堵",
+      "name": "火车",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/火车.json"
+    },    
+    {
       "key": "可可影视",
       "name": "可可",
       "type": 3,
@@ -1580,54 +1587,22 @@
     {
       "name": "AI直播",
       "type": 0,
-      "url": "./lib/user_result.txt",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "timeout": 10
     },
     {
       "name": "Guovin",
       "type": 0,
-      "url": "./lib/result.m3u",
+      "url": "https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "timeout": 10
     },
     {
       "name": "咪咕直播",
       "type": 0,
-      "url": "./lib/migu.m3u",
+      "url": "https://yun.urldwz.com/f/Q6y3ca/migu.m3u",
       "timeout": 10
-    },
-    {
-      "name": "虎牙一起看",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "url": "./lib/huyayqk.m3u",
-      "timeout": 10,
-      "ua": "okhttp/3.15"
-    },
-    {
-      "name": "斗鱼一起看",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "url": "./lib/douyuyqk.m3u",
-      "timeout": 10,
-      "ua": "okhttp/3.15"
-    },
-    {
-      "name": "YY轮播",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "url": "./lib/yylunbo.m3u",
-      "timeout": 10,
-      "ua": "okhttp/3.15"
-    },
-    {
-      "name": "B站直播",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "url": "./lib/bilibili.m3u",
-      "timeout": 10,
-      "ua": "okhttp/3.15"
     },
     {
       "name": "电视Live",
@@ -1646,13 +1621,19 @@
     {
       "name": "范明明",
       "type": 0,
-      "url": "./lib/ipv6.m3u",
+      "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
       "timeout": 10
     },
     {
+      "name": "tv资源",
+      "type": 0,
+      "url": "./json/tv资源.txt",
+      "timeout": 10
+    },    
+    {
       "name": "APTV",
       "type": 0,
-      "url": "./lib/iptv.m3u",
+      "url": "https://gh-proxy.com/https://github.com/Kimentanm/aptv/raw/master/m3u/iptv.m3u",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.iill.top/logo/{name}.png",
       "ua": "okhttp/3.15,AptvPlayer/1.4.0",
