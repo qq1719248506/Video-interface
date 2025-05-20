@@ -1027,18 +1027,11 @@
       "ext": "./XBPQ/雪糕.json"
     },
     {
-      "key": "速影",
-      "name": "速影",
+      "key": "小鸭",
+      "name": "小鸭",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./XBPQ/速影.json"
-    },
-    {
-      "key": "即看",
-      "name": "即看",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/即看.json"
+      "ext": "./XBPQ/小鸭.json"
     },
     {
       "key": "一起影视",
