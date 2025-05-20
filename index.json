@@ -717,16 +717,6 @@
       }
     },
     {
-      "key": "双星",
-      "name": "双星",
-      "type": 3,
-      "api": "./lib/cloud.min.js",
-      "ext": "./js/双星.js",
-      "style": {
-        "type": "list"
-      }
-    },
-    {
       "key": "星芽短剧",
       "name": "星芽",
       "type": 3,
@@ -808,17 +798,6 @@
       "name": "嗨皮",
       "type": 3,
       "api": "./py/嗨皮.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "火车",
-      "name": "火车",
-      "type": 3,
-      "api": "./py/火车.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -1370,15 +1349,6 @@
         "ratio": 3.8
       },
       "gridview": "0-0-4.1"
-    },
-    {
-      "key": "鸡坤资源",
-      "name": "花生",
-      "type": 1,
-      "api": "https://jkunzyapi.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 0
     },    
     {
       "key": "push_agent",
