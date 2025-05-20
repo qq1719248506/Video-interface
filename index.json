@@ -130,34 +130,6 @@
       }
     },
     {
-      "key": "牛马",
-      "name": "牛马",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://nm.xxxc137.top",
-        "dataKey": "a006661b01bdebbd",
-        "dataIv": "a006661b01bdebbd",
-        "deviceId": "",
-        "version": ""
-      }
-    },
-    {
-      "key": "鲶鱼",
-      "name": "鲶鱼",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://47.122.22.78",
-        "dataKey": "1234567890123456",
-        "dataIv": "1234567890123456",
-        "deviceId": "",
-        "version": "119"
-      }
-    },
-    {
       "key": "橘子",
       "name": "橘子",
       "type": 3,
@@ -225,20 +197,6 @@
         "dataIv": "apiapplbyskey168",
         "deviceId": "",
         "version": "107"
-      }
-    },
-    {
-      "key": "木叶",
-      "name": "木叶",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://46.203.125.54:2663",
-        "dataKey": "RuN9LRvwTRgpQnpK",
-        "dataIv": "RuN9LRvwTRgpQnpK",
-        "deviceId": "",
-        "version": "547"
       }
     },
     {
@@ -382,20 +340,6 @@
       }
     },
     {
-      "key": "鲨鱼",
-      "name": "鲨鱼",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://cms.wlbbq.xyz",
-        "dataKey": "sdev15rwsa96fsde",
-        "dataIv": "sdev15rwsa96fsde",
-        "deviceId": "",
-        "version": "102"
-      }
-    },
-    {
       "key": "驿站",
       "name": "驿站",
       "type": 3,
@@ -406,19 +350,6 @@
         "dataKey": "d7378557d1d9c924",
         "dataIv": "fb4594f622f34fea",
         "jxurl": "https://qqiqiyiyoukumgtvapiappdyyztvjsoni8n2o0z1ws2n7b6v3x8.68.gy:56789"
-      }
-    },
-    {
-      "key": "主角",
-      "name": "主角",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppMuou",
-      "ext": {
-        "url": "https://vodapp.feiwang.cc",
-        "dataKey": "25f9e794323b4538",
-        "dataIv": "25f9e794323b4538",
-        "jxurl": "https://vod.feiwang.cc"
       }
     },
     {
