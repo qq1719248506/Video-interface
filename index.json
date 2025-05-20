@@ -1372,6 +1372,15 @@
       "gridview": "0-0-4.1"
     },
     {
+      "key": "鸡坤资源",
+      "name": "花生",
+      "type": 1,
+      "api": "https://jkunzyapi.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 0
+    },    
+    {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
