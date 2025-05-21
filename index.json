@@ -663,7 +663,7 @@
     },
     {
       "key": "懒盘",
-      "name": "懒盘｜4K弹幕",
+      "name": "懒盘",
       "type": 3,
       "api": "./lib/cloud.min.js",
       "ext": "./js/懒盘.js",
