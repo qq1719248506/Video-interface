@@ -130,6 +130,20 @@
       }
     },
     {
+      "key": "诺雪",
+      "name": "诺雪",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://appcms.rx4k.top",
+        "dataKey": "LiGFzV6csf21zsu6",
+        "dataIv": "LiGFzV6csf21zsu6",
+        "deviceId": "",
+        "version": ""
+      }
+    },    
+    {
       "key": "橘子",
       "name": "橘子",
       "type": 3,
@@ -339,6 +353,20 @@
         "version": ""
       }
     },
+    {
+      "key": "鲨鱼",
+      "name": "鲨鱼",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://cms.wlbbq.xyz",
+        "dataKey": "sdev15rwsa96fsde",
+        "dataIv": "sdev15rwsa96fsde",
+        "deviceId": "",
+        "version": "102"
+      }
+    },    
     {
       "key": "驿站",
       "name": "驿站",
@@ -648,6 +676,16 @@
       }
     },
     {
+      "key": "懒盘",
+      "name": "懒盘｜4K弹幕",
+      "type": 3,
+      "api": "./lib/cloud.min.js",
+      "ext": "./js/懒盘.js",
+      "style": {
+          "type": "list"
+      }
+    },    
+    {
       "key": "星芽短剧",
       "name": "星芽",
       "type": 3,
@@ -713,6 +751,15 @@
       "filterable": 1,
       "playerType": 2
     },
+    {
+      "key": "火车",
+      "name": "火车",
+      "type": 3,
+      "api": "./py/火车.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },    
     {
       "key": "美帕影视",
       "name": "美帕",
@@ -1321,6 +1368,21 @@
         }
       }
     },
+    {
+      "name": "巧计",
+      "type": 1,
+      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
+    },
+    {
+      "name": "欧歌",
+      "type": "1",
+      "url": "https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=0&url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
+        }
+      }
+    },    
     {
       "name": "QD4K",
       "type": 1,
