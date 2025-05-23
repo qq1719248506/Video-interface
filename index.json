@@ -1005,6 +1005,13 @@
       "ext": "./XBPQ/小鸭.json"
     },
     {
+      "key": "速影",
+      "name": "速影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/速影.json"
+    },    
+    {
       "key": "一起影视",
       "name": "一起",
       "type": 3,
