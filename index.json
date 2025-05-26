@@ -1360,6 +1360,14 @@
         "ratio": 3.8
       },
       "gridview": "0-0-4.1"
+    },
+    {
+      "key": "豆豆",
+      "name": "豆豆",
+      "type": 1,
+      "api": "https://caiji.dbzy.tv/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1
     },    
     {
       "key": "push_agent",
