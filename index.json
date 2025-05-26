@@ -214,6 +214,20 @@
       }
     },
     {
+      "key": "木叶",
+      "name": "木叶",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://46.203.125.54:2663",
+        "dataKey": "RuN9LRvwTRgpQnpK",
+        "dataIv": "RuN9LRvwTRgpQnpK",
+        "deviceId": "",
+        "version": "547"
+      }
+    },    
+    {
       "key": "米兔",
       "name": "米兔",
       "type": 3,
@@ -284,20 +298,6 @@
       }
     },
     {
-      "key": "晴天",
-      "name": "晴天",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://appcms.sun4k.top",
-        "dataKey": "b025dcd9c289cbb3",
-        "dataIv": "b025dcd9c289cbb3",
-        "deviceId": "",
-        "version": ""
-      }
-    },
-    {
       "key": "在看",
       "name": "在看",
       "type": 3,
@@ -352,6 +352,33 @@
         "deviceId": "",
         "version": ""
       }
+    },
+    {
+      "key": "鲨鱼",
+      "name": "鲨鱼",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://cms.wlbbq.xyz",
+        "dataKey": "sdev15rwsa96fsde",
+        "dataIv": "sdev15rwsa96fsde",
+        "deviceId": "",
+        "version": "102"
+      }
+    },    
+    {
+      "key": "趣看",
+      "name": "趣看",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppMuou",
+      "ext": {
+        "url": "https://xjuzi.top",
+        "dataKey": "6a482a70b80eefc9",
+        "dataIv": "c995826a3e86fedd",
+        "jxurl": "https://www.ququkan.cc"
+      }
     },    
     {
       "key": "驿站",
@@ -366,6 +393,19 @@
         "jxurl": "https://qqiqiyiyoukumgtvapiappdyyztvjsoni8n2o0z1ws2n7b6v3x8.68.gy:56789"
       }
     },
+    {
+      "key": "主角",
+      "name": "主角",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppMuou",
+      "ext": {
+        "url": "https://vodapp.feiwang.cc",
+        "dataKey": "25f9e794323b4538",
+        "dataIv": "25f9e794323b4538",
+        "jxurl": "https://vod.feiwang.cc"
+     }
+    },    
     {
       "key": "永夜",
       "name": "永夜",
@@ -670,6 +710,13 @@
       "style": {
           "type": "list"
       }
+    },
+    {
+      "key": "小慧影视",
+      "name": "小慧",
+      "type": 1,
+      "api": "http://cms.xiaohui.cyou:1002/api.php/provide/vod/?ac=list",
+      "playUrl": "json:http://xiaohui.cyou:1000/api/?key=7ee73e22b404453adc116a403a32e9c8&url="
     },    
     {
       "key": "星芽短剧",
