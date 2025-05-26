@@ -783,15 +783,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2
-    },
-    {
-      "key": "火车",
-      "name": "火车",
-      "type": 3,
-      "api": "./py/火车.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },    
     {
       "key": "美帕影视",
