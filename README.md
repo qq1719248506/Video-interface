@@ -2,13 +2,26 @@
 
 TVBOX/影视接口解密 https://tools.v1.mk/
 
-TVBOX接口在线解密：https://lige.chat/ua
-
 加密接口解析提取: https://www.xn--sss604efuw.com/jm/ 
 
 加密解密：http://www.sailtool.com/base64/
 
 文件md5在线计算：https://www.md5ma.com/md5-calculator
+
+「OK影视」
+链接：https://pan.quark.cn/s/98112b510599
+「TVBox」
+链接：https://pan.quark.cn/s/1b3f61b2ce03
+「蜂蜜影视」
+链接：https://pan.quark.cn/s/f82e0b821ca3
+「影视仓」
+链接：https://pan.quark.cn/s/9a2e6f812b44
+「Easybox」
+链接：https://pan.quark.cn/s/e6fed8d4a909
+「宝盒」
+链接：https://pan.quark.cn/s/f59fa5a65305
+「ios专用」uz、ibox、tbox、猫爪
+链接：https://pan.quark.cn/s/0078d671d1e6
 
 XBPQ写源教程
 
