@@ -1003,21 +1003,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./XBPQ/七七.json"
-    },
-    {
-      "key": "火车太堵",
-      "name": "火车",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/火车.json"
     },    
-    {
-      "key": "可可影视",
-      "name": "可可",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/可可.json"
-    },
     {
       "key": "海纳影视",
       "name": "海纳",
