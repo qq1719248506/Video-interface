@@ -24,6 +24,15 @@
       }
     },
     {
+      "key": "1905",
+      "name": "1905",
+      "type": 3,
+      "api": "csp_Web1905",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },    
+    {
       "key": "热播影视",
       "name": "热播",
       "type": 3,
@@ -69,14 +78,6 @@
         "dataKey": "be5348dfb0c3c283",
         "dataIv": "5f5449dd14313217"
       }
-    },
-    {
-      "key": "移动",
-      "name": "移动",
-      "type": 3,
-      "api": "csp_YD",
-      "searchable": 1,
-      "quickSearch": 1
     },
     {
       "key": "仓鼠",
@@ -747,7 +748,7 @@
     },
     {
       "key": "爱搜Quark",
-      "name": "爱Quark",
+      "name": "Quark",
       "type": 3,
       "api": "./lib/cloud.min.js",
       "ext": "./js/爱搜Quark.js",
@@ -757,7 +758,7 @@
     },
     {
       "key": "爱搜Baidu",
-      "name": "爱Baidu",
+      "name": "Baidu",
       "type": 3,
       "api": "./lib/cloud.min.js",
       "ext": "./js/爱搜Baidu.js",
@@ -830,6 +831,17 @@
       "filterable": 1,
       "playerType": 2
     },
+    {
+      "key": "火车影视",
+      "name": "火车",
+      "type": 3,
+      "api": "./py/火车.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },    
     {
       "key": "美帕影视",
       "name": "美帕",
@@ -1045,7 +1057,7 @@
     },
     {
       "key": "永乐影视",
-      "name": "永乐｜影视",
+      "name": "永乐",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./XBPQ/永乐.json"
@@ -1114,15 +1126,6 @@
       "ext": "./XYQHiker/盒子.json"
     },
     {
-      "key": "1905",
-      "name": "1905",
-      "type": 3,
-      "api": "csp_Web1905",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
       "key": "哆啦新番社",
       "name": "哆啦",
       "type": 3,
@@ -1188,6 +1191,14 @@
         "version": ""
       }
     },
+    {
+      "key": "移动",
+      "name": "移动",
+      "type": 3,
+      "api": "csp_YD",
+      "searchable": 1,
+      "quickSearch": 1
+    },    
     {
       "key": "阿里云盘",
       "name": "阿里",
@@ -1631,7 +1642,7 @@
     {
       "name": "AI直播",
       "type": 0,
-      "url": "./lib/user_result.txt",
+      "url": "https://github.3x25.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1,
       "timeout": 10
@@ -1639,39 +1650,21 @@
     {
       "name": "Guovin",
       "type": 0,
-      "url": "./lib/result.m3u",
+      "url": "https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "timeout": 10
     },
     {
-      "name": "虎牙一起看",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "url": "./lib/huyayqk.m3u",
-      "timeout": 10,
-      "ua": "okhttp/3.15"
-    },
+      "name": "咪咕",
+      "type": 0,
+      "url": "https://yun.urldwz.com/f/Q6y3ca/migu.m3u",
+      "timeout": 10
+    },    
     {
-      "name": "斗鱼一起看",
+      "name": "斗鱼",
       "type": 3,
       "api": "csp_Feiyang",
-      "url": "./lib/douyuyqk.m3u",
-      "timeout": 10,
-      "ua": "okhttp/3.15"
-    },
-    {
-      "name": "YY轮播",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "url": "./lib/yylunbo.m3u",
-      "timeout": 10,
-      "ua": "okhttp/3.15"
-    },
-    {
-      "name": "B站直播",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "url": "./lib/bilibili.m3u",
+      "url": "https://yun.urldwz.com/f/NR9qiA/douyuyqk.m3u",
       "timeout": 10,
       "ua": "okhttp/3.15"
     },
@@ -1690,15 +1683,22 @@
       "timeout": 10
     },
     {
+      "name": "tv资源",
+      "type": 0,
+      "url": "./json/tv资源.txt",
+      "playerType": 2,
+      "timeout": 10
+    },    
+    {
       "name": "范明明",
       "type": 0,
-      "url": "./lib/ipv6.m3u",
+      "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
       "timeout": 10
     },
     {
       "name": "APTV",
       "type": 0,
-      "url": "./lib/iptv.m3u",
+      "url": "https://github.3x25.com/https://github.com/Kimentanm/aptv/raw/master/m3u/iptv.m3u",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.iill.top/logo/{name}.png",
       "ua": "okhttp/3.15,AptvPlayer/1.4.0",
