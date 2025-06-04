@@ -24,15 +24,6 @@
       }
     },
     {
-      "key": "1905",
-      "name": "1905",
-      "type": 3,
-      "api": "csp_Web1905",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
       "key": "热播影视",
       "name": "热播",
       "type": 3,
@@ -80,6 +71,13 @@
       }
     },
     {
+      "key": "移动",
+      "name": "移动",
+      "type": 3,
+      "api": "csp_YD",
+      "searchable": 1,
+      "quickSearch": 1
+    },
     {
       "key": "仓鼠",
       "name": "仓鼠",
@@ -809,36 +807,6 @@
       "playerType": 2
     },
     {
-      "key": "猪猪",
-      "name": "猪猪",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://172.83.156.150:1010/api.php/app/"
-    },
-    {
-      "key": "乐看",
-      "name": "乐看",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://lkvlog.cn//api.php/v1.vod"
-    },
-    {
-      "key": "酷乐",
-      "name": "酷乐",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.kuloo.xyz/mogai_api.php/v1.vod"
-    },
-    {
       "key": "金牌影视",
       "name": "金牌",
       "type": 3,
@@ -863,21 +831,10 @@
       "playerType": 2
     },
     {
-      "key": "火车影视",
-      "name": "火车",
-      "type": 3,
-      "api": "./py/火车.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
       "key": "美帕影视",
       "name": "美帕",
       "type": 3,
-      "api": "./火车/美帕.py",
+      "api": "./py/美帕.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -1066,18 +1023,18 @@
       "ext": "./XBPQ/七七.json"
     },
     {
-      "key": "即看影视",
-      "name": "即看",
+      "key": "可可影视",
+      "name": "可可",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./XBPQ/即看.json"
+      "ext": "./XBPQ/可可.json"
     },
     {
       "key": "海纳影视",
       "name": "海纳",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./XBPQ/海纳.json"
+      "ext": "./js/海纳.json"
     },
     {
       "key": "面包影视",
@@ -1088,7 +1045,7 @@
     },
     {
       "key": "永乐影视",
-      "name": "永乐",
+      "name": "永乐｜影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./XBPQ/永乐.json"
@@ -1144,7 +1101,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XYQHiker/八号.json"
+      "ext": "./XYQHiker/八号影视.json"
     },
     {
       "key": "盒子影视",
@@ -1155,6 +1112,15 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./XYQHiker/盒子.json"
+    },
+    {
+      "key": "1905",
+      "name": "1905",
+      "type": 3,
+      "api": "csp_Web1905",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
     },
     {
       "key": "哆啦新番社",
@@ -1223,14 +1189,6 @@
       }
     },
     {
-      "key": "移动",
-      "name": "移动",
-      "type": 3,
-      "api": "csp_YD",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
       "key": "阿里云盘",
       "name": "阿里",
       "type": 3,
@@ -1242,7 +1200,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "./json/aliShare.json"
+      "ext": "./lib/aliShare.json"
     },
     {
       "key": "夸克云盘",
@@ -1328,7 +1286,7 @@
     },
     {
       "key": "哔哩哔哩演唱会",
-      "name": "哔哩",
+      "name": "音乐",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1345,7 +1303,7 @@
     },
     {
       "key": "哔哩哔哩听书",
-      "name": "哔哩",
+      "name": "听书",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
