@@ -150,6 +150,104 @@
       }
     },
     {
+      "key": "超前",
+      "name": "超前",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://app.ystva.com",
+        "dataKey": "A1akVPQmnnE4Fz9Z",
+        "dataIv": "A1akVPQmnnE4Fz9Z",
+        "deviceId": "2112fc5eac600314ba95c4d65da9286b3",
+        "version": "134"
+      }
+    },
+    {
+      "key": "剧咖",
+      "name": "剧咖",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://ys.xiaoqi0.cn",
+        "dataKey": "jukayingshi88888",
+        "dataIv": "jukayingshi88888",
+        "deviceId": "20d9b2c01d130342a99fdc8d693bfc0cd",
+        "version": "112"
+      }
+    },
+    {
+      "key": "恋鱼",
+      "name": "恋鱼",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://14.103.245.78",
+        "dataKey": "2234567890123456",
+        "dataIv": "2234567890123456",
+        "deviceId": "",
+        "version": "119"
+      }
+    },
+    {
+      "key": "开心",
+      "name": "开心",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://tv.31hl.cn",
+        "dataKey": "2268331221bobobo",
+        "dataIv": "2268331221bobobo",
+        "deviceId": "",
+        "version": ""
+      }
+    },
+    {
+      "key": "豆豆",
+      "name": "豆豆",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://110.42.7.59:9427",
+        "dataKey": "xasdasdqwertyuio",
+        "dataIv": "xasdasdqwertyuio",
+        "deviceId": "",
+        "version": "304"
+      }
+    },
+    {
+      "key": "淘气",
+      "name": "淘气",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://api.heiykj.cn",
+        "dataKey": "4990488248904884",
+        "dataIv": "4990488248904884",
+        "deviceId": "",
+        "version": "119"
+      }
+    },
+    {
+      "key": "瓜萌",
+      "name": "瓜萌",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://www.guahd.com",
+        "dataKey": "f2A7D4B9E8C16531",
+        "dataIv": "f2A7D4B9E8C16531",
+        "deviceId": "",
+        "version": ""
+      }
+    },    
+    {
       "key": "乐乐",
       "name": "乐乐",
       "type": 3,
