@@ -905,6 +905,16 @@
       }
     },
     {
+      "key": "聚搜",
+      "name": "聚搜",
+      "type": 3,
+      "api": "csp_PanWebSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },    
+    {
       "key": "双星",
       "name": "双星",
       "type": 3,
@@ -925,15 +935,35 @@
       }
     },
     {
-      "key": "聚搜",
-      "name": "聚搜",
+      "key": "爱搜UC",
+      "name": "爱UC",
       "type": 3,
-      "api": "csp_PanWebSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
+      "api": "./lib/cloud.min.js",
+      "ext": "./js/爱搜UC.js",
+      "style": {
+        "type": "list"
+      }
     },
+    {
+      "key": "爱搜Quark",
+      "name": "爱Quark",
+      "type": 3,
+      "api": "./lib/cloud.min.js",
+      "ext": "./js/爱搜Quark.js",
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "爱搜Baidu",
+      "name": "爱Baidu",
+      "type": 3,
+      "api": "./lib/cloud.min.js",
+      "ext": "./js/爱搜Baidu.js",
+      "style": {
+        "type": "list"
+      }
+    },    
     {
       "key": "米搜",
       "name": "米搜",
@@ -960,36 +990,6 @@
       "type": 3,
       "api": "./lib/cloud.min.js",
       "ext": "./js/全盘.js",
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "爱搜UC",
-      "name": "爱UC",
-      "type": 3,
-      "api": "./lib/cloud.min.js",
-      "ext": "./js/爱搜UC.js",
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "爱搜Quark",
-      "name": "Quark",
-      "type": 3,
-      "api": "./lib/cloud.min.js",
-      "ext": "./js/爱搜Quark.js",
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "爱搜Baidu",
-      "name": "Baidu",
-      "type": 3,
-      "api": "./lib/cloud.min.js",
-      "ext": "./js/爱搜Baidu.js",
       "style": {
         "type": "list"
       }
