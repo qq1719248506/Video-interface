@@ -150,6 +150,76 @@
       }
     },
     {
+      "key": "晓晓",
+      "name": "晓晓",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://ys.ewo.asia",
+        "dataKey": "Z0qTnwyLAJCtuIkI",
+        "dataIv": "Z0qTnwyLAJCtuIkI",
+        "deviceId": "",
+        "version": ""
+      }
+    },
+    {
+      "key": "老王",
+      "name": "老王",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://ht.laowang.co",
+        "dataKey": "EUwFY2vPWBqpYyAY",
+        "dataIv": "EUwFY2vPWBqpYyAY",
+        "deviceId": "",
+        "version": ""
+      }
+    },
+    {
+      "key": "追剧",
+      "name": "追剧",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://sjapp.wuyanzu.top/",
+        "dataKey": "weyuhgiohgsytwhj",
+        "dataIv": "weyuhgiohgsytwhj",
+        "deviceId": "2112fc5eac600314ba95c4d65da9286b3",
+        "version": "119"
+      }
+    },
+    {
+      "key": "沐沐",
+      "name": "沐沐",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://xk.ys088.cn",
+        "dataKey": "1846397456616237",
+        "dataIv": "1846397456616237",
+        "deviceId": "2112fc5eac600314ba95c4d65da9286b3",
+        "version": "119"
+      }
+    },
+    {
+      "key": "溜溜",
+      "name": "溜溜",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://appcms.ll4k.xyz",
+        "dataKey": "NiDGaKiVnkO3QX1Q",
+        "dataIv": "NiDGaKiVnkO3QX1Q",
+        "deviceId": "2fbaf48ee97783260bc907e3ab0bd40c3",
+        "version": "200"
+      }
+    },    
+    {
       "key": "超前",
       "name": "超前",
       "type": 3,
