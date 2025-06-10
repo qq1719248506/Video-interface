@@ -1,0 +1,39 @@
+{
+  "spider": "./fty.jar;md5;677399a8a27a64506b814ed92ee7acbe",
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "sites": [
+
+  ],
+  "logo": "https://cdn.wmpvp.com/steamWeb/B96F868DE45B45D690B5F9F490D0BC60-1745866248445.gif",
+  "lives": [
+    {
+      "name": "V6范明明（需开启V6网络）",
+      "type": 0,
+      "url": "./lib/20250425-868403-298462cec53c48439a5765ceaca3c67f.m3u",
+      "playerType": 2
+    },
+    {
+      "name": "牛播一",
+      "type": 0,
+      "url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.v1.mk/logo/{name}.png"
+    },
+    {
+      "name": "V4聚合（卡顿请按左┃右键换线）",
+      "type": 0,
+      "url": "./lib/tv.m3u",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.v1.mk/logo/{name}.png"
+    },
+    {
+      "name": "平台直播",
+      "type": 0,
+      "url": "http://tv.iill.top/m3u/Live",
+      "ua": "okhttp/3.15",
+      "playerType": 2
+    }
+  ]
+}
