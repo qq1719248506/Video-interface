@@ -1091,6 +1091,17 @@
       "playerType": 2
     },
     {
+      "key": "1905影视",
+      "name": "1905",
+      "type": 3,
+      "api": "./py/1905.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },    
+    {
       "key": "快看",
       "name": "快看",
       "type": 3,
