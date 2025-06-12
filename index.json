@@ -193,7 +193,7 @@
     },
     {
       "key": "剧咖",
-      "name": "剧咖,
+      "name": "剧咖",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
