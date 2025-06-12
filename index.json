@@ -24,14 +24,16 @@
       }
     },
     {
-      "key": "1905",
+      "key": "1905影视",
       "name": "1905",
       "type": 3,
-      "api": "csp_Web1905",
+      "api": "./py/1905.py",
       "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
-    },    
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },        
     {
       "key": "热播影视",
       "name": "热播",
@@ -849,17 +851,6 @@
       "name": "美帕",
       "type": 3,
       "api": "./py/美帕.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "1905影视",
-      "name": "1905",
-      "type": 3,
-      "api": "./py/1905.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
