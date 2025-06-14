@@ -173,6 +173,34 @@
       }
     },
     {
+      "key": "麻花",
+      "name": "麻花",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://49.235.114.19:130",
+        "dataKey": "q7gj4f9br3fls6nh",
+        "dataIv": "q7gj4f9br3fls6nh",
+        "deviceId": "2112fc5eac600314ba95c4d65da9286b3",
+        "version": "700"
+      }
+    },
+    {
+      "key": "海豚",
+      "name": "海豚",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://appcms.htsp4k.top",
+        "dataKey": "7CYQQzwchRQpHCOj",
+        "dataIv": "7CYQQzwchRQpHCOj",
+        "deviceId": "",
+        "version": ""
+      }
+    },    
+    {
       "key": "晓晓",
       "name": "晓晓",
       "type": 3,
@@ -1126,6 +1154,27 @@
       "filterable": 1,
       "ext": "./XYQHiker/盒子.json"
     },
+    {
+      "key": "剧巴",
+      "name": "剧巴",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/剧巴.js"
+    },
+    {
+      "key": "剧爷",
+      "name": "剧爷",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/剧爷.js"
+    },
+    {
+      "key": "HBO",
+      "name": "HBO",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/HBO[优].js"
+    },    
     {
       "key": "哆啦新番社",
       "name": "哆啦",
