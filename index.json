@@ -1171,30 +1171,6 @@
       "filterable": 1
     },
     {
-      "key": "盒子影视",
-      "name": "盒子",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XYQHiker/盒子.json"
-    },
-    {
-      "key": "剧巴",
-      "name": "剧巴",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/剧巴.js"
-    },
-    {
-      "key": "剧爷",
-      "name": "剧爷",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/剧爷.js"
-    },
-    {
       "key": "HBO",
       "name": "HBO",
       "type": 3,
