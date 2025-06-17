@@ -31,16 +31,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
-    },    
-    {
-      "key": "1905影视",
-      "name": "1905py",
-      "type": 3,
-      "api": "./py/1905.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },        
+    },
     {
       "key": "热播影视",
       "name": "热播",
@@ -173,6 +164,20 @@
       }
     },
     {
+      "key": "剧咖",
+      "name": "剧咖",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://get.xiaoqi0.cn",
+        "dataKey": "jukayingshi66666",
+        "dataIv": "jukayingshi66666",
+        "deviceId": "",
+        "version": ""
+      }
+    },
+    {
       "key": "麻花",
       "name": "麻花",
       "type": 3,
@@ -199,7 +204,7 @@
         "deviceId": "",
         "version": ""
       }
-    },    
+    },
     {
       "key": "晓晓",
       "name": "晓晓",
@@ -467,6 +472,34 @@
       }
     },
     {
+      "key": "晚枫",
+      "name": "晚枫",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://111.180.202.216:999",
+        "dataKey": "fjhndgbjidfhgjsd",
+        "dataIv": "fjhndgbjidfhgjsd",
+        "deviceId": "2a7baa6ca6f46308cbf1d939bab0586f3",
+        "version": "120"
+      }
+    },
+    {
+      "key": "诺映",
+      "name": "诺映",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://www.noad.top",
+        "dataKey": "708FA298F0855840",
+        "dataIv": "708FA298F0855840",
+        "deviceId": "2129ec9e6e5703cb0aeeddd79554e38f8",
+        "version": "103"
+      }
+    },
+    {
       "key": "趣看",
       "name": "趣看",
       "type": 3,
@@ -504,38 +537,37 @@
         "dataIv": "6b7cf13bf47ba2e6",
         "jxurl": "http://app.789dd.cn"
       }
-    },    
-    {
-      "key": "无上资源",
-      "name": "无上",
-      "type": 1,
-      "api": "https://mfgc.iwsyy.xyz/api.php/provide/vod/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "电影",
-        "连续剧",
-        "综艺",
-        "动漫",
-        "纪录片",
-        "少儿",
-        "短剧"
-      ]
     },
     {
-      "key": "鸭鸭资源",
-      "name": "鸭鸭",
-      "type": 1,
-      "api": "https://cj.yayazy.net/api.php/provide/vod/?ac=list",
-      "playUrl":"https://jx.yayazy.cc/m3u8/?url=",
-      "searchable": 1,
-      "changeable": 1
-    },     
-    {
-      "key": "三六零",
-      "name": "360",
+      "key": "攻阁",
+      "name": "攻阁",
       "type": 3,
-      "api": "csp_SP360"
+      "quickSearch": 1,
+      "api": "csp_AppMuou",
+      "ext": {
+        "url": "http://111.180.198.40:1110",
+        "dataKey": "14deb3a41a955648",
+        "dataIv": "14deb3a41a955648",
+        "jxurl": "https://ww.ndjdnd.icu"
+      }
+    },
+    {
+      "key": "哔哩视频",
+      "name": "哔哩",
+      "type": 3,
+      "api": "csp_BiliYS",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "./lib/哔哩视频.json",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+      }
     },
     {
       "key": "玩偶哥哥",
@@ -742,25 +774,15 @@
       }
     },
     {
-      "key": "聚搜",
-      "name": "聚搜",
-      "type": 3,
-      "api": "csp_PanWebSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },    
-    {
-      "key": "百酷",
-      "name": "百酷｜4K弹幕",
+      "key": "双星",
+      "name": "双星",
       "type": 3,
       "api": "./lib/cloud.min.js",
-      "ext": "./js/百酷.js",
+      "ext": "./js/双星.js",
       "style": {
         "type": "list"
       }
-    },    
+    },
     {
       "key": "懒盘",
       "name": "懒盘",
@@ -772,35 +794,45 @@
       }
     },
     {
-      "key": "爱搜UC",
-      "name": "爱UC",
+      "key": "百酷",
+      "name": "百酷",
       "type": 3,
       "api": "./lib/cloud.min.js",
-      "ext": "./js/爱搜UC.js",
+      "ext": "./js/百酷.js",
       "style": {
         "type": "list"
       }
     },
     {
-      "key": "爱搜Quark",
-      "name": "爱Quark",
+      "key": "校长",
+      "name": "校长",
       "type": 3,
       "api": "./lib/cloud.min.js",
-      "ext": "./js/爱搜Quark.js",
+      "ext": "./js/校长.js",
       "style": {
         "type": "list"
       }
     },
     {
-      "key": "爱搜Baidu",
-      "name": "爱Baidu",
+      "key": "人人电影网",
+      "name": "人人",
       "type": 3,
       "api": "./lib/cloud.min.js",
-      "ext": "./js/爱搜Baidu.js",
+      "ext": "./js/人人电影网.js",
       "style": {
         "type": "list"
       }
-    },    
+    },
+    {
+      "key": "聚搜",
+      "name": "聚搜",
+      "type": 3,
+      "api": "csp_PanWebSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
     {
       "key": "米搜",
       "name": "米搜",
@@ -812,7 +844,7 @@
       }
     },
     {
-      "key": "人人",
+      "key": "人人分享站",
       "name": "人人",
       "type": 3,
       "api": "./lib/cloud.min.js",
@@ -833,13 +865,21 @@
     },
     {
       "key": "夸克盘搜",
-      "name": "夸搜",
+      "name": "盘搜",
       "type": 3,
       "api": "./lib/cloud.min.js",
       "ext": "./js/夸搜.js",
       "style": {
         "type": "list"
       }
+    },
+    {
+      "key": "移动",
+      "name": "移动",
+      "type": 3,
+      "api": "csp_YD",
+      "searchable": 1,
+      "quickSearch": 1
     },
     {
       "key": "星芽短剧",
@@ -862,15 +902,42 @@
       "playerType": 2
     },
     {
-      "key": "爱看短剧",
-      "name": "爱看",
+      "key": "满分",
+      "name": "满分",
       "type": 3,
-      "api": "./py/爱看.py",
+      "api": "csp_AppYs",
       "searchable": 1,
-      "changeable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 2
+      "ext": "http://111.173.115.215:9118/icciu_api.php/v1.vod"
+    },
+    {
+      "key": "顾我",
+      "name": "顾我",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_AppYsV2",
+      "ext": "http://121.62.21.14:520/api.php/app/"
+    },
+    {
+      "key": "起点",
+      "name": "起点",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://172.83.156.150:1010/api.php/app/"
+    },
+    {
+      "key": "好感",
+      "name": "好感",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://cs.hgyx.vip/api2/api.php/app/"
     },
     {
       "key": "金牌影视",
@@ -906,7 +973,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2
-    },    
+    },
     {
       "key": "美帕影视",
       "name": "美帕",
@@ -917,7 +984,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2
-    },    
+    },
     {
       "key": "快看",
       "name": "快看",
@@ -982,14 +1049,6 @@
       "playerType": 2
     },
     {
-      "key": "火火影视",
-      "name": "火火",
-      "type": 3,
-      "api": "csp_SaoHuo",
-      "playerType": 2,
-      "ext": "https://shdy5.us"
-    },
-    {
       "key": "尘落影视",
       "name": "尘落",
       "type": 3,
@@ -1033,14 +1092,6 @@
       "api": "csp_FreeOk"
     },
     {
-      "key": "农民影视",
-      "name": "农民",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_Wwys",
-      "ext": "https://www.wwgz.cn"
-    },
-    {
       "key": "低端影视",
       "name": "低端",
       "type": 3,
@@ -1068,17 +1119,8 @@
       "filterable": 1
     },
     {
-      "key": "快看影视",
-      "name": "快看",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "采集之王",
-      "name": "采集",
+      "name": "采集｜合集",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/采集之王.js?type=url&params=../json/采集静态.json$1$1"
@@ -1093,63 +1135,67 @@
       "filterable": 1
     },
     {
-      "key": "七七影视",
-      "name": "七七",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/七七.json"
-    },
-    {
       "key": "可可影视",
-      "name": "可可",
+      "name": "可可｜影视",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_HBPQ",
       "ext": "./XBPQ/可可.json"
     },
     {
       "key": "海纳影视",
       "name": "海纳",
       "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./js/海纳.json"
+      "api": "csp_HBPQ",
+      "ext": "./XBPQ/海纳.json"
     },
     {
       "key": "面包影视",
       "name": "面包",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_HBPQ",
       "ext": "./XBPQ/面包.json"
     },
     {
       "key": "永乐影视",
       "name": "永乐",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_HBPQ",
       "ext": "./XBPQ/永乐.json"
     },
     {
       "key": "雪糕影视",
       "name": "雪糕",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_HBPQ",
       "ext": "./XBPQ/雪糕.json"
     },
     {
-      "key": "流光影视",
-      "name": "流光",
+      "key": "骚火影视",
+      "name": "骚火",
       "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/流光.json"
+      "api": "csp_HBPQ",
+      "ext": "./XBPQ/骚火.json"
     },
     {
-      "key": "一起影视",
-      "name": "一起",
+      "key": "七点影视",
+      "name": "七点｜影视",
       "type": 3,
-      "api": "csp_AppFree4K",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw5rDqsKjwpPCncKjwqfDmcOsw57Dn8KbwpRewqbDosOjwqHCpcKaWnvClcKpwqDCrcKawqDDnMKYZWNkwrHDl8Ogw5vCqsKWY8KTYsKxwqbCocKlwppaecKmV8KzwpPCocKuw6BoZGRpw53Dl8Krwq3CrWRjYmHCsMKawqbCmcKhdcKRwp7Cm8OHw5TDsMKgwrRTV+ecpOaTncKgwp/CmsKgw4rClMKiwqPClcOOw6XDpsKgwrRTV8KYwqTDrcOjw63Cs8KpYsKRwqDCoMOvwqTCqMOfw6zCmMKVwpjClMKnw6nDo8OpwqnCncKjwp/CnsKnw6PDosOpwrnCqMKiwpxtwqDCn8KawqDCvsKUwp59wqXDjsOlw6bCoMK0U1fCmMKkw63Do8OtwrPCqWLClMKdXsOvw5zDnsOzwqjClMKjwpnCkcKow5fDp8Okw69ib8KRwpPCtsOXw6fCn8OuwqLCm8KVwp7CtsOEw4PDhcK8dnh6dsOMwr/DkcOPw4B4e8KCVsOuw6XDpsK2wqFfUFfClMOew5bDrMOyw6rCp3vClcKpwqDCrcKawqDDscKowqnCmWbCr8KpwqHDtg=="
+      "api": "csp_HBPQ",
+      "ext": "./XBPQ/七点.json"
+    },
+    {
+      "key": "三九影视",
+      "name": "三九",
+      "type": 3,
+      "api": "csp_HBPQ",
+      "ext": "./XBPQ/三九.json"
+    },
+    {
+      "key": "三四影视",
+      "name": "三四",
+      "type": 3,
+      "api": "csp_HBPQ",
+      "ext": "./XBPQ/三四.json"
     },
     {
       "key": "耐看影视",
@@ -1171,17 +1217,36 @@
       "filterable": 1
     },
     {
-      "key": "HBO",
-      "name": "HBO",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/HBO[优].js"
-    },    
+      "key": "无上资源",
+      "name": "无上",
+      "type": 1,
+      "api": "https://mfgc.iwsyy.xyz/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "电影",
+        "连续剧",
+        "综艺",
+        "动漫",
+        "纪录片",
+        "少儿",
+        "短剧"
+      ]
+    },
+    {
+      "key": "鸭鸭资源",
+      "name": "鸭鸭",
+      "type": 1,
+      "api": "https://cj.yayazy.net/api.php/provide/vod/?ac=list",
+      "playUrl":"https://jx.yayazy.cc/m3u8/?url=",
+      "searchable": 1,
+      "changeable": 1
+    }, 
     {
       "key": "哆啦新番社",
       "name": "哆啦",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_HBPQ",
       "style": {
         "type": "list"
       },
@@ -1244,14 +1309,6 @@
       }
     },
     {
-      "key": "移动",
-      "name": "移动",
-      "type": 3,
-      "api": "csp_YD",
-      "searchable": 1,
-      "quickSearch": 1
-    },    
-    {
       "key": "阿里云盘",
       "name": "阿里",
       "type": 3,
@@ -1263,7 +1320,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "./lib/aliShare.json"
+      "ext": "./json/aliShare.json"
     },
     {
       "key": "夸克云盘",
@@ -1450,8 +1507,8 @@
       "key": "养生堂",
       "name": "养生",
       "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/养生堂.json",
+      "api": "csp_HBPQ",
+      "ext": "./XBPO/养生堂.json",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -1498,7 +1555,7 @@
       }
     },
     {
-      "name": "QD4K",
+      "name": "巧计",
       "type": 1,
       "url": "https://zy.qiaoji8.com/xiafan.php?url=",
       "ext": {
