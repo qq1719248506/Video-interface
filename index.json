@@ -967,34 +967,12 @@
       "key": "火车影视",
       "name": "火车",
       "type": 3,
-      "api": "./py/火车.py",
+      "api": "./py/火车影视.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2
-    },
-    {
-      "key": "美帕影视",
-      "name": "美帕",
-      "type": 3,
-      "api": "./py/美帕.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "快看",
-      "name": "快看",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "http://kkwk123.top/api.php/app/"
     },
     {
       "key": "厂长影视",
