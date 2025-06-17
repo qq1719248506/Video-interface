@@ -1120,7 +1120,7 @@
     },
     {
       "key": "采集之王",
-      "name": "采集｜合集",
+      "name": "采集",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/采集之王.js?type=url&params=../json/采集静态.json$1$1"
@@ -1136,7 +1136,7 @@
     },
     {
       "key": "可可影视",
-      "name": "可可｜影视",
+      "name": "可可",
       "type": 3,
       "api": "csp_HBPQ",
       "ext": "./XBPQ/可可.json"
@@ -1178,7 +1178,7 @@
     },
     {
       "key": "七点影视",
-      "name": "七点｜影视",
+      "name": "七点",
       "type": 3,
       "api": "csp_HBPQ",
       "ext": "./XBPQ/七点.json"
