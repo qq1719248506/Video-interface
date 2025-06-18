@@ -94,34 +94,6 @@
       }
     },
     {
-      "key": "水滴",
-      "name": "水滴",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "ext": {
-        "url": "http://1.94.105.93",
-        "dataKey": "gKdQKLbwhhLp4Ytv",
-        "dataIv": "gKdQKLbwhhLp4Ytv",
-        "deviceId": "",
-        "version": ""
-      }
-    },
-    {
-      "key": "咖啡",
-      "name": "咖啡",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "ext": {
-        "url": "http://160.202.243.62:2566",
-        "dataKey": "qwertyuiopqwerty",
-        "dataIv": "qwertyuiopqwerty",
-        "deviceId": "",
-        "version": "120"
-      }
-    },
-    {
       "key": "橘猫",
       "name": "橘猫",
       "type": 3,
@@ -131,20 +103,6 @@
         "url": "https://qjappcms.jm4k.top",
         "dataKey": "pBVmysmGX8TsgrQN",
         "dataIv": "pBVmysmGX8TsgrQN",
-        "deviceId": "",
-        "version": "120"
-      }
-    },
-    {
-      "key": "诺雪",
-      "name": "诺雪",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "ext": {
-        "url": "https://qjappcms.rx4k.top",
-        "dataKey": "ZX10ysTYZWtIJCTU",
-        "dataIv": "ZX10ysTYZWtIJCTU",
         "deviceId": "",
         "version": "120"
       }
@@ -175,20 +133,6 @@
         "dataIv": "jukayingshi66666",
         "deviceId": "",
         "version": ""
-      }
-    },
-    {
-      "key": "麻花",
-      "name": "麻花",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://49.235.114.19:130",
-        "dataKey": "q7gj4f9br3fls6nh",
-        "dataIv": "q7gj4f9br3fls6nh",
-        "deviceId": "2112fc5eac600314ba95c4d65da9286b3",
-        "version": "700"
       }
     },
     {
@@ -257,20 +201,6 @@
         "url": "https://www.guahd.com",
         "dataKey": "f2A7D4B9E8C16531",
         "dataIv": "f2A7D4B9E8C16531",
-        "deviceId": "",
-        "version": ""
-      }
-    },
-    {
-      "key": "忍者",
-      "name": "忍者",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://mfxs123.sbs",
-        "dataKey": "1234567887654321",
-        "dataIv": "1234567887654321",
         "deviceId": "",
         "version": ""
       }
@@ -360,20 +290,6 @@
       }
     },
     {
-      "key": "木叶",
-      "name": "木叶",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://46.203.125.54:7070",
-        "dataKey": "RuN9LRvwTRgpQnpK",
-        "dataIv": "RuN9LRvwTRgpQnpK",
-        "deviceId": "",
-        "version": "547"
-      }
-    },
-    {
       "key": "米兔",
       "name": "米兔",
       "type": 3,
@@ -399,20 +315,6 @@
         "dataIv": "ENonBHeVBoYZhVUV",
         "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
         "version": "166"
-      }
-    },
-    {
-      "key": "悠悠",
-      "name": "悠悠",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://46.203.125.54:7070",
-        "dataKey": "RuN9LRvwTRgpQnpK",
-        "dataIv": "RuN9LRvwTRgpQnpK",
-        "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
-        "version": "547"
       }
     },
     {
@@ -539,19 +441,6 @@
       }
     },
     {
-      "key": "攻阁",
-      "name": "攻阁",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppMuou",
-      "ext": {
-        "url": "http://111.180.198.40:1110",
-        "dataKey": "14deb3a41a955648",
-        "dataIv": "14deb3a41a955648",
-        "jxurl": "https://ww.ndjdnd.icu"
-      }
-    },
-    {
       "key": "哔哩视频",
       "name": "哔哩",
       "type": 3,
@@ -565,7 +454,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "./lib/哔哩视频.json",
+        "json": "./json/哔哩视频.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       }
     },
@@ -813,6 +702,44 @@
         "type": "list"
       }
     },
+    {
+      "key": "爱UC",
+      "name": "爱UC",
+      "type": 3,
+      "api": "./lib/cloud.min.js",
+      "ext": "./js/爱UC.js",
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "爱Quark",
+      "name": "爱Quark",
+      "type": 3,
+      "api": "./lib/cloud.min.js",
+      "ext": "./js/爱Quark",
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "爱Baidu",
+      "name": "爱Baidu",
+      "type": 3,
+      "api": "./lib/cloud.min.js",
+      "ext": "./js/爱Baidu",
+      "style": {
+        "type": "list"
+      }
+    },    
+    {
+      "key": "糖果",
+      "name": "糖果",
+      "type": 3,
+      "api": "csp_TGSou",
+      "searchable": 1,
+      "changeable": 0
+    },    
     {
       "key": "聚搜",
       "name": "聚搜",
