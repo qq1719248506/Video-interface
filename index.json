@@ -1129,14 +1129,13 @@
       ]
     },
     {
-      "key": "鸭鸭资源",
-      "name": "鸭鸭",
+      "key": "豆瓣",
+      "name": "豆瓣",
       "type": 1,
-      "api": "https://cj.yayazy.net/api.php/provide/vod/?ac=list",
-      "playUrl":"https://jx.yayazy.cc/m3u8/?url=",
+      "api": "https://caiji.dbzy.tv/api.php/provide/vod/",
       "searchable": 1,
       "changeable": 1
-    }, 
+    },     
     {
       "key": "哆啦新番社",
       "name": "哆啦",
