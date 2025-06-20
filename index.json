@@ -1129,8 +1129,8 @@
       ]
     },
     {
-      "key": "豆瓣",
-      "name": "豆瓣",
+      "key": "豆豆",
+      "name": "豆豆",
       "type": 1,
       "api": "https://caiji.dbzy.tv/api.php/provide/vod/",
       "searchable": 1,
