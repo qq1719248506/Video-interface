@@ -69,17 +69,6 @@
       }
     },
     {
-      "key": "菲儿影视",
-      "name": "菲儿",
-      "type": 3,
-      "api": "csp_AppFerr",
-      "ext": {
-        "url": "https://appcms.freehd.vip",
-        "dataKey": "be5348dfb0c3c283",
-        "dataIv": "5f5449dd14313217"
-      }
-    },
-    {
       "key": "仓鼠",
       "name": "仓鼠",
       "type": 3,
