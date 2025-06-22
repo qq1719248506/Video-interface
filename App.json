@@ -1,18 +1,8 @@
 {
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
-    {
-      "key": "dr_AppGet_忍者",
-      "name": "🍐忍者[影][DR]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 2,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/AppGet.js?type=url&params=https://mfxs123.sbs$1234567887654321$1234567887654321"
-    },
-{
-  "key": "dr_AppGet_晴天","name": "🍐晴天[影][DR]","type": 3,"api": "./lib/drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 1,"ext": "./js/AppGet.js?type=url&params=https://qjappcms.sun4k.top$sBxqXVF5pAHbGzrH$sBxqXVF5pAHbGzrH"},
+{"key": "py_1905","name": "🍑1905[影][PY]","type": 3,"api": "./py/1905.py","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "dr_AppGet_晴天","name": "🍐晴天[影][DR]","type": 3,"api": "./lib/drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 1,"ext": "./js/AppGet.js?type=url&params=https://qjappcms.sun4k.top$sBxqXVF5pAHbGzrH$sBxqXVF5pAHbGzrH"},
 {"key": "dr_AppGet_再看","name": "🍐再看[影][DR]","type": 3,"api": "./lib/drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 1,"ext": "./js/AppGet.js?type=url&params=http://149.88.64.161:8627$123456789ABCDEFG$123456789ABCDEFG"},
 {"key": "dr_AppGet_集多","name": "🍐集多[影][DR]","type": 3,"api": "./lib/drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 1,"ext": "./js/AppGet.js?type=url&params=http://220.231.146.94:6261$hL7xN4P9rS2vK5Mq$hL7xN4P9rS2vK5Mq"},
 {"key": "dr_AppGet_橘子","name": "🍐橘子[影][DR]","type": 3,"api": "./lib/drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 1,"ext": "./js/AppGet.js?type=url&params=https://api1.bffree.cn$2015692015692015$2015692015692015"},
@@ -32,7 +22,11 @@
 {"key": "dr_AppGet_咖啡","name": "🍐咖啡[影][DR]","type": 3,"api": "./lib/drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 1,"ext": "./js/AppGet.js?type=url&params=http://160.202.243.62:2566$qwertyuiopqwerty$qwertyuiopqwerty"},
 {"key": "dr_AppGet_乐看","name": "🍐乐看[影][DR]","type": 3,"api": "./lib/drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 1,"ext": "./js/AppGet.js?type=url&params=https://app.weis.vip$e65144389e9361b5$e65144389e9361b5"},
 {"key": "dr_AppGet_麒麟","name": "🍐麒麟[影][DR]","type": 3,"api": "./lib/drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 1,"ext": "./js/AppGet.js?type=url&params=https://www.70yy.fun$sfsdgsgcccss55xa$sfsdgsgcccss55xa"},
-{"key": "dr_AppGet_格格","name": "🍐格格[影][DR]","type": 3,"api": "./lib/drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 1,"ext": "./js/AppGet.js?type=url&params=http://111.180.198.40:1110$asgcxhjkts124573$asgcxhjkts124573"}
+{"key": "dr_AppGet_格格","name": "🍐格格[影][DR]","type": 3,"api": "./lib/drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 1,"ext": "./js/AppGet.js?type=url&params=http://111.180.198.40:1110$asgcxhjkts124573$asgcxhjkts124573"},
+{"key":"155资源","name": "155资源","type": 1,"api": "https://155api.com/api.php/provide/vod/","playUrl": ""},
+{"key": "jkun爱坤","name": "jkun爱坤","type": 1,"api": "https://jkunzyapi.com/api.php/provide/vod/at/xml","playUrl": ""},
+{"key": "CK资源","name": "CK资源","type": 1,"api": "https://ckzy.me/api.php/provide/vod/at/xml","playUrl": ""}   
+    
 
   ],
   "lives": [
