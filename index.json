@@ -76,7 +76,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./lib/AppGet.js?type=url&params=https://appcms.tzys.xyz$KL6vlZkw6WL5x90U$KL6vlZkw6WL5x90U"
+      "ext":"./js/AppGet.js?type=url&params=https://appcms.tzys.xyz$KL6vlZkw6WL5x90U$KL6vlZkw6WL5x90U"
     },
     {
       "key": "仓鼠",
@@ -900,17 +900,6 @@
       "playerType": 2
     },
     {
-      "key": "火车影视",
-      "name": "火车",
-      "type": 3,
-      "api": "./py/火车.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
       "key": "厂长影视",
       "name": "厂长",
       "type": 3,
@@ -1031,13 +1020,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "采集之王",
-      "name": "采集",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/采集之王.js?type=url&params=../json/采集静态.json$1$1"
     },
     {
       "key": "爱看机器人",
@@ -1706,20 +1688,6 @@
         "港台动漫",
         "海外动漫"
       ]
-    },
-    {
-      "key":"蜂巢片库",
-      "name": "蜂巢",
-      "type": 1,
-      "api": "https://api.fczy888.me/api.php/provide/vod/",
-      "playUrl": ""
-    },
-    {
-      "key": "无尽",
-      "name": "无尽",
-      "type": 1,
-      "api": "https://api.wujinapi.me/api.php/provide/vod/at/xml",
-      "playUrl": ""
     },  
     {
       "key": "push_agent",
