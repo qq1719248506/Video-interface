@@ -1480,7 +1480,7 @@
       "key": "索尼资源",
       "name": "索尼",
       "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/",
+      "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
       "searchable": 1,
       "changeable": 1,
       "categories": [
