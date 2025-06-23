@@ -2,6 +2,7 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
 {"key": "py_1905","name": "🍑1905[影][PY]","type": 3,"api": "./py/1905.py","searchable": 1,"quickSearch": 1,"filterable": 1},
+{ "key": "神马影视", "name": "神马", "type":3,"api":"csp_XBPQ","jar": "./jar/spider.txt","ext": {"简介":",您剧情介绍:+col-pd\">&&</p>","播放标题":"","分类url":"https://www.vod38.com/show/{cateid}-{area}--------{catepg}---.html","分类":"短剧$24#剧集$2#电影$1#动漫$4#综艺$3#理论片$20"}},    
 {"key": "dr_AppGet_晴天","name": "🍐晴天[影][DR]","type": 3,"api": "./lib/drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 1,"ext": "./js/AppGet.js?type=url&params=https://qjappcms.sun4k.top$sBxqXVF5pAHbGzrH$sBxqXVF5pAHbGzrH"},
 {"key": "dr_AppGet_再看","name": "🍐再看[影][DR]","type": 3,"api": "./lib/drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 1,"ext": "./js/AppGet.js?type=url&params=http://149.88.64.161:8627$123456789ABCDEFG$123456789ABCDEFG"},
 {"key": "dr_AppGet_集多","name": "🍐集多[影][DR]","type": 3,"api": "./lib/drpy2.min.js","searchable": 2,"quickSearch": 1,"filterable": 1,"ext": "./js/AppGet.js?type=url&params=http://220.231.146.94:6261$hL7xN4P9rS2vK5Mq$hL7xN4P9rS2vK5Mq"},
