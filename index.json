@@ -935,6 +935,17 @@
       "playerType": 2
     },
     {
+      "key": "奇库影视",
+      "name": "奇库",
+      "type": 3,
+      "api": "./py/奇库.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },    
+    {
       "key": "厂长影视",
       "name": "厂长",
       "type": 3,
