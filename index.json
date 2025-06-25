@@ -1064,6 +1064,13 @@
       "ext": "./XBPQ/可可.json"
     },
     {
+      "key": "神马影院",
+      "name": "神马",
+      "type": 3,
+      "api": "csp_HBPQ",
+      "ext": "./XBPQ/神马.json"
+    },    
+    {
       "key": "海纳影视",
       "name": "海纳",
       "type": 3,
