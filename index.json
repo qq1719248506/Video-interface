@@ -121,6 +121,34 @@
       }
     },
     {
+      "key": "榴莲",
+      "name": "榴莲",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet2",
+      "ext": {
+        "url": "https://qjappcms.ll4k.xyz",
+        "dataKey": "1yGA85sJ5STtE7uj",
+        "dataIv": "1yGA85sJ5STtE7uj",
+        "deviceId": "",
+        "version": "50000"
+      }
+    },
+    {
+      "key": "魔方",
+      "name": "魔方",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://mfsp33.top",
+        "dataKey": "1234567887654321",
+        "dataIv": "1234567887654321",
+        "deviceId": "",
+        "version": ""
+      }
+    },    
+    {
       "key": "剧咖",
       "name": "剧咖",
       "type": 3,
@@ -810,6 +838,13 @@
       }
     },
     {
+      "key": "采集之王",
+      "name": "采集",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/采集之王.js?type=url&params=../json/采集静态.json$1$1"
+    },    
+    {
       "key": "移动",
       "name": "移动",
       "type": 3,
@@ -1475,43 +1510,7 @@
         "邵氏片",
         "动画片"
       ]
-    },    
-    {
-      "key": "索尼资源",
-      "name": "索尼",
-      "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "纪录片",
-        "动画片",
-        "邵氏电影",
-        "国产剧",
-        "欧美剧",
-        "港台三级",
-        "西方伦理",
-        "日本伦理",
-        "海外剧",
-        "古装仙侠",
-        "大陆综艺",
-        "日韩综艺",
-        "港台综艺",
-        "欧美综艺",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫"
-      ]
-    },  
+    },      
     {
       "key": "push_agent",
       "name": "推送",
