@@ -1,36 +1,24 @@
 # -*- coding: utf-8 -*-
 # by @嗷呜
 import json
+import random
 import sys
 import threading
 import uuid
 import requests
+
 sys.path.append('..')
 from base.spider import Spider
 import time
 from Crypto.Hash import MD5, SHA1
 
+
 class Spider(Spider):
-    '''
-    配置示例：
-    {
-        "key": "xxxx",
-        "name": "xxxx",
-        "type": 3,
-        "api": ".所在路径/金牌.py",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "changeable": 1,
-        "ext": {
-            "site": "https://www.jiabaide.cn,域名2,域名3"
-        }
-    },
-    '''
     def init(self, extend=""):
-        if extend:
-            hosts=json.loads(extend)['site']
-        self.host = self.host_late(hosts)
+        self.host = random.choice([
+            "https://hnytxj.com/",
+            "https://www.hkybqufgh.com/"
+        ])
         pass
 
     def getName(self):
@@ -50,13 +38,13 @@ class Spider(Spider):
         fdata = self.fetch(f"{self.host}/api/mw-movie/anonymous/v1/get/filer/list", headers=self.getheaders()).json()
         result = {}
         classes = []
-        filters={}
+        filters = {}
         for k in cdata['data']:
             classes.append({
                 'type_name': k['typeName'],
                 'type_id': str(k['typeId']),
             })
-        sort_values = [{"n": "最近更新", "v": "2"},{"n": "人气高低", "v": "3"}, {"n": "评分高低", "v": "4"}]
+        sort_values = [{"n": "最近更新", "v": "2"}, {"n": "人气高低", "v": "3"}, {"n": "评分高低", "v": "4"}]
         for tid, d in fdata['data'].items():
             current_sort_values = sort_values.copy()
             if tid == '1':
@@ -86,30 +74,31 @@ class Spider(Spider):
 
     def homeVideoContent(self):
         data1 = self.fetch(f"{self.host}/api/mw-movie/anonymous/v1/home/all/list", headers=self.getheaders()).json()
-        data2=self.fetch(f"{self.host}/api/mw-movie/anonymous/home/hotSearch",headers=self.getheaders()).json()
-        data=[]
+        data2 = self.fetch(f"{self.host}/api/mw-movie/anonymous/home/hotSearch", headers=self.getheaders()).json()
+        data = []
         for i in data1['data'].values():
             data.extend(i['list'])
         data.extend(data2['data'])
-        vods=self.getvod(data)
-        return {'list':vods}
+        vods = self.getvod(data)
+        return {'list': vods}
 
     def categoryContent(self, tid, pg, filter, extend):
 
         params = {
-          "area": extend.get('area', ''),
-          "filterStatus": "1",
-          "lang": extend.get('lang', ''),
-          "pageNum": pg,
-          "pageSize": "30",
-          "sort": extend.get('sort', '1'),
-          "sortBy": "1",
-          "type": extend.get('type', ''),
-          "type1": tid,
-          "v_class": extend.get('v_class', ''),
-          "year": extend.get('year', '')
+            "area": extend.get('area', ''),
+            "filterStatus": "1",
+            "lang": extend.get('lang', ''),
+            "pageNum": pg,
+            "pageSize": "30",
+            "sort": extend.get('sort', '1'),
+            "sortBy": "1",
+            "type": extend.get('type', ''),
+            "type1": tid,
+            "v_class": extend.get('v_class', ''),
+            "year": extend.get('year', '')
         }
-        data = self.fetch(f"{self.host}/api/mw-movie/anonymous/video/list?{self.js(params)}", headers=self.getheaders(params)).json()
+        data = self.fetch(f"{self.host}/api/mw-movie/anonymous/video/list?{self.js(params)}",
+                          headers=self.getheaders(params)).json()
         result = {}
         result['list'] = self.getvod(data['data']['list'])
         result['page'] = pg
@@ -119,25 +108,27 @@ class Spider(Spider):
         return result
 
     def detailContent(self, ids):
-        data=self.fetch(f"{self.host}/api/mw-movie/anonymous/video/detail?id={ids[0]}",headers=self.getheaders({'id':ids[0]})).json()
-        vod=self.getvod([data['data']])[0]
-        vod['vod_play_from']='金牌'
+        data = self.fetch(f"{self.host}/api/mw-movie/anonymous/video/detail?id={ids[0]}",
+                          headers=self.getheaders({'id': ids[0]})).json()
+        vod = self.getvod([data['data']])[0]
+        vod['vod_play_from'] = '嗷呜有金牌'
         vod['vod_play_url'] = '#'.join(
             f"{i['name'] if len(vod['episodelist']) > 1 else vod['vod_name']}${ids[0]}@@{i['nid']}" for i in
             vod['episodelist'])
         vod.pop('episodelist', None)
-        return {'list':[vod]}
+        return {'list': [vod]}
 
     def searchContent(self, key, quick, pg="1"):
         params = {
-          "keyword": key,
-          "pageNum": pg,
-          "pageSize": "8",
-          "sourceCode": "1"
+            "keyword": key,
+            "pageNum": pg,
+            "pageSize": "8",
+            "sourceCode": "1"
         }
-        data=self.fetch(f"{self.host}/api/mw-movie/anonymous/video/searchByWord?{self.js(params)}",headers=self.getheaders(params)).json()
-        vods=self.getvod(data['data']['result']['list'])
-        return {'list':vods,'page':pg}
+        data = self.fetch(f"{self.host}/api/mw-movie/anonymous/video/searchByWord?{self.js(params)}",
+                          headers=self.getheaders(params)).json()
+        vods = self.getvod(data['data']['result']['list'])
+        return {'list': vods, 'page': pg}
 
     def playerContent(self, flag, id, vipFlags):
         self.header = {
@@ -149,41 +140,16 @@ class Spider(Spider):
             'Origin': self.host,
             'Referer': f'{self.host}/'
         }
-        ids=id.split('@@')
-        pdata = self.fetch(f"{self.host}/api/mw-movie/anonymous/v2/video/episode/url?clientType=1&id={ids[0]}&nid={ids[1]}",headers=self.getheaders({'clientType':'1','id': ids[0], 'nid': ids[1]})).json()
-        vlist=[]
-        for i in pdata['data']['list']:vlist.extend([i['resolutionName'],i['url']])
-        return {'parse':0,'url':vlist,'header':self.header}
+        ids = id.split('@@')
+        pdata = self.fetch(
+            f"{self.host}/api/mw-movie/anonymous/v2/video/episode/url?clientType=1&id={ids[0]}&nid={ids[1]}",
+            headers=self.getheaders({'clientType': '1', 'id': ids[0], 'nid': ids[1]})).json()
+        vlist = []
+        for i in pdata['data']['list']: vlist.extend([i['resolutionName'], i['url']])
+        return {'parse': 0, 'url': vlist, 'header': self.header}
 
     def localProxy(self, param):
         pass
-
-    def host_late(self, url_list):
-        if isinstance(url_list, str):
-            urls = [u.strip() for u in url_list.split(',')]
-        else:
-            urls = url_list
-        if len(urls) <= 1:
-            return urls[0] if urls else ''
-
-        results = {}
-        threads = []
-
-        def test_host(url):
-            try:
-                start_time = time.time()
-                response = requests.head(url, timeout=1.0, allow_redirects=False)
-                delay = (time.time() - start_time) * 1000
-                results[url] = delay
-            except Exception as e:
-                results[url] = float('inf')
-        for url in urls:
-            t = threading.Thread(target=test_host, args=(url,))
-            threads.append(t)
-            t.start()
-        for t in threads:
-            t.join()
-        return min(results.items(), key=lambda x: x[1])[0]
 
     def md5(self, sign_key):
         md5_hash = MD5.new()
@@ -195,10 +161,10 @@ class Spider(Spider):
         return '&'.join(f"{k}={v}" for k, v in param.items())
 
     def getheaders(self, param=None):
-        if param is None:param = {}
-        t=str(int(time.time()*1000))
-        param['key']='cb808529bae6b6be45ecfab29a4889bc'
-        param['t']=t
+        if param is None: param = {}
+        t = str(int(time.time() * 1000))
+        param['key'] = 'cb808529bae6b6be45ecfab29a4889bc'
+        param['t'] = t
         sha1_hash = SHA1.new()
         sha1_hash.update(self.md5(self.js(param)).encode('utf-8'))
         sign = sha1_hash.hexdigest()
@@ -208,7 +174,7 @@ class Spider(Spider):
             'Accept': 'application/json, text/plain, */*',
             'sign': sign,
             't': t,
-            'deviceid':deviceid
+            'deviceid': deviceid
         }
         return headers
 
@@ -222,4 +188,3 @@ class Spider(Spider):
 
     def getvod(self, array):
         return [{self.convert_field_name(k): v for k, v in item.items()} for item in array]
-
