@@ -177,20 +177,6 @@
       }
     },
     {
-      "key": "晓晓",
-      "name": "晓晓",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://ys.ewo.asia",
-        "dataKey": "Z0qTnwyLAJCtuIkI",
-        "dataIv": "Z0qTnwyLAJCtuIkI",
-        "deviceId": "",
-        "version": ""
-      }
-    },
-    {
       "key": "溜溜",
       "name": "溜溜",
       "type": 3,
@@ -439,32 +425,6 @@
         "dataKey": "6a482a70b80eefc9",
         "dataIv": "c995826a3e86fedd",
         "jxurl": "https://www.ququkan.cc"
-      }
-    },
-    {
-      "key": "柚子",
-      "name": "柚子",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppMuou",
-      "ext": {
-        "url": "http://172.247.192.138:17263",
-        "dataKey": "3f94fca574a811a8",
-        "dataIv": "3f94fca574a811a8",
-        "jxurl": "http://172.247.192.140:12264"
-      }
-    },
-    {
-      "key": "火猫",
-      "name": "火猫",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppMuou",
-      "ext": {
-        "url": "http://154.12.90.59:14580",
-        "dataKey": "6b7cf13bf47ba2e6",
-        "dataIv": "6b7cf13bf47ba2e6",
-        "jxurl": "http://app.789dd.cn"
       }
     },
     {
