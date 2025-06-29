@@ -427,6 +427,48 @@
       }
     },
     {
+      "key": "世颜",
+      "name": "世颜",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://sykjw.xyz",
+        "dataKey": "sicnagduxbSfisnz",
+        "dataIv": "sicnagduxbSfisnz",
+        "deviceId": "2112fc5eac600314ba95c4d65da9286b3",
+        "version": "556"
+      }
+    },
+    {
+      "key": "可达",
+      "name": "可达",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://ledayy.com",
+        "dataKey": "hjjp68c2okw12345",
+        "dataIv": "hjjp68c2okw12345",
+        "deviceId": "24bba8caeff7b3a63a486806bd7130fca",
+        "version": "102"
+      }
+    },
+    {
+      "key": "超前",
+      "name": "超前",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://app.ystva.com",
+        "dataKey": "A1akVPQmnnE4Fz9Z",
+        "dataIv": "A1akVPQmnnE4Fz9Z",
+        "deviceId": "2112fc5eac600314ba95c4d65da9286b3",
+        "version": "134"
+      }
+    },    
+    {
       "key": "哔哩视频",
       "name": "哔哩",
       "type": 3,
