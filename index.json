@@ -149,20 +149,6 @@
       }
     },    
     {
-      "key": "剧咖",
-      "name": "剧咖",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://get.xiaoqi0.cn",
-        "dataKey": "jukayingshi66666",
-        "dataIv": "jukayingshi66666",
-        "deviceId": "",
-        "version": ""
-      }
-    },
-    {
       "key": "海豚",
       "name": "海豚",
       "type": 3,
@@ -414,6 +400,19 @@
         "version": "103"
       }
     },
+    {
+      "key": "樱桃",
+      "name": "樱桃",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppMuou",
+      "ext": {
+        "url": "http://sp.dxgsp.cc",
+        "dataKey": "25f9e794323b4538",
+        "dataIv": "25f9e794323b4538",
+        "jxurl": "https://ap.dxgsp.cc"
+      }
+    },    
     {
       "key": "趣看",
       "name": "趣看",
