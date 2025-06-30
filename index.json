@@ -79,6 +79,18 @@
       "ext":"./js/AppGet.js?type=url&params=https://appcms.tzys.xyz$KL6vlZkw6WL5x90U$KL6vlZkw6WL5x90U"
     },
     {
+      "key": "行动",
+      "name": "行动",
+      "type": 3,
+      "api": "csp_AppSy",
+      "ext": {
+        "url": "http://160.202.246.9:2356",
+        "key1": "aassddwwxxllsx1x",
+        "key2": "aassddwwxxllsx1x",
+        "key3": "aassddwwxxllsx1x"
+      }
+    },    
+    {
       "key": "仓鼠",
       "name": "仓鼠",
       "type": 3,
