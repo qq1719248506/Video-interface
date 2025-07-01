@@ -89,6 +89,18 @@
         "key2": "aassddwwxxllsx1x",
         "key3": "aassddwwxxllsx1x"
       }
+    },
+    {
+      "key": "斗量",
+      "name": "斗量",
+      "type": 3,
+      "api": "csp_AppSy",
+      "ext": {
+        "url": "https://app.ystva.com",
+        "key1": "hsZwQK5yrnefW7OJ",
+        "key2": "hsZwQK5yrnefW7OJ",
+        "key3": "hsZwQK5yrnefW7OJ"
+      }
     },    
     {
       "key": "仓鼠",
