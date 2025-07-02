@@ -123,6 +123,18 @@
         "key2": "hsZwQK5yrnefW7OJ",
         "key3": "hsZwQK5yrnefW7OJ"
       }
+    },
+    {
+      "key": "追忆",
+      "name": "追忆",
+      "type": 3,
+      "api": "csp_AppSy",
+      "ext": {
+        "url": "http://110.42.7.130:1866",
+        "key1": "aassddwwxxllsx1x",
+        "key2": "2083c87e98b6ce08",
+        "key3": "2083c87e98b6ce08"
+      }
     },    
     {
       "key": "仓鼠",
@@ -138,6 +150,21 @@
         "version": "120"
       }
     },
+    {
+      "key": "咖啡",
+      "name": "咖啡",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet2",
+      "ext": {
+        "url": "",
+        "site": "https://cdn-tupic-duofun-neimenggu.56uxi.com/2.txt",
+        "dataKey": "qwertyuiopqwertt",
+        "dataIv": "qwertyuiopqwertt",
+        "deviceId": "",
+        "version": "109"
+      }
+    },    
     {
       "key": "橘猫",
       "name": "橘猫",
@@ -180,6 +207,49 @@
         "version": "50000"
       }
     },
+    {
+      "key": "蓝鹰",
+      "name": "蓝鹰",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet2",
+      "ext": {
+        "url": "http://172.247.192.138:18520",
+        "dataKey": "SuNlEkOLAoWJj1Oe",
+        "dataIv": "SuNlEkOLAoWJj1Oe",
+        "deviceId": "",
+        "version": ""
+      }
+    },
+    {
+      "key": "云速",
+      "name": "云速",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "",
+        "site": "http://59.153.167.137:7788/1.json",
+        "dataKey": "4d83b87c4c5ea111",
+        "dataIv": "4d83b87c4c5ea111",
+        "deviceId": "",
+        "version": "105"
+      }
+    },
+    {
+      "key": "桃子",
+      "name": "桃子",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://appcms.tzys.xyz",
+        "dataKey": "KL6vlZkw6WL5x90U",
+        "dataIv": "KL6vlZkw6WL5x90U",
+        "deviceId": "4b4c36766c5a6b7736574c3578393055",
+        "version": "119"
+      }
+    },    
     {
       "key": "魔方",
       "name": "魔方",
