@@ -103,6 +103,20 @@
         "deviceId": "",
         "version": "105"
       }        
+    },
+    {
+      "key": "神龙",
+      "name": "神龙",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://appapi.aikansl.com",
+        "dataKey": "slysApp4137$#@#!",
+        "dataIv": "slysApp4137$#@#!",
+        "deviceId": "",
+        "version": ""
+      }
     },    
     {
       "key": "行动",
