@@ -182,6 +182,133 @@
         "deviceId": "",
         "version": "109"
       }
+    },
+    {
+      "key": "麻花",
+      "name": "麻花",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "",
+        "site": "https://apicoss-alimama-com-1307821617.file.myqcloud.com/Uploadsget",
+        "dataKey": "q7gj4f9br3fls6nh",
+        "dataIv": "q7gj4f9br3fls6nh",
+        "deviceId": "",
+        "version": ""
+      }
+    },
+    {
+      "key": "豆丁",
+      "name": "豆丁",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "",
+        "site": "https://vip.123pan.cn/1848451100/zl/xfdd.txt",
+        "dataKey": "xasdasdqwertyuio",
+        "dataIv": "xasdasdqwertyuio",
+        "deviceId": "",
+        "version": ""
+      }
+    },
+    {
+      "key": "灵虎",
+      "name": "灵虎",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "",
+        "site": "https://bind.315999.xyz/89.txt",
+        "dataKey": "#getapp@TMD@2025",
+        "dataIv": "#getapp@TMD@2025",
+        "deviceId": "",
+        "version": ""
+      }
+    },
+    {
+      "key": "鲶鱼",
+      "name": "鲶鱼",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://47.122.22.78",
+        "dataKey": "2234567890123456",
+        "dataIv": "2234567890123456",
+        "deviceId": "",
+        "version": ""
+      }
+    },
+    {
+      "key": "码头",
+      "name": "码头",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://www.lgmt.cc",
+        "dataKey": "asfjaskasgggassf",
+        "dataIv": "asfjaskasgggassf",
+        "deviceId": "",
+        "version": ""
+      }
+    },
+    {
+      "key": "米诺",
+      "name": "米诺",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://www.milkidc.cn",
+        "dataKey": "20c79c979da8db0f",
+        "dataIv": "20c79c979da8db0f",
+        "deviceId": "",
+        "version": ""
+      }
+    },
+    {
+      "key": "萝卜",
+      "name": "萝卜",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://apiapplbys.lbys.app:5678",
+        "dataKey": "apiapplbyskey168",
+        "dataIv": "apiapplbyskey168",
+        "deviceId": "",
+        "version": "107"
+      }
+    },
+    {
+      "key": "小红",
+      "name": "小红",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://www.xiaohys.com",
+        "dataKey": "ENonBHeVBoYZhVUV",
+        "dataIv": "ENonBHeVBoYZhVUV",
+        "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
+        "version": "166"
+      }
+    },
+    {
+      "key": "米兔",
+      "name": "米兔",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://v.tkbot.fun",
+        "dataKey": "d032c12876bc6848",
+        "dataIv": "d032c12876bc6848",
+        "deviceId": "",
+        "version": "200"
+      }
     },    
     {
       "key": "橘猫",
@@ -204,13 +331,14 @@
       "quickSearch": 1,
       "api": "csp_AppGet2",
       "ext": {
-        "url": "http://122.228.193.2:9988",
+        "url": "",
+        "site": "https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt",
         "dataKey": "ca94b06ca359d80e",
         "dataIv": "ca94b06ca359d80e",
         "deviceId": "",
         "version": "120"
       }
-    },
+    },    
     {
       "key": "榴莲",
       "name": "榴莲",
