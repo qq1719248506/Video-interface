@@ -1654,7 +1654,28 @@
         "邵氏片",
         "动画片"
       ]
-    },      
+    },
+    {
+      "key":"聚星资源",
+      "name": "聚星",
+      "type": 1,
+      "api": "https://jxzyw.top/api.php/provide/vod/",
+      "playUrl": ""
+    },
+    {
+      "key":"茅台资源",
+      "name": "茅台",
+      "type": 1,
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/"
+      "playUrl": "https://mtjiexi.cc:966/?url="
+    },
+    {
+      "key":"魔都资源",
+      "name": "魔都",
+      "type": 1,
+      "api": "https://www.moduzy.com/api.php/provide/vod/",
+      "playUrl": ""
+    }, 
     {
       "key": "push_agent",
       "name": "推送",
