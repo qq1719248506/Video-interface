@@ -11,6 +11,19 @@
       "searchable": 0
     },
     {
+      "key": "配置中心",
+      "name": "配置",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },    
+    {
       "key": "1905影视",
       "name": "1905",
       "type": 3,
@@ -34,112 +47,675 @@
       "quickSearch": 1
     },    
     {
-      "key": "dr_AppGet_魔方",
-      "name": "🍐魔方[影][DR]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/AppGet.js?type=url&params=https://mfsp33.top$1234567887654321$1234567887654321"
+      "key":"drjs_麻花",
+      "name":"麻花",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=$q7gj4f9br3fls6nh$q7gj4f9br3fls6nh"
     },
     {
-      "key": "dr_AppGet_桃子",
-      "name": "🍐桃子[影][DR]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/AppGet.js?type=url&params=https://appcms.tzys.xyz$KL6vlZkw6WL5x90U$KL6vlZkw6WL5x90U"
+      "key":"drjs_豆丁",
+      "name":"豆丁",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=$xasdasdqwertyuio$xasdasdqwertyuio"
     },
     {
-      "key": "dr_AppGet_剧咖",
-      "name": "🍐剧咖[影][DR]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/AppGet.js?type=url&params=https://get.xiaoqi0.cn$jukayingshi66666$jukayingshi66666"
+      "key":"drjs_灵虎",
+      "name":"灵虎",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=$#getapp@TMD@2025$#getapp@TMD@2025"
     },
     {
-      "key": "dr_AppGet_诺映",
-      "name": "🍐诺映[影][DR]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/AppGet.js?type=url&params=https://www.noad.top$708FA298F0855840$708FA298F0855840"
-    },     
-    {
-      "key": "dr_AppGet_海豚",
-      "name": "🍐海豚[影][DR]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/AppGet.js?type=url&params=https://appcms.htsp4k.top$7CYQQzwchRQpHCOj$7CYQQzwchRQpHCOj"
+      "key":"drjs_鲶鱼",
+      "name":"鲶鱼",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=http://47.122.22.78$2234567890123456$2234567890123456"
     },
     {
-      "key": "dr_AppGet_溜溜",
-      "name": "🍐溜溜[影][DR]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/AppGet.js?type=url&params=https://appcms.ll4k.xyz$NiDGaKiVnkO3QX1Q$NiDGaKiVnkO3QX1Q"
+      "key":"drjs_码头",
+      "name":"码头",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=https://www.lgmt.cc$asfjaskasgggassf$asfjaskasgggassf"
+    },
+    {
+      "key":"drjs_米诺",
+      "name":"米诺",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=http://www.milkidc.cn$20c79c979da8db0f$20c79c979da8db0f"
+    },
+    {
+      "key":"drjs_萝卜",
+      "name":"萝卜",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=https://apiapplbys.lbys.app:5678$apiapplbyskey168$apiapplbyskey168"
+    },
+    {
+      "key":"drjs_小红",
+      "name":"小红",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=https://www.xiaohys.com$ENonBHeVBoYZhVUV$ENonBHeVBoYZhVUV"
+    },
+    {
+      "key":"drjs_米诺",
+      "name":"米诺",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=http://www.milkidc.cn$20c79c979da8db0f$20c79c979da8db0f"
+    }, 
+    {
+      "key":"drjs_仓鼠",
+      "name":"仓鼠",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=https://qjappcms.cs4k.top$Z98KXaLtO2wC1Pte$Z98KXaLtO2wC1Pte"
+    },
+    {
+      "key":"drjs_光盘",
+      "name":"光盘",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=http://119.13.88.18$xnybssspqtwotuwj$xnybssspqtwotuwj"
+    },
+    {
+      "key":"drjs_客星",
+      "name":"客星",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=https://api.hiapp.com.cn$2268331221bobobo$2268331221bobobo"
+    },
+    {
+      "key":"drjs_云速",
+      "name":"云速",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=http://59.153.167.137:7788/1.json$4d83b87c4c5ea111$4d83b87c4c5ea111"
+    },
+    {
+      "key":"drjs_魔方",
+      "name":"魔方",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=https://mfsp33.top$1234567887654321$1234567887654321"
+    },
+    {
+      "key":"drjs_桃子",
+      "name":"桃子",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=https://appcms.tzys.xyz$KL6vlZkw6WL5x90U$KL6vlZkw6WL5x90U"
+    },
+    {
+      "key":"drjs_诺映",
+      "name":"诺映",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=https://www.noad.top$708FA298F0855840$708FA298F0855840"
+    },
+    {
+      "key":"drjs_海豚",
+      "name":"海豚",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=https://appcms.htsp4k.top$7CYQQzwchRQpHCOj$7CYQQzwchRQpHCOj"
+    },
+    {
+      "key":"drjs_溜溜",
+      "name":"溜溜",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=https://appcms.ll4k.xyz$NiDGaKiVnkO3QX1Q$NiDGaKiVnkO3QX1Q"
+    },
+    {
+      "key":"drjs_剧咖",
+      "name":"剧咖",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=https://ys.xiaoqi0.cn$jukayingshi88888$jukayingshi88888"
+    },
+    {
+      "key":"drjs_瓜萌",
+      "name":"瓜萌",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=https://www.guahd.com$f2A7D4B9E8C16531$f2A7D4B9E8C16531"
+    },
+    {
+      "key":"drjs_晴天",
+      "name":"晴天",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=https://qjappcms.sun4k.top$sBxqXVF5pAHbGzrH$sBxqXVF5pAHbGzrH"
+    },
+    {
+      "key":"drjs_再看",
+      "name":"再看",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=http://149.88.64.161:8627$123456789ABCDEFG$123456789ABCDEFG"
+    },
+    {
+      "key":"drjs_橘子",
+      "name":"橘子",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=https://api1.bffree.cn$2015692015692015$2015692015692015"
+    },
+    {
+      "key":"drjs_彼岸",
+      "name":"彼岸",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=https://mfsp33.top$1234567887654321$1234567887654321"
+    },
+    {
+      "key":"drjs_雨滴",
+      "name":"雨滴",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=https://c8w2ov7u5wg2z1o8p21c.aliyuncs.click:27899$k9o3p2c8b7m3z0o8$k9o3p2c8b7m3z0o8"
+    },
+    {
+      "key":"drjs_米兔",
+      "name":"米兔",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=http://v.tkbot.fun$d032c12876bc6848$d032c12876bc6848"
+    },
+    {
+      "key":"drjs_在看",
+      "name":"在看",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=http://149.88.64.161:9525$123456789ABCDEFG$123456789ABCDEFG"
+    },
+    {
+      "key":"drjs_星河",
+      "name":"星河",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=http://121.62.22.204:9876$f5e2tx53ykp6s2c9$f5e2tx53ykp6s2c9"
+    },
+    {
+      "key":"drjs_若惜",
+      "name":"若惜",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=http://110.40.59.188:9527$ebad3f1a58b13933$ebad3f1a58b13933"
+    },
+    {
+      "key":"drjs_外剧",
+      "name":"外剧",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=https://guowaiju.com$7xv16h7qgkrs9b1p$7xv16h7qgkrs9b1p"
+    },
+    {
+      "key":"drjs_曼波",
+      "name":"曼波",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=https://app.omofun1.top$66dc309cbeeca454$66dc309cbeeca454"
+    },
+    {
+      "key":"drjs_稀饭",
+      "name":"稀饭",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=https://pzoap.moedot.net$1yZ2Spn9krnzVKoC$1yZ2Spn9krnzVKoC"
+    },
+    {
+      "key":"drjs_咕咕",
+      "name":"咕咕",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=https://www.gugu3.com$nKfZ8KX6JTNWRzTD$nKfZ8KX6JTNWRzTD"
+    },
+    {
+      "key":"drjs_米饭",
+      "name":"米饭",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=http://45.43.29.111:9527$GETMIFUNGEIMIFUN$GETMIFUNGEIMIFUN"
+    },
+    {
+      "key":"drjs_次元",
+      "name":"次元",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=https://jjjj.nilinili.org$672263e98f232a05$672263e98f232a05"
+    },
+    {
+      "key":"drjs_派对",
+      "name":"派对",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=https://qjappcms.acg.party$AmtMYFCJDPoTlK7z$AmtMYFCJDPoTlK7z"
+    },
+    {
+      "key":"drjs_丫丫",
+      "name":"丫丫",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=http://tv.yy-fun.cc$qkxnwkfjwpcnwycl$qkxnwkfjwpcnwycl"
+    },
+    {
+      "key":"drjs_黑猫",
+      "name":"黑猫",
+      "type":3,
+      "api":"https://gitee.com/abac1984/another-d/raw/master/js/drpy2.min.js",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gitee.com/abac1984/another-d/raw/master/js/AppGet.js?type=url&params=https://dm.xxdm123.top:9991$0fe3b5781782c621$0fe3b5781782c621"
+    },
+    {
+      "key":"建安资源",
+      "name": "建安",
+      "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod/"
+    },
+    {
+      "key":"火狐资源",
+      "name": "火狐",
+      "api": "https://hhzyapi.com/api.php/provide/vod/"
     },    
     {
-      "key": "dr_AppGet_晴天",
-      "name": "🍐晴天[影][DR]",
-      "type": 3,"api": "./lib/drpy2.min.js",
+      "key": "神马影视",
+      "name": "神马",
+      "type": 1,
+      "api": "https://www.vod38.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/AppGet.js?type=url&params=https://qjappcms.sun4k.top$sBxqXVF5pAHbGzrH$sBxqXVF5pAHbGzrH"
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "海外剧",
+        "理论片",
+        "邵氏片",
+        "动画片"
+      ]
+    },    
+    {
+      "key":"牛牛资源",
+      "name": "牛牛",
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/"
     },
     {
-      "key": "dr_AppGet_再看",
-      "name": "🍐再看[影][DR]",
+      "key":"鸭鸭资源",
+      "name": "鸭鸭",
+      "api": "https://cj.yayazy.net/api.php/provide/vod/"
+    },
+    {
+      "key":"茅台资源",
+      "name": "茅台",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/"
+    },
+    {
+      "key":"155资源",
+      "name": "一五五",
+      "type": 1,
+      "api": "https://155api.com/api.php/provide/vod/","playUrl": ""
+    },    
+    {
+      "key": "夸父",
+      "name": "夸父",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "csp_PanWebShareCloudKF",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/AppGet.js?type=url&params=http://149.88.64.161:8627$123456789ABCDEFG$123456789ABCDEFG"
+      "changeable": 1,
+      "style": {
+        "type": "list",
+        "ratio": 1.433
+      },
+      "ext": "https://gitee.com/abac1984/another-d/raw/master/cloud/json/kf.json"
     },
-    {"key": "dr_AppGet_橘子","name": "🍐橘子[影][DR]","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/AppGet.js?type=url&params=https://api1.bffree.cn$2015692015692015$2015692015692015"},
-    {"key": "dr_AppGet_雨滴","name": "🍐雨滴[影][DR]","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/AppGet.js?type=url&params=https://c8w2ov7u5wg2z1o8p21c.aliyuncs.click:27899$k9o3p2c8b7m3z0o8$k9o3p2c8b7m3z0o8"},
-    {"key": "dr_AppGet_玉米","name": "🍐玉米[影][DR]","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/AppGet.js?type=url&params=https://www.zjc.app$ab4e9a421675f14b$ab4e9a421675f14b"},
-    {"key": "dr_AppGet_优质","name": "🍐优质[影][DR]","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/AppGet.js?type=url&params=https://apiapplbys.lbys.app:5678$apiapplbyskey168$apiapplbyskey168"},
-    {"key": "dr_AppGet_米兔","name": "🍐米兔[影][DR]","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/AppGet.js?type=url&params=http://v.tkbot.fun$d032c12876bc6848$d032c12876bc6848"},
-    {"key": "dr_AppGet_在看","name": "🍐在看[影][DR]","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/AppGet.js?type=url&params=http://149.88.64.161:9525$123456789ABCDEFG$123456789ABCDEFG"},
-    {"key": "dr_AppGet_星河","name": "🍐星河[影][DR]","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/AppGet.js?type=url&params=http://121.62.22.204:9876$f5e2tx53ykp6s2c9$f5e2tx53ykp6s2c9"},
-    {"key": "dr_AppGet_若惜","name": "🍐若惜[影][DR]","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/AppGet.js?type=url&params=http://110.40.59.188:9527$ebad3f1a58b13933$ebad3f1a58b13933"},
-    {"key": "dr_AppGet_外剧","name": "🍐外剧[影][DR]","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/AppGet.js?type=url&params=https://guowaiju.com$7xv16h7qgkrs9b1p$7xv16h7qgkrs9b1p"},
-    {"key": "dr_AppGet_橘猫","name": "🍐橘猫[影][DR]","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/AppGet.js?type=url&params=https://appcms.jm4k.top$KPEkKAESYi38CQdn$KPEkKAESYi38CQdn"},
-    {"key": "dr_AppGet_小红","name": "🍐小红[影][DR]","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/AppGet.js?type=url&params=https://www.xiaohys.com$ENonBHeVBoYZhVUV$ENonBHeVBoYZhVUV"},
-    {"key": "dr_AppGet_格格","name": "🍐格格[影][DR]","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/AppGet.js?type=url&params=http://111.180.198.40:1110$asgcxhjkts124573$asgcxhjkts124573"},
-{"key":"155资源","name": "155资源","type": 1,"api": "https://155api.com/api.php/provide/vod/","playUrl": ""},    
-{"key": "神马","name": "神马","type": 1,"api": "https://www.vod38.com/api.php/provide/vod/","playUrl": ""},
-{"key": "dr_meow[搜]","name": "🍳meow[搜][DR]","type": 3,"api": "./libs/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./js/搜索/meow[搜].js"},
-{"key": "dr_爱盘[搜]","name": "🍳爱盘[搜][DR]","type": 3,"api": "./libs/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./js/搜索/爱盘[搜].js"},
-{"key": "dr_趣盘[搜]","name": "🍳趣盘[搜][DR]","type": 3,"api": "./libs/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./js/搜索/趣盘[搜].js"},    
-{"key": "dr_影搜[搜]","name": "🍳影搜[搜][DR]","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./js/搜索/影搜[搜].js"},
-{"key": "dr_易搜[搜]","name": "🍳易搜[搜][DR]","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./js/搜索/易搜[搜].js"},
-{"key": "dr_技术派[搜]","name": "🍳技术派[搜][DR]","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./js/搜索/技术派[搜].js"},
-{"key": "dr_盘他[搜]","name": "🍳盘他[搜][DR]","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./js/搜索/盘他[搜].js"},
-{"key": "dr_懒盘[搜]","name": "🍳懒盘[搜][DR]","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./js/搜索/懒盘[搜].js"},
-{"key": "dr_全盘[搜]","name": "🍳全盘[搜][DR]","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./js/搜索/全盘[搜].js"},
-{"key": "dr_夸克[搜]","name": "🍳夸克[搜][DR]","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./js/搜索/夸克[搜].js"},
-{"key": "dr_爱搜B[搜]","name": "🍳爱搜B[搜][DR]","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./js/搜索/爱搜B[搜].js"},
-{"key": "dr_爱搜Q[搜]","name": "🍳爱搜Q[搜][DR]","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./js/搜索/爱搜Q[搜].js"},
-{"key": "dr_爱搜U[搜]","name": "🍳爱搜U[搜][DR]","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./js/搜索/爱搜U[搜].js"}    
-
+    {
+      "key": "趣盘",
+      "name": "趣盘",
+      "type": 3,
+      "api": "csp_PanWebQu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "style": {
+        "type": "list",
+        "ratio": 1.433
+      },
+      "ext": {
+        "url": "https://www.qupanshe.com"
+      }
+    },
+    {
+      "key": "盘库",
+      "name": "盘库",
+      "type": 3,
+      "api": "csp_PanWebKuBa",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "https://panku8.com,https://yipanso.com"
+      }
+    },
+    {
+      "key": "阿里云盘",
+      "name": "阿里｜云盘",
+      "type": 3,
+      "api": "csp_PanAli",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list",
+        "ratio": 1.433
+      },
+      "ext": "https://gitee.com/abac1984/another-d/raw/master/cloud/json/aliShare.json"
+    },
+    {
+      "key": "夸克云盘",
+      "name": "夸克｜云盘",
+      "type": 3,
+      "api": "csp_PanQuark",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list",
+        "ratio": 1.433
+      },
+      "ext": "https://gitee.com/abac1984/another-d/raw/master/cloud/json/quarkShare.json"
+    },
+    {
+      "key": "UC",
+      "name": "UC｜云盘",
+      "type": 3,
+      "api": "csp_PanUc",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list",
+        "ratio": 1.433
+      },
+      "ext": "https://gitee.com/abac1984/another-d/raw/master/cloud/json/ucShare.json"
+    },
+    {
+      "key": "百度云盘",
+      "name": "百度｜云盘",
+      "type": 3,
+      "api": "csp_PanBaiDu",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list",
+        "ratio": 1.433
+      }
+    },
+    {
+      "key": "哔哩合集",
+      "name": "哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://gitee.com/abac1984/another-d/raw/master/movie/json/BLHJ.json",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+      }
+    },
+    {
+      "key": "哔哩哔哩戏曲",
+      "name": "音乐",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
+        "json": "https://gitee.com/abac1984/another-d/raw/master/other/json/BLYCH.json"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
+    {
+      "key": "哔哩哔哩听书",
+      "name": "听书",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
+        "json": "https://gitee.com/abac1984/another-d/raw/master/other/json/BLTS.json"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
+    {
+      "key": "哔哩哔哩相声",
+      "name": "相声",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
+        "json": "https://gitee.com/abac1984/another-d/raw/master/other/json/BLXS.json"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
+    {
+      "key": "哔哩哔哩小品",
+      "name": "小品",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
+        "json": "https://gitee.com/abac1984/another-d/raw/master/other/json/BLXP.json"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
+    {
+      "key": "哔哩哔哩戏曲",
+      "name": "戏曲",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
+        "json": "https://gitee.com/abac1984/another-d/raw/master/other/json/BLXQ.json"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
+    {
+      "key": "急救教学",
+      "name": "急救｜教学",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      },
+      "gridview": "0-0-4.1"
+    },
+    {
+      "key": "养生堂",
+      "name": "养生",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://gitee.com/abac1984/another-d/raw/master/other/json/YST.json",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
+    {
+      "key": "push_agent",
+      "name": "推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0
+    }    
   ],
   "parses": [
     {
