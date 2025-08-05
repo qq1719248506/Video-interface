@@ -1,7 +1,5 @@
 # Video-interface
 
-TVBOX/影视接口解密 https://tools.v1.mk/
-
 加密接口解析提取: https://www.xn--sss604efuw.com/jm/ 
 
 加密解密：http://www.sailtool.com/base64/
