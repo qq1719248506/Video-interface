@@ -320,6 +320,26 @@
       "ext": "./libs/AppGet.js?type=url&params=http://www.milkidc.cn$20c79c979da8db0f$20c79c979da8db0f"
     },
     {
+      "key": "dr_武享吧[体]",
+      "name": "武享吧",
+      "type": 3,
+      "api": "./libs/drpy2.min.js",
+      "searchable": 2,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./js/武吧.js"
+    },    
+    {
+      "key": "dr_NY影院",
+      "name": "NY影院",
+      "type": 3,
+      "api": "./libs/drpy2.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./js/NY影院.js"
+    },    
+    {
       "key": "ConfigCenter",
       "name": "配置",
       "type": 3,
@@ -776,4 +796,5 @@
     }
   ]
 }
+
 
