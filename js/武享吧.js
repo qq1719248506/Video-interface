@@ -13,7 +13,7 @@ var rule = {
 	timeout:5000,//网站的全局请求超时,默认是3000毫秒
 	class_parse: '#menu-xinjian&&li;a&&Text;a&&href;net/(.*)',
 	play_parse:true,
-	cate_exclude:'首 页|赛事预告|美国格斗赛|亚洲格斗赛|其他格斗赛|日本搏击赛|裸拳赛',
+	cate_exclude:'首 页|直播预告|MMA|搏击|泰拳|拳击|裸拳|柔术|单场|赛事大全',
 	limit:6,
 	推荐: 'div.apc-grid-item;*;*;.views&&Text;a&&href',
 	一级: '.site-main&&article;img&&alt;img&&data-original;.grid-inf-l&&Text;a&&href',
