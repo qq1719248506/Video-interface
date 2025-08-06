@@ -1,5 +1,5 @@
 {
-  "spider": "./custom_spider.jar;md5;328a3edfc912b79f6707482bc533dfe2",
+  "spider": "./jar/custom_spider.jar;md5;328a3edfc912b79f6707482bc533dfe2",
   "wallpaper": "https://bing.img.run/rand.php",
   "lives": [
     {
@@ -776,3 +776,4 @@
     }
   ]
 }
+
