@@ -80,6 +80,18 @@
       }
     },
     {
+      "key":"py_AppGet小野",
+      "name":"小野",
+      "type":3,
+      "api":"./py/模板/AppGet.py",
+      "ext":{
+        "host":"https://appcms.xy4k.com",
+        "api":"/api.php/getappapi",
+        "datakey":"7SDWjknU34zqFbVr",
+        "dataiv":"7SDWjknU34zqFbVr"
+      }
+    },
+    {
       "key": "dr_AppGet_桃子",
       "name": "桃子",
       "type": 3,
@@ -796,6 +808,7 @@
     }
   ]
 }
+
 
 
 
