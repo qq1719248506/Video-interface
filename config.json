@@ -80,25 +80,10 @@
       }
     },
     {
-      "key":"py_AppGet小野",
-      "name":"小野",
-      "type":3,
-      "api":"./py/模板/AppGet.py",
-      "ext":{
-        "host":"https://appcms.xy4k.com",
-        "api":"/api.php/getappapi",
-        "datakey":"7SDWjknU34zqFbVr",
-        "dataiv":"7SDWjknU34zqFbVr"
-      }
-    },
-    {
       "key": "dr_AppGet_桃子",
       "name": "桃子",
       "type": 3,
       "api": "./libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": "./libs/AppGet.js?type=url&params=https://appcms.tzys.xyz$KL6vlZkw6WL5x90U$KL6vlZkw6WL5x90U"
     },
     {
@@ -106,9 +91,6 @@
       "name": "忍者",
       "type": 3,
       "api": "./libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": "./libs/AppGet.js?type=url&params=https://mfxs123.sbs$1234567887654321$1234567887654321"
     },
     {
@@ -116,9 +98,6 @@
       "name": "晴天",
       "type": 3,
       "api": "./libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": "./libs/AppGet.js?type=url&params=https://qjappcms.sun4k.top$sBxqXVF5pAHbGzrH$sBxqXVF5pAHbGzrH"
     },
     {
@@ -126,9 +105,6 @@
       "name": "再看",
       "type": 3,
       "api": "./libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": "./libs/AppGet.js?type=url&params=http://149.88.64.161:8627$123456789ABCDEFG$123456789ABCDEFG"
     },
     {
@@ -136,9 +112,6 @@
       "name": "橘子",
       "type": 3,
       "api": "./libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": "./libs/AppGet.js?type=url&params=https://api1.bffree.cn$2015692015692015$2015692015692015"
     },
     {
@@ -651,6 +624,47 @@
       }
     },
     {
+      "key": "速影TV",
+      "name": "速影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/速影.json"
+    },
+    {
+      "key": "皮影",
+      "name": "皮影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/皮影.json"
+    },
+    {
+      "key": "小鸭",
+      "name": "小鸭",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/小鸭.json"
+    },    
+    {
+      "key": "神马影视",
+      "name": "神马",
+      "type": 1,
+      "api": "https://www.vod38.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "纪录片",
+        "国产剧",
+        "海外剧",
+        "理论片",
+        "邵氏片",
+        "动画片"
+      ]
+    },    
+    {
       "key": "360资源",
       "name": "360",
       "type": 1,
@@ -658,15 +672,6 @@
       "searchable": 1,
       "changeable": 1,
       "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "国产剧",
-        "韩国剧",
-        "日本剧",
-        "电影片",
-        "连续剧",
-        "综艺片",
-        "动漫片",
         "动作片",
         "喜剧片",
         "爱情片",
@@ -697,15 +702,6 @@
       "searchable": 1,
       "changeable": 1,
       "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "国产剧",
-        "韩国剧",
-        "日本剧",
-        "电影片",
-        "连续剧",
-        "综艺片",
-        "动漫片",
         "动作片",
         "喜剧片",
         "爱情片",
@@ -745,15 +741,6 @@
       "searchable": 1,
       "changeable": 1,
       "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "国产剧",
-        "韩国剧",
-        "日本剧",
-        "电影片",
-        "连续剧",
-        "综艺片",
-        "动漫片",
         "动作片",
         "喜剧片",
         "爱情片",
@@ -808,6 +795,7 @@
     }
   ]
 }
+
 
 
 
