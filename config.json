@@ -114,16 +114,6 @@
       "ext": "./libs/AppGet.js?type=url&params=https://apiapplbys.lbys.app:5678$apiapplbyskey168$apiapplbyskey168"
     },
     {
-      "key": "dr_AppGet_在看",
-      "name": "在看",
-      "type": 3,
-      "api": "./libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./libs/AppGet.js?type=url&params=http://149.88.64.161:9525$123456789ABCDEFG$123456789ABCDEFG"
-    },
-    {
       "key": "dr_AppGet_若惜",
       "name": "若惜",
       "type": 3,
@@ -174,26 +164,6 @@
       "ext": "./libs/AppGet.js?type=url&params=http://api.heiykj.cn$4990488248904884$4990488248904884"
     },
     {
-      "key": "dr_AppGet_瓜萌",
-      "name": "瓜萌",
-      "type": 3,
-      "api": "./libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./libs/AppGet.js?type=url&params=https://www.guahd.com$f2A7D4B9E8C16531$f2A7D4B9E8C16531"
-    },
-    {
-      "key": "dr_AppGet_溜溜",
-      "name": "溜溜",
-      "type": 3,
-      "api": "./libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./libs/AppGet.js?type=url&params=https://appcms.ll4k.xyz$NiDGaKiVnkO3QX1Q$NiDGaKiVnkO3QX1Q"
-    },
-    {
       "key": "dr_AppGet_沐沐",
       "name": "沐沐",
       "type": 3,
@@ -222,16 +192,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./libs/AppGet.js?type=url&params=https://appcms.htsp4k.top$7CYQQzwchRQpHCOj$7CYQQzwchRQpHCOj"
-    },
-    {
-      "key": "dr_AppGet_诺映",
-      "name": "诺映",
-      "type": 3,
-      "api": "./libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./libs/AppGet.js?type=url&params=https://www.noad.top$708FA298F0855840$708FA298F0855840"
     },
     {
       "key": "dr_AppGet_世颜",
@@ -774,6 +734,7 @@
     }
   ]
 }
+
 
 
 
