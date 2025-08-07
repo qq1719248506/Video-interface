@@ -80,32 +80,11 @@
       }
     },
     {
-      "key": "dr_AppGet_桃子",
-      "name": "桃子",
-      "type": 3,
-      "api": "./libs/drpy2.min.js",
-      "ext": "./libs/AppGet.js?type=url&params=https://appcms.tzys.xyz$KL6vlZkw6WL5x90U$KL6vlZkw6WL5x90U"
-    },
-    {
-      "key": "dr_AppGet_忍者",
-      "name": "忍者",
-      "type": 3,
-      "api": "./libs/drpy2.min.js",
-      "ext": "./libs/AppGet.js?type=url&params=https://mfxs123.sbs$1234567887654321$1234567887654321"
-    },
-    {
       "key": "dr_AppGet_晴天",
       "name": "晴天",
       "type": 3,
       "api": "./libs/drpy2.min.js",
       "ext": "./libs/AppGet.js?type=url&params=https://qjappcms.sun4k.top$sBxqXVF5pAHbGzrH$sBxqXVF5pAHbGzrH"
-    },
-    {
-      "key": "dr_AppGet_再看",
-      "name": "再看",
-      "type": 3,
-      "api": "./libs/drpy2.min.js",
-      "ext": "./libs/AppGet.js?type=url&params=http://149.88.64.161:8627$123456789ABCDEFG$123456789ABCDEFG"
     },
     {
       "key": "dr_AppGet_橘子",
@@ -515,13 +494,13 @@
     },
     {
       "key": "lf_live10_min",
-      "name": "路飞丨Live",
+      "name": "路飞",
       "type": 3,
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "api": "./lib/lf_live10_min-output.js",
+      "api": "./js/lf_live10_min-output.js",
       "ext": "./json/lf_live.json"
     },
     {
@@ -795,6 +774,7 @@
     }
   ]
 }
+
 
 
 
