@@ -64,20 +64,20 @@
       "filterable": 1
     },
     {
-      "key": "旗星",
-      "name": "旗星",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "./py/模板/AppGet.py",
-      "ext": {
-        "url": "http://ys.qist.top",
-        "site": "",
-        "dataKey": "2SWSPFxugBLPPOKo",
-        "dataIv": "2SWSPFxugBLPPOKo",
-        "deviceId": "",
-        "version": "120"
+      "key":"py_AppGet_旗星",
+      "name":"旗星",
+      "type":3,
+      "api":"./py/模板/AppGet.py",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":{
+        "host":"http://ys.qist.top",
+        "api":"/api.php/AppGetapi",
+        "datakey":"2SWSPFxugBLPPOKo",
+        "dataiv":"2SWSPFxugBLPPOKo"
       }
-    },    
+    },
     {
       "key": "py_AppGet2_仓鼠",
       "name": "仓鼠",
@@ -92,6 +92,21 @@
         "dataiv": "Z98KXaLtO2wC1Pte",
         "deviceId": "",
         "version": "120"
+      }
+    },
+    {
+      "key":"py_乐达_APP",
+      "name":"乐达",
+      "type":3,
+      "api":"./py/模板/AppGet.py",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":{
+        "host":"https://ledayy.com",
+        "api":"/api.php/AppGetapi",
+        "datakey":"hjjp68c2okw12345",
+        "dataiv":"hjjp68c2okw12345"
       }
     },
     {
@@ -592,20 +607,6 @@
       "ext": "./XBPQ/皮影.json"
     },
     {
-      "key":"小鸭看看",
-      "name":"小鸭",
-      "type":3,
-      "api":"csp_XBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":{
-        "分类url":"https://xiaoyakankan.com/cat/15-{catepg}.html",
-        "分类":"福利$15",
-        "类型":"韩国情色片$1551#日本情色片$1552#香港情色片$1553#台湾情色片$1554#美国情色片$1556#欧洲情色片$1557||国产剧$13#香港剧$14#韩国剧$15#欧美剧$16#台湾剧$20#日本剧$21#其它剧$22||空||空||空"
-      }
-    },
-    {
       "key": "神马影视",
       "name": "神马",
       "type": 1,
@@ -756,6 +757,7 @@
     }
   ]
 }
+
 
 
 
