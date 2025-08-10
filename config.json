@@ -86,7 +86,7 @@
       "key": "py_云云_APP",
       "name": "云云",
       "type": 3,
-      "api": " ./py/模板/qijiapp.py",
+      "api": "./py/模板/qijiapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -106,7 +106,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "host": "https://www.guangyingmi.com",
+        "host":"https://www.guangyingmi.com",
         "api": "/api.php/getappapi",
         "datakey": "230fnsodfsdhfon2",
         "dataiv": "230fnsodfsdhfon2"
@@ -241,7 +241,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "host": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json",
+        "host":"https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json",
         "api": "/api.php/qijiappapi",
         "datakey": "AAdgrdghjfgswerA",
         "dataiv": "AAdgrdghjfgswerA"
@@ -911,6 +911,7 @@
     }
   ]
 }
+
 
 
 
