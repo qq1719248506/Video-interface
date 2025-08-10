@@ -73,7 +73,7 @@
       "filterable":1,
       "ext":{
         "host":"http://ys.qist.top",
-        "api":"/api.php/AppGetapi",
+        "api":"/api.php/getappapi",
         "datakey":"2SWSPFxugBLPPOKo",
         "dataiv":"2SWSPFxugBLPPOKo"
       }
@@ -104,7 +104,7 @@
       "filterable":1,
       "ext":{
         "host":"https://ledayy.com",
-        "api":"/api.php/AppGetapi",
+        "api":"/api.php/getappapi",
         "datakey":"hjjp68c2okw12345",
         "dataiv":"hjjp68c2okw12345"
       }
@@ -757,6 +757,7 @@
     }
   ]
 }
+
 
 
 
