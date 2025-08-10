@@ -64,6 +64,21 @@
       "filterable": 1
     },
     {
+      "key": "旗星",
+      "name": "旗星",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "./py/模板/AppGet.py",
+      "ext": {
+        "url": "http://ys.qist.top",
+        "site": "",
+        "dataKey": "2SWSPFxugBLPPOKo",
+        "dataIv": "2SWSPFxugBLPPOKo",
+        "deviceId": "",
+        "version": "120"
+      }
+    },    
+    {
       "key": "py_AppGet2_仓鼠",
       "name": "仓鼠",
       "type": 3,
@@ -741,6 +756,7 @@
     }
   ]
 }
+
 
 
 
