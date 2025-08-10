@@ -1,48 +1,6 @@
 {
   "spider": "./jar/custom_spider.jar;md5;328a3edfc912b79f6707482bc533dfe2",
   "wallpaper": "https://bing.img.run/rand.php",
-  "lives": [
-    {
-      "name": "feiyang.allinone",
-      "type": 0,
-      "url": "http://127.0.0.1:35457/tv.m3u",
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "feiyang.bililive",
-      "type": 0,
-      "url": "http://127.0.0.1:35457/bililive.m3u",
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "feiyang.huyayqk",
-      "type": 0,
-      "url": "http://127.0.0.1:35457/huyayqk.m3u",
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "feiyang.douyuyqk",
-      "type": 0,
-      "url": "http://127.0.0.1:35457/douyuyqk.m3u",
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "feiyang.yylunbo",
-      "type": 0,
-      "url": "http://127.0.0.1:35457/yylunbo.m3u",
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
-  ],
   "sites": [
     {
       "key": "dr_豆瓣",
@@ -110,169 +68,365 @@
       }
     },
     {
-      "key": "dr_AppGet_晴天",
-      "name": "晴天",
+      "key": "py_灵虎_APP",
+      "name": "灵虎",
       "type": 3,
-      "api": "./libs/drpy2.min.js",
-      "ext": "./libs/AppGet.js?type=url&params=https://qjappcms.sun4k.top$sBxqXVF5pAHbGzrH$sBxqXVF5pAHbGzrH"
-    },
-    {
-      "key": "dr_AppGet_橘子",
-      "name": "橘子",
-      "type": 3,
-      "api": "./libs/drpy2.min.js",
-      "ext": "./libs/AppGet.js?type=url&params=https://api1.bffree.cn$2015692015692015$2015692015692015"
-    },
-    {
-      "key": "dr_AppGet_雨滴",
-      "name": "雨滴",
-      "type": 3,
-      "api": "./libs/drpy2.min.js",
+      "api": "./py/模板/AppGet.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./libs/AppGet.js?type=url&params=https://c8w2ov7u5wg2z1o8p21c.aliyuncs.click:27899$k9o3p2c8b7m3z0o8$k9o3p2c8b7m3z0o8"
+      "ext": {
+        "host": "https://bind.315999.xyz/89.txt",
+        "api": "/api.php/getappapi",
+        "datakey": "#getapp@TMD@2025",
+        "dataiv": "#getapp@TMD@2025"
+      }
     },
     {
-      "key": "dr_AppGet_优质",
-      "name": "优质",
+      "key": "py_云云_APP",
+      "name": "云云",
       "type": 3,
-      "api": "./libs/drpy2.min.js",
+      "api": " ./py/模板/qijiapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./libs/AppGet.js?type=url&params=https://apiapplbys.lbys.app:5678$apiapplbyskey168$apiapplbyskey168"
+      "ext": {
+        "host": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/1.txt",
+        "api": "/api.php/qijiappapi",
+        "datakey": "staraugust123456",
+        "dataiv": "staraugust123456"
+      }
     },
     {
-      "key": "dr_AppGet_若惜",
-      "name": "若惜",
+      "key": "py_光影_APP",
+      "name": "光影",
       "type": 3,
-      "api": "./libs/drpy2.min.js",
+      "api": "./py/模板/AppGet.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./libs/AppGet.js?type=url&params=http://110.40.59.188:9527$ebad3f1a58b13933$ebad3f1a58b13933"
+      "ext": {
+        "host": "https://www.guangyingmi.com",
+        "api": "/api.php/getappapi",
+        "datakey": "230fnsodfsdhfon2",
+        "dataiv": "230fnsodfsdhfon2"
+      }
     },
     {
-      "key": "dr_AppGet_外剧",
-      "name": "外剧",
+      "key": "py_火猫_APP",
+      "name": "火猫",
       "type": 3,
-      "api": "./libs/drpy2.min.js",
+      "api": "./py/模板/AppGet.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./libs/AppGet.js?type=url&params=https://guowaiju.com$7xv16h7qgkrs9b1p$7xv16h7qgkrs9b1p"
+      "ext": {
+        "host": "https://cunchu8.obs.cn-north-4.myhuaweicloud.com/03.txt",
+        "api": "/api.php/getappapi",
+        "datakey": "J6AIORKJ3PQOJKM9",
+        "dataiv": "J6AIORKJ3PQOJKM9"
+      }
     },
     {
-      "key": "dr_AppGet_小红",
-      "name": "小红",
+      "key": "py_若雪_APP",
+      "name": "若雪",
       "type": 3,
-      "api": "./libs/drpy2.min.js",
+      "api": "./py/模板/qijiapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./libs/AppGet.js?type=url&params=https://www.xiaohys.com$ENonBHeVBoYZhVUV$ENonBHeVBoYZhVUV"
+      "ext": {
+        "host": "https://appcms.rx4k.top",
+        "api": "/api.php/qijiappapi",
+        "datakey": "ZX10ysTYZWtIJCTU",
+        "dataiv": "ZX10ysTYZWtIJCTU"
+      }
     },
     {
-      "key": "dr_AppGet_光速",
-      "name": "光速",
+      "key": "py_丫丫_APP",
+      "name": "丫丫",
       "type": 3,
-      "api": "./libs/drpy2.min.js",
+      "api": "./py/模板/AppGet.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./libs/AppGet.js?type=url&params=https://c8k2n5l0i9s8b2m1jj8k2x2l9ff68.ydysapi.cfd:27899$k9o3p2c8b7m3z0o8$k9o3p2c8b7m3z0o8"
+      "ext": {
+        "host": "http://tv.yy-fun.cc",
+        "api": "/api.php/getappapi",
+        "datakey": "qkxnwkfjwpcnwycl",
+        "dataiv": "qkxnwkfjwpcnwycl"
+      }
     },
     {
-      "key": "dr_AppGet_淘气",
-      "name": "淘气",
+      "key": "py_爱看_APP",
+      "name": "爱看",
       "type": 3,
-      "api": "./libs/drpy2.min.js",
+      "api": "./py/模板/AppGet.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./libs/AppGet.js?type=url&params=http://api.heiykj.cn$4990488248904884$4990488248904884"
+      "ext": {
+        "host": "http://154.37.220.65",
+        "api": "/api.php/getappapi",
+        "datakey": "uI1TkPJC8B46AyN3",
+        "dataiv": "uI1TkPJC8B46AyN3"
+      }
     },
     {
-      "key": "dr_AppGet_沐沐",
-      "name": "沐沐",
+      "key": "py_蓝光_APP",
+      "name": "蓝光",
       "type": 3,
-      "api": "./libs/drpy2.min.js",
+      "api": "./py/模板/AppGet.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./libs/AppGet.js?type=url&params=http://xk.ys088.cn$1846397456616237$1846397456616237"
+      "ext": {
+        "host": "http://122.228.193.2:9654",
+        "api": "/api.php/getappapi",
+        "datakey": "ca94b06ca3c7d80e",
+        "dataiv": "ca94b06ca3c7d80e"
+      }
     },
     {
-      "key": "dr_AppGet_雄鹰",
-      "name": "雄鹰",
-      "type": 3,
-      "api": "./libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./libs/AppGet.js?type=url&params=http://122.228.193.2:9988$ca94b06ca359d80e$ca94b06ca359d80e"
-    },
-    {
-      "key": "dr_AppGet_海豚",
-      "name": "海豚",
-      "type": 3,
-      "api": "./libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./libs/AppGet.js?type=url&params=https://appcms.htsp4k.top$7CYQQzwchRQpHCOj$7CYQQzwchRQpHCOj"
-    },
-    {
-      "key": "dr_AppGet_世颜",
-      "name": "世颜",
-      "type": 3,
-      "api": "./libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./libs/AppGet.js?type=url&params=https://sykjw.xyz$sicnagduxbSfisnz$sicnagduxbSfisnz"
-    },
-    {
-      "key": "dr_AppGet_可达",
-      "name": "可达",
-      "type": 3,
-      "api": "./libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./libs/AppGet.js?type=url&params=https://ledayy.com$hjjp68c2okw12345$hjjp68c2okw12345"
-    },
-    {
-      "key": "dr_AppGet_云速",
-      "name": "云速",
-      "type": 3,
-      "api": "./libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./libs/AppGet.js?type=url&params=http://59.153.167.137:7788$4d83b87c4c5ea111$4d83b87c4c5ea111"
-    },
-    {
-      "key": "dr_AppGet_豆丁",
+      "key": "py_豆丁_APP",
       "name": "豆丁",
       "type": 3,
-      "api": "./libs/drpy2.min.js",
+      "api": "./py/模板/AppGet.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./libs/AppGet.js?type=url&params=http://110.42.7.59:9066$xasdasdqwertyuio$xasdasdqwertyuio"
+      "ext": {
+        "host": "https://vip.123pan.cn/1848451100/zl/xfdd.txt",
+        "api": "/api.php/getappapi",
+        "datakey": "xasdasdqwertyuio",
+        "dataiv": "xasdasdqwertyuio"
+      }
     },
     {
-      "key": "dr_AppGet_米诺",
-      "name": "米诺",
+      "key": "py_蓝鹰_APP",
+      "name": "蓝鹰",
       "type": 3,
-      "api": "./libs/drpy2.min.js",
+      "api": "./py/模板/qijiapp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./libs/AppGet.js?type=url&params=http://www.milkidc.cn$20c79c979da8db0f$20c79c979da8db0f"
+      "ext": {
+        "host": "https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt",
+        "api": "/api.php/qijiappapi",
+        "datakey": "ca94b06ca359d80e",
+        "dataiv": "ca94b06ca359d80e"
+      }
     },
+    {
+      "key": "py_仓鼠_APP",
+      "name": "仓鼠",
+      "type": 3,
+      "api": "./py/模板/qijiapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/csurl.txt",
+        "api": "/api.php/qijiappapi",
+        "datakey": "Z98KXaLtO2wC1Pte",
+        "dataiv": "Z98KXaLtO2wC1Pte"
+      }
+    },
+    {
+      "key": "py_鲸鱼_APP",
+      "name": "鲸鱼",
+      "type": 3,
+      "api": "./py/模板/qijiapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json",
+        "api": "/api.php/qijiappapi",
+        "datakey": "AAdgrdghjfgswerA",
+        "dataiv": "AAdgrdghjfgswerA"
+      }
+    },
+    {
+      "key": "py_米诺_APP",
+      "name": "米诺",
+      "type": 3,
+      "api": "./py/模板/AppGet.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "http://www.milkidc.cn",
+        "api": "/api.php/getappapi",
+        "datakey": "20c79c979da8db0f",
+        "dataiv": "20c79c979da8db0f"
+      }
+    },
+    {
+      "key": "py_云速_APP",
+      "name": "云速",
+      "type": 3,
+      "api": "./py/模板/AppGet.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "http://59.153.167.137:7788/1.json",
+        "api": "/api.php/getappapi",
+        "datakey": "4d83b87c4c5ea111",
+        "dataiv": "4d83b87c4c5ea111"
+      }
+    },
+    {
+      "key": "py_海豚_APP",
+      "name": "海豚",
+      "type": 3,
+      "api": "./py/模板/AppGet.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "http://getapp.hiapp.com.cn",
+        "api": "/api.php/getappapi",
+        "datakey": "2268331221bobobo",
+        "dataiv": "2268331221bobobo"
+      }
+    },
+    {
+      "key": "py_瓜萌_APP",
+      "name": "瓜萌",
+      "type": 3,
+      "api": "./py/模板/AppGet.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://www.guahd.com/1.txt",
+        "api": "/api.php/getappapi",
+        "datakey": "f2A7D4B9E8C16531",
+        "dataiv": "f2A7D4B9E8C16531"
+      }
+    },
+    {
+      "key": "py_晴天_APP",
+      "name": "晴天",
+      "type": 3,
+      "api": "./py/模板/AppGet.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://qjappcms.sun4k.top",
+        "api": "/api.php/getappapi",
+        "datakey": "sBxqXVF5pAHbGzrH",
+        "dataiv": "sBxqXVF5pAHbGzrH"
+      }
+    },
+    {
+      "key": "py_橘子_APP",
+      "name": "橘子",
+      "type": 3,
+      "api": "./py/模板/AppGet.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "http://t.bffree.cn/1.txt",
+        "api": "/api.php/getappapi",
+        "datakey": "2015692015692015",
+        "dataiv": "2015692015692015"
+      }
+    },
+    {
+      "key": "py_萝卜_APP",
+      "name": "萝卜",
+      "type": 3,
+      "api": "./py/模板/AppGet.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://apiapplbys.lbys.app:5678",
+        "api": "/api.php/getappapi",
+        "datakey": "apiapplbyskey168",
+        "dataiv": "apiapplbyskey168"
+      }
+    },
+    {
+      "key": "py_米兔_APP",
+      "name": "米兔",
+      "type": 3,
+      "api": "./py/模板/AppGet.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://new.tkbot.fun",
+        "api": "/api.php/getappapi",
+        "datakey": "d032c12876bc6848",
+        "dataiv": "d032c12876bc6848"
+      }
+    },
+    {
+      "key": "py_小红_APP",
+      "name": "小红",
+      "type": 3,
+      "api": "./py/模板/AppGet.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://www.xiaohys.com",
+        "api": "/api.php/getappapi",
+        "datakey": "ENonBHeVBoYZhVUV",
+        "dataiv": "ENonBHeVBoYZhVUV"
+      }
+    },
+    {
+      "key": "py_白蛇_APP",
+      "name": "白蛇",
+      "type": 3,
+      "api": "./py/模板/AppGet.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://tengxunyunaliyun.oss-cn-shanghai.aliyuncs.com/tengxunyun.txt",
+        "api": "/api.php/getappapi",
+        "datakey": "n3l2tx5jdkp9s2c8",
+        "dataiv": "n3l2tx5jdkp9s2c8"
+      }
+    },
+    {
+      "key": "py_若惜_APP",
+      "name": "若惜",
+      "type": 3,
+      "api": "./py/模板/AppGet.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "http://110.40.59.188:9527",
+        "api": "/api.php/getappapi",
+        "datakey": "ebad3f1a58b13933",
+        "dataiv": "ebad3f1a58b13933"
+      }
+    },
+    {
+      "key": "py_外剧_APP",
+      "name": "外剧",
+      "type": 3,
+      "api": "./py/模板/AppGet.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://guowaiju.com",
+        "api": "/api.php/getappapi",
+        "datakey": "7xv16h7qgkrs9b1p",
+        "dataiv": "7xv16h7qgkrs9b1p"
+      }
+    },    
     {
       "key": "dr_武享吧",
       "name": "格斗",
@@ -757,6 +911,7 @@
     }
   ]
 }
+
 
 
 
