@@ -432,7 +432,7 @@
       "name": "采集",
       "type": 3,
       "api": "./js/libs/drpy2.min.js",
-      "ext": "./js/采集之王.js?type=url&params=./json/采集静态.json$1$1"
+      "ext": "./js/采集之王.js?type=url&params=../json/采集静态.json$1$1"
     },    
     {
       "key": "dr_武享吧",
@@ -918,6 +918,7 @@
     }
   ]
 }
+
 
 
 
