@@ -86,7 +86,7 @@
       "key": "py_云云_APP",
       "name": "云云",
       "type": 3,
-      "api": "./py/模板/qijiapp.py",
+      "api": "./py/模板/AppGet2.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -918,6 +918,7 @@
     }
   ]
 }
+
 
 
 
