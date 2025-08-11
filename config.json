@@ -426,6 +426,13 @@
         "datakey": "7xv16h7qgkrs9b1p",
         "dataiv": "7xv16h7qgkrs9b1p"
       }
+    },
+    {
+      "key": "采集之王",
+      "name": "采集",
+      "type": 3,
+      "api": "./js/libs/drpy2.min.js",
+      "ext": "./js/采集之王.js?type=url&params=./json/采集静态.json$1$1"
     },    
     {
       "key": "dr_武享吧",
@@ -911,6 +918,7 @@
     }
   ]
 }
+
 
 
 
