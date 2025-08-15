@@ -800,13 +800,6 @@
         "邵氏片",
         "动画片"
       ]
-    },
-    {
-      "key": "jkun爱坤",
-      "name": "爱坤",
-      "type": 1,
-      "api": "https://jkunzyapi.com/api.php/provide/vod/at/xml",
-      "playUrl": ""
     },      
     {
       "key": "360资源",
@@ -939,6 +932,7 @@
     }
   ]
 }
+
 
 
 
