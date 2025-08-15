@@ -60,22 +60,15 @@
       "quickSearch": 1,
       "api": "./js/libs/drpy2.min.js",
       "ext": "./js/libs/AppGet.js?type=url&params=https://ledayy.com$hjjp68c2okw12345$hjjp68c2okw12345"
-    },    
+    },
     {
-      "key": "py_灵虎_APP",
+      "key": "灵虎",
       "name": "灵虎",
       "type": 3,
-      "api": "./py/模板/AppGet.py",
-      "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://bind.315999.xyz/89.txt",
-        "api": "/api.php/getappapi",
-        "datakey": "#getapp@TMD@2025",
-        "dataiv": "#getapp@TMD@2025"
-      }
-    },
+      "api": "./js/libs/drpy2.min.js",
+      "ext": "./js/libs/AppGet.js?type=url&params=http://app.555618.xyz:1766$#getapp@TMD@2025$#getapp@TMD@2025"
+    },    
     {
       "key": "py_云云_APP",
       "name": "云云",
@@ -936,6 +929,7 @@
     }
   ]
 }
+
 
 
 
