@@ -20,15 +20,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "忆梦影视",
-      "name": "忆梦",
-      "type": 1,
-      "api": "https://www.gnpt.net/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },    
     {
        "key": "狂人",
@@ -187,21 +178,6 @@
         "api": "/api.php/getappapi",
         "datakey": "ca94b06ca3c7d80e",
         "dataiv": "ca94b06ca3c7d80e"
-      }
-    },
-    {
-      "key": "py_豆丁_APP",
-      "name": "豆丁",
-      "type": 3,
-      "api": "./py/模板/AppGet.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://vip.123pan.cn/1848451100/zl/xfdd.txt",
-        "api": "/api.php/getappapi",
-        "datakey": "xasdasdqwertyuio",
-        "dataiv": "xasdasdqwertyuio"
       }
     },
     {
@@ -818,7 +794,7 @@
         "纪录片",
         "大陆剧",
         "剧情片",
-        "理论片"
+        "伦理片"
       ]
     },    
     {
@@ -916,13 +892,20 @@
       "type": 1,
       "api": "https://www.ikunzy.org/api.php/provide/vod/at/json",
       "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "categories": [
+        "动作片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "纪录片",
+        "大陆剧",
+        "剧情片",
+        "伦理片"
+      ]      
     },
     {
       "key": "速影资源",
-      "name": "速影资源",
+      "name": "速影",
       "type": 1,
       "api": "https://xn--k5d-suyingtvcom-lc40a84t7o9i3urako0c.suyingok.com/inc/apijson.php",
       "searchable": 1,
@@ -1027,6 +1010,7 @@
     }
   ]
 }
+
 
 
 
