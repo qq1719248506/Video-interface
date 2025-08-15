@@ -494,7 +494,7 @@
       "ext":"http://127.0.0.1:9966/api/proxy/https://lemonlive25.pages.dev"
     },
     {
-      "key": "玩偶 | 大玩偶",
+      "key": "玩偶",
       "name": "玩偶",
       "type": 3,
       "api": "csp_kongbai",
@@ -507,7 +507,7 @@
       }
     },
     {
-      "key": "玩偶 | 闪电uc",
+      "key": "闪电uc",
       "name": "闪电",
       "type": 3,
       "api": "csp_kongbai",
@@ -520,7 +520,7 @@
       }
     },
     {
-      "key": "玩偶 | 二小",
+      "key": "二小",
       "name": "二小",
       "type": 3,
       "api": "csp_kongbai",
@@ -533,7 +533,7 @@
       }
     },
     {
-      "key": "玩偶 | 小米",
+      "key": "小米",
       "name": "小米",
       "type": 3,
       "api": "csp_kongbai",
@@ -546,7 +546,7 @@
       }
     },
     {
-      "key": "玩偶 | 多多",
+      "key": "多多",
       "name": "多多",
       "type": 3,
       "api": "csp_kongbai",
@@ -559,7 +559,7 @@
       }
     },
     {
-      "key": "玩偶 | 蜡笔",
+      "key": "蜡笔",
       "name": "蜡笔",
       "type": 3,
       "api": "csp_kongbai",
@@ -572,7 +572,7 @@
       }
     },
     {
-      "key": "玩偶 | 木偶",
+      "key": "木偶",
       "name": "木偶",
       "type": 3,
       "api": "csp_kongbai",
@@ -753,30 +753,20 @@
       "api": "csp_XBPQ",
       "ext": "./XBPQ/速影.json"
     },
+    {
+      "key": "小鸭看看",
+      "name": "小鸭",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/小鸭.json"
+    },    
     { 
       "key": "量子影视",
       "name": "量子",
       "type":3,
-      "api":"csp_XBPQ",
-      "jar": "./jar/XBPQ.jar",
-      "ext": {
-        "请求头":"User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "分类url":"https://www.lzizy6.com/"
-      }
+      "api": "./js/libs/drpy2.min.js",
+      "ext": "./js/量子.js"      
     },    
-    { 
-      "key": "小鸭看看",
-      "name": "小鸭",
-      "type":3,
-      "api":"csp_XBPQ",
-      "jar": "./jar/XBPQ.jar",
-      "ext": {
-        "请求头":"User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "分类url":"https://xiaoyakankan.com/"
-      }
-    },
     {
       "key": "皮影",
       "name": "皮影",
@@ -933,6 +923,7 @@
     }
   ]
 }
+
 
 
 
