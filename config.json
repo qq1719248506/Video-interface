@@ -36,53 +36,31 @@
       "quickSearch": 1,
       "api": "./js/libs/drpy2.min.js",
       "ext": "./js/libs/AppGet.js?type=url&params=http://laimi.lmapp.org$ce032244d093b3e2$ce032244d093b3e2"
-    },    
-    {
-      "key":"py_AppGet_旗星",
-      "name":"旗星",
-      "type":3,
-      "api":"./py/模板/AppGet.py",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":{
-        "host":"http://ys.qist.top",
-        "api":"/api.php/getappapi",
-        "datakey":"2SWSPFxugBLPPOKo",
-        "dataiv":"2SWSPFxugBLPPOKo"
-      }
     },
     {
-      "key": "py_AppGet2_仓鼠",
+      "key": "旗星",
+      "name": "旗星",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "./js/libs/drpy2.min.js",
+      "ext": "./js/libs/AppGet.js?type=url&params=http://ys.qist.top$2SWSPFxugBLPPOKo$2SWSPFxugBLPPOKo"
+    },
+    {
+      "key": "仓鼠",
       "name": "仓鼠",
       "type": 3,
-      "api": "./py/模板/AppGet2.py",
-      "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "url": "https://qjappcms.cs4k.top",
-        "datakey": "Z98KXaLtO2wC1Pte",
-        "dataiv": "Z98KXaLtO2wC1Pte",
-        "deviceId": "",
-        "version": "120"
-      }
-    },
+      "api": "./js/libs/drpy2.min.js",
+      "ext": "./js/libs/AppGet.js?type=url&params=https://qjappcms.cs4k.top$Z98KXaLtO2wC1Pte$Z98KXaLtO2wC1Pte"
+    },    
     {
-      "key":"py_乐达_APP",
-      "name":"乐达",
-      "type":3,
-      "api":"./py/模板/AppGet.py",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":{
-        "host":"https://ledayy.com",
-        "api":"/api.php/getappapi",
-        "datakey":"hjjp68c2okw12345",
-        "dataiv":"hjjp68c2okw12345"
-      }
-    },
+      "key": "乐达",
+      "name": "乐达",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "./js/libs/drpy2.min.js",
+      "ext": "./js/libs/AppGet.js?type=url&params=https://ledayy.com$hjjp68c2okw12345$hjjp68c2okw12345"
+    },    
     {
       "key": "py_灵虎_APP",
       "name": "灵虎",
@@ -958,6 +936,7 @@
     }
   ]
 }
+
 
 
 
