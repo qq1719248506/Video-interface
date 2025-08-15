@@ -862,7 +862,7 @@
       "changeable": 1
     },
     {
-      "key": "量子",
+      "key": "量子资源",
       "name": "量子",
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
@@ -923,6 +923,7 @@
     }
   ]
 }
+
 
 
 
