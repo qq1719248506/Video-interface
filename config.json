@@ -54,14 +54,6 @@
       "ext": "./js/libs/AppGet.js?type=url&params=https://qjappcms.cs4k.top$Z98KXaLtO2wC1Pte$Z98KXaLtO2wC1Pte"
     },    
     {
-      "key": "乐达",
-      "name": "乐达",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "./js/libs/drpy2.min.js",
-      "ext": "./js/libs/AppGet.js?type=url&params=https://ledayy.com$hjjp68c2okw12345$hjjp68c2okw12345"
-    },
-    {
       "key": "灵虎",
       "name": "灵虎",
       "type": 3,
@@ -929,6 +921,7 @@
     }
   ]
 }
+
 
 
 
