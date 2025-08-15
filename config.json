@@ -22,6 +22,15 @@
       "filterable": 1
     },
     {
+      "key": "忆梦影视",
+      "name": "忆梦",
+      "type": 1,
+      "api": "https://www.gnpt.net/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },    
+    {
        "key": "狂人",
        "name": "狂人",
        "type": 3,
@@ -900,6 +909,25 @@
         "港台动漫",
         "海外动漫"
       ]
+    },
+    {
+      "key": "IKUN资源",
+      "name": "IKUN",
+      "type": 1,
+      "api": "https://www.ikunzy.org/api.php/provide/vod/at/json",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "速影资源",
+      "name": "速影资源",
+      "type": 1,
+      "api": "https://xn--k5d-suyingtvcom-lc40a84t7o9i3urako0c.suyingok.com/inc/apijson.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },    
     {
       "key": "豆瓣采集",
@@ -999,6 +1027,7 @@
     }
   ]
 }
+
 
 
 
