@@ -22,6 +22,37 @@
       "filterable": 1
     },
     {
+       "key": "狂人",
+       "name": "狂人",
+       "type": 3,
+       "quickSearch": 1,
+       "api": "./py/模板/AppGet.py",
+       "ext": {
+         "host": "https://www.zjkrmv.vip",
+         "api": "/api.php/getappapi",
+         "dataKey": "vXeyuJFqTKqWUtWU",
+         "dataIv": "vXeyuJFqTKqWUtWU",
+         "deviceId": "",
+         "version": ""
+      }
+    },
+    {
+      "key": "莱米",
+      "name": "莱米",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "./py/模板/AppGet.py",
+      "ext": {
+        "url": "",
+        "host": "http://laiget-1313189639.cos.ap-guangzhou.myqcloud.com/laimi.txt",
+        "api": "/api.php/getappapi",
+        "dataKey": "ce032244d093b3e2",
+        "dataIv": "ce032244d093b3e2",
+        "deviceId": "",
+        "version": ""
+      }
+    },    
+    {
       "key":"py_AppGet_旗星",
       "name":"旗星",
       "type":3,
@@ -368,21 +399,6 @@
       }
     },
     {
-      "key": "py_小红_APP",
-      "name": "小红",
-      "type": 3,
-      "api": "./py/模板/AppGet.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://www.xiaohys.com",
-        "api": "/api.php/getappapi",
-        "datakey": "ENonBHeVBoYZhVUV",
-        "dataiv": "ENonBHeVBoYZhVUV"
-      }
-    },
-    {
       "key": "py_白蛇_APP",
       "name": "白蛇",
       "type": 3,
@@ -427,6 +443,35 @@
         "dataiv": "7xv16h7qgkrs9b1p"
       }
     },
+    {
+      "key": "huomaoys",
+      "name": "火猫",
+      "type": 3,
+      "api": "csp_Muou",
+      "jar": "./jar/qj.jar",
+      "ext": "7lj763gg0939790i413gi484k8058896highi4414h68l7g6hk8qiaojig9k2k289l9ik807i213k5j602"
+    },
+    {
+      "key": "爆炸",
+      "name": "爆炸",
+      "type": 3,
+      "api": "csp_Muou",
+      "jar": "./jar/qj.jar",
+      "playerType": 2,
+      "ext": "7lj763gg402i79425i3l85i6h848i295l5hiji5l828g3l3jjhg6kg7410lhjkqiaojij3ig1lg475178k7h0il4ig3h753h7hi516758699jh2g5h433li30gk11g73l90312h4g7"
+    },
+    {
+      "key": "AI2",
+      "name": "AI",
+      "type": 3,
+      "api": "csp_AI",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 2,
+      "jar": "./jar/qj.jar",
+      "ext": "7lj763gg0939795i037ki481k20ki2i3g3lk840883843k6k5l4354k0k10k48411g8654l9885g83ih2h0lh295lll81jg8k66l7011l8hji0l432912jhi3hk3140kghkhj3ghl7782871"
+    },    
     {
       "key": "采集之王",
       "name": "采集",
@@ -930,6 +975,7 @@
     }
   ]
 }
+
 
 
 
