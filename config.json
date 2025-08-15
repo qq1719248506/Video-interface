@@ -49,18 +49,32 @@
       "key": "仓鼠",
       "name": "仓鼠",
       "type": 3,
+      "api": "./py/模板/AppGet2.py",
+      "searchable": 1,
       "quickSearch": 1,
-      "api": "./js/libs/drpy2.min.js",
-      "ext": "./js/libs/AppGet.js?type=url&params=https://qjappcms.cs4k.top$Z98KXaLtO2wC1Pte$Z98KXaLtO2wC1Pte"
-    },    
+      "filterable": 1,
+      "ext": {
+        "host": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/csurl.txt",
+        "api": "/api.php/qijiappapi",
+        "datakey": "Z98KXaLtO2wC1Pte",
+        "dataiv": "Z98KXaLtO2wC1Pte"
+      }
+    },        
     {
       "key": "灵虎",
       "name": "灵虎",
       "type": 3,
+      "api": "./py/模板/AppGet2.py",
+      "searchable": 1,
       "quickSearch": 1,
-      "api": "./js/libs/drpy2.min.js",
-      "ext": "./js/libs/AppGet.js?type=url&params=http://app.555618.xyz:1766$#getapp@TMD@2025$#getapp@TMD@2025"
-    },    
+      "filterable": 1,
+      "ext": {
+        "host": "https://bind.315999.xyz/89.txt",
+        "api": "/api.php/getappapi",
+        "datakey": "#getapp@TMD@2025",
+        "dataiv": "#getapp@TMD@2025"
+      }
+    },        
     {
       "key": "py_云云_APP",
       "name": "云云",
@@ -472,7 +486,7 @@
       }
     },
     {
-      "key": "网盘 | 片库",
+      "key": "片库",
       "name": "片库",
       "type": 3,
       "api": "csp_Qiwei",
@@ -752,20 +766,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./XBPQ/速影.json"
-    },
-    {
-      "key": "小鸭看看",
-      "name": "小鸭",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/小鸭.json"
-    },    
-    { 
-      "key": "量子影视",
-      "name": "量子",
-      "type":3,
-      "api": "./js/libs/drpy2.min.js",
-      "ext": "./js/量子.js"      
     },    
     {
       "key": "皮影",
@@ -793,7 +793,25 @@
         "邵氏片",
         "动画片"
       ]
-    },      
+    },
+    {
+      "key": "速播",
+      "name": "速播",
+      "type": 1,
+      "api": "https://subocaiji.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "纪录片",
+        "大陆剧",
+        "剧情片",
+        "理论片"
+      ]
+    },    
     {
       "key": "360资源",
       "name": "360",
@@ -810,6 +828,37 @@
         "剧情片",
         "战争片",
         "记录片",
+        "台湾剧",
+        "海外剧",
+        "泰国剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫"
+      ]
+    },
+    {
+      "key": "茅台",
+      "name": "茅台",
+      "type": 1,
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "伦理片",
+        "香港剧",
+        "欧美剧",
         "台湾剧",
         "海外剧",
         "泰国剧",
@@ -851,9 +900,9 @@
         "港台动漫",
         "海外动漫"
       ]
-    },
+    },    
     {
-      "key": "豆瓣采集资源",
+      "key": "豆瓣采集",
       "name": "豆瓣",
       "type": 1,
       "api": "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/",
@@ -861,6 +910,33 @@
       "searchable": 1,
       "changeable": 1
     },
+    {
+      "key": "电影天堂",
+      "name": "天堂",
+      "type": 1,
+      "api": "https://caiji.dyttzyapi.com/api.php/provide/vod/",
+      "playerType": 1,
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "天涯",
+      "name": "天涯",
+      "type": 1,
+      "api": "https://ty.tyyszy5.com/api.php/provide/vod/",
+      "playerType": 1,
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "如意",
+      "name": "如意",
+      "type": 1,
+      "api": "https://cj.rycjapi.com/api.php/provide/vod/",
+      "playerType": 1,
+      "searchable": 1,
+      "changeable": 1
+    },    
     {
       "key": "量子资源",
       "name": "量子",
@@ -923,6 +999,7 @@
     }
   ]
 }
+
 
 
 
