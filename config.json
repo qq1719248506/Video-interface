@@ -26,31 +26,16 @@
        "name": "狂人",
        "type": 3,
        "quickSearch": 1,
-       "api": "./py/模板/AppGet.py",
-       "ext": {
-         "host": "https://www.zjkrmv.vip",
-         "api": "/api.php/getappapi",
-         "dataKey": "vXeyuJFqTKqWUtWU",
-         "dataIv": "vXeyuJFqTKqWUtWU",
-         "deviceId": "",
-         "version": ""
-      }
+       "api": "./js/libs/drpy2.min.js",
+       "ext": "./js/libs/AppGet.js?type=url&params=https://www.zjkrmv.vip$vXeyuJFqTKqWUtWU$vXeyuJFqTKqWUtWU"
     },
     {
       "key": "莱米",
       "name": "莱米",
       "type": 3,
       "quickSearch": 1,
-      "api": "./py/模板/AppGet.py",
-      "ext": {
-        "url": "",
-        "host": "http://laiget-1313189639.cos.ap-guangzhou.myqcloud.com/laimi.txt",
-        "api": "/api.php/getappapi",
-        "dataKey": "ce032244d093b3e2",
-        "dataIv": "ce032244d093b3e2",
-        "deviceId": "",
-        "version": ""
-      }
+      "api": "./js/libs/drpy2.min.js",
+      "ext": "./js/libs/AppGet.js?type=url&params=http://laiget-1313189639.cos.ap-guangzhou.myqcloud.com/laimi.txt$ce032244d093b3e2$ce032244d093b3e2"
     },    
     {
       "key":"py_AppGet_旗星",
@@ -973,6 +958,7 @@
     }
   ]
 }
+
 
 
 
