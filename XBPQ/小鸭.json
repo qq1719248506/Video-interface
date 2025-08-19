@@ -3,8 +3,8 @@
   "站名": "小鸭看看",
   "主页url": "https://xiaoyakankan.com/",
   "热门": "",
-  "分类": "电影$10#电视剧$11#综艺$12#动漫$13#香港情色片$1553#台湾情色片$1554#美国情色片$1556#欧洲情色片$1557#其它情色片$1550#",
-  "分类url": "https://xiaoyakankan.com/cat/{cateId}-{catePg}.html",
+  "分类": "电影$10#电视剧$11#综艺$12#动漫$13#",
+  "分类url": "https://xiaoyakankan.com/cat/{cateId}-{catePg}.html;;az",
   "数组": "",
   "副标题": "",
   "图片": "data-src=\"&&\"",
@@ -1099,3 +1099,4 @@
 		]
 	}
 }
+
