@@ -1,7 +1,5 @@
 # Video-interface
-
-加密接口解析提取: https://www.xn--sss604efuw.com/jm/ 
-
+ 
 加密解密：http://www.sailtool.com/base64/
 
 文件md5在线计算：https://www.md5ma.com/md5-calculator
