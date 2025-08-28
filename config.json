@@ -34,6 +34,17 @@
       "filterable": 1
     },
     {
+       "key": "恐怖片之家",
+       "name": "鬼片",
+       "type": 3,
+       "jar": "./jar/XBPQ.jar",
+       "api": "csp_XBPQ",
+       "ext": {
+           "分类url": "https://www.123guipian.com/;;!",
+           "简介": ""
+       }
+    },
+    {
       "key": "加菲",
       "name": "加菲",
       "type": 3,
@@ -437,7 +448,7 @@
       "key": "瓜子",
       "name": "瓜子",
       "type": 3,
-      "api": "csp_Gz360",
+      "api": "csp_GuaziGuard",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -511,17 +522,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 10
-    },
-    {
-       "key": "恐怖片之家",
-       "name": "鬼片",
-       "type": 3,
-       "jar": "./jar/XBPQ.jar",
-       "api": "csp_XBPQ",
-       "ext": {
-           "分类url": "https://www.123guipian.com/;;!",
-           "简介": ""
-       }
     },
     {
       "key": "雄鹰",
@@ -600,7 +600,7 @@
     },
     {
       "key": "我的UC",
-      "name": "UC",
+      "name": "我的",
       "type": 3,
       "api": "csp_MyUcGuard",
       "searchable": 0,
@@ -684,7 +684,7 @@
     },
     {
       "key": "阿里合集",
-      "name": "合集",
+      "name": "阿里",
       "type": 3,
       "api": "csp_AliShareGuard",
       "searchable": 0,
@@ -698,104 +698,6 @@
         "type": "list"
       },
       "timeout": 30
-    },
-    {
-      "key": "皮皮影视",
-      "name": "皮皮",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jar/XBPQ.jar",
-      "ext": "./XBPQ/皮皮影视.json"
-    },    
-    {
-      "key": "速影TV",
-      "name": "速影",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jar/XBPQ.jar",
-      "ext": "./XBPQ/速影TV.json"
-    },
-    {
-      "key": "量子资源",
-      "name": "量子",
-      "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "记录片",
-        "台湾剧",
-        "香港剧",
-        "欧美剧",
-        "海外剧"
-      ]
-    },
-    {
-      "key": "神马影视",
-      "name": "神马",
-      "type": 1,
-      "api": "https://www.vod38.com/api.php/provide/vod/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "动作片",
-        "科幻片",
-        "恐怖片",
-        "战争片",
-        "纪录片",
-        "国产剧",
-        "海外剧",
-        "理论片",
-        "邵氏片",
-        "动画片"
-      ]
-    },
-    {
-      "key": "茅台",
-      "name": "茅台",
-      "type": 1,
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "记录片",
-        "伦理片",
-        "香港剧",
-        "欧美剧",
-        "台湾剧",
-        "海外剧"
-      ]
-    },
-    {
-      "key": "IKUN资源",
-      "name": "IKUN",
-      "type": 1,
-      "api": "https://www.ikunzy.org/api.php/provide/vod/at/json",
-      "playUrl": "",
-      "categories": [
-        "动作片",
-        "科幻片",
-        "恐怖片",
-        "战争片",
-        "纪录片",
-        "大陆剧",
-        "剧情片",
-        "伦理片"
-      ]      
     },
     {
       "key": "️爱看Bot",
@@ -897,7 +799,7 @@
     },
     {
       "key": "瓜子看球",
-      "name": "看球",
+      "name": "瓜子",
       "type": 3,
       "api": "csp_GzSportGuard",
       "searchable": 0,
@@ -946,7 +848,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/cb93309b-a570-488f-8b3b-ccdfd5dea98a/2024-07-10/2024-07-10_11:13:13/1720581193094/76165316/bili.txt"
+        "json": "./json/bili.txt"
       },
       "timeout": 20
     },
@@ -963,7 +865,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/cb93309b-a570-488f-8b3b-ccdfd5dea98a/2024-07-10/2024-07-10_11:13:09/1720581189679/3486246/biliych.txt"
+        "json": "./json/biliych.txt"
       },
       "timeout": 20
     },
@@ -980,7 +882,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749876001518/bilixs.txt"
+        "json": "./json/bilixs.txt"
       },
       "timeout": 20
     },
@@ -997,7 +899,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749876146622/bilixp.txt"
+        "json": "./json/bilixp.txt"
       },
       "timeout": 20
     },
@@ -1012,7 +914,7 @@
       "style": {
         "type": "list"
       },
-      "ext": "file://TV/alist.json",
+      "ext": "./json/alist.json",
       "timeout": 15
     },
     {
@@ -1093,13 +995,111 @@
     },
     {
       "key": "找盘",
-      "name": "找盘",
+      "name": "寻盘",
       "type": 3,
       "api": "csp_V2PanGuard",
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
       "timeout": 25
+    },
+    {
+      "key": "皮皮影视",
+      "name": "皮皮",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/XBPQ.jar",
+      "ext": "./XBPQ/皮皮影视.json"
+    },    
+    {
+      "key": "速影TV",
+      "name": "速影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/XBPQ.jar",
+      "ext": "./XBPQ/速影TV.json"
+    },
+    {
+      "key": "量子资源",
+      "name": "量子",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "台湾剧",
+        "香港剧",
+        "欧美剧",
+        "海外剧"
+      ]
+    },
+    {
+      "key": "神马影视",
+      "name": "神马",
+      "type": 1,
+      "api": "https://www.vod38.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "纪录片",
+        "国产剧",
+        "海外剧",
+        "理论片",
+        "邵氏片",
+        "动画片"
+      ]
+    },
+    {
+      "key": "茅台",
+      "name": "茅台",
+      "type": 1,
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "伦理片",
+        "香港剧",
+        "欧美剧",
+        "台湾剧",
+        "海外剧"
+      ]
+    },
+    {
+      "key": "IKUN资源",
+      "name": "IKUN",
+      "type": 1,
+      "api": "https://www.ikunzy.org/api.php/provide/vod/at/json",
+      "playUrl": "",
+      "categories": [
+        "动作片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "纪录片",
+        "大陆剧",
+        "剧情片",
+        "伦理片"
+      ]      
     },
     {
       "key": "push_agent",
