@@ -604,11 +604,53 @@
       "timeout": 25
     },
     {
+      "key": "115推送",
+      "name": "115",
+      "type": 4,
+      "api": "http://zling.online:12331/api.php?type=115"
+    },
+    {
+      "key": "123",
+      "name": "123",
+      "type": 4,
+      "api": "http://zling.online:12331/api.php?type=123"
+    },
+    {
+      "key": "夸克推送",
+      "name": "夸克",
+      "type": 4,
+      "api": "http://zling.online:12331/api.php?type=quark"
+    },
+    {
+      "key": "ali推送",
+      "name": "ali",
+      "type": 4,
+      "api": "http://zling.online:12331/api.php?type=aliyun"
+    },
+    {
+      "key": "百度推送",
+      "name": "百度",
+      "type": 4,
+      "api": "http://zling.online:12331/api.php?type=baidu"
+    },
+    {
+      "key": "移动推送",
+      "name": "移动",
+      "type": 4,
+      "api": "http://zling.online:12331/api.php?type=mobile"
+    },
+    {
+      "key": "天翼推送",
+      "name": "天翼",
+      "type": 4,
+      "api": "http://zling.online:12331/api.php?type=tianyi"
+    },    
+    {
       "key": "皮皮影视",
       "name": "皮皮",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/XBPQ.jar",
+      "jar": "./XBPQ/HBPQ.jar",
       "ext": "./XBPQ/皮皮影视.json"
     },    
     {
@@ -616,7 +658,7 @@
       "name": "速影",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/XBPQ.jar",
+      "jar": "./XBPQ/HBPQ.jar",
       "ext": "./XBPQ/速影TV.json"
     },
     {
