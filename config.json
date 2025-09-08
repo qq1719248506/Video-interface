@@ -803,7 +803,7 @@
       "name": "速影",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./XBPQ/HBPQ.jar",
+      "jar": "./jar/HBPQ.jar",
       "ext": "./XBPQ/速影.json"
     },
     {
