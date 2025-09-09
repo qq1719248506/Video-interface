@@ -803,9 +803,20 @@
       "name": "速影",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/HBPQ.jar",
+      "jar": "./jar/XBPQ.jar",
       "ext": "./XBPQ/速影.json"
     },
+    {
+      "key": "小鸭",
+      "name": "小鸭",
+      "type": 3,
+      "jar": "./jar/XBPQ.jar",
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://xiaoyakankan.com/;;!",
+        "简介": ""
+      }
+    },      
     {
       "key": "量子资源",
       "name": "量子",
