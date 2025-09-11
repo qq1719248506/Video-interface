@@ -807,16 +807,18 @@
       "ext": "./XBPQ/速影.json"
     },
     {
-      "key": "小鸭",
+      "key": "小鸭影视",
       "name": "小鸭",
       "type": 3,
-      "jar": "./jar/XBPQ.jar",
       "api": "csp_XBPQ",
+      "jar": "./jar/XBPQ.jar",
       "ext": {
-        "分类url": "https://xiaoyakankan.com/;;!",
-        "简介": ""
-      }
-    },      
+        "副标题": "",
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "分类url": "https://xiaoyakankan.com/;;!H"
+     }
+    },          
     {
       "key": "量子资源",
       "name": "量子",
