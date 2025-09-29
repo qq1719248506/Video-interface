@@ -1,5 +1,5 @@
 {
-  "spider": "../jar/custom_spider.jar",
+  "spider": "../jar/XBPQ.jar",
   "lives": [
     {
       "name": "XtreamCode",
@@ -646,6 +646,192 @@
         "deviceId": "",
         "version": "361"
       }
+    },
+    {
+      "key": "恐怖片之家",
+      "name": "鬼片",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "副标题": "",
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "分类url": "https://www.123guipian.com/;;!"
+     }
+    },
+    {
+      "key": "枝枝影视",
+      "name": "枝枝",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "副标题": "<div class=\"tag text-overflow\">&&</div>",
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "分类url": "http://zzoc.cc/;;!"
+     }
+    },
+    {
+      "key": "奈菲影视",
+      "name": "奈菲",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "副标题": "",
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "分类url": "https://www.nfyingshi.com/"
+     }
+    },       
+    {
+      "key": "小鸭影视",
+      "name": "小鸭",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "副标题": "",
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "分类url": "https://777tv.ai/;;!H"
+     }
+    },    
+    {
+      "key": "老王影视",
+      "name": "老王",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "副标题": "",
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "分类url": "https://www.laowang.co/;;!"
+     }
+    },
+    {
+      "key":"小镇",
+      "name":"小镇",
+      "type":3,
+      "api":"csp_XBPQ",
+      "ext":{
+        "请求头":"User-Agent$MOBILE_UA",
+        "编码":"UTF-8",
+        "分类url":"http://dyxz.tv/;;!H"
+      }
+    },
+    {
+      "key": "魅影视频",
+      "name": "魅影",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/魅影.json"
+    },
+    {
+      "key": "量子资源",
+      "name": "量子",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "台湾剧",
+        "香港剧",
+        "欧美剧",
+        "海外剧"
+      ]
+    },
+    {
+      "key": "非凡",
+      "name": "非凡",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "香港剧",
+        "欧美剧",
+        "台湾剧",
+        "海外剧"
+      ]
+    },
+    {
+      "key": "茅台",
+      "name": "茅台",
+      "type": 1,
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "伦理片",
+        "香港剧",
+        "欧美剧",
+        "台湾剧",
+        "海外剧"
+      ]
+    },    
+    {
+      "key": "神马影视",
+      "name": "神马",
+      "type": 1,
+      "api": "https://www.vod38.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "纪录片",
+        "国产剧",
+        "海外剧",
+        "理论片",
+        "邵氏片",
+        "动画片"
+      ]
+    },
+    {
+      "key": "IKUN资源",
+      "name": "IKUN",
+      "type": 1,
+      "api": "https://www.ikunzy.org/api.php/provide/vod/at/json",
+      "playUrl": "",
+      "categories": [
+        "动作片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "纪录片",
+        "大陆剧",
+        "剧情片",
+        "伦理片"
+      ]      
     },
     {
       "key": "push_agent",
