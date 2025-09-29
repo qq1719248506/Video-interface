@@ -1,5 +1,5 @@
 {
-  "spider": "../jar/XBPQ.jar",
+  "spider": "./jar/XBPQ.jar",
   "lives": [
     {
       "name": "XtreamCode",
