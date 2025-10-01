@@ -39,15 +39,6 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
-    },
-     {
-      "key": "瓜子影视",
-      "name": "瓜子",
-      "type": 3,
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },   
     {
       "key": "热播影视",
