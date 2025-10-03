@@ -194,68 +194,35 @@
       "key": "八天",
       "name": "八天",
       "type": 3,
-      "quickSearch": 1,
-      "api": "./py/AppGet.py",
-      "ext": {
-        "host": "https://dy.8ttv.cn",
-        "api": "/api.php/getappapi",
-        "dataKey": "1111111111111111",
-        "dataIv": "1111111111111111"
-      }
+      "api": "./js/libs/drpy2.min.js",
+      "ext": "./js/libs/AppGet.js?type=url&params=https://dy.8ttv.cn$1111111111111111$1111111111111111"
     },
     {
       "key": "紫金",
       "name": "紫金",
       "type": 3,
-      "quickSearch": 1,
-      "api": "./py/AppGet.py",
-      "ext": {
-        "host": "http://www.zjcvod.com",
-        "api": "/api.php/getappapi",
-        "dataKey": "ab4e9a421675f14b",
-        "dataIv": "ab4e9a421675f14b"
-      }
+      "api": "./js/libs/drpy2.min.js",
+      "ext": "./js/libs/AppGet.js?type=url&params=http://www.zjcvod.com$ab4e9a421675f14b$ab4e9a421675f14b"
     },
     {
       "key": "刷剧",
       "name": "刷剧",
       "type": 3,
-      "quickSearch": 1,
-      "api": "./py/AppGet.py",
-      "ext": {
-        "host": "https://dingchaowangzhan.oss-cn-beijing.aliyuncs.com/1.txt",
-        "api": "/api.php/getappapi",
-        "dataKey": "1387006363333333",
-        "dataIv": "1387006363333333"
-      }
-    },
+      "api": "./js/libs/drpy2.min.js",
+      "ext": "./js/libs/AppGet.js?type=url&params=https://myapp.3586.net$1387006363333333$1387006363333333"
     {
       "key": "九零",
       "name": "九零",
       "type": 3,
-      "quickSearch": 1,
-      "api": "./py/AppGet.py",
-      "ext": {
-        "host": "https://65fs2d9awaa1d2a7ea8.019990.xyz",
-        "api": "/api.php/getappapi",
-        "dataKey": "5a9w6x58dsq6z3a6",
-        "dataIv": "5a9w6x58dsq6z3a6"
-      }
+      "api": "./js/libs/drpy2.min.js",
+      "ext": "./js/libs/AppGet.js?type=url&params=https://65fs2d9awaa1d2a7ea8.019990.xyz$5a9w6x58dsq6z3a6$5a9w6x58dsq6z3a6"
     },    
     {
       "key": "py_狂欢_APP",
       "name": "狂欢",
       "type": 3,
-      "api": "./py/AppGet.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "http://m.m.m.kahzw.com",
-        "api": "/api.php/getappapi",
-        "datakey": "xnybssspqtwotuwj",
-        "dataiv": "xnybssspqtwotuwj"
-      }
+      "api": "./js/libs/drpy2.min.js",
+      "ext": "./js/libs/AppGet.js?type=url&params=http://m.m.m.kahzw.com$xnybssspqtwotuwj$xnybssspqtwotuwj"
     },
     {
       "key": "py_奈飞_APP",
@@ -351,16 +318,8 @@
       "key": "py_斗量_APP",
       "name": "斗量",
       "type": 3,
-      "api": "./py/AppGet.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://app-cms-v10-1314306855.cos.ap-guangzhou.myqcloud.com/appcms.php",
-        "api": "/api.php/getappapi",
-        "datakey": "A1akVPQmnnE4Fz9Z",
-        "dataiv": "A1akVPQmnnE4Fz9Z"
-      }
+      "api": "./js/libs/drpy2.min.js",
+      "ext": "./js/libs/AppGet.js?type=url&params=https://app1.ystva.com$A1akVPQmnnE4Fz9Z$A1akVPQmnnE4Fz9Z"
     },
     {
       "key": "py_稀饭_APP",
@@ -714,6 +673,13 @@
       "api": "csp_XBPQ",
       "ext": "./XBPQ/魅影.json"
     },
+    {
+      "key": "速影TV",
+      "name": "速影",
+      "type": 3,
+      "api": "./js/libs/drpy2.min.js",
+      "ext": "./js/速影.js"
+    },    
     {
       "key": "量子资源",
       "name": "量子",
