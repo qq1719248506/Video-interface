@@ -225,97 +225,49 @@
       "ext": "./js/libs/AppGet.js?type=url&params=http://m.m.m.kahzw.com$xnybssspqtwotuwj$xnybssspqtwotuwj"
     },
     {
-      "key": "py_奈飞_APP",
+      "key": "py__奈飞APP",
       "name": "奈飞",
       "type": 3,
-      "api": "./py/AppGet.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://movier.ink",
-        "api": "/api.php/getappapi",
-        "datakey": "moviermovierink9",
-        "dataiv": "moviermovierink9"
-      }
-    },
+      "api": "./js/libs/drpy2.min.js",
+      "ext": "./js/libs/AppGet.js?type=url&params=https://movier.ink$moviermovierink9$moviermovierink9"
+    },    
     {
-      "key": "py_迪吧_APP",
+      "key": "迪吧",
       "name": "迪吧",
       "type": 3,
-      "api": "./py/AppGet.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://appto2-1316376600.cos.ap-beijing.myqcloud.com/gap.txt",
-        "api": "/api.php/getappapi",
-        "datakey": "685bf108bc47b67d",
-        "dataiv": "685bf108bc47b67d"
-      }
-    },
+      "api": "./js/libs/drpy2.min.js",
+      "ext": "./js/libs/AppGet.js?type=url&params=http://211.154.24.56:7416$685bf108bc47b67d$685bf108bc47b67d"
+    },    
     {
-      "key": "py_米奇_APP",
+      "key": "米奇",
       "name": "米奇",
       "type": 3,
-      "api": "./py/AppGet.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "http://www.milkidc.cn",
-        "api": "/api.php/getappapi",
-        "datakey": "20c79c979da8db0f",
-        "dataiv": "20c79c979da8db0f"
-      }
-    },
+      "api": "./js/libs/drpy2.min.js",
+      "ext": "./js/libs/AppGet.js?type=url&params=http://www.milkidc.cn$20c79c979da8db0f$20c79c979da8db0f"
+    },    
     {
-      "key": "py_星星_APP",
+      "key": "星星",
       "name": "星星",
       "type": 3,
-      "api": "./py/AppGet.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "http://starani.qcanime.xyz",
-        "api": "/api.php/getappapi",
-        "datakey": "123456789StarAni",
-        "dataiv": "123456789StarAni"
-      }
-    },
+      "api": "./js/libs/drpy2.min.js",
+      "ext": "./js/libs/AppGet.js?type=url&params=http://starani.qcanime.xyz$123456789StarAni$123456789StarAni"
+    },    
     {
-      "key": "py_像素_APP",
+      "key": "像素",
       "name": "像素",
       "type": 3,
-      "api": "./py/AppGet.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "https://mcvod.top",
-        "api": "/api.php/getappapi",
-        "datakey": "cnmbknmbtounimab",
-        "dataiv": "cnmbknmbtounimab"
-      }
-    },
+      "api": "./js/libs/drpy2.min.js",
+      "ext": "./js/libs/AppGet.js?type=url&params=https://mcvod.top$cnmbknmbtounimab$cnmbknmbtounimab"
+    },    
     {
-      "key": "py_豆丁_APP",
-      "name": "豆丁",
+      "key": "像素",
+      "name": "像素",
       "type": 3,
-      "api": "./py/AppGet.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "http://45.66.157.77:9427",
-        "api": "/api.php/getappapi",
-        "datakey": "Xasdasd!123123dd",
-        "dataiv": "Xasdasd!123123dd"
-      }
-    },
+      "api": "./js/libs/drpy2.min.js",
+      "ext": "./js/libs/AppGet.js?type=url&params=http://45.66.157.77:9427$Xasdasd!123123dd$Xasdasd!123123dd"
+    },    
     {
-      "key": "py_斗量_APP",
+      "key": "斗量_APP",
       "name": "斗量",
       "type": 3,
       "api": "./js/libs/drpy2.min.js",
