@@ -17,16 +17,6 @@
       "changeable": 0
     },
     {
-      "key": "98影院",
-      "name": "酒吧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XBPQ/98影院.json"
-    },
-    {
       "key": "555影视",
       "name": "555",
       "type": 3,
@@ -55,16 +45,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./XBPQ/旋风.json"
-    },
-    {
-      "key": "影视大全",
-      "name": "大全",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XBPQ/大全.json"
     },
     {
       "key": "新橘子",
@@ -349,6 +329,36 @@
         "version": "140"
       }
     },
+    {
+      "key": "影视大全",
+      "name": "大全",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/大全.json"
+    },
+    {
+      "key": "追剧大师",
+      "name": "追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/PTT.json"
+    },
+    {
+      "key": "地瓜影院",
+      "name": "地瓜",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/地瓜.json"
+    },    
     {
       "key": "csp_Wogg",
       "name": "玩偶",
