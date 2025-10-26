@@ -17,6 +17,26 @@
       "changeable": 0
     },
     {
+      "key": "优质资源",
+      "name": "优质",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/优质.json"
+    },    
+    {
+      "key": "三九影视",
+      "name": "三九",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/三九.json"
+    },
+    {
       "key": "555影视",
       "name": "555",
       "type": 3,
@@ -25,7 +45,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./XBPQ/三五.json"
-    },
+    },    
     {
       "key": "飞流视频",
       "name": "飞流",
@@ -46,6 +66,80 @@
       "filterable": 1,
       "ext": "./XBPQ/旋风.json"
     },
+    {
+      "key": "1905",
+      "name": "1905",
+      "type": 3,
+      "api": "csp_Web1905",
+      "jar": "./jar/XBPQ.jar;md5;d2e81771811872fde3c381c9b5305c53",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },    
+    {
+      "key": "枝枝影视",
+      "name": "枝枝",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/XBPQ.jar;md5;d2e81771811872fde3c381c9b5305c53",
+      "ext": {
+        "副标题": "<div class=\"tag text-overflow\">&&</div>",
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "分类url": "http://zzoc.cc/;;!"
+     }
+    },    
+    {
+      "key": "小鸭影视",
+      "name": "小鸭",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/XBPQ.jar;md5;d2e81771811872fde3c381c9b5305c53",
+      "ext": {
+        "副标题": "",
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "分类url": "https://777tv.ai/;;!H"
+     }
+    },    
+    {
+      "key":"小镇",
+      "name":"小镇",
+      "type":3,
+      "api":"csp_XBPQ",
+      "jar":"./jar/XBPQ.jar;md5;d2e81771811872fde3c381c9b5305c53",
+      "ext":{
+        "请求头":"User-Agent$MOBILE_UA",
+        "编码":"UTF-8",
+        "分类url":"http://dyxz.tv/;;!H"
+      }
+    },
+    {
+      "key": "快快影视",
+      "name": "快快",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/XBPQ.jar;md5;d2e81771811872fde3c381c9b5305c53",
+      "ext": {
+        "副标题": "",
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "分类url": "https://4k4k.live/;;!"
+     }
+    },
+    {
+      "key": "飞快影视",
+      "name": "飞快",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/XBPQ.jar;md5;d2e81771811872fde3c381c9b5305c53",
+      "ext": {
+        "副标题": "",
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "分类url": "https://feikuai.tv/;;!"
+     }
+    },    
     {
       "key": "新橘子",
       "name": "橘子",
@@ -81,31 +175,6 @@
         "host": "http://ht.zhenxun.love",
         "name": "羊羊学院",
         "version": "4.2.0"
-      }
-    },
-    {
-      "key": "余白",
-      "name": "余白",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "host": "https://app.yb4k.top",
-        "dataKey": "pk5CemuwgQ4gh8dl",
-        "token": "71ef95295e56f3dfce2d008b1b07dc83f20f2bd8c5444202b6957587c9a5e57e"
-      }
-    },
-    {
-      "key": "秒看",
-      "name": "秒看",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "host": "https://mk1080.top/get.txt",
-        "dataKey": "c60d88b2eep53za8",
-        "token": "06caee3952a4c97d1ad4c766c875a99d3fa83aa68f46188823600d59ebba4469",
-        "ua": "okhttp/3.10.0"
       }
     },
     {
@@ -307,17 +376,6 @@
       }
     },
     {
-      "key": "驿站",
-      "name": "驿站",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "host": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt",
-        "dataKey": "dyyztvapiappyyds"
-      }
-    },
-    {
       "key": "火狐",
       "name": "火狐",
       "type": 3,
@@ -329,6 +387,121 @@
         "version": "140"
       }
     },
+    {
+      "key": "量子资源",
+      "name": "量子",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "台湾剧",
+        "香港剧",
+        "欧美剧",
+        "海外剧"
+      ]
+    },
+    {
+      "key": "非凡",
+      "name": "非凡",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "香港剧",
+        "欧美剧",
+        "台湾剧",
+        "海外剧"
+      ]
+    },    
+    {
+      "key": "神马影视",
+      "name": "神马",
+      "type": 1,
+      "api": "https://www.vod38.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "纪录片",
+        "国产剧",
+        "海外剧",
+        "理论片",
+        "邵氏片",
+        "动画片"
+      ]
+    },
+    {
+      "key": "IKUN资源",
+      "name": "IKUN",
+      "type": 1,
+      "api": "https://www.ikunzy.org/api.php/provide/vod/at/json",
+      "playUrl": "",
+      "categories": [
+        "动作片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "纪录片",
+        "大陆剧",
+        "剧情片",
+        "伦理片"
+      ]      
+    },    
+    {
+      "key": "牛牛资源",
+      "name": "牛牛",
+      "type": 0,
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories":[
+        "动作片", 
+        "喜剧片", 
+        "爱情片", 
+        "科幻片", 
+        "恐怖片",
+        "剧情片", 
+        "战争片", 
+        "动画片", 
+        "纪录片", 
+        "邵氏电影", 
+        "4K电影", 
+        "国产剧", 
+        "海外剧",
+        "影视解说", 
+        "伦理", 
+        "港台三级", 
+        "韩国伦理",
+        "西方伦理", 
+        "日本伦理", 
+        "古装仙侠", 
+        "年代穿越", 
+        "脑洞悬疑",
+        "现代都市", 
+        "演唱会"
+      ]
+    },    
     {
       "key": "影视大全",
       "name": "大全",
