@@ -83,7 +83,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": {
-        "host": "https://muouapp.oss-cn-hangzhou.aliyuncs.com/MUOUAPP/1687532407.txt",
+        "site": "https://muouapp.oss-cn-hangzhou.aliyuncs.com/MUOUAPP/1687532407.txt",
         "name": "新橘子影视",
         "version": "4.2.0"
       }
@@ -96,18 +96,28 @@
       "searchable": 1,
       "changeable": 1,
       "ext": {
-        "host": "https://muouapp.oss-cn-hangzhou.aliyuncs.com/MUOUAPP/godbbq.txt",
+        "site": "https://muouapp.oss-cn-hangzhou.aliyuncs.com/MUOUAPP/godbbq.txt",
         "name": "金牌影院（请断网再安装）",
         "version": "4.2.0"
       }
     },
+    {
+      "key": "冷心",
+      "name": "冷心",
+      "type": 3,
+      "api": "csp_AppMuou",
+      "ext": {
+        "url": "http://app.789dd.cn",
+        "name": "火猫影视"
+      }
+    },	  
     {
       "key": "羊羊学院",
       "name": "羊羊",
       "type": 3,
       "api": "csp_AppMuou",
       "ext": {
-        "host": "http://ht.zhenxun.love",
+        "url": "http://ht.zhenxun.love",
         "name": "羊羊学院",
         "version": "4.2.0"
       }
@@ -117,13 +127,7 @@
       "name": "猎手",
       "type": 3,
       "api": "./py/猎手.py"
-    },	  
-    {
-      "key": "火车影视",
-      "name": "火车",
-      "type": 3,
-      "api": "./py/火车.py"
-    },	  
+    },	  	  
     {
       "key": "网盘盘搜",
       "name": "盘搜",
