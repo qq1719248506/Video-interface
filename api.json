@@ -31,10 +31,6 @@
       "name": "优质",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/XBPQ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": "./XBPQ/优质.json"
     },
     {
@@ -42,10 +38,6 @@
       "name": "三九",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/XBPQ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": "./XBPQ/三九.json"
     },
     {
@@ -74,34 +66,15 @@
       "key": "555影视",
       "name": "555",
       "type": 3,
-      "jar": "./jar/XBPQ.jar",
       "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": "./XBPQ/三五.json"
     },
     {
       "key": "飞流视频",
       "name": "飞流",
       "type": 3,
-      "jar": "./jar/XBPQ.jar",
       "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": "./XBPQ/飞流.json"
-    },
-    {
-      "key": "影视大全",
-      "name": "大全",
-      "type": 3,
-      "jar": "./jar/XBPQ.jar",
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XBPQ/大全.json"
     },
     {
       "key": "新橘子",
@@ -631,7 +604,6 @@
       "name":"小镇",
       "type":3,
       "api":"csp_XBPQ",
-      "jar": "./jar/XBPQ.jar",
       "searchable":1,
       "ext":{
         "主页url":"http://www.du88.cc",
@@ -657,10 +629,6 @@
       "name": "大全",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/XBPQ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": "./XBPQ/大全.json"
     },
     {
@@ -668,21 +636,13 @@
       "name": "追剧",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/XBPQ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": "./XBPQ/PTT.json"
     },
     {
       "key": "地瓜影院",
       "name": "地瓜",
-      "jar": "./jar/XBPQ.jar",
       "type": 3,
       "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": "./XBPQ/地瓜.json"
     },
     {
