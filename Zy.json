@@ -141,6 +141,12 @@
       }
     },
     {
+      "key": "网盘盘搜",
+      "name": "盘搜",
+      "type": 3,
+      "api": "./py/盘搜.py"
+    },    
+    {
       "key": "优势_APP",
       "name": "优势",
       "type": 3,
@@ -621,6 +627,32 @@
       }
     },
     {
+      "key":"电影小镇",
+      "name":"小镇",
+      "type":3,
+      "api":"csp_XBPQ",
+      "jar": "./jar/XBPQ.jar",
+      "searchable":1,
+      "ext":{
+        "主页url":"http://www.du88.cc",
+        "分类":"电影&电视剧&综艺&动漫&福利&伦理",
+        "分类值":"1&2&4&3&5&6",
+        "\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e",
+        "分类url":"http://www.du88.cc/list/{cateId}_{catePg}.html"
+      }
+    },
+	  {
+	    "key": "小鸭子看看",
+	    "name": "看看",
+	    "type": 4,
+	    "api": "http://zhangqun1818.serv00.net:5052/?sp=小鸭子看看",
+	    "style": {
+		  "type": "rect",
+		  "ratio": 1.33
+	  },
+	    "changeable": 1
+	  },    
+    {
       "key": "影视大全",
       "name": "大全",
       "type": 3,
@@ -653,6 +685,43 @@
       "filterable": 1,
       "ext": "./XBPQ/地瓜.json"
     },
+    {
+      "key": "神马影视",
+      "name": "神马",
+      "type": 1,
+      "api": "https://www.vod38.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "纪录片",
+        "国产剧",
+        "海外剧",
+        "理论片",
+        "邵氏片",
+        "动画片"
+      ]
+    },
+    {
+      "key": "IKUN资源",
+      "name": "IKUN",
+      "type": 1,
+      "api": "https://www.ikunzy.org/api.php/provide/vod/at/json",
+      "playUrl": "",
+      "categories": [
+        "动作片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "纪录片",
+        "大陆剧",
+        "剧情片",
+        "伦理片"
+      ]      
+    },    
     {
       "key": "csp_Wogg",
       "name": "玩偶",
