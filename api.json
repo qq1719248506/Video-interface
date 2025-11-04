@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar",
+  "spider": "./jar/spider.jar",
   "sites": [
     {
       "key": "豆瓣",
@@ -21,7 +21,6 @@
       "name": "1905",
       "type": 3,
       "api": "csp_Web1905",
-      "jar": "./jar/XBPQ.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
@@ -682,97 +681,6 @@
         "伦理片"
       ]      
     },    
-    {
-      "key": "csp_Wogg",
-      "name": "玩偶",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "sites": "https://wogg.xxooo.cf",
-        "proxy": "noproxy"
-      }
-    },
-    {
-      "key": "欧歌网盘",
-      "name": "欧歌",
-      "type": 3,
-      "api": "csp_Wobg",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "sites": "https://woog.nxog.eu.org",
-        "proxy": "noproxy"
-      }
-    },
-    {
-      "key": "蜡笔网盘",
-      "name": "蜡笔",
-      "type": 3,
-      "api": "csp_Wobg",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "sites": "http://www.labi88.sbs,https://feimao666.fun,http://feimao888.fun",
-        "proxy": "noproxy"
-      }
-    },
-    {
-      "key": "二小网盘",
-      "name": "二小",
-      "type": 3,
-      "api": "csp_Wobg",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "sites": "http://2xiaopan.fun",
-        "proxy": "noproxy"
-      }
-    },
-    {
-      "key": "木偶网盘",
-      "name": "木偶",
-      "type": 3,
-      "api": "csp_Wobg",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "sites": "https://www.muou.site",
-        "proxy": "noproxy"
-      }
-    },
-    {
-      "key": "至臻网盘",
-      "name": "至臻",
-      "type": 3,
-      "api": "csp_Wobg",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "sites": "https://mihdr.top",
-        "proxy": "noproxy"
-      }
-    },
-    {
-      "key": "闪电网盘",
-      "name": "闪电",
-      "type": 3,
-      "api": "csp_Wobg",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "sites": "http://1.95.79.193/",
-        "proxy": "noproxy"
-      }
-    },
     {
       "key": "夸克盘搜",
       "name": "夸克",
