@@ -110,30 +110,13 @@
         "url": "http://app.789dd.cn",
         "name": "火猫影视"
       }
-    },	  
-    {
-      "key": "羊羊学院",
-      "name": "羊羊",
-      "type": 3,
-      "api": "csp_AppMuou",
-      "ext": {
-        "url": "http://ht.zhenxun.love",
-        "name": "羊羊学院",
-        "version": "4.2.0"
-      }
-    },
+    },	 
     {
       "key": "电影猎手",
       "name": "猎手",
       "type": 3,
       "api": "./py/猎手.py"
     },	  	  
-    {
-      "key": "网盘盘搜",
-      "name": "盘搜",
-      "type": 3,
-      "api": "./py/盘搜.py"
-    },
     {
       "key": "盘友圈",
       "name": "盘友",
