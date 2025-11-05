@@ -116,7 +116,16 @@
       "name": "猎手",
       "type": 3,
       "api": "./py/猎手.py"
-    },	  	  
+    },
+    {
+      "key": "移动",
+      "name": "移动",
+      "type": 3,
+      "api": "csp_YDjisu",
+	  "jar": "./jar/og.jar",	
+      "searchable": 1,
+      "changeable": 1
+    },	  
     {
       "key": "盘友圈",
       "name": "盘友",
