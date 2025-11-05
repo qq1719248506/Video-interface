@@ -709,7 +709,19 @@
         "剧情片",
         "伦理片"
       ]      
-    },    
+    },
+    {
+      "key": "阿里盘搜",
+      "name": "阿里",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "cloudDrives": "aliyun"
+      }
+    },	  
     {
       "key": "夸克盘搜",
       "name": "夸克",
