@@ -722,6 +722,36 @@
         "伦理片"
       ]      
     },
+	{
+	  "key":"小姨子",
+	  "name":"小姨子",
+	  "type":3,
+	  "api":"csp_XBPQ",
+	  "ext":{
+		"播放数组":"play-list\"&&</div",
+		"链接":"https://thchp.top/index.php/vod/play/id/+href=\"/index.php/vod/detail/id/&&.html\"+/sid/1/nid/1.html",
+		"直接播放":"1",
+		"分类url":"https://thchp.top/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+		"分类":"国产视频$1#日制服诱惑$6#中文字幕$2#网曝黑料$7#色国产主播$3#日本无码$8#激情动漫$4#伦理三级$5#国产传媒$13#抖阴视频$14#强奸伦理$15#欧美无码$9#韩国主播$16#少女萝莉$10#SM调教$11#网红头条$12"
+	 }
+	},
+	{
+	  "key":"花都影视",
+	  "name":"花都",
+	  "type":3,
+	  "api":"csp_XBPQ",
+      "ext":{
+        "请求头":"User-Agent$MOBILE_UA",
+        "图片代理":"0",
+        "主页url":"https://hd6.huaduzy.com/",
+        "数组":"lazyload&&</li>",
+        "图片":"data-original=\"&&\"",
+        "标题":"title=\"&&\"",
+        "链接":"/vodplay/+/voddetail/&&.html+-1-1.html",
+        "分类url":"/vodshow/{cateId}-----{letter}---{catePg}---.html;;z",
+        "分类":"有码中字$6#有码骑兵$7#无码中字$8#无码步兵$9#糖心Vlog$13#国产传媒$11#国产精品$10#欧美中字$12#中字动漫$14#3D动漫$15"
+	  }
+	},  
     {
       "key": "阿里盘搜",
       "name": "阿里",
