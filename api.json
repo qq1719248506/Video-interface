@@ -637,7 +637,6 @@
         "主页url":"http://www.du88.cc",
         "分类":"电影&电视剧&综艺&动漫&福利&伦理",
         "分类值":"1&2&4&3&5&6",
-        "\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e",
         "分类url":"http://www.du88.cc/list/{cateId}_{catePg}.html"
       }
     },
