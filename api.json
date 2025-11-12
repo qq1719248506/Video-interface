@@ -735,6 +735,22 @@
 	 }
 	},
 	{
+	  "key":"八哥电影",
+	  "name":"八哥",
+	  "type":3,
+	  "api":"csp_XBPQ",
+	  "ext":{
+		"请求头":"User-Agent$MOBILE_UA",
+		"主页url":"https://www.bjbdapp.com/",
+		"直接播放": "1",
+		"搜索模式": "1",
+		"副标题":"",
+		"分类url": "https://www.bjbdapp.com/list/{cateId}/p{catePg}",
+		"搜索url": "http://www.bjbdapp.com/search/{wd}",
+		"分类": "最新爆料$v1#清纯可爱$v2#女优系列$v3#传媒新品$v4#91探花$v5#制服系列$v6#多人另类$v7#cosplay$v8#群狼吃瓜$v9#人妻熟女$v10#亚洲精品$v11#精选自拍$v12#同同系列$v13#日韩二区$v14#国产一区$v15#逻辑三级$v16#欧美三级$v17#成人动漫$v18"
+	  }
+	},  
+	{
 	  "key":"花都影视",
 	  "name":"花都",
 	  "type":3,
